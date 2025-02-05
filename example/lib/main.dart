@@ -31,7 +31,7 @@ class MyHomePage extends StatelessWidget {
       appBar: AppBar(),
       body: Center(
         child: Icon(
-          Amicons.lucide_battery_full,
+          Amicons.lucide_map_pin_off,
           size: 40,
         ),
       ),

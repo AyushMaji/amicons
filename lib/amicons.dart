@@ -7,6 +7,7 @@ class Amicons {
 
 
   //licude icons
+  /// ![](https://raw.githubusercontent.com/jb3rndt/flutter_iconsax/icon-preview/assets/icon-preview/bold/add.png)
   static const IconData lucide_map_pin_off = IconData(0xe900, fontFamily: _lucidefontfamily, fontPackage:_fontPkg);
   static const IconData lucide_swiss_franc = IconData(0xe901, fontFamily: _lucidefontfamily, fontPackage:_fontPkg);
   static const IconData lucide_align_vertical_space_between = IconData(0xe902, fontFamily: _lucidefontfamily, fontPackage:_fontPkg);
