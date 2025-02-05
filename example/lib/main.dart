@@ -30,7 +30,7 @@ class MyHomePage extends StatelessWidget {
       appBar: AppBar(),
       body: Center(
         child: Icon(
-          Amicons.lucide_wine,
+          Amicons.lucide_brain_cog,
           size: 190,
         ),
       ),
