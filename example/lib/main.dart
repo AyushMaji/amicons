@@ -27,12 +27,11 @@ class MyHomePage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.blueGrey,
       appBar: AppBar(),
       body: Center(
         child: Icon(
-          Amicons.lucide_map_pin_off,
-          size: 40,
+          Amicons.lucide_wine,
+          size: 190,
         ),
       ),
     );
