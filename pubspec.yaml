@@ -48,6 +48,11 @@ flutter:
     - family: brands
       fonts:
         - asset: assets/fonts/brands/brands.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+    - family: iconly
+      fonts:
+        - asset: assets/fonts/iconly/iconly.ttf
   #
   # For details regarding fonts in packages, see
   # https://flutter.dev/to/font-from-package

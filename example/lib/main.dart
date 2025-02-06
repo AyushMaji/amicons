@@ -30,7 +30,7 @@ class MyHomePage extends StatelessWidget {
       appBar: AppBar(),
       body: Center(
         child: Icon(
-          Amicons.fivehundredpx,
+          Amicons.iconly_arrow_down_2,
           color: Colors.deepPurple,
           size: 90,
         ),
