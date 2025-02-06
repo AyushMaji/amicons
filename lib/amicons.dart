@@ -6123,7 +6123,7 @@ class Amicons {
   static const IconData onepassword =
       IconData(0xe900, fontFamily: _brandsfontfamily, fontPackage: _fontPkg);
 
-  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/brands/brands_png/500px.png)
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/brands/brands_png/fiveHundredpx.png)
   static const IconData fivehundredpx =
       IconData(0xe901, fontFamily: _brandsfontfamily, fontPackage: _fontPkg);
 

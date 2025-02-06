@@ -30,8 +30,9 @@ class MyHomePage extends StatelessWidget {
       appBar: AppBar(),
       body: Center(
         child: Icon(
-          Amicons.lucide_brain_cog,
-          size: 190,
+          Amicons.fivehundredpx,
+          color: Colors.deepPurple,
+          size: 90,
         ),
       ),
     );
