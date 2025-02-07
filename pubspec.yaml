@@ -45,11 +45,6 @@ flutter:
         - asset: assets/fonts/lucide/lucide.ttf
   #       - asset: fonts/Schyler-Italic.ttf
   #         style: italic
-    - family: brands
-      fonts:
-        - asset: assets/fonts/brands/brands.ttf
-  #       - asset: fonts/Schyler-Italic.ttf
-  #         style: italic
     - family: iconly
       fonts:
         - asset: assets/fonts/iconly/iconly.ttf
