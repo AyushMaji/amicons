@@ -53,6 +53,15 @@ flutter:
     - family: iconly
       fonts:
         - asset: assets/fonts/iconly/iconly.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+    - family: remix
+      fonts:
+        - asset: assets/fonts/remix/remix.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+
+
   #
   # For details regarding fonts in packages, see
   # https://flutter.dev/to/font-from-package

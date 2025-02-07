@@ -4,8 +4,8 @@
 // flutter:
 //   fonts:
 //    - family: remix
-//      fonts:
-//       - asset: fonts/remix.ttf
+//fonts:
+// - asset: fonts/remix.ttf
 import 'package:flutter/widgets.dart';
 
 class Remix {
@@ -13,2275 +13,1547 @@ class Remix {
 
   static const String _fontFamily = 'remix';
 
-  static const IconData remix_4k_fill = IconData(0xe900, fontFamily: _fontFamily);
-  static const IconData remix_4k = IconData(0xe901, fontFamily: _fontFamily);
-  static const IconData remix_24_hours_fill = IconData(0xe902, fontFamily: _fontFamily);
-  static const IconData remix_24_hours = IconData(0xe903, fontFamily: _fontFamily);
-  static const IconData remix_a_b = IconData(0xe904, fontFamily: _fontFamily);
-  static const IconData remixAccountBoxFill = IconData(0xe905, fontFamily: _fontFamily);
-  static const IconData remixAccountBox = IconData(0xe906, fontFamily: _fontFamily);
-  static const IconData remixAccountCircleFill = IconData(0xe907, fontFamily: _fontFamily);
-  static const IconData remixAccountCircle = IconData(0xe908, fontFamily: _fontFamily);
-  static const IconData remixAccountPinBoxFill = IconData(0xe909, fontFamily: _fontFamily);
-  static const IconData remixAccountPinBox = IconData(0xe90a, fontFamily: _fontFamily);
-  static const IconData remixAccountPinCircleFill = IconData(0xe90b, fontFamily: _fontFamily);
-  static const IconData remixAccountPinCircle = IconData(0xe90c, fontFamily: _fontFamily);
-  static const IconData remixAddBoxFill = IconData(0xe90d, fontFamily: _fontFamily);
-  static const IconData remixAddBox = IconData(0xe90e, fontFamily: _fontFamily);
-  static const IconData remixAddCircleFill = IconData(0xe90f, fontFamily: _fontFamily);
-  static const IconData remixAddCircle = IconData(0xe910, fontFamily: _fontFamily);
-  static const IconData remixAddFill = IconData(0xe911, fontFamily: _fontFamily);
-  static const IconData remixAdd = IconData(0xe912, fontFamily: _fontFamily);
-  static const IconData remixAdminFill = IconData(0xe913, fontFamily: _fontFamily);
-  static const IconData remixAdmin = IconData(0xe914, fontFamily: _fontFamily);
-  static const IconData remixAdvertisementFill = IconData(0xe915, fontFamily: _fontFamily);
-  static const IconData remixAdvertisement = IconData(0xe916, fontFamily: _fontFamily);
-  static const IconData remixAirplayFill = IconData(0xe917, fontFamily: _fontFamily);
-  static const IconData remixAirplay = IconData(0xe918, fontFamily: _fontFamily);
-  static const IconData remixAlarmFill = IconData(0xe919, fontFamily: _fontFamily);
-  static const IconData remixAlarmWarningFill = IconData(0xe91a, fontFamily: _fontFamily);
-  static const IconData remixAlarmWarning = IconData(0xe91b, fontFamily: _fontFamily);
-  static const IconData remixAlarm = IconData(0xe91c, fontFamily: _fontFamily);
-  static const IconData remixAlbumFill = IconData(0xe91d, fontFamily: _fontFamily);
-  static const IconData remixAlbum = IconData(0xe91e, fontFamily: _fontFamily);
-  static const IconData remixAlertFill = IconData(0xe91f, fontFamily: _fontFamily);
-  static const IconData remixAlert = IconData(0xe920, fontFamily: _fontFamily);
-  static const IconData remixAliensFill = IconData(0xe921, fontFamily: _fontFamily);
-  static const IconData remixAliens = IconData(0xe922, fontFamily: _fontFamily);
-  static const IconData remixAlignBottom = IconData(0xe923, fontFamily: _fontFamily);
-  static const IconData remixAlignCenter = IconData(0xe924, fontFamily: _fontFamily);
-  static const IconData remixAlignJustify = IconData(0xe925, fontFamily: _fontFamily);
-  static const IconData remixAlignLeft = IconData(0xe926, fontFamily: _fontFamily);
-  static const IconData remixAlignRight = IconData(0xe927, fontFamily: _fontFamily);
-  static const IconData remixAlignTop = IconData(0xe928, fontFamily: _fontFamily);
-  static const IconData remixAlignVertically = IconData(0xe929, fontFamily: _fontFamily);
-  static const IconData remixAlipayFill = IconData(0xe92a, fontFamily: _fontFamily);
-  static const IconData remixAlipay = IconData(0xe92b, fontFamily: _fontFamily);
-  static const IconData remixAmazonFill = IconData(0xe92c, fontFamily: _fontFamily);
-  static const IconData remixAmazon = IconData(0xe92d, fontFamily: _fontFamily);
-  static const IconData remixAnchorFill = IconData(0xe92e, fontFamily: _fontFamily);
-  static const IconData remixAnchor = IconData(0xe92f, fontFamily: _fontFamily);
-  static const IconData remixAncientGateFill = IconData(0xe930, fontFamily: _fontFamily);
-  static const IconData remixAncientGate = IconData(0xe931, fontFamily: _fontFamily);
-  static const IconData remixAncientPavilionFill = IconData(0xe932, fontFamily: _fontFamily);
-  static const IconData remixAncientPavilion = IconData(0xe933, fontFamily: _fontFamily);
-  static const IconData remixAndroidFill = IconData(0xe934, fontFamily: _fontFamily);
-  static const IconData remixAndroid = IconData(0xe935, fontFamily: _fontFamily);
-  static const IconData remixAngularjsFill = IconData(0xe936, fontFamily: _fontFamily);
-  static const IconData remixAngularjs = IconData(0xe937, fontFamily: _fontFamily);
-  static const IconData remixAnticlockwise2Fill = IconData(0xe938, fontFamily: _fontFamily);
-  static const IconData remixAnticlockwise2 = IconData(0xe939, fontFamily: _fontFamily);
-  static const IconData remixAnticlockwiseFill = IconData(0xe93a, fontFamily: _fontFamily);
-  static const IconData remixAnticlockwise = IconData(0xe93b, fontFamily: _fontFamily);
-  static const IconData remixAppStoreFill = IconData(0xe93c, fontFamily: _fontFamily);
-  static const IconData remixAppStore = IconData(0xe93d, fontFamily: _fontFamily);
-  static const IconData remixAppleFill = IconData(0xe93e, fontFamily: _fontFamily);
-  static const IconData remixApple = IconData(0xe93f, fontFamily: _fontFamily);
-  static const IconData remixApps2Fill = IconData(0xe940, fontFamily: _fontFamily);
-  static const IconData remixApps2 = IconData(0xe941, fontFamily: _fontFamily);
-  static const IconData remixAppsFill = IconData(0xe942, fontFamily: _fontFamily);
-  static const IconData remixApps = IconData(0xe943, fontFamily: _fontFamily);
-  static const IconData remixArchiveDrawerFill = IconData(0xe944, fontFamily: _fontFamily);
-  static const IconData remixArchiveDrawer = IconData(0xe945, fontFamily: _fontFamily);
-  static const IconData remixArchiveFill = IconData(0xe946, fontFamily: _fontFamily);
-  static const IconData remixArchive = IconData(0xe947, fontFamily: _fontFamily);
-  static const IconData remixArrowDownCircleFill = IconData(0xe948, fontFamily: _fontFamily);
-  static const IconData remixArrowDownCircle = IconData(0xe949, fontFamily: _fontFamily);
-  static const IconData remixArrowDownFill = IconData(0xe94a, fontFamily: _fontFamily);
-  static const IconData remixArrowDownSFill = IconData(0xe94b, fontFamily: _fontFamily);
-  static const IconData remixArrowDownS = IconData(0xe94c, fontFamily: _fontFamily);
-  static const IconData remixArrowDown = IconData(0xe94d, fontFamily: _fontFamily);
-  static const IconData remixArrowDropDownFill = IconData(0xe94e, fontFamily: _fontFamily);
-  static const IconData remixArrowDropDown = IconData(0xe94f, fontFamily: _fontFamily);
-  static const IconData remixArrowDropLeftFill = IconData(0xe950, fontFamily: _fontFamily);
-  static const IconData remixArrowDropLeft = IconData(0xe951, fontFamily: _fontFamily);
-  static const IconData remixArrowDropRightFill = IconData(0xe952, fontFamily: _fontFamily);
-  static const IconData remixArrowDropRight = IconData(0xe953, fontFamily: _fontFamily);
-  static const IconData remixArrowDropUpFill = IconData(0xe954, fontFamily: _fontFamily);
-  static const IconData remixArrowDropUp = IconData(0xe955, fontFamily: _fontFamily);
-  static const IconData remixArrowGoBackFill = IconData(0xe956, fontFamily: _fontFamily);
-  static const IconData remixArrowGoBack = IconData(0xe957, fontFamily: _fontFamily);
-  static const IconData remixArrowGoForwardFill = IconData(0xe958, fontFamily: _fontFamily);
-  static const IconData remixArrowGoForward = IconData(0xe959, fontFamily: _fontFamily);
-  static const IconData remixArrowLeftCircleFill = IconData(0xe95a, fontFamily: _fontFamily);
-  static const IconData remixArrowLeftCircle = IconData(0xe95b, fontFamily: _fontFamily);
-  static const IconData remixArrowLeftDownFill = IconData(0xe95c, fontFamily: _fontFamily);
-  static const IconData remixArrowLeftDown = IconData(0xe95d, fontFamily: _fontFamily);
-  static const IconData remixArrowLeftFill = IconData(0xe95e, fontFamily: _fontFamily);
-  static const IconData remixArrowLeftRightFill = IconData(0xe95f, fontFamily: _fontFamily);
-  static const IconData remixArrowLeftRight = IconData(0xe960, fontFamily: _fontFamily);
-  static const IconData remixArrowLeftSFill = IconData(0xe961, fontFamily: _fontFamily);
-  static const IconData remixArrowLeftS = IconData(0xe962, fontFamily: _fontFamily);
-  static const IconData remixArrowLeftUpFill = IconData(0xe963, fontFamily: _fontFamily);
-  static const IconData remixArrowLeftUp = IconData(0xe964, fontFamily: _fontFamily);
-  static const IconData remixArrowLeft = IconData(0xe965, fontFamily: _fontFamily);
-  static const IconData remixArrowRightCircleFill = IconData(0xe966, fontFamily: _fontFamily);
-  static const IconData remixArrowRightCircle = IconData(0xe967, fontFamily: _fontFamily);
-  static const IconData remixArrowRightDownFill = IconData(0xe968, fontFamily: _fontFamily);
-  static const IconData remixArrowRightDown = IconData(0xe969, fontFamily: _fontFamily);
-  static const IconData remixArrowRightFill = IconData(0xe96a, fontFamily: _fontFamily);
-  static const IconData remixArrowRightSFill = IconData(0xe96b, fontFamily: _fontFamily);
-  static const IconData remixArrowRightS = IconData(0xe96c, fontFamily: _fontFamily);
-  static const IconData remixArrowRightUpFill = IconData(0xe96d, fontFamily: _fontFamily);
-  static const IconData remixArrowRightUp = IconData(0xe96e, fontFamily: _fontFamily);
-  static const IconData remixArrowRight = IconData(0xe96f, fontFamily: _fontFamily);
-  static const IconData remixArrowUpCircleFill = IconData(0xe970, fontFamily: _fontFamily);
-  static const IconData remixArrowUpCircle = IconData(0xe971, fontFamily: _fontFamily);
-  static const IconData remixArrowUpDownFill = IconData(0xe972, fontFamily: _fontFamily);
-  static const IconData remixArrowUpDown = IconData(0xe973, fontFamily: _fontFamily);
-  static const IconData remixArrowUpFill = IconData(0xe974, fontFamily: _fontFamily);
-  static const IconData remixArrowUpSFill = IconData(0xe975, fontFamily: _fontFamily);
-  static const IconData remixArrowUpS = IconData(0xe976, fontFamily: _fontFamily);
-  static const IconData remixArrowUp = IconData(0xe977, fontFamily: _fontFamily);
-  static const IconData remixArtboard2Fill = IconData(0xe978, fontFamily: _fontFamily);
-  static const IconData remixArtboard2 = IconData(0xe979, fontFamily: _fontFamily);
-  static const IconData remixArtboardFill = IconData(0xe97a, fontFamily: _fontFamily);
-  static const IconData remixArtboard = IconData(0xe97b, fontFamily: _fontFamily);
-  static const IconData remixArticleFill = IconData(0xe97c, fontFamily: _fontFamily);
-  static const IconData remixArticle = IconData(0xe97d, fontFamily: _fontFamily);
-  static const IconData remixAspectRatioFill = IconData(0xe97e, fontFamily: _fontFamily);
-  static const IconData remixAspectRatio = IconData(0xe97f, fontFamily: _fontFamily);
-  static const IconData remixAsterisk = IconData(0xe980, fontFamily: _fontFamily);
-  static const IconData remixAtFill = IconData(0xe981, fontFamily: _fontFamily);
-  static const IconData remixAt = IconData(0xe982, fontFamily: _fontFamily);
-  static const IconData remixAttachment2 = IconData(0xe983, fontFamily: _fontFamily);
-  static const IconData remixAttachmentFill = IconData(0xe984, fontFamily: _fontFamily);
-  static const IconData remixAttachment = IconData(0xe985, fontFamily: _fontFamily);
-  static const IconData remixAuctionFill = IconData(0xe986, fontFamily: _fontFamily);
-  static const IconData remixAuction = IconData(0xe987, fontFamily: _fontFamily);
-  static const IconData remixAwardFill = IconData(0xe988, fontFamily: _fontFamily);
-  static const IconData remixAward = IconData(0xe989, fontFamily: _fontFamily);
-  static const IconData remixBaiduFill = IconData(0xe98a, fontFamily: _fontFamily);
-  static const IconData remixBaidu = IconData(0xe98b, fontFamily: _fontFamily);
-  static const IconData remixBallPenFill = IconData(0xe98c, fontFamily: _fontFamily);
-  static const IconData remixBallPen = IconData(0xe98d, fontFamily: _fontFamily);
-  static const IconData remixBankCard2Fill = IconData(0xe98e, fontFamily: _fontFamily);
-  static const IconData remixBankCard2 = IconData(0xe98f, fontFamily: _fontFamily);
-  static const IconData remixBankCardFill = IconData(0xe990, fontFamily: _fontFamily);
-  static const IconData remixBankCard = IconData(0xe991, fontFamily: _fontFamily);
-  static const IconData remixBankFill = IconData(0xe992, fontFamily: _fontFamily);
-  static const IconData remixBank = IconData(0xe993, fontFamily: _fontFamily);
-  static const IconData remixBarChart2Fill = IconData(0xe994, fontFamily: _fontFamily);
-  static const IconData remixBarChart2 = IconData(0xe995, fontFamily: _fontFamily);
-  static const IconData remixBarChartBoxFill = IconData(0xe996, fontFamily: _fontFamily);
-  static const IconData remixBarChartBox = IconData(0xe997, fontFamily: _fontFamily);
-  static const IconData remixBarChartFill = IconData(0xe998, fontFamily: _fontFamily);
-  static const IconData remixBarChartGroupedFill = IconData(0xe999, fontFamily: _fontFamily);
-  static const IconData remixBarChartGrouped = IconData(0xe99a, fontFamily: _fontFamily);
-  static const IconData remixBarChartHorizontalFill = IconData(0xe99b, fontFamily: _fontFamily);
-  static const IconData remixBarChartHorizontal = IconData(0xe99c, fontFamily: _fontFamily);
-  static const IconData remixBarChart = IconData(0xe99d, fontFamily: _fontFamily);
-  static const IconData remixBarcodeBoxFill = IconData(0xe99e, fontFamily: _fontFamily);
-  static const IconData remixBarcodeBox = IconData(0xe99f, fontFamily: _fontFamily);
-  static const IconData remixBarcodeFill = IconData(0xe9a0, fontFamily: _fontFamily);
-  static const IconData remixBarcode = IconData(0xe9a1, fontFamily: _fontFamily);
-  static const IconData remixBarricadeFill = IconData(0xe9a2, fontFamily: _fontFamily);
-  static const IconData remixBarricade = IconData(0xe9a3, fontFamily: _fontFamily);
-  static const IconData remixBaseStationFill = IconData(0xe9a4, fontFamily: _fontFamily);
-  static const IconData remixBaseStation = IconData(0xe9a5, fontFamily: _fontFamily);
-  static const IconData remixBasketballFill = IconData(0xe9a6, fontFamily: _fontFamily);
-  static const IconData remixBasketball = IconData(0xe9a7, fontFamily: _fontFamily);
-  static const IconData remixBattery2ChargeFill = IconData(0xe9a8, fontFamily: _fontFamily);
-  static const IconData remixBattery2Charge = IconData(0xe9a9, fontFamily: _fontFamily);
-  static const IconData remixBattery2Fill = IconData(0xe9aa, fontFamily: _fontFamily);
-  static const IconData remixBattery2 = IconData(0xe9ab, fontFamily: _fontFamily);
-  static const IconData remixBatteryChargeFill = IconData(0xe9ac, fontFamily: _fontFamily);
-  static const IconData remixBatteryCharge = IconData(0xe9ad, fontFamily: _fontFamily);
-  static const IconData remixBatteryFill = IconData(0xe9ae, fontFamily: _fontFamily);
-  static const IconData remixBatteryLowFill = IconData(0xe9af, fontFamily: _fontFamily);
-  static const IconData remixBatteryLow = IconData(0xe9b0, fontFamily: _fontFamily);
-  static const IconData remixBatterySaverFill = IconData(0xe9b1, fontFamily: _fontFamily);
-  static const IconData remixBatterySaver = IconData(0xe9b2, fontFamily: _fontFamily);
-  static const IconData remixBatteryShareFill = IconData(0xe9b3, fontFamily: _fontFamily);
-  static const IconData remixBatteryShare = IconData(0xe9b4, fontFamily: _fontFamily);
-  static const IconData remixBattery = IconData(0xe9b5, fontFamily: _fontFamily);
-  static const IconData remixBearSmileFill = IconData(0xe9b6, fontFamily: _fontFamily);
-  static const IconData remixBearSmile = IconData(0xe9b7, fontFamily: _fontFamily);
-  static const IconData remixBehanceFill = IconData(0xe9b8, fontFamily: _fontFamily);
-  static const IconData remixBehance = IconData(0xe9b9, fontFamily: _fontFamily);
-  static const IconData remixBellFill = IconData(0xe9ba, fontFamily: _fontFamily);
-  static const IconData remixBell = IconData(0xe9bb, fontFamily: _fontFamily);
-  static const IconData remixBikeFill = IconData(0xe9bc, fontFamily: _fontFamily);
-  static const IconData remixBike = IconData(0xe9bd, fontFamily: _fontFamily);
-  static const IconData remixBilibiliFill = IconData(0xe9be, fontFamily: _fontFamily);
-  static const IconData remixBilibili = IconData(0xe9bf, fontFamily: _fontFamily);
-  static const IconData remixBillFill = IconData(0xe9c0, fontFamily: _fontFamily);
-  static const IconData remixBill = IconData(0xe9c1, fontFamily: _fontFamily);
-  static const IconData remixBilliardsFill = IconData(0xe9c2, fontFamily: _fontFamily);
-  static const IconData remixBilliards = IconData(0xe9c3, fontFamily: _fontFamily);
-  static const IconData remixBitCoinFill = IconData(0xe9c4, fontFamily: _fontFamily);
-  static const IconData remixBitCoin = IconData(0xe9c5, fontFamily: _fontFamily);
-  static const IconData remixBlazeFill = IconData(0xe9c6, fontFamily: _fontFamily);
-  static const IconData remixBlaze = IconData(0xe9c7, fontFamily: _fontFamily);
-  static const IconData remixBluetoothConnectFill = IconData(0xe9c8, fontFamily: _fontFamily);
-  static const IconData remixBluetoothConnect = IconData(0xe9c9, fontFamily: _fontFamily);
-  static const IconData remixBluetoothFill = IconData(0xe9ca, fontFamily: _fontFamily);
-  static const IconData remixBluetooth = IconData(0xe9cb, fontFamily: _fontFamily);
-  static const IconData remixBlurOffFill = IconData(0xe9cc, fontFamily: _fontFamily);
-  static const IconData remixBlurOff = IconData(0xe9cd, fontFamily: _fontFamily);
-  static const IconData remixBodyScanFill = IconData(0xe9ce, fontFamily: _fontFamily);
-  static const IconData remixBodyScan = IconData(0xe9cf, fontFamily: _fontFamily);
-  static const IconData remixBold = IconData(0xe9d0, fontFamily: _fontFamily);
-  static const IconData remixBook2Fill = IconData(0xe9d1, fontFamily: _fontFamily);
-  static const IconData remixBook2 = IconData(0xe9d2, fontFamily: _fontFamily);
-  static const IconData remixBook3Fill = IconData(0xe9d3, fontFamily: _fontFamily);
-  static const IconData remixBook3 = IconData(0xe9d4, fontFamily: _fontFamily);
-  static const IconData remixBookFill = IconData(0xe9d5, fontFamily: _fontFamily);
-  static const IconData remixBookMarkFill = IconData(0xe9d6, fontFamily: _fontFamily);
-  static const IconData remixBookMark = IconData(0xe9d7, fontFamily: _fontFamily);
-  static const IconData remixBookOpenFill = IconData(0xe9d8, fontFamily: _fontFamily);
-  static const IconData remixBookOpen = IconData(0xe9d9, fontFamily: _fontFamily);
-  static const IconData remixBookReadFill = IconData(0xe9da, fontFamily: _fontFamily);
-  static const IconData remixBookRead = IconData(0xe9db, fontFamily: _fontFamily);
-  static const IconData remixBook = IconData(0xe9dc, fontFamily: _fontFamily);
-  static const IconData remixBookletFill = IconData(0xe9dd, fontFamily: _fontFamily);
-  static const IconData remixBooklet = IconData(0xe9de, fontFamily: _fontFamily);
-  static const IconData remixBookmark2Fill = IconData(0xe9df, fontFamily: _fontFamily);
-  static const IconData remixBookmark2 = IconData(0xe9e0, fontFamily: _fontFamily);
-  static const IconData remixBookmark3Fill = IconData(0xe9e1, fontFamily: _fontFamily);
-  static const IconData remixBookmark3 = IconData(0xe9e2, fontFamily: _fontFamily);
-  static const IconData remixBookmarkFill = IconData(0xe9e3, fontFamily: _fontFamily);
-  static const IconData remixBookmark = IconData(0xe9e4, fontFamily: _fontFamily);
-  static const IconData remixBoxingFill = IconData(0xe9e5, fontFamily: _fontFamily);
-  static const IconData remixBoxing = IconData(0xe9e6, fontFamily: _fontFamily);
-  static const IconData remixBracesFill = IconData(0xe9e7, fontFamily: _fontFamily);
-  static const IconData remixBraces = IconData(0xe9e8, fontFamily: _fontFamily);
-  static const IconData remixBracketsFill = IconData(0xe9e9, fontFamily: _fontFamily);
-  static const IconData remixBrackets = IconData(0xe9ea, fontFamily: _fontFamily);
-  static const IconData remixBriefcase2Fill = IconData(0xe9eb, fontFamily: _fontFamily);
-  static const IconData remixBriefcase2 = IconData(0xe9ec, fontFamily: _fontFamily);
-  static const IconData remixBriefcase3Fill = IconData(0xe9ed, fontFamily: _fontFamily);
-  static const IconData remixBriefcase3 = IconData(0xe9ee, fontFamily: _fontFamily);
-  static const IconData remixBriefcase4Fill = IconData(0xe9ef, fontFamily: _fontFamily);
-  static const IconData remixBriefcase4 = IconData(0xe9f0, fontFamily: _fontFamily);
-  static const IconData remixBriefcase5Fill = IconData(0xe9f1, fontFamily: _fontFamily);
-  static const IconData remixBriefcase5 = IconData(0xe9f2, fontFamily: _fontFamily);
-  static const IconData remixBriefcaseFill = IconData(0xe9f3, fontFamily: _fontFamily);
-  static const IconData remixBriefcase = IconData(0xe9f4, fontFamily: _fontFamily);
-  static const IconData remixBringForward = IconData(0xe9f5, fontFamily: _fontFamily);
-  static const IconData remixBringToFront = IconData(0xe9f6, fontFamily: _fontFamily);
-  static const IconData remixBroadcastFill = IconData(0xe9f7, fontFamily: _fontFamily);
-  static const IconData remixBroadcast = IconData(0xe9f8, fontFamily: _fontFamily);
-  static const IconData remixBrush2Fill = IconData(0xe9f9, fontFamily: _fontFamily);
-  static const IconData remixBrush2 = IconData(0xe9fa, fontFamily: _fontFamily);
-  static const IconData remixBrush3Fill = IconData(0xe9fb, fontFamily: _fontFamily);
-  static const IconData remixBrush3 = IconData(0xe9fc, fontFamily: _fontFamily);
-  static const IconData remixBrush4Fill = IconData(0xe9fd, fontFamily: _fontFamily);
-  static const IconData remixBrush4 = IconData(0xe9fe, fontFamily: _fontFamily);
-  static const IconData remixBrushFill = IconData(0xe9ff, fontFamily: _fontFamily);
-  static const IconData remixBrush = IconData(0xea00, fontFamily: _fontFamily);
-  static const IconData remixBubbleChartFill = IconData(0xea01, fontFamily: _fontFamily);
-  static const IconData remixBubbleChart = IconData(0xea02, fontFamily: _fontFamily);
-  static const IconData remixBug2Fill = IconData(0xea03, fontFamily: _fontFamily);
-  static const IconData remixBug2 = IconData(0xea04, fontFamily: _fontFamily);
-  static const IconData remixBugFill = IconData(0xea05, fontFamily: _fontFamily);
-  static const IconData remixBug = IconData(0xea06, fontFamily: _fontFamily);
-  static const IconData remixBuilding2Fill = IconData(0xea07, fontFamily: _fontFamily);
-  static const IconData remixBuilding2 = IconData(0xea08, fontFamily: _fontFamily);
-  static const IconData remixBuilding3Fill = IconData(0xea09, fontFamily: _fontFamily);
-  static const IconData remixBuilding3 = IconData(0xea0a, fontFamily: _fontFamily);
-  static const IconData remixBuilding4Fill = IconData(0xea0b, fontFamily: _fontFamily);
-  static const IconData remixBuilding4 = IconData(0xea0c, fontFamily: _fontFamily);
-  static const IconData remixBuildingFill = IconData(0xea0d, fontFamily: _fontFamily);
-  static const IconData remixBuilding = IconData(0xea0e, fontFamily: _fontFamily);
-  static const IconData remixBus2Fill = IconData(0xea0f, fontFamily: _fontFamily);
-  static const IconData remixBus2 = IconData(0xea10, fontFamily: _fontFamily);
-  static const IconData remixBusFill = IconData(0xea11, fontFamily: _fontFamily);
-  static const IconData remixBusWifiFill = IconData(0xea12, fontFamily: _fontFamily);
-  static const IconData remixBusWifi = IconData(0xea13, fontFamily: _fontFamily);
-  static const IconData remixBus = IconData(0xea14, fontFamily: _fontFamily);
-  static const IconData remixCactusFill = IconData(0xea15, fontFamily: _fontFamily);
-  static const IconData remixCactus = IconData(0xea16, fontFamily: _fontFamily);
-  static const IconData remixCake2Fill = IconData(0xea17, fontFamily: _fontFamily);
-  static const IconData remixCake2 = IconData(0xea18, fontFamily: _fontFamily);
-  static const IconData remixCake3Fill = IconData(0xea19, fontFamily: _fontFamily);
-  static const IconData remixCake3 = IconData(0xea1a, fontFamily: _fontFamily);
-  static const IconData remixCakeFill = IconData(0xea1b, fontFamily: _fontFamily);
-  static const IconData remixCake = IconData(0xea1c, fontFamily: _fontFamily);
-  static const IconData remixCalculatorFill = IconData(0xea1d, fontFamily: _fontFamily);
-  static const IconData remixCalculator = IconData(0xea1e, fontFamily: _fontFamily);
-  static const IconData remixCalendar2Fill = IconData(0xea1f, fontFamily: _fontFamily);
-  static const IconData remixCalendar2 = IconData(0xea20, fontFamily: _fontFamily);
-  static const IconData remixCalendarCheckFill = IconData(0xea21, fontFamily: _fontFamily);
-  static const IconData remixCalendarCheck = IconData(0xea22, fontFamily: _fontFamily);
-  static const IconData remixCalendarEventFill = IconData(0xea23, fontFamily: _fontFamily);
-  static const IconData remixCalendarEvent = IconData(0xea24, fontFamily: _fontFamily);
-  static const IconData remixCalendarFill = IconData(0xea25, fontFamily: _fontFamily);
-  static const IconData remixCalendarTodoFill = IconData(0xea26, fontFamily: _fontFamily);
-  static const IconData remixCalendarTodo = IconData(0xea27, fontFamily: _fontFamily);
-  static const IconData remixCalendar = IconData(0xea28, fontFamily: _fontFamily);
-  static const IconData remixCamera2Fill = IconData(0xea29, fontFamily: _fontFamily);
-  static const IconData remixCamera2 = IconData(0xea2a, fontFamily: _fontFamily);
-  static const IconData remixCamera3Fill = IconData(0xea2b, fontFamily: _fontFamily);
-  static const IconData remixCamera3 = IconData(0xea2c, fontFamily: _fontFamily);
-  static const IconData remixCameraFill = IconData(0xea2d, fontFamily: _fontFamily);
-  static const IconData remixCameraLensFill = IconData(0xea2e, fontFamily: _fontFamily);
-  static const IconData remixCameraLens = IconData(0xea2f, fontFamily: _fontFamily);
-  static const IconData remixCameraOffFill = IconData(0xea30, fontFamily: _fontFamily);
-  static const IconData remixCameraOff = IconData(0xea31, fontFamily: _fontFamily);
-  static const IconData remixCameraSwitchFill = IconData(0xea32, fontFamily: _fontFamily);
-  static const IconData remixCameraSwitch = IconData(0xea33, fontFamily: _fontFamily);
-  static const IconData remixCamera = IconData(0xea34, fontFamily: _fontFamily);
-  static const IconData remixCapsuleFill = IconData(0xea35, fontFamily: _fontFamily);
-  static const IconData remixCapsule = IconData(0xea36, fontFamily: _fontFamily);
-  static const IconData remixCarFill = IconData(0xea37, fontFamily: _fontFamily);
-  static const IconData remixCarWashingFill = IconData(0xea38, fontFamily: _fontFamily);
-  static const IconData remixCarWashing = IconData(0xea39, fontFamily: _fontFamily);
-  static const IconData remixCar = IconData(0xea3a, fontFamily: _fontFamily);
-  static const IconData remixCaravanFill = IconData(0xea3b, fontFamily: _fontFamily);
-  static const IconData remixCaravan = IconData(0xea3c, fontFamily: _fontFamily);
-  static const IconData remixCastFill = IconData(0xea3d, fontFamily: _fontFamily);
-  static const IconData remixCast = IconData(0xea3e, fontFamily: _fontFamily);
-  static const IconData remixCellphoneFill = IconData(0xea3f, fontFamily: _fontFamily);
-  static const IconData remixCellphone = IconData(0xea40, fontFamily: _fontFamily);
-  static const IconData remixCelsiusFill = IconData(0xea41, fontFamily: _fontFamily);
-  static const IconData remixCelsius = IconData(0xea42, fontFamily: _fontFamily);
-  static const IconData remixCentosFill = IconData(0xea43, fontFamily: _fontFamily);
-  static const IconData remixCentos = IconData(0xea44, fontFamily: _fontFamily);
-  static const IconData remixCharacterRecognitionFill = IconData(0xea45, fontFamily: _fontFamily);
-  static const IconData remixCharacterRecognition = IconData(0xea46, fontFamily: _fontFamily);
-  static const IconData remixChargingPile2Fill = IconData(0xea47, fontFamily: _fontFamily);
-  static const IconData remixChargingPile2 = IconData(0xea48, fontFamily: _fontFamily);
-  static const IconData remixChargingPileFill = IconData(0xea49, fontFamily: _fontFamily);
-  static const IconData remixChargingPile = IconData(0xea4a, fontFamily: _fontFamily);
-  static const IconData remixChat1Fill = IconData(0xea4b, fontFamily: _fontFamily);
-  static const IconData remixChat1 = IconData(0xea4c, fontFamily: _fontFamily);
-  static const IconData remixChat2Fill = IconData(0xea4d, fontFamily: _fontFamily);
-  static const IconData remixChat2 = IconData(0xea4e, fontFamily: _fontFamily);
-  static const IconData remixChat3Fill = IconData(0xea4f, fontFamily: _fontFamily);
-  static const IconData remixChat3 = IconData(0xea50, fontFamily: _fontFamily);
-  static const IconData remixChat4Fill = IconData(0xea51, fontFamily: _fontFamily);
-  static const IconData remixChat4 = IconData(0xea52, fontFamily: _fontFamily);
-  static const IconData remixChatCheckFill = IconData(0xea53, fontFamily: _fontFamily);
-  static const IconData remixChatCheck = IconData(0xea54, fontFamily: _fontFamily);
-  static const IconData remixChatDeleteFill = IconData(0xea55, fontFamily: _fontFamily);
-  static const IconData remixChatDelete = IconData(0xea56, fontFamily: _fontFamily);
-  static const IconData remixChatDownloadFill = IconData(0xea57, fontFamily: _fontFamily);
-  static const IconData remixChatDownload = IconData(0xea58, fontFamily: _fontFamily);
-  static const IconData remixChatFollowUpFill = IconData(0xea59, fontFamily: _fontFamily);
-  static const IconData remixChatFollowUp = IconData(0xea5a, fontFamily: _fontFamily);
-  static const IconData remixChatForwardFill = IconData(0xea5b, fontFamily: _fontFamily);
-  static const IconData remixChatForward = IconData(0xea5c, fontFamily: _fontFamily);
-  static const IconData remixChatHeartFill = IconData(0xea5d, fontFamily: _fontFamily);
-  static const IconData remixChatHeart = IconData(0xea5e, fontFamily: _fontFamily);
-  static const IconData remixChatHistoryFill = IconData(0xea5f, fontFamily: _fontFamily);
-  static const IconData remixChatHistory = IconData(0xea60, fontFamily: _fontFamily);
-  static const IconData remixChatNewFill = IconData(0xea61, fontFamily: _fontFamily);
-  static const IconData remixChatNew = IconData(0xea62, fontFamily: _fontFamily);
-  static const IconData remixChatOffFill = IconData(0xea63, fontFamily: _fontFamily);
-  static const IconData remixChatOff = IconData(0xea64, fontFamily: _fontFamily);
-  static const IconData remixChatPollFill = IconData(0xea65, fontFamily: _fontFamily);
-  static const IconData remixChatPoll = IconData(0xea66, fontFamily: _fontFamily);
-  static const IconData remixChatPrivateFill = IconData(0xea67, fontFamily: _fontFamily);
-  static const IconData remixChatPrivate = IconData(0xea68, fontFamily: _fontFamily);
-  static const IconData remixChatQuoteFill = IconData(0xea69, fontFamily: _fontFamily);
-  static const IconData remixChatQuote = IconData(0xea6a, fontFamily: _fontFamily);
-  static const IconData remixChatSettingsFill = IconData(0xea6b, fontFamily: _fontFamily);
-  static const IconData remixChatSettings = IconData(0xea6c, fontFamily: _fontFamily);
-  static const IconData remixChatSmile2Fill = IconData(0xea6d, fontFamily: _fontFamily);
-  static const IconData remixChatSmile2 = IconData(0xea6e, fontFamily: _fontFamily);
-  static const IconData remixChatSmile3Fill = IconData(0xea6f, fontFamily: _fontFamily);
-  static const IconData remixChatSmile3 = IconData(0xea70, fontFamily: _fontFamily);
-  static const IconData remixChatSmileFill = IconData(0xea71, fontFamily: _fontFamily);
-  static const IconData remixChatSmile = IconData(0xea72, fontFamily: _fontFamily);
-  static const IconData remixChatUploadFill = IconData(0xea73, fontFamily: _fontFamily);
-  static const IconData remixChatUpload = IconData(0xea74, fontFamily: _fontFamily);
-  static const IconData remixChatVoiceFill = IconData(0xea75, fontFamily: _fontFamily);
-  static const IconData remixChatVoice = IconData(0xea76, fontFamily: _fontFamily);
-  static const IconData remixCheckDoubleFill = IconData(0xea77, fontFamily: _fontFamily);
-  static const IconData remixCheckDouble = IconData(0xea78, fontFamily: _fontFamily);
-  static const IconData remixCheckFill = IconData(0xea79, fontFamily: _fontFamily);
-  static const IconData remixCheck = IconData(0xea7a, fontFamily: _fontFamily);
-  static const IconData remixCheckboxBlankCircleFill = IconData(0xea7b, fontFamily: _fontFamily);
-  static const IconData remixCheckboxBlankCircle = IconData(0xea7c, fontFamily: _fontFamily);
-  static const IconData remixCheckboxBlankFill = IconData(0xea7d, fontFamily: _fontFamily);
-  static const IconData remixCheckboxBlank = IconData(0xea7e, fontFamily: _fontFamily);
-  static const IconData remixCheckboxCircleFill = IconData(0xea7f, fontFamily: _fontFamily);
-  static const IconData remixCheckboxCircle = IconData(0xea80, fontFamily: _fontFamily);
-  static const IconData remixCheckboxFill = IconData(0xea81, fontFamily: _fontFamily);
-  static const IconData remixCheckboxIndeterminateFill = IconData(0xea82, fontFamily: _fontFamily);
-  static const IconData remixCheckboxIndeterminate = IconData(0xea83, fontFamily: _fontFamily);
-  static const IconData remixCheckboxMultipleBlankFill = IconData(0xea84, fontFamily: _fontFamily);
-  static const IconData remixCheckboxMultipleBlank = IconData(0xea85, fontFamily: _fontFamily);
-  static const IconData remixCheckboxMultipleFill = IconData(0xea86, fontFamily: _fontFamily);
-  static const IconData remixCheckboxMultiple = IconData(0xea87, fontFamily: _fontFamily);
-  static const IconData remixCheckbox = IconData(0xea88, fontFamily: _fontFamily);
-  static const IconData remixChinaRailwayFill = IconData(0xea89, fontFamily: _fontFamily);
-  static const IconData remixChinaRailway = IconData(0xea8a, fontFamily: _fontFamily);
-  static const IconData remixChromeFill = IconData(0xea8b, fontFamily: _fontFamily);
-  static const IconData remixChrome = IconData(0xea8c, fontFamily: _fontFamily);
-  static const IconData remixClapperboardFill = IconData(0xea8d, fontFamily: _fontFamily);
-  static const IconData remixClapperboard = IconData(0xea8e, fontFamily: _fontFamily);
-  static const IconData remixClipboardFill = IconData(0xea8f, fontFamily: _fontFamily);
-  static const IconData remixClipboard = IconData(0xea90, fontFamily: _fontFamily);
-  static const IconData remixClockwise2Fill = IconData(0xea91, fontFamily: _fontFamily);
-  static const IconData remixClockwise2 = IconData(0xea92, fontFamily: _fontFamily);
-  static const IconData remixClockwiseFill = IconData(0xea93, fontFamily: _fontFamily);
-  static const IconData remixClockwise = IconData(0xea94, fontFamily: _fontFamily);
-  static const IconData remixCloseCircleFill = IconData(0xea95, fontFamily: _fontFamily);
-  static const IconData remixCloseCircle = IconData(0xea96, fontFamily: _fontFamily);
-  static const IconData remixCloseFill = IconData(0xea97, fontFamily: _fontFamily);
-  static const IconData remixClose = IconData(0xea98, fontFamily: _fontFamily);
-  static const IconData remixClosedCaptioningFill = IconData(0xea99, fontFamily: _fontFamily);
-  static const IconData remixClosedCaptioning = IconData(0xea9a, fontFamily: _fontFamily);
-  static const IconData remixCloudFill = IconData(0xea9b, fontFamily: _fontFamily);
-  static const IconData remixCloudOffFill = IconData(0xea9c, fontFamily: _fontFamily);
-  static const IconData remixCloudOff = IconData(0xea9d, fontFamily: _fontFamily);
-  static const IconData remixCloudWindyFill = IconData(0xea9e, fontFamily: _fontFamily);
-  static const IconData remixCloudWindy = IconData(0xea9f, fontFamily: _fontFamily);
-  static const IconData remixCloud = IconData(0xeaa0, fontFamily: _fontFamily);
-  static const IconData remixCloudy2Fill = IconData(0xeaa1, fontFamily: _fontFamily);
-  static const IconData remixCloudy2 = IconData(0xeaa2, fontFamily: _fontFamily);
-  static const IconData remixCloudyFill = IconData(0xeaa3, fontFamily: _fontFamily);
-  static const IconData remixCloudy = IconData(0xeaa4, fontFamily: _fontFamily);
-  static const IconData remixCodeBoxFill = IconData(0xeaa5, fontFamily: _fontFamily);
-  static const IconData remixCodeBox = IconData(0xeaa6, fontFamily: _fontFamily);
-  static const IconData remixCodeFill = IconData(0xeaa7, fontFamily: _fontFamily);
-  static const IconData remixCodeSFill = IconData(0xeaa8, fontFamily: _fontFamily);
-  static const IconData remixCodeSSlashFill = IconData(0xeaa9, fontFamily: _fontFamily);
-  static const IconData remixCodeSSlash = IconData(0xeaaa, fontFamily: _fontFamily);
-  static const IconData remixCodeS = IconData(0xeaab, fontFamily: _fontFamily);
-  static const IconData remixCodeView = IconData(0xeaac, fontFamily: _fontFamily);
-  static const IconData remixCode = IconData(0xeaad, fontFamily: _fontFamily);
-  static const IconData remixCodepenFill = IconData(0xeaae, fontFamily: _fontFamily);
-  static const IconData remixCodepen = IconData(0xeaaf, fontFamily: _fontFamily);
-  static const IconData remixCoinFill = IconData(0xeab0, fontFamily: _fontFamily);
-  static const IconData remixCoin = IconData(0xeab1, fontFamily: _fontFamily);
-  static const IconData remixCoinsFill = IconData(0xeab2, fontFamily: _fontFamily);
-  static const IconData remixCoins = IconData(0xeab3, fontFamily: _fontFamily);
-  static const IconData remixCollageFill = IconData(0xeab4, fontFamily: _fontFamily);
-  static const IconData remixCollage = IconData(0xeab5, fontFamily: _fontFamily);
-  static const IconData remixCommandFill = IconData(0xeab6, fontFamily: _fontFamily);
-  static const IconData remixCommand = IconData(0xeab7, fontFamily: _fontFamily);
-  static const IconData remixCommunityFill = IconData(0xeab8, fontFamily: _fontFamily);
-  static const IconData remixCommunity = IconData(0xeab9, fontFamily: _fontFamily);
-  static const IconData remixCompass2Fill = IconData(0xeaba, fontFamily: _fontFamily);
-  static const IconData remixCompass2 = IconData(0xeabb, fontFamily: _fontFamily);
-  static const IconData remixCompass3Fill = IconData(0xeabc, fontFamily: _fontFamily);
-  static const IconData remixCompass3 = IconData(0xeabd, fontFamily: _fontFamily);
-  static const IconData remixCompass4Fill = IconData(0xeabe, fontFamily: _fontFamily);
-  static const IconData remixCompass4 = IconData(0xeabf, fontFamily: _fontFamily);
-  static const IconData remixCompassDiscoverFill = IconData(0xeac0, fontFamily: _fontFamily);
-  static const IconData remixCompassDiscover = IconData(0xeac1, fontFamily: _fontFamily);
-  static const IconData remixCompassFill = IconData(0xeac2, fontFamily: _fontFamily);
-  static const IconData remixCompass = IconData(0xeac3, fontFamily: _fontFamily);
-  static const IconData remixCompasses2Fill = IconData(0xeac4, fontFamily: _fontFamily);
-  static const IconData remixCompasses2 = IconData(0xeac5, fontFamily: _fontFamily);
-  static const IconData remixCompassesFill = IconData(0xeac6, fontFamily: _fontFamily);
-  static const IconData remixCompasses = IconData(0xeac7, fontFamily: _fontFamily);
-  static const IconData remixComputerFill = IconData(0xeac8, fontFamily: _fontFamily);
-  static const IconData remixComputer = IconData(0xeac9, fontFamily: _fontFamily);
-  static const IconData remixContactsBook2Fill = IconData(0xeaca, fontFamily: _fontFamily);
-  static const IconData remixContactsBook2 = IconData(0xeacb, fontFamily: _fontFamily);
-  static const IconData remixContactsBookFill = IconData(0xeacc, fontFamily: _fontFamily);
-  static const IconData remixContactsBookUploadFill = IconData(0xeacd, fontFamily: _fontFamily);
-  static const IconData remixContactsBookUpload = IconData(0xeace, fontFamily: _fontFamily);
-  static const IconData remixContactsBook = IconData(0xeacf, fontFamily: _fontFamily);
-  static const IconData remixContactsFill = IconData(0xead0, fontFamily: _fontFamily);
-  static const IconData remixContacts = IconData(0xead1, fontFamily: _fontFamily);
-  static const IconData remixContrast2Fill = IconData(0xead2, fontFamily: _fontFamily);
-  static const IconData remixContrast2 = IconData(0xead3, fontFamily: _fontFamily);
-  static const IconData remixContrastDrop2Fill = IconData(0xead4, fontFamily: _fontFamily);
-  static const IconData remixContrastDrop2 = IconData(0xead5, fontFamily: _fontFamily);
-  static const IconData remixContrastDropFill = IconData(0xead6, fontFamily: _fontFamily);
-  static const IconData remixContrastDrop = IconData(0xead7, fontFamily: _fontFamily);
-  static const IconData remixContrastFill = IconData(0xead8, fontFamily: _fontFamily);
-  static const IconData remixContrast = IconData(0xead9, fontFamily: _fontFamily);
-  static const IconData remixCopperCoinFill = IconData(0xeada, fontFamily: _fontFamily);
-  static const IconData remixCopperCoin = IconData(0xeadb, fontFamily: _fontFamily);
-  static const IconData remixCopperDiamondFill = IconData(0xeadc, fontFamily: _fontFamily);
-  static const IconData remixCopperDiamond = IconData(0xeadd, fontFamily: _fontFamily);
-  static const IconData remixCopyleftFill = IconData(0xeade, fontFamily: _fontFamily);
-  static const IconData remixCopyleft = IconData(0xeadf, fontFamily: _fontFamily);
-  static const IconData remixCopyrightFill = IconData(0xeae0, fontFamily: _fontFamily);
-  static const IconData remixCopyright = IconData(0xeae1, fontFamily: _fontFamily);
-  static const IconData remixCoreosFill = IconData(0xeae2, fontFamily: _fontFamily);
-  static const IconData remixCoreos = IconData(0xeae3, fontFamily: _fontFamily);
-  static const IconData remixCoupon2Fill = IconData(0xeae4, fontFamily: _fontFamily);
-  static const IconData remixCoupon2 = IconData(0xeae5, fontFamily: _fontFamily);
-  static const IconData remixCoupon3Fill = IconData(0xeae6, fontFamily: _fontFamily);
-  static const IconData remixCoupon3 = IconData(0xeae7, fontFamily: _fontFamily);
-  static const IconData remixCoupon4Fill = IconData(0xeae8, fontFamily: _fontFamily);
-  static const IconData remixCoupon4 = IconData(0xeae9, fontFamily: _fontFamily);
-  static const IconData remixCoupon5Fill = IconData(0xeaea, fontFamily: _fontFamily);
-  static const IconData remixCoupon5 = IconData(0xeaeb, fontFamily: _fontFamily);
-  static const IconData remixCouponFill = IconData(0xeaec, fontFamily: _fontFamily);
-  static const IconData remixCoupon = IconData(0xeaed, fontFamily: _fontFamily);
-  static const IconData remixCpuFill = IconData(0xeaee, fontFamily: _fontFamily);
-  static const IconData remixCpu = IconData(0xeaef, fontFamily: _fontFamily);
-  static const IconData remixCreativeCommonsByFill = IconData(0xeaf0, fontFamily: _fontFamily);
-  static const IconData remixCreativeCommonsBy = IconData(0xeaf1, fontFamily: _fontFamily);
-  static const IconData remixCreativeCommonsFill = IconData(0xeaf2, fontFamily: _fontFamily);
-  static const IconData remixCreativeCommonsNcFill = IconData(0xeaf3, fontFamily: _fontFamily);
-  static const IconData remixCreativeCommonsNc = IconData(0xeaf4, fontFamily: _fontFamily);
-  static const IconData remixCreativeCommonsNdFill = IconData(0xeaf5, fontFamily: _fontFamily);
-  static const IconData remixCreativeCommonsNd = IconData(0xeaf6, fontFamily: _fontFamily);
-  static const IconData remixCreativeCommonsSaFill = IconData(0xeaf7, fontFamily: _fontFamily);
-  static const IconData remixCreativeCommonsSa = IconData(0xeaf8, fontFamily: _fontFamily);
-  static const IconData remixCreativeCommonsZeroFill = IconData(0xeaf9, fontFamily: _fontFamily);
-  static const IconData remixCreativeCommonsZero = IconData(0xeafa, fontFamily: _fontFamily);
-  static const IconData remixCreativeCommons = IconData(0xeafb, fontFamily: _fontFamily);
-  static const IconData remixCriminalFill = IconData(0xeafc, fontFamily: _fontFamily);
-  static const IconData remixCriminal = IconData(0xeafd, fontFamily: _fontFamily);
-  static const IconData remixCrop2Fill = IconData(0xeafe, fontFamily: _fontFamily);
-  static const IconData remixCrop2 = IconData(0xeaff, fontFamily: _fontFamily);
-  static const IconData remixCropFill = IconData(0xeb00, fontFamily: _fontFamily);
-  static const IconData remixCrop = IconData(0xeb01, fontFamily: _fontFamily);
-  static const IconData remixCss3Fill = IconData(0xeb02, fontFamily: _fontFamily);
-  static const IconData remixCss3 = IconData(0xeb03, fontFamily: _fontFamily);
-  static const IconData remixCupFill = IconData(0xeb04, fontFamily: _fontFamily);
-  static const IconData remixCup = IconData(0xeb05, fontFamily: _fontFamily);
-  static const IconData remixCurrencyFill = IconData(0xeb06, fontFamily: _fontFamily);
-  static const IconData remixCurrency = IconData(0xeb07, fontFamily: _fontFamily);
-  static const IconData remixCursorFill = IconData(0xeb08, fontFamily: _fontFamily);
-  static const IconData remixCursor = IconData(0xeb09, fontFamily: _fontFamily);
-  static const IconData remixCustomerService2Fill = IconData(0xeb0a, fontFamily: _fontFamily);
-  static const IconData remixCustomerService2 = IconData(0xeb0b, fontFamily: _fontFamily);
-  static const IconData remixCustomerServiceFill = IconData(0xeb0c, fontFamily: _fontFamily);
-  static const IconData remixCustomerService = IconData(0xeb0d, fontFamily: _fontFamily);
-  static const IconData remixDashboard2Fill = IconData(0xeb0e, fontFamily: _fontFamily);
-  static const IconData remixDashboard2 = IconData(0xeb0f, fontFamily: _fontFamily);
-  static const IconData remixDashboard3Fill = IconData(0xeb10, fontFamily: _fontFamily);
-  static const IconData remixDashboard3 = IconData(0xeb11, fontFamily: _fontFamily);
-  static const IconData remixDashboardFill = IconData(0xeb12, fontFamily: _fontFamily);
-  static const IconData remixDashboard = IconData(0xeb13, fontFamily: _fontFamily);
-  static const IconData remixDatabase2Fill = IconData(0xeb14, fontFamily: _fontFamily);
-  static const IconData remixDatabase2 = IconData(0xeb15, fontFamily: _fontFamily);
-  static const IconData remixDatabaseFill = IconData(0xeb16, fontFamily: _fontFamily);
-  static const IconData remixDatabase = IconData(0xeb17, fontFamily: _fontFamily);
-  static const IconData remixDeleteBack2Fill = IconData(0xeb18, fontFamily: _fontFamily);
-  static const IconData remixDeleteBack2 = IconData(0xeb19, fontFamily: _fontFamily);
-  static const IconData remixDeleteBackFill = IconData(0xeb1a, fontFamily: _fontFamily);
-  static const IconData remixDeleteBack = IconData(0xeb1b, fontFamily: _fontFamily);
-  static const IconData remixDeleteBin2Fill = IconData(0xeb1c, fontFamily: _fontFamily);
-  static const IconData remixDeleteBin2 = IconData(0xeb1d, fontFamily: _fontFamily);
-  static const IconData remixDeleteBin3Fill = IconData(0xeb1e, fontFamily: _fontFamily);
-  static const IconData remixDeleteBin3 = IconData(0xeb1f, fontFamily: _fontFamily);
-  static const IconData remixDeleteBin4Fill = IconData(0xeb20, fontFamily: _fontFamily);
-  static const IconData remixDeleteBin4 = IconData(0xeb21, fontFamily: _fontFamily);
-  static const IconData remixDeleteBin5Fill = IconData(0xeb22, fontFamily: _fontFamily);
-  static const IconData remixDeleteBin5 = IconData(0xeb23, fontFamily: _fontFamily);
-  static const IconData remixDeleteBin6Fill = IconData(0xeb24, fontFamily: _fontFamily);
-  static const IconData remixDeleteBin6 = IconData(0xeb25, fontFamily: _fontFamily);
-  static const IconData remixDeleteBin7Fill = IconData(0xeb26, fontFamily: _fontFamily);
-  static const IconData remixDeleteBin7 = IconData(0xeb27, fontFamily: _fontFamily);
-  static const IconData remixDeleteBinFill = IconData(0xeb28, fontFamily: _fontFamily);
-  static const IconData remixDeleteBin = IconData(0xeb29, fontFamily: _fontFamily);
-  static const IconData remixDeleteColumn = IconData(0xeb2a, fontFamily: _fontFamily);
-  static const IconData remixDeleteRow = IconData(0xeb2b, fontFamily: _fontFamily);
-  static const IconData remixDeviceFill = IconData(0xeb2c, fontFamily: _fontFamily);
-  static const IconData remixDeviceRecoverFill = IconData(0xeb2d, fontFamily: _fontFamily);
-  static const IconData remixDeviceRecover = IconData(0xeb2e, fontFamily: _fontFamily);
-  static const IconData remixDevice = IconData(0xeb2f, fontFamily: _fontFamily);
-  static const IconData remixDingdingFill = IconData(0xeb30, fontFamily: _fontFamily);
-  static const IconData remixDingding = IconData(0xeb31, fontFamily: _fontFamily);
-  static const IconData remixDirectionFill = IconData(0xeb32, fontFamily: _fontFamily);
-  static const IconData remixDirection = IconData(0xeb33, fontFamily: _fontFamily);
-  static const IconData remixDiscFill = IconData(0xeb34, fontFamily: _fontFamily);
-  static const IconData remixDisc = IconData(0xeb35, fontFamily: _fontFamily);
-  static const IconData remixDiscordFill = IconData(0xeb36, fontFamily: _fontFamily);
-  static const IconData remixDiscord = IconData(0xeb37, fontFamily: _fontFamily);
-  static const IconData remixDiscussFill = IconData(0xeb38, fontFamily: _fontFamily);
-  static const IconData remixDiscuss = IconData(0xeb39, fontFamily: _fontFamily);
-  static const IconData remixDislikeFill = IconData(0xeb3a, fontFamily: _fontFamily);
-  static const IconData remixDislike = IconData(0xeb3b, fontFamily: _fontFamily);
-  static const IconData remixDisqusFill = IconData(0xeb3c, fontFamily: _fontFamily);
-  static const IconData remixDisqus = IconData(0xeb3d, fontFamily: _fontFamily);
-  static const IconData remixDivideFill = IconData(0xeb3e, fontFamily: _fontFamily);
-  static const IconData remixDivide = IconData(0xeb3f, fontFamily: _fontFamily);
-  static const IconData remixDonutChartFill = IconData(0xeb40, fontFamily: _fontFamily);
-  static const IconData remixDonutChart = IconData(0xeb41, fontFamily: _fontFamily);
-  static const IconData remixDoorClosedFill = IconData(0xeb42, fontFamily: _fontFamily);
-  static const IconData remixDoorClosed = IconData(0xeb43, fontFamily: _fontFamily);
-  static const IconData remixDoorFill = IconData(0xeb44, fontFamily: _fontFamily);
-  static const IconData remixDoorLockBoxFill = IconData(0xeb45, fontFamily: _fontFamily);
-  static const IconData remixDoorLockBox = IconData(0xeb46, fontFamily: _fontFamily);
-  static const IconData remixDoorLockFill = IconData(0xeb47, fontFamily: _fontFamily);
-  static const IconData remixDoorLock = IconData(0xeb48, fontFamily: _fontFamily);
-  static const IconData remixDoorOpenFill = IconData(0xeb49, fontFamily: _fontFamily);
-  static const IconData remixDoorOpen = IconData(0xeb4a, fontFamily: _fontFamily);
-  static const IconData remixDoor = IconData(0xeb4b, fontFamily: _fontFamily);
-  static const IconData remixDossierFill = IconData(0xeb4c, fontFamily: _fontFamily);
-  static const IconData remixDossier = IconData(0xeb4d, fontFamily: _fontFamily);
-  static const IconData remixDoubanFill = IconData(0xeb4e, fontFamily: _fontFamily);
-  static const IconData remixDouban = IconData(0xeb4f, fontFamily: _fontFamily);
-  static const IconData remixDoubleQuotesL = IconData(0xeb50, fontFamily: _fontFamily);
-  static const IconData remixDoubleQuotesR = IconData(0xeb51, fontFamily: _fontFamily);
-  static const IconData remixDownload2Fill = IconData(0xeb52, fontFamily: _fontFamily);
-  static const IconData remixDownload2 = IconData(0xeb53, fontFamily: _fontFamily);
-  static const IconData remixDownloadCloud2Fill = IconData(0xeb54, fontFamily: _fontFamily);
-  static const IconData remixDownloadCloud2 = IconData(0xeb55, fontFamily: _fontFamily);
-  static const IconData remixDownloadCloudFill = IconData(0xeb56, fontFamily: _fontFamily);
-  static const IconData remixDownloadCloud = IconData(0xeb57, fontFamily: _fontFamily);
-  static const IconData remixDownloadFill = IconData(0xeb58, fontFamily: _fontFamily);
-  static const IconData remixDownload = IconData(0xeb59, fontFamily: _fontFamily);
-  static const IconData remixDraftFill = IconData(0xeb5a, fontFamily: _fontFamily);
-  static const IconData remixDraft = IconData(0xeb5b, fontFamily: _fontFamily);
-  static const IconData remixDragDropFill = IconData(0xeb5c, fontFamily: _fontFamily);
-  static const IconData remixDragDrop = IconData(0xeb5d, fontFamily: _fontFamily);
-  static const IconData remixDragMove2Fill = IconData(0xeb5e, fontFamily: _fontFamily);
-  static const IconData remixDragMove2 = IconData(0xeb5f, fontFamily: _fontFamily);
-  static const IconData remixDragMoveFill = IconData(0xeb60, fontFamily: _fontFamily);
-  static const IconData remixDragMove = IconData(0xeb61, fontFamily: _fontFamily);
-  static const IconData remixDribbbleFill = IconData(0xeb62, fontFamily: _fontFamily);
-  static const IconData remixDribbble = IconData(0xeb63, fontFamily: _fontFamily);
-  static const IconData remixDriveFill = IconData(0xeb64, fontFamily: _fontFamily);
-  static const IconData remixDrive = IconData(0xeb65, fontFamily: _fontFamily);
-  static const IconData remixDrizzleFill = IconData(0xeb66, fontFamily: _fontFamily);
-  static const IconData remixDrizzle = IconData(0xeb67, fontFamily: _fontFamily);
-  static const IconData remixDropFill = IconData(0xeb68, fontFamily: _fontFamily);
-  static const IconData remixDrop = IconData(0xeb69, fontFamily: _fontFamily);
-  static const IconData remixDropboxFill = IconData(0xeb6a, fontFamily: _fontFamily);
-  static const IconData remixDropbox = IconData(0xeb6b, fontFamily: _fontFamily);
-  static const IconData remixDualSim1Fill = IconData(0xeb6c, fontFamily: _fontFamily);
-  static const IconData remixDualSim1 = IconData(0xeb6d, fontFamily: _fontFamily);
-  static const IconData remixDualSim2Fill = IconData(0xeb6e, fontFamily: _fontFamily);
-  static const IconData remixDualSim2 = IconData(0xeb6f, fontFamily: _fontFamily);
-  static const IconData remixDvFill = IconData(0xeb70, fontFamily: _fontFamily);
-  static const IconData remixDv = IconData(0xeb71, fontFamily: _fontFamily);
-  static const IconData remixDvdFill = IconData(0xeb72, fontFamily: _fontFamily);
-  static const IconData remixDvd = IconData(0xeb73, fontFamily: _fontFamily);
-  static const IconData remixEBike2Fill = IconData(0xeb74, fontFamily: _fontFamily);
-  static const IconData remixEBike2 = IconData(0xeb75, fontFamily: _fontFamily);
-  static const IconData remixEBikeFill = IconData(0xeb76, fontFamily: _fontFamily);
-  static const IconData remixEBike = IconData(0xeb77, fontFamily: _fontFamily);
-  static const IconData remixEarthFill = IconData(0xeb78, fontFamily: _fontFamily);
-  static const IconData remixEarth = IconData(0xeb79, fontFamily: _fontFamily);
-  static const IconData remixEarthquakeFill = IconData(0xeb7a, fontFamily: _fontFamily);
-  static const IconData remixEarthquake = IconData(0xeb7b, fontFamily: _fontFamily);
-  static const IconData remixEdgeFill = IconData(0xeb7c, fontFamily: _fontFamily);
-  static const IconData remixEdge = IconData(0xeb7d, fontFamily: _fontFamily);
-  static const IconData remixEdit2Fill = IconData(0xeb7e, fontFamily: _fontFamily);
-  static const IconData remixEdit2 = IconData(0xeb7f, fontFamily: _fontFamily);
-  static const IconData remixEditBoxFill = IconData(0xeb80, fontFamily: _fontFamily);
-  static const IconData remixEditBox = IconData(0xeb81, fontFamily: _fontFamily);
-  static const IconData remixEditCircleFill = IconData(0xeb82, fontFamily: _fontFamily);
-  static const IconData remixEditCircle = IconData(0xeb83, fontFamily: _fontFamily);
-  static const IconData remixEditFill = IconData(0xeb84, fontFamily: _fontFamily);
-  static const IconData remixEdit = IconData(0xeb85, fontFamily: _fontFamily);
-  static const IconData remixEjectFill = IconData(0xeb86, fontFamily: _fontFamily);
-  static const IconData remixEject = IconData(0xeb87, fontFamily: _fontFamily);
-  static const IconData remixEmotion2Fill = IconData(0xeb88, fontFamily: _fontFamily);
-  static const IconData remixEmotion2 = IconData(0xeb89, fontFamily: _fontFamily);
-  static const IconData remixEmotionFill = IconData(0xeb8a, fontFamily: _fontFamily);
-  static const IconData remixEmotionHappyFill = IconData(0xeb8b, fontFamily: _fontFamily);
-  static const IconData remixEmotionHappy = IconData(0xeb8c, fontFamily: _fontFamily);
-  static const IconData remixEmotionLaughFill = IconData(0xeb8d, fontFamily: _fontFamily);
-  static const IconData remixEmotionLaugh = IconData(0xeb8e, fontFamily: _fontFamily);
-  static const IconData remixEmotionNormalFill = IconData(0xeb8f, fontFamily: _fontFamily);
-  static const IconData remixEmotionNormal = IconData(0xeb90, fontFamily: _fontFamily);
-  static const IconData remixEmotionSadFill = IconData(0xeb91, fontFamily: _fontFamily);
-  static const IconData remixEmotionSad = IconData(0xeb92, fontFamily: _fontFamily);
-  static const IconData remixEmotionUnhappyFill = IconData(0xeb93, fontFamily: _fontFamily);
-  static const IconData remixEmotionUnhappy = IconData(0xeb94, fontFamily: _fontFamily);
-  static const IconData remixEmotion = IconData(0xeb95, fontFamily: _fontFamily);
-  static const IconData remixEmpathizeFill = IconData(0xeb96, fontFamily: _fontFamily);
-  static const IconData remixEmpathize = IconData(0xeb97, fontFamily: _fontFamily);
-  static const IconData remixEmphasisCn = IconData(0xeb98, fontFamily: _fontFamily);
-  static const IconData remixEmphasis = IconData(0xeb99, fontFamily: _fontFamily);
-  static const IconData remixEnglishInput = IconData(0xeb9a, fontFamily: _fontFamily);
-  static const IconData remixEqualizerFill = IconData(0xeb9b, fontFamily: _fontFamily);
-  static const IconData remixEqualizer = IconData(0xeb9c, fontFamily: _fontFamily);
-  static const IconData remixEraserFill = IconData(0xeb9d, fontFamily: _fontFamily);
-  static const IconData remixEraser = IconData(0xeb9e, fontFamily: _fontFamily);
-  static const IconData remixErrorWarningFill = IconData(0xeb9f, fontFamily: _fontFamily);
-  static const IconData remixErrorWarning = IconData(0xeba0, fontFamily: _fontFamily);
-  static const IconData remixEvernoteFill = IconData(0xeba1, fontFamily: _fontFamily);
-  static const IconData remixEvernote = IconData(0xeba2, fontFamily: _fontFamily);
-  static const IconData remixExchangeBoxFill = IconData(0xeba3, fontFamily: _fontFamily);
-  static const IconData remixExchangeBox = IconData(0xeba4, fontFamily: _fontFamily);
-  static const IconData remixExchangeCnyFill = IconData(0xeba5, fontFamily: _fontFamily);
-  static const IconData remixExchangeCny = IconData(0xeba6, fontFamily: _fontFamily);
-  static const IconData remixExchangeDollarFill = IconData(0xeba7, fontFamily: _fontFamily);
-  static const IconData remixExchangeDollar = IconData(0xeba8, fontFamily: _fontFamily);
-  static const IconData remixExchangeFill = IconData(0xeba9, fontFamily: _fontFamily);
-  static const IconData remixExchangeFundsFill = IconData(0xebaa, fontFamily: _fontFamily);
-  static const IconData remixExchangeFunds = IconData(0xebab, fontFamily: _fontFamily);
-  static const IconData remixExchange = IconData(0xebac, fontFamily: _fontFamily);
-  static const IconData remixExternalLinkFill = IconData(0xebad, fontFamily: _fontFamily);
-  static const IconData remixExternalLink = IconData(0xebae, fontFamily: _fontFamily);
-  static const IconData remixEye2Fill = IconData(0xebaf, fontFamily: _fontFamily);
-  static const IconData remixEye2 = IconData(0xebb0, fontFamily: _fontFamily);
-  static const IconData remixEyeCloseFill = IconData(0xebb1, fontFamily: _fontFamily);
-  static const IconData remixEyeClose = IconData(0xebb2, fontFamily: _fontFamily);
-  static const IconData remixEyeFill = IconData(0xebb3, fontFamily: _fontFamily);
-  static const IconData remixEyeOffFill = IconData(0xebb4, fontFamily: _fontFamily);
-  static const IconData remixEyeOff = IconData(0xebb5, fontFamily: _fontFamily);
-  static const IconData remixEye = IconData(0xebb6, fontFamily: _fontFamily);
-  static const IconData remixFacebookBoxFill = IconData(0xebb7, fontFamily: _fontFamily);
-  static const IconData remixFacebookBox = IconData(0xebb8, fontFamily: _fontFamily);
-  static const IconData remixFacebookCircleFill = IconData(0xebb9, fontFamily: _fontFamily);
-  static const IconData remixFacebookCircle = IconData(0xebba, fontFamily: _fontFamily);
-  static const IconData remixFacebookFill = IconData(0xebbb, fontFamily: _fontFamily);
-  static const IconData remixFacebook = IconData(0xebbc, fontFamily: _fontFamily);
-  static const IconData remixFahrenheitFill = IconData(0xebbd, fontFamily: _fontFamily);
-  static const IconData remixFahrenheit = IconData(0xebbe, fontFamily: _fontFamily);
-  static const IconData remixFeedbackFill = IconData(0xebbf, fontFamily: _fontFamily);
-  static const IconData remixFeedback = IconData(0xebc0, fontFamily: _fontFamily);
-  static const IconData remixFile2Fill = IconData(0xebc1, fontFamily: _fontFamily);
-  static const IconData remixFile2 = IconData(0xebc2, fontFamily: _fontFamily);
-  static const IconData remixFile3Fill = IconData(0xebc3, fontFamily: _fontFamily);
-  static const IconData remixFile3 = IconData(0xebc4, fontFamily: _fontFamily);
-  static const IconData remixFile4Fill = IconData(0xebc5, fontFamily: _fontFamily);
-  static const IconData remixFile4 = IconData(0xebc6, fontFamily: _fontFamily);
-  static const IconData remixFileAddFill = IconData(0xebc7, fontFamily: _fontFamily);
-  static const IconData remixFileAdd = IconData(0xebc8, fontFamily: _fontFamily);
-  static const IconData remixFileChart2Fill = IconData(0xebc9, fontFamily: _fontFamily);
-  static const IconData remixFileChart2 = IconData(0xebca, fontFamily: _fontFamily);
-  static const IconData remixFileChartFill = IconData(0xebcb, fontFamily: _fontFamily);
-  static const IconData remixFileChart = IconData(0xebcc, fontFamily: _fontFamily);
-  static const IconData remixFileCloudFill = IconData(0xebcd, fontFamily: _fontFamily);
-  static const IconData remixFileCloud = IconData(0xebce, fontFamily: _fontFamily);
-  static const IconData remixFileCodeFill = IconData(0xebcf, fontFamily: _fontFamily);
-  static const IconData remixFileCode = IconData(0xebd0, fontFamily: _fontFamily);
-  static const IconData remixFileCopy2Fill = IconData(0xebd1, fontFamily: _fontFamily);
-  static const IconData remixFileCopy2 = IconData(0xebd2, fontFamily: _fontFamily);
-  static const IconData remixFileCopyFill = IconData(0xebd3, fontFamily: _fontFamily);
-  static const IconData remixFileCopy = IconData(0xebd4, fontFamily: _fontFamily);
-  static const IconData remixFileDamageFill = IconData(0xebd5, fontFamily: _fontFamily);
-  static const IconData remixFileDamage = IconData(0xebd6, fontFamily: _fontFamily);
-  static const IconData remixFileDownloadFill = IconData(0xebd7, fontFamily: _fontFamily);
-  static const IconData remixFileDownload = IconData(0xebd8, fontFamily: _fontFamily);
-  static const IconData remixFileEditFill = IconData(0xebd9, fontFamily: _fontFamily);
-  static const IconData remixFileEdit = IconData(0xebda, fontFamily: _fontFamily);
-  static const IconData remixFileExcel2Fill = IconData(0xebdb, fontFamily: _fontFamily);
-  static const IconData remixFileExcel2 = IconData(0xebdc, fontFamily: _fontFamily);
-  static const IconData remixFileExcelFill = IconData(0xebdd, fontFamily: _fontFamily);
-  static const IconData remixFileExcel = IconData(0xebde, fontFamily: _fontFamily);
-  static const IconData remixFileFill = IconData(0xebdf, fontFamily: _fontFamily);
-  static const IconData remixFileForbidFill = IconData(0xebe0, fontFamily: _fontFamily);
-  static const IconData remixFileForbid = IconData(0xebe1, fontFamily: _fontFamily);
-  static const IconData remixFileGifFill = IconData(0xebe2, fontFamily: _fontFamily);
-  static const IconData remixFileGif = IconData(0xebe3, fontFamily: _fontFamily);
-  static const IconData remixFileHistoryFill = IconData(0xebe4, fontFamily: _fontFamily);
-  static const IconData remixFileHistory = IconData(0xebe5, fontFamily: _fontFamily);
-  static const IconData remixFileHwpFill = IconData(0xebe6, fontFamily: _fontFamily);
-  static const IconData remixFileHwp = IconData(0xebe7, fontFamily: _fontFamily);
-  static const IconData remixFileInfoFill = IconData(0xebe8, fontFamily: _fontFamily);
-  static const IconData remixFileInfo = IconData(0xebe9, fontFamily: _fontFamily);
-  static const IconData remixFileList2Fill = IconData(0xebea, fontFamily: _fontFamily);
-  static const IconData remixFileList2 = IconData(0xebeb, fontFamily: _fontFamily);
-  static const IconData remixFileList3Fill = IconData(0xebec, fontFamily: _fontFamily);
-  static const IconData remixFileList3 = IconData(0xebed, fontFamily: _fontFamily);
-  static const IconData remixFileListFill = IconData(0xebee, fontFamily: _fontFamily);
-  static const IconData remixFileList = IconData(0xebef, fontFamily: _fontFamily);
-  static const IconData remixFileLockFill = IconData(0xebf0, fontFamily: _fontFamily);
-  static const IconData remixFileLock = IconData(0xebf1, fontFamily: _fontFamily);
-  static const IconData remixFileMarkFill = IconData(0xebf2, fontFamily: _fontFamily);
-  static const IconData remixFileMark = IconData(0xebf3, fontFamily: _fontFamily);
-  static const IconData remixFileMusicFill = IconData(0xebf4, fontFamily: _fontFamily);
-  static const IconData remixFileMusic = IconData(0xebf5, fontFamily: _fontFamily);
-  static const IconData remixFilePaper2Fill = IconData(0xebf6, fontFamily: _fontFamily);
-  static const IconData remixFilePaper2 = IconData(0xebf7, fontFamily: _fontFamily);
-  static const IconData remixFilePaperFill = IconData(0xebf8, fontFamily: _fontFamily);
-  static const IconData remixFilePaper = IconData(0xebf9, fontFamily: _fontFamily);
-  static const IconData remixFilePdfFill = IconData(0xebfa, fontFamily: _fontFamily);
-  static const IconData remixFilePdf = IconData(0xebfb, fontFamily: _fontFamily);
-  static const IconData remixFilePpt2Fill = IconData(0xebfc, fontFamily: _fontFamily);
-  static const IconData remixFilePpt2 = IconData(0xebfd, fontFamily: _fontFamily);
-  static const IconData remixFilePptFill = IconData(0xebfe, fontFamily: _fontFamily);
-  static const IconData remixFilePpt = IconData(0xebff, fontFamily: _fontFamily);
-  static const IconData remixFileReduceFill = IconData(0xec00, fontFamily: _fontFamily);
-  static const IconData remixFileReduce = IconData(0xec01, fontFamily: _fontFamily);
-  static const IconData remixFileSearchFill = IconData(0xec02, fontFamily: _fontFamily);
-  static const IconData remixFileSearch = IconData(0xec03, fontFamily: _fontFamily);
-  static const IconData remixFileSettingsFill = IconData(0xec04, fontFamily: _fontFamily);
-  static const IconData remixFileSettings = IconData(0xec05, fontFamily: _fontFamily);
-  static const IconData remixFileShield2Fill = IconData(0xec06, fontFamily: _fontFamily);
-  static const IconData remixFileShield2 = IconData(0xec07, fontFamily: _fontFamily);
-  static const IconData remixFileShieldFill = IconData(0xec08, fontFamily: _fontFamily);
-  static const IconData remixFileShield = IconData(0xec09, fontFamily: _fontFamily);
-  static const IconData remixFileShredFill = IconData(0xec0a, fontFamily: _fontFamily);
-  static const IconData remixFileShred = IconData(0xec0b, fontFamily: _fontFamily);
-  static const IconData remixFileTextFill = IconData(0xec0c, fontFamily: _fontFamily);
-  static const IconData remixFileText = IconData(0xec0d, fontFamily: _fontFamily);
-  static const IconData remixFileTransferFill = IconData(0xec0e, fontFamily: _fontFamily);
-  static const IconData remixFileTransfer = IconData(0xec0f, fontFamily: _fontFamily);
-  static const IconData remixFileUnknowFill = IconData(0xec10, fontFamily: _fontFamily);
-  static const IconData remixFileUnknow = IconData(0xec11, fontFamily: _fontFamily);
-  static const IconData remixFileUploadFill = IconData(0xec12, fontFamily: _fontFamily);
-  static const IconData remixFileUpload = IconData(0xec13, fontFamily: _fontFamily);
-  static const IconData remixFileUserFill = IconData(0xec14, fontFamily: _fontFamily);
-  static const IconData remixFileUser = IconData(0xec15, fontFamily: _fontFamily);
-  static const IconData remixFileWarningFill = IconData(0xec16, fontFamily: _fontFamily);
-  static const IconData remixFileWarning = IconData(0xec17, fontFamily: _fontFamily);
-  static const IconData remixFileWord2Fill = IconData(0xec18, fontFamily: _fontFamily);
-  static const IconData remixFileWord2 = IconData(0xec19, fontFamily: _fontFamily);
-  static const IconData remixFileWordFill = IconData(0xec1a, fontFamily: _fontFamily);
-  static const IconData remixFileWord = IconData(0xec1b, fontFamily: _fontFamily);
-  static const IconData remixFileZipFill = IconData(0xec1c, fontFamily: _fontFamily);
-  static const IconData remixFileZip = IconData(0xec1d, fontFamily: _fontFamily);
-  static const IconData remixFile = IconData(0xec1e, fontFamily: _fontFamily);
-  static const IconData remixFilmFill = IconData(0xec1f, fontFamily: _fontFamily);
-  static const IconData remixFilm = IconData(0xec20, fontFamily: _fontFamily);
-  static const IconData remixFilter2Fill = IconData(0xec21, fontFamily: _fontFamily);
-  static const IconData remixFilter2 = IconData(0xec22, fontFamily: _fontFamily);
-  static const IconData remixFilter3Fill = IconData(0xec23, fontFamily: _fontFamily);
-  static const IconData remixFilter3 = IconData(0xec24, fontFamily: _fontFamily);
-  static const IconData remixFilterFill = IconData(0xec25, fontFamily: _fontFamily);
-  static const IconData remixFilterOffFill = IconData(0xec26, fontFamily: _fontFamily);
-  static const IconData remixFilterOff = IconData(0xec27, fontFamily: _fontFamily);
-  static const IconData remixFilter = IconData(0xec28, fontFamily: _fontFamily);
-  static const IconData remixFindReplaceFill = IconData(0xec29, fontFamily: _fontFamily);
-  static const IconData remixFindReplace = IconData(0xec2a, fontFamily: _fontFamily);
-  static const IconData remixFinderFill = IconData(0xec2b, fontFamily: _fontFamily);
-  static const IconData remixFinder = IconData(0xec2c, fontFamily: _fontFamily);
-  static const IconData remixFingerprint2Fill = IconData(0xec2d, fontFamily: _fontFamily);
-  static const IconData remixFingerprint2 = IconData(0xec2e, fontFamily: _fontFamily);
-  static const IconData remixFingerprintFill = IconData(0xec2f, fontFamily: _fontFamily);
-  static const IconData remixFingerprint = IconData(0xec30, fontFamily: _fontFamily);
-  static const IconData remixFireFill = IconData(0xec31, fontFamily: _fontFamily);
-  static const IconData remixFire = IconData(0xec32, fontFamily: _fontFamily);
-  static const IconData remixFirefoxFill = IconData(0xec33, fontFamily: _fontFamily);
-  static const IconData remixFirefox = IconData(0xec34, fontFamily: _fontFamily);
-  static const IconData remixFirstAidKitFill = IconData(0xec35, fontFamily: _fontFamily);
-  static const IconData remixFirstAidKit = IconData(0xec36, fontFamily: _fontFamily);
-  static const IconData remixFlag2Fill = IconData(0xec37, fontFamily: _fontFamily);
-  static const IconData remixFlag2 = IconData(0xec38, fontFamily: _fontFamily);
-  static const IconData remixFlagFill = IconData(0xec39, fontFamily: _fontFamily);
-  static const IconData remixFlag = IconData(0xec3a, fontFamily: _fontFamily);
-  static const IconData remixFlashlightFill = IconData(0xec3b, fontFamily: _fontFamily);
-  static const IconData remixFlashlight = IconData(0xec3c, fontFamily: _fontFamily);
-  static const IconData remixFlaskFill = IconData(0xec3d, fontFamily: _fontFamily);
-  static const IconData remixFlask = IconData(0xec3e, fontFamily: _fontFamily);
-  static const IconData remixFlightLandFill = IconData(0xec3f, fontFamily: _fontFamily);
-  static const IconData remixFlightLand = IconData(0xec40, fontFamily: _fontFamily);
-  static const IconData remixFlightTakeoffFill = IconData(0xec41, fontFamily: _fontFamily);
-  static const IconData remixFlightTakeoff = IconData(0xec42, fontFamily: _fontFamily);
-  static const IconData remixFloodFill = IconData(0xec43, fontFamily: _fontFamily);
-  static const IconData remixFlood = IconData(0xec44, fontFamily: _fontFamily);
-  static const IconData remixFlowChart = IconData(0xec45, fontFamily: _fontFamily);
-  static const IconData remixFlutterFill = IconData(0xec46, fontFamily: _fontFamily);
-  static const IconData remixFlutter = IconData(0xec47, fontFamily: _fontFamily);
-  static const IconData remixFocus2Fill = IconData(0xec48, fontFamily: _fontFamily);
-  static const IconData remixFocus2 = IconData(0xec49, fontFamily: _fontFamily);
-  static const IconData remixFocus3Fill = IconData(0xec4a, fontFamily: _fontFamily);
-  static const IconData remixFocus3 = IconData(0xec4b, fontFamily: _fontFamily);
-  static const IconData remixFocusFill = IconData(0xec4c, fontFamily: _fontFamily);
-  static const IconData remixFocus = IconData(0xec4d, fontFamily: _fontFamily);
-  static const IconData remixFoggyFill = IconData(0xec4e, fontFamily: _fontFamily);
-  static const IconData remixFoggy = IconData(0xec4f, fontFamily: _fontFamily);
-  static const IconData remixFolder2Fill = IconData(0xec50, fontFamily: _fontFamily);
-  static const IconData remixFolder2 = IconData(0xec51, fontFamily: _fontFamily);
-  static const IconData remixFolder3Fill = IconData(0xec52, fontFamily: _fontFamily);
-  static const IconData remixFolder3 = IconData(0xec53, fontFamily: _fontFamily);
-  static const IconData remixFolder4Fill = IconData(0xec54, fontFamily: _fontFamily);
-  static const IconData remixFolder4 = IconData(0xec55, fontFamily: _fontFamily);
-  static const IconData remixFolder5Fill = IconData(0xec56, fontFamily: _fontFamily);
-  static const IconData remixFolder5 = IconData(0xec57, fontFamily: _fontFamily);
-  static const IconData remixFolderAddFill = IconData(0xec58, fontFamily: _fontFamily);
-  static const IconData remixFolderAdd = IconData(0xec59, fontFamily: _fontFamily);
-  static const IconData remixFolderChart2Fill = IconData(0xec5a, fontFamily: _fontFamily);
-  static const IconData remixFolderChart2 = IconData(0xec5b, fontFamily: _fontFamily);
-  static const IconData remixFolderChartFill = IconData(0xec5c, fontFamily: _fontFamily);
-  static const IconData remixFolderChart = IconData(0xec5d, fontFamily: _fontFamily);
-  static const IconData remixFolderDownloadFill = IconData(0xec5e, fontFamily: _fontFamily);
-  static const IconData remixFolderDownload = IconData(0xec5f, fontFamily: _fontFamily);
-  static const IconData remixFolderFill = IconData(0xec60, fontFamily: _fontFamily);
-  static const IconData remixFolderForbidFill = IconData(0xec61, fontFamily: _fontFamily);
-  static const IconData remixFolderForbid = IconData(0xec62, fontFamily: _fontFamily);
-  static const IconData remixFolderHistoryFill = IconData(0xec63, fontFamily: _fontFamily);
-  static const IconData remixFolderHistory = IconData(0xec64, fontFamily: _fontFamily);
-  static const IconData remixFolderInfoFill = IconData(0xec65, fontFamily: _fontFamily);
-  static const IconData remixFolderInfo = IconData(0xec66, fontFamily: _fontFamily);
-  static const IconData remixFolderKeyholeFill = IconData(0xec67, fontFamily: _fontFamily);
-  static const IconData remixFolderKeyhole = IconData(0xec68, fontFamily: _fontFamily);
-  static const IconData remixFolderLockFill = IconData(0xec69, fontFamily: _fontFamily);
-  static const IconData remixFolderLock = IconData(0xec6a, fontFamily: _fontFamily);
-  static const IconData remixFolderMusicFill = IconData(0xec6b, fontFamily: _fontFamily);
-  static const IconData remixFolderMusic = IconData(0xec6c, fontFamily: _fontFamily);
-  static const IconData remixFolderOpenFill = IconData(0xec6d, fontFamily: _fontFamily);
-  static const IconData remixFolderOpen = IconData(0xec6e, fontFamily: _fontFamily);
-  static const IconData remixFolderReceivedFill = IconData(0xec6f, fontFamily: _fontFamily);
-  static const IconData remixFolderReceived = IconData(0xec70, fontFamily: _fontFamily);
-  static const IconData remixFolderReduceFill = IconData(0xec71, fontFamily: _fontFamily);
-  static const IconData remixFolderReduce = IconData(0xec72, fontFamily: _fontFamily);
-  static const IconData remixFolderSettingsFill = IconData(0xec73, fontFamily: _fontFamily);
-  static const IconData remixFolderSettings = IconData(0xec74, fontFamily: _fontFamily);
-  static const IconData remixFolderSharedFill = IconData(0xec75, fontFamily: _fontFamily);
-  static const IconData remixFolderShared = IconData(0xec76, fontFamily: _fontFamily);
-  static const IconData remixFolderShield2Fill = IconData(0xec77, fontFamily: _fontFamily);
-  static const IconData remixFolderShield2 = IconData(0xec78, fontFamily: _fontFamily);
-  static const IconData remixFolderShieldFill = IconData(0xec79, fontFamily: _fontFamily);
-  static const IconData remixFolderShield = IconData(0xec7a, fontFamily: _fontFamily);
-  static const IconData remixFolderTransferFill = IconData(0xec7b, fontFamily: _fontFamily);
-  static const IconData remixFolderTransfer = IconData(0xec7c, fontFamily: _fontFamily);
-  static const IconData remixFolderUnknowFill = IconData(0xec7d, fontFamily: _fontFamily);
-  static const IconData remixFolderUnknow = IconData(0xec7e, fontFamily: _fontFamily);
-  static const IconData remixFolderUploadFill = IconData(0xec7f, fontFamily: _fontFamily);
-  static const IconData remixFolderUpload = IconData(0xec80, fontFamily: _fontFamily);
-  static const IconData remixFolderUserFill = IconData(0xec81, fontFamily: _fontFamily);
-  static const IconData remixFolderUser = IconData(0xec82, fontFamily: _fontFamily);
-  static const IconData remixFolderWarningFill = IconData(0xec83, fontFamily: _fontFamily);
-  static const IconData remixFolderWarning = IconData(0xec84, fontFamily: _fontFamily);
-  static const IconData remixFolderZipFill = IconData(0xec85, fontFamily: _fontFamily);
-  static const IconData remixFolderZip = IconData(0xec86, fontFamily: _fontFamily);
-  static const IconData remixFolder = IconData(0xec87, fontFamily: _fontFamily);
-  static const IconData remixFoldersFill = IconData(0xec88, fontFamily: _fontFamily);
-  static const IconData remixFolders = IconData(0xec89, fontFamily: _fontFamily);
-  static const IconData remixFontColor = IconData(0xec8a, fontFamily: _fontFamily);
-  static const IconData remixFontSize2 = IconData(0xec8b, fontFamily: _fontFamily);
-  static const IconData remixFontSize = IconData(0xec8c, fontFamily: _fontFamily);
-  static const IconData remixFootballFill = IconData(0xec8d, fontFamily: _fontFamily);
-  static const IconData remixFootball = IconData(0xec8e, fontFamily: _fontFamily);
-  static const IconData remixFootprintFill = IconData(0xec8f, fontFamily: _fontFamily);
-  static const IconData remixFootprint = IconData(0xec90, fontFamily: _fontFamily);
-  static const IconData remixForbid2Fill = IconData(0xec91, fontFamily: _fontFamily);
-  static const IconData remixForbid2 = IconData(0xec92, fontFamily: _fontFamily);
-  static const IconData remixForbidFill = IconData(0xec93, fontFamily: _fontFamily);
-  static const IconData remixForbid = IconData(0xec94, fontFamily: _fontFamily);
-  static const IconData remixFormatClear = IconData(0xec95, fontFamily: _fontFamily);
-  static const IconData remixFridgeFill = IconData(0xec96, fontFamily: _fontFamily);
-  static const IconData remixFridge = IconData(0xec97, fontFamily: _fontFamily);
-  static const IconData remixFullscreenExitFill = IconData(0xec98, fontFamily: _fontFamily);
-  static const IconData remixFullscreenExit = IconData(0xec99, fontFamily: _fontFamily);
-  static const IconData remixFullscreenFill = IconData(0xec9a, fontFamily: _fontFamily);
-  static const IconData remixFullscreen = IconData(0xec9b, fontFamily: _fontFamily);
-  static const IconData remixFunctionFill = IconData(0xec9c, fontFamily: _fontFamily);
-  static const IconData remixFunction = IconData(0xec9d, fontFamily: _fontFamily);
-  static const IconData remixFunctions = IconData(0xec9e, fontFamily: _fontFamily);
-  static const IconData remixFundsBoxFill = IconData(0xec9f, fontFamily: _fontFamily);
-  static const IconData remixFundsBox = IconData(0xeca0, fontFamily: _fontFamily);
-  static const IconData remixFundsFill = IconData(0xeca1, fontFamily: _fontFamily);
-  static const IconData remixFunds = IconData(0xeca2, fontFamily: _fontFamily);
-  static const IconData remixGalleryFill = IconData(0xeca3, fontFamily: _fontFamily);
-  static const IconData remixGalleryUploadFill = IconData(0xeca4, fontFamily: _fontFamily);
-  static const IconData remixGalleryUpload = IconData(0xeca5, fontFamily: _fontFamily);
-  static const IconData remixGallery = IconData(0xeca6, fontFamily: _fontFamily);
-  static const IconData remixGameFill = IconData(0xeca7, fontFamily: _fontFamily);
-  static const IconData remixGame = IconData(0xeca8, fontFamily: _fontFamily);
-  static const IconData remixGamepadFill = IconData(0xeca9, fontFamily: _fontFamily);
-  static const IconData remixGamepad = IconData(0xecaa, fontFamily: _fontFamily);
-  static const IconData remixGasStationFill = IconData(0xecab, fontFamily: _fontFamily);
-  static const IconData remixGasStation = IconData(0xecac, fontFamily: _fontFamily);
-  static const IconData remixGatsbyFill = IconData(0xecad, fontFamily: _fontFamily);
-  static const IconData remixGatsby = IconData(0xecae, fontFamily: _fontFamily);
-  static const IconData remixGenderlessFill = IconData(0xecaf, fontFamily: _fontFamily);
-  static const IconData remixGenderless = IconData(0xecb0, fontFamily: _fontFamily);
-  static const IconData remixGhost2Fill = IconData(0xecb1, fontFamily: _fontFamily);
-  static const IconData remixGhost2 = IconData(0xecb2, fontFamily: _fontFamily);
-  static const IconData remixGhostFill = IconData(0xecb3, fontFamily: _fontFamily);
-  static const IconData remixGhostSmileFill = IconData(0xecb4, fontFamily: _fontFamily);
-  static const IconData remixGhostSmile = IconData(0xecb5, fontFamily: _fontFamily);
-  static const IconData remixGhost = IconData(0xecb6, fontFamily: _fontFamily);
-  static const IconData remixGift2Fill = IconData(0xecb7, fontFamily: _fontFamily);
-  static const IconData remixGift2 = IconData(0xecb8, fontFamily: _fontFamily);
-  static const IconData remixGiftFill = IconData(0xecb9, fontFamily: _fontFamily);
-  static const IconData remixGift = IconData(0xecba, fontFamily: _fontFamily);
-  static const IconData remixGitBranchFill = IconData(0xecbb, fontFamily: _fontFamily);
-  static const IconData remixGitBranch = IconData(0xecbc, fontFamily: _fontFamily);
-  static const IconData remixGitCommitFill = IconData(0xecbd, fontFamily: _fontFamily);
-  static const IconData remixGitCommit = IconData(0xecbe, fontFamily: _fontFamily);
-  static const IconData remixGitMergeFill = IconData(0xecbf, fontFamily: _fontFamily);
-  static const IconData remixGitMerge = IconData(0xecc0, fontFamily: _fontFamily);
-  static const IconData remixGitPullRequestFill = IconData(0xecc1, fontFamily: _fontFamily);
-  static const IconData remixGitPullRequest = IconData(0xecc2, fontFamily: _fontFamily);
-  static const IconData remixGitRepositoryCommitsFill = IconData(0xecc3, fontFamily: _fontFamily);
-  static const IconData remixGitRepositoryCommits = IconData(0xecc4, fontFamily: _fontFamily);
-  static const IconData remixGitRepositoryFill = IconData(0xecc5, fontFamily: _fontFamily);
-  static const IconData remixGitRepositoryPrivateFill = IconData(0xecc6, fontFamily: _fontFamily);
-  static const IconData remixGitRepositoryPrivate = IconData(0xecc7, fontFamily: _fontFamily);
-  static const IconData remixGitRepository = IconData(0xecc8, fontFamily: _fontFamily);
-  static const IconData remixGithubFill = IconData(0xecc9, fontFamily: _fontFamily);
-  static const IconData remixGithub = IconData(0xecca, fontFamily: _fontFamily);
-  static const IconData remixGitlabFill = IconData(0xeccb, fontFamily: _fontFamily);
-  static const IconData remixGitlab = IconData(0xeccc, fontFamily: _fontFamily);
-  static const IconData remixGlobalFill = IconData(0xeccd, fontFamily: _fontFamily);
-  static const IconData remixGlobal = IconData(0xecce, fontFamily: _fontFamily);
-  static const IconData remixGlobeFill = IconData(0xeccf, fontFamily: _fontFamily);
-  static const IconData remixGlobe = IconData(0xecd0, fontFamily: _fontFamily);
-  static const IconData remixGobletFill = IconData(0xecd1, fontFamily: _fontFamily);
-  static const IconData remixGoblet = IconData(0xecd2, fontFamily: _fontFamily);
-  static const IconData remixGoogleFill = IconData(0xecd3, fontFamily: _fontFamily);
-  static const IconData remixGooglePlayFill = IconData(0xecd4, fontFamily: _fontFamily);
-  static const IconData remixGooglePlay = IconData(0xecd5, fontFamily: _fontFamily);
-  static const IconData remixGoogle = IconData(0xecd6, fontFamily: _fontFamily);
-  static const IconData remixGovernmentFill = IconData(0xecd7, fontFamily: _fontFamily);
-  static const IconData remixGovernment = IconData(0xecd8, fontFamily: _fontFamily);
-  static const IconData remixGpsFill = IconData(0xecd9, fontFamily: _fontFamily);
-  static const IconData remixGps = IconData(0xecda, fontFamily: _fontFamily);
-  static const IconData remixGradienterFill = IconData(0xecdb, fontFamily: _fontFamily);
-  static const IconData remixGradienter = IconData(0xecdc, fontFamily: _fontFamily);
-  static const IconData remixGridFill = IconData(0xecdd, fontFamily: _fontFamily);
-  static const IconData remixGrid = IconData(0xecde, fontFamily: _fontFamily);
-  static const IconData remixGroup2Fill = IconData(0xecdf, fontFamily: _fontFamily);
-  static const IconData remixGroup2 = IconData(0xece0, fontFamily: _fontFamily);
-  static const IconData remixGroupFill = IconData(0xece1, fontFamily: _fontFamily);
-  static const IconData remixGroup = IconData(0xece2, fontFamily: _fontFamily);
-  static const IconData remixGuideFill = IconData(0xece3, fontFamily: _fontFamily);
-  static const IconData remixGuide = IconData(0xece4, fontFamily: _fontFamily);
-  static const IconData remixH1 = IconData(0xece5, fontFamily: _fontFamily);
-  static const IconData remixH2 = IconData(0xece6, fontFamily: _fontFamily);
-  static const IconData remixH3 = IconData(0xece7, fontFamily: _fontFamily);
-  static const IconData remixH4 = IconData(0xece8, fontFamily: _fontFamily);
-  static const IconData remixH5 = IconData(0xece9, fontFamily: _fontFamily);
-  static const IconData remixH6 = IconData(0xecea, fontFamily: _fontFamily);
-  static const IconData remixHailFill = IconData(0xeceb, fontFamily: _fontFamily);
-  static const IconData remixHail = IconData(0xecec, fontFamily: _fontFamily);
-  static const IconData remixHammerFill = IconData(0xeced, fontFamily: _fontFamily);
-  static const IconData remixHammer = IconData(0xecee, fontFamily: _fontFamily);
-  static const IconData remixHandCoinFill = IconData(0xecef, fontFamily: _fontFamily);
-  static const IconData remixHandCoin = IconData(0xecf0, fontFamily: _fontFamily);
-  static const IconData remixHandHeartFill = IconData(0xecf1, fontFamily: _fontFamily);
-  static const IconData remixHandHeart = IconData(0xecf2, fontFamily: _fontFamily);
-  static const IconData remixHandSanitizerFill = IconData(0xecf3, fontFamily: _fontFamily);
-  static const IconData remixHandSanitizer = IconData(0xecf4, fontFamily: _fontFamily);
-  static const IconData remixHandbagFill = IconData(0xecf5, fontFamily: _fontFamily);
-  static const IconData remixHandbag = IconData(0xecf6, fontFamily: _fontFamily);
-  static const IconData remixHardDrive2Fill = IconData(0xecf7, fontFamily: _fontFamily);
-  static const IconData remixHardDrive2 = IconData(0xecf8, fontFamily: _fontFamily);
-  static const IconData remixHardDriveFill = IconData(0xecf9, fontFamily: _fontFamily);
-  static const IconData remixHardDrive = IconData(0xecfa, fontFamily: _fontFamily);
-  static const IconData remixHashtag = IconData(0xecfb, fontFamily: _fontFamily);
-  static const IconData remixHaze2Fill = IconData(0xecfc, fontFamily: _fontFamily);
-  static const IconData remixHaze2 = IconData(0xecfd, fontFamily: _fontFamily);
-  static const IconData remixHazeFill = IconData(0xecfe, fontFamily: _fontFamily);
-  static const IconData remixHaze = IconData(0xecff, fontFamily: _fontFamily);
-  static const IconData remixHdFill = IconData(0xed00, fontFamily: _fontFamily);
-  static const IconData remixHd = IconData(0xed01, fontFamily: _fontFamily);
-  static const IconData remixHeading = IconData(0xed02, fontFamily: _fontFamily);
-  static const IconData remixHeadphoneFill = IconData(0xed03, fontFamily: _fontFamily);
-  static const IconData remixHeadphone = IconData(0xed04, fontFamily: _fontFamily);
-  static const IconData remixHealthBookFill = IconData(0xed05, fontFamily: _fontFamily);
-  static const IconData remixHealthBook = IconData(0xed06, fontFamily: _fontFamily);
-  static const IconData remixHeart2Fill = IconData(0xed07, fontFamily: _fontFamily);
-  static const IconData remixHeart2 = IconData(0xed08, fontFamily: _fontFamily);
-  static const IconData remixHeart3Fill = IconData(0xed09, fontFamily: _fontFamily);
-  static const IconData remixHeart3 = IconData(0xed0a, fontFamily: _fontFamily);
-  static const IconData remixHeartAddFill = IconData(0xed0b, fontFamily: _fontFamily);
-  static const IconData remixHeartAdd = IconData(0xed0c, fontFamily: _fontFamily);
-  static const IconData remixHeartFill = IconData(0xed0d, fontFamily: _fontFamily);
-  static const IconData remixHeartPulseFill = IconData(0xed0e, fontFamily: _fontFamily);
-  static const IconData remixHeartPulse = IconData(0xed0f, fontFamily: _fontFamily);
-  static const IconData remixHeart = IconData(0xed10, fontFamily: _fontFamily);
-  static const IconData remixHeartsFill = IconData(0xed11, fontFamily: _fontFamily);
-  static const IconData remixHearts = IconData(0xed12, fontFamily: _fontFamily);
-  static const IconData remixHeavyShowersFill = IconData(0xed13, fontFamily: _fontFamily);
-  static const IconData remixHeavyShowers = IconData(0xed14, fontFamily: _fontFamily);
-  static const IconData remixHistoryFill = IconData(0xed15, fontFamily: _fontFamily);
-  static const IconData remixHistory = IconData(0xed16, fontFamily: _fontFamily);
-  static const IconData remixHome2Fill = IconData(0xed17, fontFamily: _fontFamily);
-  static const IconData remixHome2 = IconData(0xed18, fontFamily: _fontFamily);
-  static const IconData remixHome3Fill = IconData(0xed19, fontFamily: _fontFamily);
-  static const IconData remixHome3 = IconData(0xed1a, fontFamily: _fontFamily);
-  static const IconData remixHome4Fill = IconData(0xed1b, fontFamily: _fontFamily);
-  static const IconData remixHome4 = IconData(0xed1c, fontFamily: _fontFamily);
-  static const IconData remixHome5Fill = IconData(0xed1d, fontFamily: _fontFamily);
-  static const IconData remixHome5 = IconData(0xed1e, fontFamily: _fontFamily);
-  static const IconData remixHome6Fill = IconData(0xed1f, fontFamily: _fontFamily);
-  static const IconData remixHome6 = IconData(0xed20, fontFamily: _fontFamily);
-  static const IconData remixHome7Fill = IconData(0xed21, fontFamily: _fontFamily);
-  static const IconData remixHome7 = IconData(0xed22, fontFamily: _fontFamily);
-  static const IconData remixHome8Fill = IconData(0xed23, fontFamily: _fontFamily);
-  static const IconData remixHome8 = IconData(0xed24, fontFamily: _fontFamily);
-  static const IconData remixHomeFill = IconData(0xed25, fontFamily: _fontFamily);
-  static const IconData remixHomeGearFill = IconData(0xed26, fontFamily: _fontFamily);
-  static const IconData remixHomeGear = IconData(0xed27, fontFamily: _fontFamily);
-  static const IconData remixHomeHeartFill = IconData(0xed28, fontFamily: _fontFamily);
-  static const IconData remixHomeHeart = IconData(0xed29, fontFamily: _fontFamily);
-  static const IconData remixHomeSmile2Fill = IconData(0xed2a, fontFamily: _fontFamily);
-  static const IconData remixHomeSmile2 = IconData(0xed2b, fontFamily: _fontFamily);
-  static const IconData remixHomeSmileFill = IconData(0xed2c, fontFamily: _fontFamily);
-  static const IconData remixHomeSmile = IconData(0xed2d, fontFamily: _fontFamily);
-  static const IconData remixHomeWifiFill = IconData(0xed2e, fontFamily: _fontFamily);
-  static const IconData remixHomeWifi = IconData(0xed2f, fontFamily: _fontFamily);
-  static const IconData remixHome = IconData(0xed30, fontFamily: _fontFamily);
-  static const IconData remixHonorOfKingsFill = IconData(0xed31, fontFamily: _fontFamily);
-  static const IconData remixHonorOfKings = IconData(0xed32, fontFamily: _fontFamily);
-  static const IconData remixHonourFill = IconData(0xed33, fontFamily: _fontFamily);
-  static const IconData remixHonour = IconData(0xed34, fontFamily: _fontFamily);
-  static const IconData remixHospitalFill = IconData(0xed35, fontFamily: _fontFamily);
-  static const IconData remixHospital = IconData(0xed36, fontFamily: _fontFamily);
-  static const IconData remixHotelBedFill = IconData(0xed37, fontFamily: _fontFamily);
-  static const IconData remixHotelBed = IconData(0xed38, fontFamily: _fontFamily);
-  static const IconData remixHotelFill = IconData(0xed39, fontFamily: _fontFamily);
-  static const IconData remixHotel = IconData(0xed3a, fontFamily: _fontFamily);
-  static const IconData remixHotspotFill = IconData(0xed3b, fontFamily: _fontFamily);
-  static const IconData remixHotspot = IconData(0xed3c, fontFamily: _fontFamily);
-  static const IconData remixHqFill = IconData(0xed3d, fontFamily: _fontFamily);
-  static const IconData remixHq = IconData(0xed3e, fontFamily: _fontFamily);
-  static const IconData remixHtml5Fill = IconData(0xed3f, fontFamily: _fontFamily);
-  static const IconData remixHtml5 = IconData(0xed40, fontFamily: _fontFamily);
-  static const IconData remixIeFill = IconData(0xed41, fontFamily: _fontFamily);
-  static const IconData remixIe = IconData(0xed42, fontFamily: _fontFamily);
-  static const IconData remixImage2Fill = IconData(0xed43, fontFamily: _fontFamily);
-  static const IconData remixImage2 = IconData(0xed44, fontFamily: _fontFamily);
-  static const IconData remixImageAddFill = IconData(0xed45, fontFamily: _fontFamily);
-  static const IconData remixImageAdd = IconData(0xed46, fontFamily: _fontFamily);
-  static const IconData remixImageEditFill = IconData(0xed47, fontFamily: _fontFamily);
-  static const IconData remixImageEdit = IconData(0xed48, fontFamily: _fontFamily);
-  static const IconData remixImageFill = IconData(0xed49, fontFamily: _fontFamily);
-  static const IconData remixImage = IconData(0xed4a, fontFamily: _fontFamily);
-  static const IconData remixInboxArchiveFill = IconData(0xed4b, fontFamily: _fontFamily);
-  static const IconData remixInboxArchive = IconData(0xed4c, fontFamily: _fontFamily);
-  static const IconData remixInboxFill = IconData(0xed4d, fontFamily: _fontFamily);
-  static const IconData remixInboxUnarchiveFill = IconData(0xed4e, fontFamily: _fontFamily);
-  static const IconData remixInboxUnarchive = IconData(0xed4f, fontFamily: _fontFamily);
-  static const IconData remixInbox = IconData(0xed50, fontFamily: _fontFamily);
-  static const IconData remixIncreaseDecreaseFill = IconData(0xed51, fontFamily: _fontFamily);
-  static const IconData remixIncreaseDecrease = IconData(0xed52, fontFamily: _fontFamily);
-  static const IconData remixIndentDecrease = IconData(0xed53, fontFamily: _fontFamily);
-  static const IconData remixIndentIncrease = IconData(0xed54, fontFamily: _fontFamily);
-  static const IconData remixIndeterminateCircleFill = IconData(0xed55, fontFamily: _fontFamily);
-  static const IconData remixIndeterminateCircle = IconData(0xed56, fontFamily: _fontFamily);
-  static const IconData remixInformationFill = IconData(0xed57, fontFamily: _fontFamily);
-  static const IconData remixInformation = IconData(0xed58, fontFamily: _fontFamily);
-  static const IconData remixInfraredThermometerFill = IconData(0xed59, fontFamily: _fontFamily);
-  static const IconData remixInfraredThermometer = IconData(0xed5a, fontFamily: _fontFamily);
-  static const IconData remixInkBottleFill = IconData(0xed5b, fontFamily: _fontFamily);
-  static const IconData remixInkBottle = IconData(0xed5c, fontFamily: _fontFamily);
-  static const IconData remixInputCursorMove = IconData(0xed5d, fontFamily: _fontFamily);
-  static const IconData remixInputMethodFill = IconData(0xed5e, fontFamily: _fontFamily);
-  static const IconData remixInputMethod = IconData(0xed5f, fontFamily: _fontFamily);
-  static const IconData remixInsertColumnLeft = IconData(0xed60, fontFamily: _fontFamily);
-  static const IconData remixInsertColumnRight = IconData(0xed61, fontFamily: _fontFamily);
-  static const IconData remixInsertRowBottom = IconData(0xed62, fontFamily: _fontFamily);
-  static const IconData remixInsertRowTop = IconData(0xed63, fontFamily: _fontFamily);
-  static const IconData remixInstagramFill = IconData(0xed64, fontFamily: _fontFamily);
-  static const IconData remixInstagram = IconData(0xed65, fontFamily: _fontFamily);
-  static const IconData remixInstallFill = IconData(0xed66, fontFamily: _fontFamily);
-  static const IconData remixInstall = IconData(0xed67, fontFamily: _fontFamily);
-  static const IconData remixInvisionFill = IconData(0xed68, fontFamily: _fontFamily);
-  static const IconData remixInvision = IconData(0xed69, fontFamily: _fontFamily);
-  static const IconData remixItalic = IconData(0xed6a, fontFamily: _fontFamily);
-  static const IconData remixKakaoTalkFill = IconData(0xed6b, fontFamily: _fontFamily);
-  static const IconData remixKakaoTalk = IconData(0xed6c, fontFamily: _fontFamily);
-  static const IconData remixKey2Fill = IconData(0xed6d, fontFamily: _fontFamily);
-  static const IconData remixKey2 = IconData(0xed6e, fontFamily: _fontFamily);
-  static const IconData remixKeyFill = IconData(0xed6f, fontFamily: _fontFamily);
-  static const IconData remixKey = IconData(0xed70, fontFamily: _fontFamily);
-  static const IconData remixKeyboardBoxFill = IconData(0xed71, fontFamily: _fontFamily);
-  static const IconData remixKeyboardBox = IconData(0xed72, fontFamily: _fontFamily);
-  static const IconData remixKeyboardFill = IconData(0xed73, fontFamily: _fontFamily);
-  static const IconData remixKeyboard = IconData(0xed74, fontFamily: _fontFamily);
-  static const IconData remixKeynoteFill = IconData(0xed75, fontFamily: _fontFamily);
-  static const IconData remixKeynote = IconData(0xed76, fontFamily: _fontFamily);
-  static const IconData remixKnifeBloodFill = IconData(0xed77, fontFamily: _fontFamily);
-  static const IconData remixKnifeBlood = IconData(0xed78, fontFamily: _fontFamily);
-  static const IconData remixKnifeFill = IconData(0xed79, fontFamily: _fontFamily);
-  static const IconData remixKnife = IconData(0xed7a, fontFamily: _fontFamily);
-  static const IconData remixLandscapeFill = IconData(0xed7b, fontFamily: _fontFamily);
-  static const IconData remixLandscape = IconData(0xed7c, fontFamily: _fontFamily);
-  static const IconData remixLayout2Fill = IconData(0xed7d, fontFamily: _fontFamily);
-  static const IconData remixLayout2 = IconData(0xed7e, fontFamily: _fontFamily);
-  static const IconData remixLayout3Fill = IconData(0xed7f, fontFamily: _fontFamily);
-  static const IconData remixLayout3 = IconData(0xed80, fontFamily: _fontFamily);
-  static const IconData remixLayout4Fill = IconData(0xed81, fontFamily: _fontFamily);
-  static const IconData remixLayout4 = IconData(0xed82, fontFamily: _fontFamily);
-  static const IconData remixLayout5Fill = IconData(0xed83, fontFamily: _fontFamily);
-  static const IconData remixLayout5 = IconData(0xed84, fontFamily: _fontFamily);
-  static const IconData remixLayout6Fill = IconData(0xed85, fontFamily: _fontFamily);
-  static const IconData remixLayout6 = IconData(0xed86, fontFamily: _fontFamily);
-  static const IconData remixLayoutBottom2Fill = IconData(0xed87, fontFamily: _fontFamily);
-  static const IconData remixLayoutBottom2 = IconData(0xed88, fontFamily: _fontFamily);
-  static const IconData remixLayoutBottomFill = IconData(0xed89, fontFamily: _fontFamily);
-  static const IconData remixLayoutBottom = IconData(0xed8a, fontFamily: _fontFamily);
-  static const IconData remixLayoutColumnFill = IconData(0xed8b, fontFamily: _fontFamily);
-  static const IconData remixLayoutColumn = IconData(0xed8c, fontFamily: _fontFamily);
-  static const IconData remixLayoutFill = IconData(0xed8d, fontFamily: _fontFamily);
-  static const IconData remixLayoutGridFill = IconData(0xed8e, fontFamily: _fontFamily);
-  static const IconData remixLayoutGrid = IconData(0xed8f, fontFamily: _fontFamily);
-  static const IconData remixLayoutLeft2Fill = IconData(0xed90, fontFamily: _fontFamily);
-  static const IconData remixLayoutLeft2 = IconData(0xed91, fontFamily: _fontFamily);
-  static const IconData remixLayoutLeftFill = IconData(0xed92, fontFamily: _fontFamily);
-  static const IconData remixLayoutLeft = IconData(0xed93, fontFamily: _fontFamily);
-  static const IconData remixLayoutMasonryFill = IconData(0xed94, fontFamily: _fontFamily);
-  static const IconData remixLayoutMasonry = IconData(0xed95, fontFamily: _fontFamily);
-  static const IconData remixLayoutRight2Fill = IconData(0xed96, fontFamily: _fontFamily);
-  static const IconData remixLayoutRight2 = IconData(0xed97, fontFamily: _fontFamily);
-  static const IconData remixLayoutRightFill = IconData(0xed98, fontFamily: _fontFamily);
-  static const IconData remixLayoutRight = IconData(0xed99, fontFamily: _fontFamily);
-  static const IconData remixLayoutRowFill = IconData(0xed9a, fontFamily: _fontFamily);
-  static const IconData remixLayoutRow = IconData(0xed9b, fontFamily: _fontFamily);
-  static const IconData remixLayoutTop2Fill = IconData(0xed9c, fontFamily: _fontFamily);
-  static const IconData remixLayoutTop2 = IconData(0xed9d, fontFamily: _fontFamily);
-  static const IconData remixLayoutTopFill = IconData(0xed9e, fontFamily: _fontFamily);
-  static const IconData remixLayoutTop = IconData(0xed9f, fontFamily: _fontFamily);
-  static const IconData remixLayout = IconData(0xeda0, fontFamily: _fontFamily);
-  static const IconData remixLeafFill = IconData(0xeda1, fontFamily: _fontFamily);
-  static const IconData remixLeaf = IconData(0xeda2, fontFamily: _fontFamily);
-  static const IconData remixLifebuoyFill = IconData(0xeda3, fontFamily: _fontFamily);
-  static const IconData remixLifebuoy = IconData(0xeda4, fontFamily: _fontFamily);
-  static const IconData remixLightbulbFill = IconData(0xeda5, fontFamily: _fontFamily);
-  static const IconData remixLightbulbFlashFill = IconData(0xeda6, fontFamily: _fontFamily);
-  static const IconData remixLightbulbFlash = IconData(0xeda7, fontFamily: _fontFamily);
-  static const IconData remixLightbulb = IconData(0xeda8, fontFamily: _fontFamily);
-  static const IconData remixLineChartFill = IconData(0xeda9, fontFamily: _fontFamily);
-  static const IconData remixLineChart = IconData(0xedaa, fontFamily: _fontFamily);
-  static const IconData remixLineFill = IconData(0xedab, fontFamily: _fontFamily);
-  static const IconData remixLineHeight = IconData(0xedac, fontFamily: _fontFamily);
-  static const IconData remixLine = IconData(0xedad, fontFamily: _fontFamily);
-  static const IconData remixLinkM = IconData(0xedae, fontFamily: _fontFamily);
-  static const IconData remixLinkUnlinkM = IconData(0xedaf, fontFamily: _fontFamily);
-  static const IconData remixLinkUnlink = IconData(0xedb0, fontFamily: _fontFamily);
-  static const IconData remixLink = IconData(0xedb1, fontFamily: _fontFamily);
-  static const IconData remixLinkedinBoxFill = IconData(0xedb2, fontFamily: _fontFamily);
-  static const IconData remixLinkedinBox = IconData(0xedb3, fontFamily: _fontFamily);
-  static const IconData remixLinkedinFill = IconData(0xedb4, fontFamily: _fontFamily);
-  static const IconData remixLinkedin = IconData(0xedb5, fontFamily: _fontFamily);
-  static const IconData remixLinksFill = IconData(0xedb6, fontFamily: _fontFamily);
-  static const IconData remixLinks = IconData(0xedb7, fontFamily: _fontFamily);
-  static const IconData remixListCheck2 = IconData(0xedb8, fontFamily: _fontFamily);
-  static const IconData remixListCheck = IconData(0xedb9, fontFamily: _fontFamily);
-  static const IconData remixListOrdered = IconData(0xedba, fontFamily: _fontFamily);
-  static const IconData remixListSettingsFill = IconData(0xedbb, fontFamily: _fontFamily);
-  static const IconData remixListSettings = IconData(0xedbc, fontFamily: _fontFamily);
-  static const IconData remixListUnordered = IconData(0xedbd, fontFamily: _fontFamily);
-  static const IconData remixLiveFill = IconData(0xedbe, fontFamily: _fontFamily);
-  static const IconData remixLive = IconData(0xedbf, fontFamily: _fontFamily);
-  static const IconData remixLoader2Fill = IconData(0xedc0, fontFamily: _fontFamily);
-  static const IconData remixLoader2 = IconData(0xedc1, fontFamily: _fontFamily);
-  static const IconData remixLoader3Fill = IconData(0xedc2, fontFamily: _fontFamily);
-  static const IconData remixLoader3 = IconData(0xedc3, fontFamily: _fontFamily);
-  static const IconData remixLoader4Fill = IconData(0xedc4, fontFamily: _fontFamily);
-  static const IconData remixLoader4 = IconData(0xedc5, fontFamily: _fontFamily);
-  static const IconData remixLoader5Fill = IconData(0xedc6, fontFamily: _fontFamily);
-  static const IconData remixLoader5 = IconData(0xedc7, fontFamily: _fontFamily);
-  static const IconData remixLoaderFill = IconData(0xedc8, fontFamily: _fontFamily);
-  static const IconData remixLoader = IconData(0xedc9, fontFamily: _fontFamily);
-  static const IconData remixLock2Fill = IconData(0xedca, fontFamily: _fontFamily);
-  static const IconData remixLock2 = IconData(0xedcb, fontFamily: _fontFamily);
-  static const IconData remixLockFill = IconData(0xedcc, fontFamily: _fontFamily);
-  static const IconData remixLockPasswordFill = IconData(0xedcd, fontFamily: _fontFamily);
-  static const IconData remixLockPassword = IconData(0xedce, fontFamily: _fontFamily);
-  static const IconData remixLockUnlockFill = IconData(0xedcf, fontFamily: _fontFamily);
-  static const IconData remixLockUnlock = IconData(0xedd0, fontFamily: _fontFamily);
-  static const IconData remixLock = IconData(0xedd1, fontFamily: _fontFamily);
-  static const IconData remixLoginBoxFill = IconData(0xedd2, fontFamily: _fontFamily);
-  static const IconData remixLoginBox = IconData(0xedd3, fontFamily: _fontFamily);
-  static const IconData remixLoginCircleFill = IconData(0xedd4, fontFamily: _fontFamily);
-  static const IconData remixLoginCircle = IconData(0xedd5, fontFamily: _fontFamily);
-  static const IconData remixLogoutBoxFill = IconData(0xedd6, fontFamily: _fontFamily);
-  static const IconData remixLogoutBoxRFill = IconData(0xedd7, fontFamily: _fontFamily);
-  static const IconData remixLogoutBoxR = IconData(0xedd8, fontFamily: _fontFamily);
-  static const IconData remixLogoutBox = IconData(0xedd9, fontFamily: _fontFamily);
-  static const IconData remixLogoutCircleFill = IconData(0xedda, fontFamily: _fontFamily);
-  static const IconData remixLogoutCircleRFill = IconData(0xeddb, fontFamily: _fontFamily);
-  static const IconData remixLogoutCircleR = IconData(0xeddc, fontFamily: _fontFamily);
-  static const IconData remixLogoutCircle = IconData(0xeddd, fontFamily: _fontFamily);
-  static const IconData remixLuggageCartFill = IconData(0xedde, fontFamily: _fontFamily);
-  static const IconData remixLuggageCart = IconData(0xeddf, fontFamily: _fontFamily);
-  static const IconData remixLuggageDepositFill = IconData(0xede0, fontFamily: _fontFamily);
-  static const IconData remixLuggageDeposit = IconData(0xede1, fontFamily: _fontFamily);
-  static const IconData remixLungsFill = IconData(0xede2, fontFamily: _fontFamily);
-  static const IconData remixLungs = IconData(0xede3, fontFamily: _fontFamily);
-  static const IconData remixMacFill = IconData(0xede4, fontFamily: _fontFamily);
-  static const IconData remixMac = IconData(0xede5, fontFamily: _fontFamily);
-  static const IconData remixMacbookFill = IconData(0xede6, fontFamily: _fontFamily);
-  static const IconData remixMacbook = IconData(0xede7, fontFamily: _fontFamily);
-  static const IconData remixMagicFill = IconData(0xede8, fontFamily: _fontFamily);
-  static const IconData remixMagic = IconData(0xede9, fontFamily: _fontFamily);
-  static const IconData remixMailAddFill = IconData(0xedea, fontFamily: _fontFamily);
-  static const IconData remixMailAdd = IconData(0xedeb, fontFamily: _fontFamily);
-  static const IconData remixMailCheckFill = IconData(0xedec, fontFamily: _fontFamily);
-  static const IconData remixMailCheck = IconData(0xeded, fontFamily: _fontFamily);
-  static const IconData remixMailCloseFill = IconData(0xedee, fontFamily: _fontFamily);
-  static const IconData remixMailClose = IconData(0xedef, fontFamily: _fontFamily);
-  static const IconData remixMailDownloadFill = IconData(0xedf0, fontFamily: _fontFamily);
-  static const IconData remixMailDownload = IconData(0xedf1, fontFamily: _fontFamily);
-  static const IconData remixMailFill = IconData(0xedf2, fontFamily: _fontFamily);
-  static const IconData remixMailForbidFill = IconData(0xedf3, fontFamily: _fontFamily);
-  static const IconData remixMailForbid = IconData(0xedf4, fontFamily: _fontFamily);
-  static const IconData remixMailLockFill = IconData(0xedf5, fontFamily: _fontFamily);
-  static const IconData remixMailLock = IconData(0xedf6, fontFamily: _fontFamily);
-  static const IconData remixMailOpenFill = IconData(0xedf7, fontFamily: _fontFamily);
-  static const IconData remixMailOpen = IconData(0xedf8, fontFamily: _fontFamily);
-  static const IconData remixMailSendFill = IconData(0xedf9, fontFamily: _fontFamily);
-  static const IconData remixMailSend = IconData(0xedfa, fontFamily: _fontFamily);
-  static const IconData remixMailSettingsFill = IconData(0xedfb, fontFamily: _fontFamily);
-  static const IconData remixMailSettings = IconData(0xedfc, fontFamily: _fontFamily);
-  static const IconData remixMailStarFill = IconData(0xedfd, fontFamily: _fontFamily);
-  static const IconData remixMailStar = IconData(0xedfe, fontFamily: _fontFamily);
-  static const IconData remixMailUnreadFill = IconData(0xedff, fontFamily: _fontFamily);
-  static const IconData remixMailUnread = IconData(0xee00, fontFamily: _fontFamily);
-  static const IconData remixMailVolumeFill = IconData(0xee01, fontFamily: _fontFamily);
-  static const IconData remixMailVolume = IconData(0xee02, fontFamily: _fontFamily);
-  static const IconData remixMail = IconData(0xee03, fontFamily: _fontFamily);
-  static const IconData remixMap2Fill = IconData(0xee04, fontFamily: _fontFamily);
-  static const IconData remixMap2 = IconData(0xee05, fontFamily: _fontFamily);
-  static const IconData remixMapFill = IconData(0xee06, fontFamily: _fontFamily);
-  static const IconData remixMapPin2Fill = IconData(0xee07, fontFamily: _fontFamily);
-  static const IconData remixMapPin2 = IconData(0xee08, fontFamily: _fontFamily);
-  static const IconData remixMapPin3Fill = IconData(0xee09, fontFamily: _fontFamily);
-  static const IconData remixMapPin3 = IconData(0xee0a, fontFamily: _fontFamily);
-  static const IconData remixMapPin4Fill = IconData(0xee0b, fontFamily: _fontFamily);
-  static const IconData remixMapPin4 = IconData(0xee0c, fontFamily: _fontFamily);
-  static const IconData remixMapPin5Fill = IconData(0xee0d, fontFamily: _fontFamily);
-  static const IconData remixMapPin5 = IconData(0xee0e, fontFamily: _fontFamily);
-  static const IconData remixMapPinAddFill = IconData(0xee0f, fontFamily: _fontFamily);
-  static const IconData remixMapPinAdd = IconData(0xee10, fontFamily: _fontFamily);
-  static const IconData remixMapPinFill = IconData(0xee11, fontFamily: _fontFamily);
-  static const IconData remixMapPinRangeFill = IconData(0xee12, fontFamily: _fontFamily);
-  static const IconData remixMapPinRange = IconData(0xee13, fontFamily: _fontFamily);
-  static const IconData remixMapPinTimeFill = IconData(0xee14, fontFamily: _fontFamily);
-  static const IconData remixMapPinTime = IconData(0xee15, fontFamily: _fontFamily);
-  static const IconData remixMapPinUserFill = IconData(0xee16, fontFamily: _fontFamily);
-  static const IconData remixMapPinUser = IconData(0xee17, fontFamily: _fontFamily);
-  static const IconData remixMapPin = IconData(0xee18, fontFamily: _fontFamily);
-  static const IconData remixMap = IconData(0xee19, fontFamily: _fontFamily);
-  static const IconData remixMarkPenFill = IconData(0xee1a, fontFamily: _fontFamily);
-  static const IconData remixMarkPen = IconData(0xee1b, fontFamily: _fontFamily);
-  static const IconData remixMarkdownFill = IconData(0xee1c, fontFamily: _fontFamily);
-  static const IconData remixMarkdown = IconData(0xee1d, fontFamily: _fontFamily);
-  static const IconData remixMarkupFill = IconData(0xee1e, fontFamily: _fontFamily);
-  static const IconData remixMarkup = IconData(0xee1f, fontFamily: _fontFamily);
-  static const IconData remixMastercardFill = IconData(0xee20, fontFamily: _fontFamily);
-  static const IconData remixMastercard = IconData(0xee21, fontFamily: _fontFamily);
-  static const IconData remixMastodonFill = IconData(0xee22, fontFamily: _fontFamily);
-  static const IconData remixMastodon = IconData(0xee23, fontFamily: _fontFamily);
-  static const IconData remixMedal2Fill = IconData(0xee24, fontFamily: _fontFamily);
-  static const IconData remixMedal2 = IconData(0xee25, fontFamily: _fontFamily);
-  static const IconData remixMedalFill = IconData(0xee26, fontFamily: _fontFamily);
-  static const IconData remixMedal = IconData(0xee27, fontFamily: _fontFamily);
-  static const IconData remixMedicineBottleFill = IconData(0xee28, fontFamily: _fontFamily);
-  static const IconData remixMedicineBottle = IconData(0xee29, fontFamily: _fontFamily);
-  static const IconData remixMediumFill = IconData(0xee2a, fontFamily: _fontFamily);
-  static const IconData remixMedium = IconData(0xee2b, fontFamily: _fontFamily);
-  static const IconData remixMenFill = IconData(0xee2c, fontFamily: _fontFamily);
-  static const IconData remixMen = IconData(0xee2d, fontFamily: _fontFamily);
-  static const IconData remixMentalHealthFill = IconData(0xee2e, fontFamily: _fontFamily);
-  static const IconData remixMentalHealth = IconData(0xee2f, fontFamily: _fontFamily);
-  static const IconData remixMenu2Fill = IconData(0xee30, fontFamily: _fontFamily);
-  static const IconData remixMenu2 = IconData(0xee31, fontFamily: _fontFamily);
-  static const IconData remixMenu3Fill = IconData(0xee32, fontFamily: _fontFamily);
-  static const IconData remixMenu3 = IconData(0xee33, fontFamily: _fontFamily);
-  static const IconData remixMenu4Fill = IconData(0xee34, fontFamily: _fontFamily);
-  static const IconData remixMenu4 = IconData(0xee35, fontFamily: _fontFamily);
-  static const IconData remixMenu5Fill = IconData(0xee36, fontFamily: _fontFamily);
-  static const IconData remixMenu5 = IconData(0xee37, fontFamily: _fontFamily);
-  static const IconData remixMenuAddFill = IconData(0xee38, fontFamily: _fontFamily);
-  static const IconData remixMenuAdd = IconData(0xee39, fontFamily: _fontFamily);
-  static const IconData remixMenuFill = IconData(0xee3a, fontFamily: _fontFamily);
-  static const IconData remixMenuFoldFill = IconData(0xee3b, fontFamily: _fontFamily);
-  static const IconData remixMenuFold = IconData(0xee3c, fontFamily: _fontFamily);
-  static const IconData remixMenuUnfoldFill = IconData(0xee3d, fontFamily: _fontFamily);
-  static const IconData remixMenuUnfold = IconData(0xee3e, fontFamily: _fontFamily);
-  static const IconData remixMenu = IconData(0xee3f, fontFamily: _fontFamily);
-  static const IconData remixMergeCellsHorizontal = IconData(0xee40, fontFamily: _fontFamily);
-  static const IconData remixMergeCellsVertical = IconData(0xee41, fontFamily: _fontFamily);
-  static const IconData remixMessage2Fill = IconData(0xee42, fontFamily: _fontFamily);
-  static const IconData remixMessage2 = IconData(0xee43, fontFamily: _fontFamily);
-  static const IconData remixMessage3Fill = IconData(0xee44, fontFamily: _fontFamily);
-  static const IconData remixMessage3 = IconData(0xee45, fontFamily: _fontFamily);
-  static const IconData remixMessageFill = IconData(0xee46, fontFamily: _fontFamily);
-  static const IconData remixMessage = IconData(0xee47, fontFamily: _fontFamily);
-  static const IconData remixMessengerFill = IconData(0xee48, fontFamily: _fontFamily);
-  static const IconData remixMessenger = IconData(0xee49, fontFamily: _fontFamily);
-  static const IconData remixMeteorFill = IconData(0xee4a, fontFamily: _fontFamily);
-  static const IconData remixMeteor = IconData(0xee4b, fontFamily: _fontFamily);
-  static const IconData remixMic2Fill = IconData(0xee4c, fontFamily: _fontFamily);
-  static const IconData remixMic2 = IconData(0xee4d, fontFamily: _fontFamily);
-  static const IconData remixMicFill = IconData(0xee4e, fontFamily: _fontFamily);
-  static const IconData remixMicOffFill = IconData(0xee4f, fontFamily: _fontFamily);
-  static const IconData remixMicOff = IconData(0xee50, fontFamily: _fontFamily);
-  static const IconData remixMic = IconData(0xee51, fontFamily: _fontFamily);
-  static const IconData remixMickeyFill = IconData(0xee52, fontFamily: _fontFamily);
-  static const IconData remixMickey = IconData(0xee53, fontFamily: _fontFamily);
-  static const IconData remixMicroscopeFill = IconData(0xee54, fontFamily: _fontFamily);
-  static const IconData remixMicroscope = IconData(0xee55, fontFamily: _fontFamily);
-  static const IconData remixMicrosoftFill = IconData(0xee56, fontFamily: _fontFamily);
-  static const IconData remixMicrosoft = IconData(0xee57, fontFamily: _fontFamily);
-  static const IconData remixMindMap = IconData(0xee58, fontFamily: _fontFamily);
-  static const IconData remixMiniProgramFill = IconData(0xee59, fontFamily: _fontFamily);
-  static const IconData remixMiniProgram = IconData(0xee5a, fontFamily: _fontFamily);
-  static const IconData remixMistFill = IconData(0xee5b, fontFamily: _fontFamily);
-  static const IconData remixMist = IconData(0xee5c, fontFamily: _fontFamily);
-  static const IconData remixMoneyCnyBoxFill = IconData(0xee5d, fontFamily: _fontFamily);
-  static const IconData remixMoneyCnyBox = IconData(0xee5e, fontFamily: _fontFamily);
-  static const IconData remixMoneyCnyCircleFill = IconData(0xee5f, fontFamily: _fontFamily);
-  static const IconData remixMoneyCnyCircle = IconData(0xee60, fontFamily: _fontFamily);
-  static const IconData remixMoneyDollarBoxFill = IconData(0xee61, fontFamily: _fontFamily);
-  static const IconData remixMoneyDollarBox = IconData(0xee62, fontFamily: _fontFamily);
-  static const IconData remixMoneyDollarCircleFill = IconData(0xee63, fontFamily: _fontFamily);
-  static const IconData remixMoneyDollarCircle = IconData(0xee64, fontFamily: _fontFamily);
-  static const IconData remixMoneyEuroBoxFill = IconData(0xee65, fontFamily: _fontFamily);
-  static const IconData remixMoneyEuroBox = IconData(0xee66, fontFamily: _fontFamily);
-  static const IconData remixMoneyEuroCircleFill = IconData(0xee67, fontFamily: _fontFamily);
-  static const IconData remixMoneyEuroCircle = IconData(0xee68, fontFamily: _fontFamily);
-  static const IconData remixMoneyPoundBoxFill = IconData(0xee69, fontFamily: _fontFamily);
-  static const IconData remixMoneyPoundBox = IconData(0xee6a, fontFamily: _fontFamily);
-  static const IconData remixMoneyPoundCircleFill = IconData(0xee6b, fontFamily: _fontFamily);
-  static const IconData remixMoneyPoundCircle = IconData(0xee6c, fontFamily: _fontFamily);
-  static const IconData remixMoonClearFill = IconData(0xee6d, fontFamily: _fontFamily);
-  static const IconData remixMoonClear = IconData(0xee6e, fontFamily: _fontFamily);
-  static const IconData remixMoonCloudyFill = IconData(0xee6f, fontFamily: _fontFamily);
-  static const IconData remixMoonCloudy = IconData(0xee70, fontFamily: _fontFamily);
-  static const IconData remixMoonFill = IconData(0xee71, fontFamily: _fontFamily);
-  static const IconData remixMoonFoggyFill = IconData(0xee72, fontFamily: _fontFamily);
-  static const IconData remixMoonFoggy = IconData(0xee73, fontFamily: _fontFamily);
-  static const IconData remixMoon = IconData(0xee74, fontFamily: _fontFamily);
-  static const IconData remixMore2Fill = IconData(0xee75, fontFamily: _fontFamily);
-  static const IconData remixMore2 = IconData(0xee76, fontFamily: _fontFamily);
-  static const IconData remixMoreFill = IconData(0xee77, fontFamily: _fontFamily);
-  static const IconData remixMore = IconData(0xee78, fontFamily: _fontFamily);
-  static const IconData remixMotorbikeFill = IconData(0xee79, fontFamily: _fontFamily);
-  static const IconData remixMotorbike = IconData(0xee7a, fontFamily: _fontFamily);
-  static const IconData remixMouseFill = IconData(0xee7b, fontFamily: _fontFamily);
-  static const IconData remixMouse = IconData(0xee7c, fontFamily: _fontFamily);
-  static const IconData remixMovie2Fill = IconData(0xee7d, fontFamily: _fontFamily);
-  static const IconData remixMovie2 = IconData(0xee7e, fontFamily: _fontFamily);
-  static const IconData remixMovieFill = IconData(0xee7f, fontFamily: _fontFamily);
-  static const IconData remixMovie = IconData(0xee80, fontFamily: _fontFamily);
-  static const IconData remixMusic2Fill = IconData(0xee81, fontFamily: _fontFamily);
-  static const IconData remixMusic2 = IconData(0xee82, fontFamily: _fontFamily);
-  static const IconData remixMusicFill = IconData(0xee83, fontFamily: _fontFamily);
-  static const IconData remixMusic = IconData(0xee84, fontFamily: _fontFamily);
-  static const IconData remixMvFill = IconData(0xee85, fontFamily: _fontFamily);
-  static const IconData remixMv = IconData(0xee86, fontFamily: _fontFamily);
-  static const IconData remixNavigationFill = IconData(0xee87, fontFamily: _fontFamily);
-  static const IconData remixNavigation = IconData(0xee88, fontFamily: _fontFamily);
-  static const IconData remixNeteaseCloudMusicFill = IconData(0xee89, fontFamily: _fontFamily);
-  static const IconData remixNeteaseCloudMusic = IconData(0xee8a, fontFamily: _fontFamily);
-  static const IconData remixNetflixFill = IconData(0xee8b, fontFamily: _fontFamily);
-  static const IconData remixNetflix = IconData(0xee8c, fontFamily: _fontFamily);
-  static const IconData remixNewspaperFill = IconData(0xee8d, fontFamily: _fontFamily);
-  static const IconData remixNewspaper = IconData(0xee8e, fontFamily: _fontFamily);
-  static const IconData remixNodeTree = IconData(0xee8f, fontFamily: _fontFamily);
-  static const IconData remixNotification2Fill = IconData(0xee90, fontFamily: _fontFamily);
-  static const IconData remixNotification2 = IconData(0xee91, fontFamily: _fontFamily);
-  static const IconData remixNotification3Fill = IconData(0xee92, fontFamily: _fontFamily);
-  static const IconData remixNotification3 = IconData(0xee93, fontFamily: _fontFamily);
-  static const IconData remixNotification4Fill = IconData(0xee94, fontFamily: _fontFamily);
-  static const IconData remixNotification4 = IconData(0xee95, fontFamily: _fontFamily);
-  static const IconData remixNotificationBadgeFill = IconData(0xee96, fontFamily: _fontFamily);
-  static const IconData remixNotificationBadge = IconData(0xee97, fontFamily: _fontFamily);
-  static const IconData remixNotificationFill = IconData(0xee98, fontFamily: _fontFamily);
-  static const IconData remixNotificationOffFill = IconData(0xee99, fontFamily: _fontFamily);
-  static const IconData remixNotificationOff = IconData(0xee9a, fontFamily: _fontFamily);
-  static const IconData remixNotification = IconData(0xee9b, fontFamily: _fontFamily);
-  static const IconData remixNpmjsFill = IconData(0xee9c, fontFamily: _fontFamily);
-  static const IconData remixNpmjs = IconData(0xee9d, fontFamily: _fontFamily);
-  static const IconData remixNumber0 = IconData(0xee9e, fontFamily: _fontFamily);
-  static const IconData remixNumber1 = IconData(0xee9f, fontFamily: _fontFamily);
-  static const IconData remixNumber2 = IconData(0xeea0, fontFamily: _fontFamily);
-  static const IconData remixNumber3 = IconData(0xeea1, fontFamily: _fontFamily);
-  static const IconData remixNumber4 = IconData(0xeea2, fontFamily: _fontFamily);
-  static const IconData remixNumber5 = IconData(0xeea3, fontFamily: _fontFamily);
-  static const IconData remixNumber6 = IconData(0xeea4, fontFamily: _fontFamily);
-  static const IconData remixNumber7 = IconData(0xeea5, fontFamily: _fontFamily);
-  static const IconData remixNumber8 = IconData(0xeea6, fontFamily: _fontFamily);
-  static const IconData remixNumber9 = IconData(0xeea7, fontFamily: _fontFamily);
-  static const IconData remixNumbersFill = IconData(0xeea8, fontFamily: _fontFamily);
-  static const IconData remixNumbers = IconData(0xeea9, fontFamily: _fontFamily);
-  static const IconData remixNurseFill = IconData(0xeeaa, fontFamily: _fontFamily);
-  static const IconData remixNurse = IconData(0xeeab, fontFamily: _fontFamily);
-  static const IconData remixOilFill = IconData(0xeeac, fontFamily: _fontFamily);
-  static const IconData remixOil = IconData(0xeead, fontFamily: _fontFamily);
-  static const IconData remixOmega = IconData(0xeeae, fontFamily: _fontFamily);
-  static const IconData remixOpenArmFill = IconData(0xeeaf, fontFamily: _fontFamily);
-  static const IconData remixOpenArm = IconData(0xeeb0, fontFamily: _fontFamily);
-  static const IconData remixOpenSourceFill = IconData(0xeeb1, fontFamily: _fontFamily);
-  static const IconData remixOpenSource = IconData(0xeeb2, fontFamily: _fontFamily);
-  static const IconData remixOperaFill = IconData(0xeeb3, fontFamily: _fontFamily);
-  static const IconData remixOpera = IconData(0xeeb4, fontFamily: _fontFamily);
-  static const IconData remixOrderPlayFill = IconData(0xeeb5, fontFamily: _fontFamily);
-  static const IconData remixOrderPlay = IconData(0xeeb6, fontFamily: _fontFamily);
-  static const IconData remixOrganizationChart = IconData(0xeeb7, fontFamily: _fontFamily);
-  static const IconData remixOutlet2Fill = IconData(0xeeb8, fontFamily: _fontFamily);
-  static const IconData remixOutlet2 = IconData(0xeeb9, fontFamily: _fontFamily);
-  static const IconData remixOutletFill = IconData(0xeeba, fontFamily: _fontFamily);
-  static const IconData remixOutlet = IconData(0xeebb, fontFamily: _fontFamily);
-  static const IconData remixPageSeparator = IconData(0xeebc, fontFamily: _fontFamily);
-  static const IconData remixPagesFill = IconData(0xeebd, fontFamily: _fontFamily);
-  static const IconData remixPages = IconData(0xeebe, fontFamily: _fontFamily);
-  static const IconData remixPaintBrushFill = IconData(0xeebf, fontFamily: _fontFamily);
-  static const IconData remixPaintBrush = IconData(0xeec0, fontFamily: _fontFamily);
-  static const IconData remixPaintFill = IconData(0xeec1, fontFamily: _fontFamily);
-  static const IconData remixPaint = IconData(0xeec2, fontFamily: _fontFamily);
-  static const IconData remixPaletteFill = IconData(0xeec3, fontFamily: _fontFamily);
-  static const IconData remixPalette = IconData(0xeec4, fontFamily: _fontFamily);
-  static const IconData remixPantoneFill = IconData(0xeec5, fontFamily: _fontFamily);
-  static const IconData remixPantone = IconData(0xeec6, fontFamily: _fontFamily);
-  static const IconData remixParagraph = IconData(0xeec7, fontFamily: _fontFamily);
-  static const IconData remixParentFill = IconData(0xeec8, fontFamily: _fontFamily);
-  static const IconData remixParent = IconData(0xeec9, fontFamily: _fontFamily);
-  static const IconData remixParenthesesFill = IconData(0xeeca, fontFamily: _fontFamily);
-  static const IconData remixParentheses = IconData(0xeecb, fontFamily: _fontFamily);
-  static const IconData remixParkingBoxFill = IconData(0xeecc, fontFamily: _fontFamily);
-  static const IconData remixParkingBox = IconData(0xeecd, fontFamily: _fontFamily);
-  static const IconData remixParkingFill = IconData(0xeece, fontFamily: _fontFamily);
-  static const IconData remixParking = IconData(0xeecf, fontFamily: _fontFamily);
-  static const IconData remixPassportFill = IconData(0xeed0, fontFamily: _fontFamily);
-  static const IconData remixPassport = IconData(0xeed1, fontFamily: _fontFamily);
-  static const IconData remixPatreonFill = IconData(0xeed2, fontFamily: _fontFamily);
-  static const IconData remixPatreon = IconData(0xeed3, fontFamily: _fontFamily);
-  static const IconData remixPauseCircleFill = IconData(0xeed4, fontFamily: _fontFamily);
-  static const IconData remixPauseCircle = IconData(0xeed5, fontFamily: _fontFamily);
-  static const IconData remixPauseFill = IconData(0xeed6, fontFamily: _fontFamily);
-  static const IconData remixPauseMiniFill = IconData(0xeed7, fontFamily: _fontFamily);
-  static const IconData remixPauseMini = IconData(0xeed8, fontFamily: _fontFamily);
-  static const IconData remixPause = IconData(0xeed9, fontFamily: _fontFamily);
-  static const IconData remixPaypalFill = IconData(0xeeda, fontFamily: _fontFamily);
-  static const IconData remixPaypal = IconData(0xeedb, fontFamily: _fontFamily);
-  static const IconData remixPenNibFill = IconData(0xeedc, fontFamily: _fontFamily);
-  static const IconData remixPenNib = IconData(0xeedd, fontFamily: _fontFamily);
-  static const IconData remixPencilFill = IconData(0xeede, fontFamily: _fontFamily);
-  static const IconData remixPencilRuler2Fill = IconData(0xeedf, fontFamily: _fontFamily);
-  static const IconData remixPencilRuler2 = IconData(0xeee0, fontFamily: _fontFamily);
-  static const IconData remixPencilRulerFill = IconData(0xeee1, fontFamily: _fontFamily);
-  static const IconData remixPencilRuler = IconData(0xeee2, fontFamily: _fontFamily);
-  static const IconData remixPencil = IconData(0xeee3, fontFamily: _fontFamily);
-  static const IconData remixPercentFill = IconData(0xeee4, fontFamily: _fontFamily);
-  static const IconData remixPercent = IconData(0xeee5, fontFamily: _fontFamily);
-  static const IconData remixPhoneCameraFill = IconData(0xeee6, fontFamily: _fontFamily);
-  static const IconData remixPhoneCamera = IconData(0xeee7, fontFamily: _fontFamily);
-  static const IconData remixPhoneFill = IconData(0xeee8, fontFamily: _fontFamily);
-  static const IconData remixPhoneFindFill = IconData(0xeee9, fontFamily: _fontFamily);
-  static const IconData remixPhoneFind = IconData(0xeeea, fontFamily: _fontFamily);
-  static const IconData remixPhoneLockFill = IconData(0xeeeb, fontFamily: _fontFamily);
-  static const IconData remixPhoneLock = IconData(0xeeec, fontFamily: _fontFamily);
-  static const IconData remixPhone = IconData(0xeeed, fontFamily: _fontFamily);
-  static const IconData remixPictureInPicture2Fill = IconData(0xeeee, fontFamily: _fontFamily);
-  static const IconData remixPictureInPicture2 = IconData(0xeeef, fontFamily: _fontFamily);
-  static const IconData remixPictureInPictureExitFill = IconData(0xeef0, fontFamily: _fontFamily);
-  static const IconData remixPictureInPictureExit = IconData(0xeef1, fontFamily: _fontFamily);
-  static const IconData remixPictureInPictureFill = IconData(0xeef2, fontFamily: _fontFamily);
-  static const IconData remixPictureInPicture = IconData(0xeef3, fontFamily: _fontFamily);
-  static const IconData remixPieChart2Fill = IconData(0xeef4, fontFamily: _fontFamily);
-  static const IconData remixPieChart2 = IconData(0xeef5, fontFamily: _fontFamily);
-  static const IconData remixPieChartBoxFill = IconData(0xeef6, fontFamily: _fontFamily);
-  static const IconData remixPieChartBox = IconData(0xeef7, fontFamily: _fontFamily);
-  static const IconData remixPieChartFill = IconData(0xeef8, fontFamily: _fontFamily);
-  static const IconData remixPieChart = IconData(0xeef9, fontFamily: _fontFamily);
-  static const IconData remixPinDistanceFill = IconData(0xeefa, fontFamily: _fontFamily);
-  static const IconData remixPinDistance = IconData(0xeefb, fontFamily: _fontFamily);
-  static const IconData remixPingPongFill = IconData(0xeefc, fontFamily: _fontFamily);
-  static const IconData remixPingPong = IconData(0xeefd, fontFamily: _fontFamily);
-  static const IconData remixPinterestFill = IconData(0xeefe, fontFamily: _fontFamily);
-  static const IconData remixPinterest = IconData(0xeeff, fontFamily: _fontFamily);
-  static const IconData remixPinyinInput = IconData(0xef00, fontFamily: _fontFamily);
-  static const IconData remixPixelfedFill = IconData(0xef01, fontFamily: _fontFamily);
-  static const IconData remixPixelfed = IconData(0xef02, fontFamily: _fontFamily);
-  static const IconData remixPlaneFill = IconData(0xef03, fontFamily: _fontFamily);
-  static const IconData remixPlane = IconData(0xef04, fontFamily: _fontFamily);
-  static const IconData remixPlantFill = IconData(0xef05, fontFamily: _fontFamily);
-  static const IconData remixPlant = IconData(0xef06, fontFamily: _fontFamily);
-  static const IconData remixPlayCircleFill = IconData(0xef07, fontFamily: _fontFamily);
-  static const IconData remixPlayCircle = IconData(0xef08, fontFamily: _fontFamily);
-  static const IconData remixPlayFill = IconData(0xef09, fontFamily: _fontFamily);
-  static const IconData remixPlayList2Fill = IconData(0xef0a, fontFamily: _fontFamily);
-  static const IconData remixPlayList2 = IconData(0xef0b, fontFamily: _fontFamily);
-  static const IconData remixPlayListAddFill = IconData(0xef0c, fontFamily: _fontFamily);
-  static const IconData remixPlayListAdd = IconData(0xef0d, fontFamily: _fontFamily);
-  static const IconData remixPlayListFill = IconData(0xef0e, fontFamily: _fontFamily);
-  static const IconData remixPlayList = IconData(0xef0f, fontFamily: _fontFamily);
-  static const IconData remixPlayMiniFill = IconData(0xef10, fontFamily: _fontFamily);
-  static const IconData remixPlayMini = IconData(0xef11, fontFamily: _fontFamily);
-  static const IconData remixPlay = IconData(0xef12, fontFamily: _fontFamily);
-  static const IconData remixPlaystationFill = IconData(0xef13, fontFamily: _fontFamily);
-  static const IconData remixPlaystation = IconData(0xef14, fontFamily: _fontFamily);
-  static const IconData remixPlug2Fill = IconData(0xef15, fontFamily: _fontFamily);
-  static const IconData remixPlug2 = IconData(0xef16, fontFamily: _fontFamily);
-  static const IconData remixPlugFill = IconData(0xef17, fontFamily: _fontFamily);
-  static const IconData remixPlug = IconData(0xef18, fontFamily: _fontFamily);
-  static const IconData remixPolaroid2Fill = IconData(0xef19, fontFamily: _fontFamily);
-  static const IconData remixPolaroid2 = IconData(0xef1a, fontFamily: _fontFamily);
-  static const IconData remixPolaroidFill = IconData(0xef1b, fontFamily: _fontFamily);
-  static const IconData remixPolaroid = IconData(0xef1c, fontFamily: _fontFamily);
-  static const IconData remixPoliceCarFill = IconData(0xef1d, fontFamily: _fontFamily);
-  static const IconData remixPoliceCar = IconData(0xef1e, fontFamily: _fontFamily);
-  static const IconData remixPriceTag2Fill = IconData(0xef1f, fontFamily: _fontFamily);
-  static const IconData remixPriceTag2 = IconData(0xef20, fontFamily: _fontFamily);
-  static const IconData remixPriceTag3Fill = IconData(0xef21, fontFamily: _fontFamily);
-  static const IconData remixPriceTag3 = IconData(0xef22, fontFamily: _fontFamily);
-  static const IconData remixPriceTagFill = IconData(0xef23, fontFamily: _fontFamily);
-  static const IconData remixPriceTag = IconData(0xef24, fontFamily: _fontFamily);
-  static const IconData remixPrinterCloudFill = IconData(0xef25, fontFamily: _fontFamily);
-  static const IconData remixPrinterCloud = IconData(0xef26, fontFamily: _fontFamily);
-  static const IconData remixPrinterFill = IconData(0xef27, fontFamily: _fontFamily);
-  static const IconData remixPrinter = IconData(0xef28, fontFamily: _fontFamily);
-  static const IconData remixProductHuntFill = IconData(0xef29, fontFamily: _fontFamily);
-  static const IconData remixProductHunt = IconData(0xef2a, fontFamily: _fontFamily);
-  static const IconData remixProfileFill = IconData(0xef2b, fontFamily: _fontFamily);
-  static const IconData remixProfile = IconData(0xef2c, fontFamily: _fontFamily);
-  static const IconData remixProjector2Fill = IconData(0xef2d, fontFamily: _fontFamily);
-  static const IconData remixProjector2 = IconData(0xef2e, fontFamily: _fontFamily);
-  static const IconData remixProjectorFill = IconData(0xef2f, fontFamily: _fontFamily);
-  static const IconData remixProjector = IconData(0xef30, fontFamily: _fontFamily);
-  static const IconData remixPsychotherapyFill = IconData(0xef31, fontFamily: _fontFamily);
-  static const IconData remixPsychotherapy = IconData(0xef32, fontFamily: _fontFamily);
-  static const IconData remixPulseFill = IconData(0xef33, fontFamily: _fontFamily);
-  static const IconData remixPulse = IconData(0xef34, fontFamily: _fontFamily);
-  static const IconData remixPushpin2Fill = IconData(0xef35, fontFamily: _fontFamily);
-  static const IconData remixPushpin2 = IconData(0xef36, fontFamily: _fontFamily);
-  static const IconData remixPushpinFill = IconData(0xef37, fontFamily: _fontFamily);
-  static const IconData remixPushpin = IconData(0xef38, fontFamily: _fontFamily);
-  static const IconData remixQqFill = IconData(0xef39, fontFamily: _fontFamily);
-  static const IconData remixQq = IconData(0xef3a, fontFamily: _fontFamily);
-  static const IconData remixQrCodeFill = IconData(0xef3b, fontFamily: _fontFamily);
-  static const IconData remixQrCode = IconData(0xef3c, fontFamily: _fontFamily);
-  static const IconData remixQrScan2Fill = IconData(0xef3d, fontFamily: _fontFamily);
-  static const IconData remixQrScan2 = IconData(0xef3e, fontFamily: _fontFamily);
-  static const IconData remixQrScanFill = IconData(0xef3f, fontFamily: _fontFamily);
-  static const IconData remixQrScan = IconData(0xef40, fontFamily: _fontFamily);
-  static const IconData remixQuestionAnswerFill = IconData(0xef41, fontFamily: _fontFamily);
-  static const IconData remixQuestionAnswer = IconData(0xef42, fontFamily: _fontFamily);
-  static const IconData remixQuestionFill = IconData(0xef43, fontFamily: _fontFamily);
-  static const IconData remixQuestionMark = IconData(0xef44, fontFamily: _fontFamily);
-  static const IconData remixQuestion = IconData(0xef45, fontFamily: _fontFamily);
-  static const IconData remixQuestionnaireFill = IconData(0xef46, fontFamily: _fontFamily);
-  static const IconData remixQuestionnaire = IconData(0xef47, fontFamily: _fontFamily);
-  static const IconData remixQuillPenFill = IconData(0xef48, fontFamily: _fontFamily);
-  static const IconData remixQuillPen = IconData(0xef49, fontFamily: _fontFamily);
-  static const IconData remixRadarFill = IconData(0xef4a, fontFamily: _fontFamily);
-  static const IconData remixRadar = IconData(0xef4b, fontFamily: _fontFamily);
-  static const IconData remixRadio2Fill = IconData(0xef4c, fontFamily: _fontFamily);
-  static const IconData remixRadio2 = IconData(0xef4d, fontFamily: _fontFamily);
-  static const IconData remixRadioButtonFill = IconData(0xef4e, fontFamily: _fontFamily);
-  static const IconData remixRadioButton = IconData(0xef4f, fontFamily: _fontFamily);
-  static const IconData remixRadioFill = IconData(0xef50, fontFamily: _fontFamily);
-  static const IconData remixRadio = IconData(0xef51, fontFamily: _fontFamily);
-  static const IconData remixRainbowFill = IconData(0xef52, fontFamily: _fontFamily);
-  static const IconData remixRainbow = IconData(0xef53, fontFamily: _fontFamily);
-  static const IconData remixRainyFill = IconData(0xef54, fontFamily: _fontFamily);
-  static const IconData remixRainy = IconData(0xef55, fontFamily: _fontFamily);
-  static const IconData remixReactjsFill = IconData(0xef56, fontFamily: _fontFamily);
-  static const IconData remixReactjs = IconData(0xef57, fontFamily: _fontFamily);
-  static const IconData remixRecordCircleFill = IconData(0xef58, fontFamily: _fontFamily);
-  static const IconData remixRecordCircle = IconData(0xef59, fontFamily: _fontFamily);
-  static const IconData remixRecordMailFill = IconData(0xef5a, fontFamily: _fontFamily);
-  static const IconData remixRecordMail = IconData(0xef5b, fontFamily: _fontFamily);
-  static const IconData remixRecycleFill = IconData(0xef5c, fontFamily: _fontFamily);
-  static const IconData remixRecycle = IconData(0xef5d, fontFamily: _fontFamily);
-  static const IconData remixRedPacketFill = IconData(0xef5e, fontFamily: _fontFamily);
-  static const IconData remixRedPacket = IconData(0xef5f, fontFamily: _fontFamily);
-  static const IconData remixRedditFill = IconData(0xef60, fontFamily: _fontFamily);
-  static const IconData remixReddit = IconData(0xef61, fontFamily: _fontFamily);
-  static const IconData remixRefreshFill = IconData(0xef62, fontFamily: _fontFamily);
-  static const IconData remixRefresh = IconData(0xef63, fontFamily: _fontFamily);
-  static const IconData remixRefund2Fill = IconData(0xef64, fontFamily: _fontFamily);
-  static const IconData remixRefund2 = IconData(0xef65, fontFamily: _fontFamily);
-  static const IconData remixRefundFill = IconData(0xef66, fontFamily: _fontFamily);
-  static const IconData remixRefund = IconData(0xef67, fontFamily: _fontFamily);
-  static const IconData remixRegisteredFill = IconData(0xef68, fontFamily: _fontFamily);
-  static const IconData remixRegistered = IconData(0xef69, fontFamily: _fontFamily);
-  static const IconData remixRemixiconFill = IconData(0xef6a, fontFamily: _fontFamily);
-  static const IconData remixRemixicon = IconData(0xef6b, fontFamily: _fontFamily);
-  static const IconData remixRemoteControl2Fill = IconData(0xef6c, fontFamily: _fontFamily);
-  static const IconData remixRemoteControl2 = IconData(0xef6d, fontFamily: _fontFamily);
-  static const IconData remixRemoteControlFill = IconData(0xef6e, fontFamily: _fontFamily);
-  static const IconData remixRemoteControl = IconData(0xef6f, fontFamily: _fontFamily);
-  static const IconData remixRepeat2Fill = IconData(0xef70, fontFamily: _fontFamily);
-  static const IconData remixRepeat2 = IconData(0xef71, fontFamily: _fontFamily);
-  static const IconData remixRepeatFill = IconData(0xef72, fontFamily: _fontFamily);
-  static const IconData remixRepeatOneFill = IconData(0xef73, fontFamily: _fontFamily);
-  static const IconData remixRepeatOne = IconData(0xef74, fontFamily: _fontFamily);
-  static const IconData remixRepeat = IconData(0xef75, fontFamily: _fontFamily);
-  static const IconData remixReplyAllFill = IconData(0xef76, fontFamily: _fontFamily);
-  static const IconData remixReplyAll = IconData(0xef77, fontFamily: _fontFamily);
-  static const IconData remixReplyFill = IconData(0xef78, fontFamily: _fontFamily);
-  static const IconData remixReply = IconData(0xef79, fontFamily: _fontFamily);
-  static const IconData remixReservedFill = IconData(0xef7a, fontFamily: _fontFamily);
-  static const IconData remixReserved = IconData(0xef7b, fontFamily: _fontFamily);
-  static const IconData remixRestTimeFill = IconData(0xef7c, fontFamily: _fontFamily);
-  static const IconData remixRestTime = IconData(0xef7d, fontFamily: _fontFamily);
-  static const IconData remixRestartFill = IconData(0xef7e, fontFamily: _fontFamily);
-  static const IconData remixRestart = IconData(0xef7f, fontFamily: _fontFamily);
-  static const IconData remixRestaurant2Fill = IconData(0xef80, fontFamily: _fontFamily);
-  static const IconData remixRestaurant2 = IconData(0xef81, fontFamily: _fontFamily);
-  static const IconData remixRestaurantFill = IconData(0xef82, fontFamily: _fontFamily);
-  static const IconData remixRestaurant = IconData(0xef83, fontFamily: _fontFamily);
-  static const IconData remixRewindFill = IconData(0xef84, fontFamily: _fontFamily);
-  static const IconData remixRewindMiniFill = IconData(0xef85, fontFamily: _fontFamily);
-  static const IconData remixRewindMini = IconData(0xef86, fontFamily: _fontFamily);
-  static const IconData remixRewind = IconData(0xef87, fontFamily: _fontFamily);
-  static const IconData remixRhythmFill = IconData(0xef88, fontFamily: _fontFamily);
-  static const IconData remixRhythm = IconData(0xef89, fontFamily: _fontFamily);
-  static const IconData remixRidingFill = IconData(0xef8a, fontFamily: _fontFamily);
-  static const IconData remixRiding = IconData(0xef8b, fontFamily: _fontFamily);
-  static const IconData remixRoadMapFill = IconData(0xef8c, fontFamily: _fontFamily);
-  static const IconData remixRoadMap = IconData(0xef8d, fontFamily: _fontFamily);
-  static const IconData remixRoadsterFill = IconData(0xef8e, fontFamily: _fontFamily);
-  static const IconData remixRoadster = IconData(0xef8f, fontFamily: _fontFamily);
-  static const IconData remixRobotFill = IconData(0xef90, fontFamily: _fontFamily);
-  static const IconData remixRobot = IconData(0xef91, fontFamily: _fontFamily);
-  static const IconData remixRocket2Fill = IconData(0xef92, fontFamily: _fontFamily);
-  static const IconData remixRocket2 = IconData(0xef93, fontFamily: _fontFamily);
-  static const IconData remixRocketFill = IconData(0xef94, fontFamily: _fontFamily);
-  static const IconData remixRocket = IconData(0xef95, fontFamily: _fontFamily);
-  static const IconData remixRotateLockFill = IconData(0xef96, fontFamily: _fontFamily);
-  static const IconData remixRotateLock = IconData(0xef97, fontFamily: _fontFamily);
-  static const IconData remixRoundedCorner = IconData(0xef98, fontFamily: _fontFamily);
-  static const IconData remixRouteFill = IconData(0xef99, fontFamily: _fontFamily);
-  static const IconData remixRoute = IconData(0xef9a, fontFamily: _fontFamily);
-  static const IconData remixRouterFill = IconData(0xef9b, fontFamily: _fontFamily);
-  static const IconData remixRouter = IconData(0xef9c, fontFamily: _fontFamily);
-  static const IconData remixRssFill = IconData(0xef9d, fontFamily: _fontFamily);
-  static const IconData remixRss = IconData(0xef9e, fontFamily: _fontFamily);
-  static const IconData remixRuler2Fill = IconData(0xef9f, fontFamily: _fontFamily);
-  static const IconData remixRuler2 = IconData(0xefa0, fontFamily: _fontFamily);
-  static const IconData remixRulerFill = IconData(0xefa1, fontFamily: _fontFamily);
-  static const IconData remixRuler = IconData(0xefa2, fontFamily: _fontFamily);
-  static const IconData remixRunFill = IconData(0xefa3, fontFamily: _fontFamily);
-  static const IconData remixRun = IconData(0xefa4, fontFamily: _fontFamily);
-  static const IconData remixSafariFill = IconData(0xefa5, fontFamily: _fontFamily);
-  static const IconData remixSafari = IconData(0xefa6, fontFamily: _fontFamily);
-  static const IconData remixSafe2Fill = IconData(0xefa7, fontFamily: _fontFamily);
-  static const IconData remixSafe2 = IconData(0xefa8, fontFamily: _fontFamily);
-  static const IconData remixSafeFill = IconData(0xefa9, fontFamily: _fontFamily);
-  static const IconData remixSafe = IconData(0xefaa, fontFamily: _fontFamily);
-  static const IconData remixSailboatFill = IconData(0xefab, fontFamily: _fontFamily);
-  static const IconData remixSailboat = IconData(0xefac, fontFamily: _fontFamily);
-  static const IconData remixSave2Fill = IconData(0xefad, fontFamily: _fontFamily);
-  static const IconData remixSave2 = IconData(0xefae, fontFamily: _fontFamily);
-  static const IconData remixSave3Fill = IconData(0xefaf, fontFamily: _fontFamily);
-  static const IconData remixSave3 = IconData(0xefb0, fontFamily: _fontFamily);
-  static const IconData remixSaveFill = IconData(0xefb1, fontFamily: _fontFamily);
-  static const IconData remixSave = IconData(0xefb2, fontFamily: _fontFamily);
-  static const IconData remixScales2Fill = IconData(0xefb3, fontFamily: _fontFamily);
-  static const IconData remixScales2 = IconData(0xefb4, fontFamily: _fontFamily);
-  static const IconData remixScales3Fill = IconData(0xefb5, fontFamily: _fontFamily);
-  static const IconData remixScales3 = IconData(0xefb6, fontFamily: _fontFamily);
-  static const IconData remixScalesFill = IconData(0xefb7, fontFamily: _fontFamily);
-  static const IconData remixScales = IconData(0xefb8, fontFamily: _fontFamily);
-  static const IconData remixScan2Fill = IconData(0xefb9, fontFamily: _fontFamily);
-  static const IconData remixScan2 = IconData(0xefba, fontFamily: _fontFamily);
-  static const IconData remixScanFill = IconData(0xefbb, fontFamily: _fontFamily);
-  static const IconData remixScan = IconData(0xefbc, fontFamily: _fontFamily);
-  static const IconData remixScissors2Fill = IconData(0xefbd, fontFamily: _fontFamily);
-  static const IconData remixScissors2 = IconData(0xefbe, fontFamily: _fontFamily);
-  static const IconData remixScissorsCutFill = IconData(0xefbf, fontFamily: _fontFamily);
-  static const IconData remixScissorsCut = IconData(0xefc0, fontFamily: _fontFamily);
-  static const IconData remixScissorsFill = IconData(0xefc1, fontFamily: _fontFamily);
-  static const IconData remixScissors = IconData(0xefc2, fontFamily: _fontFamily);
-  static const IconData remixScreenshot2Fill = IconData(0xefc3, fontFamily: _fontFamily);
-  static const IconData remixScreenshot2 = IconData(0xefc4, fontFamily: _fontFamily);
-  static const IconData remixScreenshotFill = IconData(0xefc5, fontFamily: _fontFamily);
-  static const IconData remixScreenshot = IconData(0xefc6, fontFamily: _fontFamily);
-  static const IconData remixSdCardFill = IconData(0xefc7, fontFamily: _fontFamily);
-  static const IconData remixSdCardMiniFill = IconData(0xefc8, fontFamily: _fontFamily);
-  static const IconData remixSdCardMini = IconData(0xefc9, fontFamily: _fontFamily);
-  static const IconData remixSdCard = IconData(0xefca, fontFamily: _fontFamily);
-  static const IconData remixSearch2Fill = IconData(0xefcb, fontFamily: _fontFamily);
-  static const IconData remixSearch2 = IconData(0xefcc, fontFamily: _fontFamily);
-  static const IconData remixSearchEyeFill = IconData(0xefcd, fontFamily: _fontFamily);
-  static const IconData remixSearchEye = IconData(0xefce, fontFamily: _fontFamily);
-  static const IconData remixSearchFill = IconData(0xefcf, fontFamily: _fontFamily);
-  static const IconData remixSearch = IconData(0xefd0, fontFamily: _fontFamily);
-  static const IconData remixSecurePaymentFill = IconData(0xefd1, fontFamily: _fontFamily);
-  static const IconData remixSecurePayment = IconData(0xefd2, fontFamily: _fontFamily);
-  static const IconData remixSeedlingFill = IconData(0xefd3, fontFamily: _fontFamily);
-  static const IconData remixSeedling = IconData(0xefd4, fontFamily: _fontFamily);
-  static const IconData remixSendBackward = IconData(0xefd5, fontFamily: _fontFamily);
-  static const IconData remixSendPlane2Fill = IconData(0xefd6, fontFamily: _fontFamily);
-  static const IconData remixSendPlane2 = IconData(0xefd7, fontFamily: _fontFamily);
-  static const IconData remixSendPlaneFill = IconData(0xefd8, fontFamily: _fontFamily);
-  static const IconData remixSendPlane = IconData(0xefd9, fontFamily: _fontFamily);
-  static const IconData remixSendToBack = IconData(0xefda, fontFamily: _fontFamily);
-  static const IconData remixSensorFill = IconData(0xefdb, fontFamily: _fontFamily);
-  static const IconData remixSensor = IconData(0xefdc, fontFamily: _fontFamily);
-  static const IconData remixSeparator = IconData(0xefdd, fontFamily: _fontFamily);
-  static const IconData remixServerFill = IconData(0xefde, fontFamily: _fontFamily);
-  static const IconData remixServer = IconData(0xefdf, fontFamily: _fontFamily);
-  static const IconData remixServiceFill = IconData(0xefe0, fontFamily: _fontFamily);
-  static const IconData remixService = IconData(0xefe1, fontFamily: _fontFamily);
-  static const IconData remixSettings2Fill = IconData(0xefe2, fontFamily: _fontFamily);
-  static const IconData remixSettings2 = IconData(0xefe3, fontFamily: _fontFamily);
-  static const IconData remixSettings3Fill = IconData(0xefe4, fontFamily: _fontFamily);
-  static const IconData remixSettings3 = IconData(0xefe5, fontFamily: _fontFamily);
-  static const IconData remixSettings4Fill = IconData(0xefe6, fontFamily: _fontFamily);
-  static const IconData remixSettings4 = IconData(0xefe7, fontFamily: _fontFamily);
-  static const IconData remixSettings5Fill = IconData(0xefe8, fontFamily: _fontFamily);
-  static const IconData remixSettings5 = IconData(0xefe9, fontFamily: _fontFamily);
-  static const IconData remixSettings6Fill = IconData(0xefea, fontFamily: _fontFamily);
-  static const IconData remixSettings6 = IconData(0xefeb, fontFamily: _fontFamily);
-  static const IconData remixSettingsFill = IconData(0xefec, fontFamily: _fontFamily);
-  static const IconData remixSettings = IconData(0xefed, fontFamily: _fontFamily);
-  static const IconData remixShape2Fill = IconData(0xefee, fontFamily: _fontFamily);
-  static const IconData remixShape2 = IconData(0xefef, fontFamily: _fontFamily);
-  static const IconData remixShapeFill = IconData(0xeff0, fontFamily: _fontFamily);
-  static const IconData remixShape = IconData(0xeff1, fontFamily: _fontFamily);
-  static const IconData remixShareBoxFill = IconData(0xeff2, fontFamily: _fontFamily);
-  static const IconData remixShareBox = IconData(0xeff3, fontFamily: _fontFamily);
-  static const IconData remixShareCircleFill = IconData(0xeff4, fontFamily: _fontFamily);
-  static const IconData remixShareCircle = IconData(0xeff5, fontFamily: _fontFamily);
-  static const IconData remixShareFill = IconData(0xeff6, fontFamily: _fontFamily);
-  static const IconData remixShareForward2Fill = IconData(0xeff7, fontFamily: _fontFamily);
-  static const IconData remixShareForward2 = IconData(0xeff8, fontFamily: _fontFamily);
-  static const IconData remixShareForwardBoxFill = IconData(0xeff9, fontFamily: _fontFamily);
-  static const IconData remixShareForwardBox = IconData(0xeffa, fontFamily: _fontFamily);
-  static const IconData remixShareForwardFill = IconData(0xeffb, fontFamily: _fontFamily);
-  static const IconData remixShareForward = IconData(0xeffc, fontFamily: _fontFamily);
-  static const IconData remixShare = IconData(0xeffd, fontFamily: _fontFamily);
-  static const IconData remixShieldCheckFill = IconData(0xeffe, fontFamily: _fontFamily);
-  static const IconData remixShieldCheck = IconData(0xefff, fontFamily: _fontFamily);
-  static const IconData remixShieldCrossFill = IconData(0xf000, fontFamily: _fontFamily);
-  static const IconData remixShieldCross = IconData(0xf001, fontFamily: _fontFamily);
-  static const IconData remixShieldFill = IconData(0xf002, fontFamily: _fontFamily);
-  static const IconData remixShieldFlashFill = IconData(0xf003, fontFamily: _fontFamily);
-  static const IconData remixShieldFlash = IconData(0xf004, fontFamily: _fontFamily);
-  static const IconData remixShieldKeyholeFill = IconData(0xf005, fontFamily: _fontFamily);
-  static const IconData remixShieldKeyhole = IconData(0xf006, fontFamily: _fontFamily);
-  static const IconData remixShieldStarFill = IconData(0xf007, fontFamily: _fontFamily);
-  static const IconData remixShieldStar = IconData(0xf008, fontFamily: _fontFamily);
-  static const IconData remixShieldUserFill = IconData(0xf009, fontFamily: _fontFamily);
-  static const IconData remixShieldUser = IconData(0xf00a, fontFamily: _fontFamily);
-  static const IconData remixShield = IconData(0xf00b, fontFamily: _fontFamily);
-  static const IconData remixShip2Fill = IconData(0xf00c, fontFamily: _fontFamily);
-  static const IconData remixShip2 = IconData(0xf00d, fontFamily: _fontFamily);
-  static const IconData remixShipFill = IconData(0xf00e, fontFamily: _fontFamily);
-  static const IconData remixShip = IconData(0xf00f, fontFamily: _fontFamily);
-  static const IconData remixShirtFill = IconData(0xf010, fontFamily: _fontFamily);
-  static const IconData remixShirt = IconData(0xf011, fontFamily: _fontFamily);
-  static const IconData remixShoppingBag2Fill = IconData(0xf012, fontFamily: _fontFamily);
-  static const IconData remixShoppingBag2 = IconData(0xf013, fontFamily: _fontFamily);
-  static const IconData remixShoppingBag3Fill = IconData(0xf014, fontFamily: _fontFamily);
-  static const IconData remixShoppingBag3 = IconData(0xf015, fontFamily: _fontFamily);
-  static const IconData remixShoppingBagFill = IconData(0xf016, fontFamily: _fontFamily);
-  static const IconData remixShoppingBag = IconData(0xf017, fontFamily: _fontFamily);
-  static const IconData remixShoppingBasket2Fill = IconData(0xf018, fontFamily: _fontFamily);
-  static const IconData remixShoppingBasket2 = IconData(0xf019, fontFamily: _fontFamily);
-  static const IconData remixShoppingBasketFill = IconData(0xf01a, fontFamily: _fontFamily);
-  static const IconData remixShoppingBasket = IconData(0xf01b, fontFamily: _fontFamily);
-  static const IconData remixShoppingCart2Fill = IconData(0xf01c, fontFamily: _fontFamily);
-  static const IconData remixShoppingCart2 = IconData(0xf01d, fontFamily: _fontFamily);
-  static const IconData remixShoppingCartFill = IconData(0xf01e, fontFamily: _fontFamily);
-  static const IconData remixShoppingCart = IconData(0xf01f, fontFamily: _fontFamily);
-  static const IconData remixShowersFill = IconData(0xf020, fontFamily: _fontFamily);
-  static const IconData remixShowers = IconData(0xf021, fontFamily: _fontFamily);
-  static const IconData remixShuffleFill = IconData(0xf022, fontFamily: _fontFamily);
-  static const IconData remixShuffle = IconData(0xf023, fontFamily: _fontFamily);
-  static const IconData remixShutDownFill = IconData(0xf024, fontFamily: _fontFamily);
-  static const IconData remixShutDown = IconData(0xf025, fontFamily: _fontFamily);
-  static const IconData remixSideBarFill = IconData(0xf026, fontFamily: _fontFamily);
-  static const IconData remixSideBar = IconData(0xf027, fontFamily: _fontFamily);
-  static const IconData remixSignalTowerFill = IconData(0xf028, fontFamily: _fontFamily);
-  static const IconData remixSignalTower = IconData(0xf029, fontFamily: _fontFamily);
-  static const IconData remixSignalWifi1Fill = IconData(0xf02a, fontFamily: _fontFamily);
-  static const IconData remixSignalWifi1 = IconData(0xf02b, fontFamily: _fontFamily);
-  static const IconData remixSignalWifi2Fill = IconData(0xf02c, fontFamily: _fontFamily);
-  static const IconData remixSignalWifi2 = IconData(0xf02d, fontFamily: _fontFamily);
-  static const IconData remixSignalWifi3Fill = IconData(0xf02e, fontFamily: _fontFamily);
-  static const IconData remixSignalWifi3 = IconData(0xf02f, fontFamily: _fontFamily);
-  static const IconData remixSignalWifiErrorFill = IconData(0xf030, fontFamily: _fontFamily);
-  static const IconData remixSignalWifiError = IconData(0xf031, fontFamily: _fontFamily);
-  static const IconData remixSignalWifiFill = IconData(0xf032, fontFamily: _fontFamily);
-  static const IconData remixSignalWifiOffFill = IconData(0xf033, fontFamily: _fontFamily);
-  static const IconData remixSignalWifiOff = IconData(0xf034, fontFamily: _fontFamily);
-  static const IconData remixSignalWifi = IconData(0xf035, fontFamily: _fontFamily);
-  static const IconData remixSimCard2Fill = IconData(0xf036, fontFamily: _fontFamily);
-  static const IconData remixSimCard2 = IconData(0xf037, fontFamily: _fontFamily);
-  static const IconData remixSimCardFill = IconData(0xf038, fontFamily: _fontFamily);
-  static const IconData remixSimCard = IconData(0xf039, fontFamily: _fontFamily);
-  static const IconData remixSingleQuotesL = IconData(0xf03a, fontFamily: _fontFamily);
-  static const IconData remixSingleQuotesR = IconData(0xf03b, fontFamily: _fontFamily);
-  static const IconData remixSipFill = IconData(0xf03c, fontFamily: _fontFamily);
-  static const IconData remixSip = IconData(0xf03d, fontFamily: _fontFamily);
-  static const IconData remixSkipBackFill = IconData(0xf03e, fontFamily: _fontFamily);
-  static const IconData remixSkipBackMiniFill = IconData(0xf03f, fontFamily: _fontFamily);
-  static const IconData remixSkipBackMini = IconData(0xf040, fontFamily: _fontFamily);
-  static const IconData remixSkipBack = IconData(0xf041, fontFamily: _fontFamily);
-  static const IconData remixSkipForwardFill = IconData(0xf042, fontFamily: _fontFamily);
-  static const IconData remixSkipForwardMiniFill = IconData(0xf043, fontFamily: _fontFamily);
-  static const IconData remixSkipForwardMini = IconData(0xf044, fontFamily: _fontFamily);
-  static const IconData remixSkipForward = IconData(0xf045, fontFamily: _fontFamily);
-  static const IconData remixSkull2Fill = IconData(0xf046, fontFamily: _fontFamily);
-  static const IconData remixSkull2 = IconData(0xf047, fontFamily: _fontFamily);
-  static const IconData remixSkullFill = IconData(0xf048, fontFamily: _fontFamily);
-  static const IconData remixSkull = IconData(0xf049, fontFamily: _fontFamily);
-  static const IconData remixSkypeFill = IconData(0xf04a, fontFamily: _fontFamily);
-  static const IconData remixSkype = IconData(0xf04b, fontFamily: _fontFamily);
-  static const IconData remixSlackFill = IconData(0xf04c, fontFamily: _fontFamily);
-  static const IconData remixSlack = IconData(0xf04d, fontFamily: _fontFamily);
-  static const IconData remixSliceFill = IconData(0xf04e, fontFamily: _fontFamily);
-  static const IconData remixSlice = IconData(0xf04f, fontFamily: _fontFamily);
-  static const IconData remixSlideshow2Fill = IconData(0xf050, fontFamily: _fontFamily);
-  static const IconData remixSlideshow2 = IconData(0xf051, fontFamily: _fontFamily);
-  static const IconData remixSlideshow3Fill = IconData(0xf052, fontFamily: _fontFamily);
-  static const IconData remixSlideshow3 = IconData(0xf053, fontFamily: _fontFamily);
-  static const IconData remixSlideshow4Fill = IconData(0xf054, fontFamily: _fontFamily);
-  static const IconData remixSlideshow4 = IconData(0xf055, fontFamily: _fontFamily);
-  static const IconData remixSlideshowFill = IconData(0xf056, fontFamily: _fontFamily);
-  static const IconData remixSlideshow = IconData(0xf057, fontFamily: _fontFamily);
-  static const IconData remixSmartphoneFill = IconData(0xf058, fontFamily: _fontFamily);
-  static const IconData remixSmartphone = IconData(0xf059, fontFamily: _fontFamily);
-  static const IconData remixSnapchatFill = IconData(0xf05a, fontFamily: _fontFamily);
-  static const IconData remixSnapchat = IconData(0xf05b, fontFamily: _fontFamily);
-  static const IconData remixSnowyFill = IconData(0xf05c, fontFamily: _fontFamily);
-  static const IconData remixSnowy = IconData(0xf05d, fontFamily: _fontFamily);
-  static const IconData remixSortAsc = IconData(0xf05e, fontFamily: _fontFamily);
-  static const IconData remixSortDesc = IconData(0xf05f, fontFamily: _fontFamily);
-  static const IconData remixSoundModuleFill = IconData(0xf060, fontFamily: _fontFamily);
-  static const IconData remixSoundModule = IconData(0xf061, fontFamily: _fontFamily);
-  static const IconData remixSoundcloudFill = IconData(0xf062, fontFamily: _fontFamily);
-  static const IconData remixSoundcloud = IconData(0xf063, fontFamily: _fontFamily);
-  static const IconData remixSpaceShipFill = IconData(0xf064, fontFamily: _fontFamily);
-  static const IconData remixSpaceShip = IconData(0xf065, fontFamily: _fontFamily);
-  static const IconData remixSpace = IconData(0xf066, fontFamily: _fontFamily);
-  static const IconData remixSpam2Fill = IconData(0xf067, fontFamily: _fontFamily);
-  static const IconData remixSpam2 = IconData(0xf068, fontFamily: _fontFamily);
-  static const IconData remixSpam3Fill = IconData(0xf069, fontFamily: _fontFamily);
-  static const IconData remixSpam3 = IconData(0xf06a, fontFamily: _fontFamily);
-  static const IconData remixSpamFill = IconData(0xf06b, fontFamily: _fontFamily);
-  static const IconData remixSpam = IconData(0xf06c, fontFamily: _fontFamily);
-  static const IconData remixSpeaker2Fill = IconData(0xf06d, fontFamily: _fontFamily);
-  static const IconData remixSpeaker2 = IconData(0xf06e, fontFamily: _fontFamily);
-  static const IconData remixSpeaker3Fill = IconData(0xf06f, fontFamily: _fontFamily);
-  static const IconData remixSpeaker3 = IconData(0xf070, fontFamily: _fontFamily);
-  static const IconData remixSpeakerFill = IconData(0xf071, fontFamily: _fontFamily);
-  static const IconData remixSpeaker = IconData(0xf072, fontFamily: _fontFamily);
-  static const IconData remixSpectrumFill = IconData(0xf073, fontFamily: _fontFamily);
-  static const IconData remixSpectrum = IconData(0xf074, fontFamily: _fontFamily);
-  static const IconData remixSpeedFill = IconData(0xf075, fontFamily: _fontFamily);
-  static const IconData remixSpeedMiniFill = IconData(0xf076, fontFamily: _fontFamily);
-  static const IconData remixSpeedMini = IconData(0xf077, fontFamily: _fontFamily);
-  static const IconData remixSpeed = IconData(0xf078, fontFamily: _fontFamily);
-  static const IconData remixSplitCellsHorizontal = IconData(0xf079, fontFamily: _fontFamily);
-  static const IconData remixSplitCellsVertical = IconData(0xf07a, fontFamily: _fontFamily);
-  static const IconData remixSpotifyFill = IconData(0xf07b, fontFamily: _fontFamily);
-  static const IconData remixSpotify = IconData(0xf07c, fontFamily: _fontFamily);
-  static const IconData remixSpyFill = IconData(0xf07d, fontFamily: _fontFamily);
-  static const IconData remixSpy = IconData(0xf07e, fontFamily: _fontFamily);
-  static const IconData remixStackFill = IconData(0xf07f, fontFamily: _fontFamily);
-  static const IconData remixStackOverflowFill = IconData(0xf080, fontFamily: _fontFamily);
-  static const IconData remixStackOverflow = IconData(0xf081, fontFamily: _fontFamily);
-  static const IconData remixStack = IconData(0xf082, fontFamily: _fontFamily);
-  static const IconData remixStackshareFill = IconData(0xf083, fontFamily: _fontFamily);
-  static const IconData remixStackshare = IconData(0xf084, fontFamily: _fontFamily);
-  static const IconData remixStarFill = IconData(0xf085, fontFamily: _fontFamily);
-  static const IconData remixStarHalfFill = IconData(0xf086, fontFamily: _fontFamily);
-  static const IconData remixStarHalfSFill = IconData(0xf087, fontFamily: _fontFamily);
-  static const IconData remixStarHalfS = IconData(0xf088, fontFamily: _fontFamily);
-  static const IconData remixStarHalf = IconData(0xf089, fontFamily: _fontFamily);
-  static const IconData remixStarSFill = IconData(0xf08a, fontFamily: _fontFamily);
-  static const IconData remixStarS = IconData(0xf08b, fontFamily: _fontFamily);
-  static const IconData remixStarSmileFill = IconData(0xf08c, fontFamily: _fontFamily);
-  static const IconData remixStarSmile = IconData(0xf08d, fontFamily: _fontFamily);
-  static const IconData remixStar = IconData(0xf08e, fontFamily: _fontFamily);
-  static const IconData remixSteamFill = IconData(0xf08f, fontFamily: _fontFamily);
-  static const IconData remixSteam = IconData(0xf090, fontFamily: _fontFamily);
-  static const IconData remixSteering2Fill = IconData(0xf091, fontFamily: _fontFamily);
-  static const IconData remixSteering2 = IconData(0xf092, fontFamily: _fontFamily);
-  static const IconData remixSteeringFill = IconData(0xf093, fontFamily: _fontFamily);
-  static const IconData remixSteering = IconData(0xf094, fontFamily: _fontFamily);
-  static const IconData remixStethoscopeFill = IconData(0xf095, fontFamily: _fontFamily);
-  static const IconData remixStethoscope = IconData(0xf096, fontFamily: _fontFamily);
-  static const IconData remixStickyNote2Fill = IconData(0xf097, fontFamily: _fontFamily);
-  static const IconData remixStickyNote2 = IconData(0xf098, fontFamily: _fontFamily);
-  static const IconData remixStickyNoteFill = IconData(0xf099, fontFamily: _fontFamily);
-  static const IconData remixStickyNote = IconData(0xf09a, fontFamily: _fontFamily);
-  static const IconData remixStockFill = IconData(0xf09b, fontFamily: _fontFamily);
-  static const IconData remixStock = IconData(0xf09c, fontFamily: _fontFamily);
-  static const IconData remixStopCircleFill = IconData(0xf09d, fontFamily: _fontFamily);
-  static const IconData remixStopCircle = IconData(0xf09e, fontFamily: _fontFamily);
-  static const IconData remixStopFill = IconData(0xf09f, fontFamily: _fontFamily);
-  static const IconData remixStopMiniFill = IconData(0xf0a0, fontFamily: _fontFamily);
-  static const IconData remixStopMini = IconData(0xf0a1, fontFamily: _fontFamily);
-  static const IconData remixStop = IconData(0xf0a2, fontFamily: _fontFamily);
-  static const IconData remixStore2Fill = IconData(0xf0a3, fontFamily: _fontFamily);
-  static const IconData remixStore2 = IconData(0xf0a4, fontFamily: _fontFamily);
-  static const IconData remixStore3Fill = IconData(0xf0a5, fontFamily: _fontFamily);
-  static const IconData remixStore3 = IconData(0xf0a6, fontFamily: _fontFamily);
-  static const IconData remixStoreFill = IconData(0xf0a7, fontFamily: _fontFamily);
-  static const IconData remixStore = IconData(0xf0a8, fontFamily: _fontFamily);
-  static const IconData remixStrikethrough2 = IconData(0xf0a9, fontFamily: _fontFamily);
-  static const IconData remixStrikethrough = IconData(0xf0aa, fontFamily: _fontFamily);
-  static const IconData remixSubscript2 = IconData(0xf0ab, fontFamily: _fontFamily);
-  static const IconData remixSubscript = IconData(0xf0ac, fontFamily: _fontFamily);
-  static const IconData remixSubtractFill = IconData(0xf0ad, fontFamily: _fontFamily);
-  static const IconData remixSubtract = IconData(0xf0ae, fontFamily: _fontFamily);
-  static const IconData remixSubwayFill = IconData(0xf0af, fontFamily: _fontFamily);
-  static const IconData remixSubwayWifiFill = IconData(0xf0b0, fontFamily: _fontFamily);
-  static const IconData remixSubwayWifi = IconData(0xf0b1, fontFamily: _fontFamily);
-  static const IconData remixSubway = IconData(0xf0b2, fontFamily: _fontFamily);
-  static const IconData remixSuitcase2Fill = IconData(0xf0b3, fontFamily: _fontFamily);
-  static const IconData remixSuitcase2 = IconData(0xf0b4, fontFamily: _fontFamily);
-  static const IconData remixSuitcase3Fill = IconData(0xf0b5, fontFamily: _fontFamily);
-  static const IconData remixSuitcase3 = IconData(0xf0b6, fontFamily: _fontFamily);
-  static const IconData remixSuitcaseFill = IconData(0xf0b7, fontFamily: _fontFamily);
-  static const IconData remixSuitcase = IconData(0xf0b8, fontFamily: _fontFamily);
-  static const IconData remixSunCloudyFill = IconData(0xf0b9, fontFamily: _fontFamily);
-  static const IconData remixSunCloudy = IconData(0xf0ba, fontFamily: _fontFamily);
-  static const IconData remixSunFill = IconData(0xf0bb, fontFamily: _fontFamily);
-  static const IconData remixSunFoggyFill = IconData(0xf0bc, fontFamily: _fontFamily);
-  static const IconData remixSunFoggy = IconData(0xf0bd, fontFamily: _fontFamily);
-  static const IconData remixSun = IconData(0xf0be, fontFamily: _fontFamily);
-  static const IconData remixSuperscript2 = IconData(0xf0bf, fontFamily: _fontFamily);
-  static const IconData remixSuperscript = IconData(0xf0c0, fontFamily: _fontFamily);
-  static const IconData remixSurgicalMaskFill = IconData(0xf0c1, fontFamily: _fontFamily);
-  static const IconData remixSurgicalMask = IconData(0xf0c2, fontFamily: _fontFamily);
-  static const IconData remixSurroundSoundFill = IconData(0xf0c3, fontFamily: _fontFamily);
-  static const IconData remixSurroundSound = IconData(0xf0c4, fontFamily: _fontFamily);
-  static const IconData remixSurveyFill = IconData(0xf0c5, fontFamily: _fontFamily);
-  static const IconData remixSurvey = IconData(0xf0c6, fontFamily: _fontFamily);
-  static const IconData remixSwapBoxFill = IconData(0xf0c7, fontFamily: _fontFamily);
-  static const IconData remixSwapBox = IconData(0xf0c8, fontFamily: _fontFamily);
-  static const IconData remixSwapFill = IconData(0xf0c9, fontFamily: _fontFamily);
-  static const IconData remixSwap = IconData(0xf0ca, fontFamily: _fontFamily);
-  static const IconData remixSwitchFill = IconData(0xf0cb, fontFamily: _fontFamily);
-  static const IconData remixSwitch = IconData(0xf0cc, fontFamily: _fontFamily);
-  static const IconData remixSwordFill = IconData(0xf0cd, fontFamily: _fontFamily);
-  static const IconData remixSword = IconData(0xf0ce, fontFamily: _fontFamily);
-  static const IconData remixSyringeFill = IconData(0xf0cf, fontFamily: _fontFamily);
-  static const IconData remixSyringe = IconData(0xf0d0, fontFamily: _fontFamily);
-  static const IconData remixTBoxFill = IconData(0xf0d1, fontFamily: _fontFamily);
-  static const IconData remixTBox = IconData(0xf0d2, fontFamily: _fontFamily);
-  static const IconData remixTShirt2Fill = IconData(0xf0d3, fontFamily: _fontFamily);
-  static const IconData remixTShirt2 = IconData(0xf0d4, fontFamily: _fontFamily);
-  static const IconData remixTShirtAirFill = IconData(0xf0d5, fontFamily: _fontFamily);
-  static const IconData remixTShirtAir = IconData(0xf0d6, fontFamily: _fontFamily);
-  static const IconData remixTShirtFill = IconData(0xf0d7, fontFamily: _fontFamily);
-  static const IconData remixTShirt = IconData(0xf0d8, fontFamily: _fontFamily);
-  static const IconData remixTable2 = IconData(0xf0d9, fontFamily: _fontFamily);
-  static const IconData remixTableAltFill = IconData(0xf0da, fontFamily: _fontFamily);
-  static const IconData remixTableAlt = IconData(0xf0db, fontFamily: _fontFamily);
-  static const IconData remixTableFill = IconData(0xf0dc, fontFamily: _fontFamily);
-  static const IconData remixTable = IconData(0xf0dd, fontFamily: _fontFamily);
-  static const IconData remixTabletFill = IconData(0xf0de, fontFamily: _fontFamily);
-  static const IconData remixTablet = IconData(0xf0df, fontFamily: _fontFamily);
-  static const IconData remixTakeawayFill = IconData(0xf0e0, fontFamily: _fontFamily);
-  static const IconData remixTakeaway = IconData(0xf0e1, fontFamily: _fontFamily);
-  static const IconData remixTaobaoFill = IconData(0xf0e2, fontFamily: _fontFamily);
-  static const IconData remixTaobao = IconData(0xf0e3, fontFamily: _fontFamily);
-  static const IconData remixTapeFill = IconData(0xf0e4, fontFamily: _fontFamily);
-  static const IconData remixTape = IconData(0xf0e5, fontFamily: _fontFamily);
-  static const IconData remixTaskFill = IconData(0xf0e6, fontFamily: _fontFamily);
-  static const IconData remixTask = IconData(0xf0e7, fontFamily: _fontFamily);
-  static const IconData remixTaxiFill = IconData(0xf0e8, fontFamily: _fontFamily);
-  static const IconData remixTaxiWifiFill = IconData(0xf0e9, fontFamily: _fontFamily);
-  static const IconData remixTaxiWifi = IconData(0xf0ea, fontFamily: _fontFamily);
-  static const IconData remixTaxi = IconData(0xf0eb, fontFamily: _fontFamily);
-  static const IconData remixTeamFill = IconData(0xf0ec, fontFamily: _fontFamily);
-  static const IconData remixTeam = IconData(0xf0ed, fontFamily: _fontFamily);
-  static const IconData remixTelegramFill = IconData(0xf0ee, fontFamily: _fontFamily);
-  static const IconData remixTelegram = IconData(0xf0ef, fontFamily: _fontFamily);
-  static const IconData remixTempColdFill = IconData(0xf0f0, fontFamily: _fontFamily);
-  static const IconData remixTempCold = IconData(0xf0f1, fontFamily: _fontFamily);
-  static const IconData remixTempHotFill = IconData(0xf0f2, fontFamily: _fontFamily);
-  static const IconData remixTempHot = IconData(0xf0f3, fontFamily: _fontFamily);
-  static const IconData remixTerminalBoxFill = IconData(0xf0f4, fontFamily: _fontFamily);
-  static const IconData remixTerminalBox = IconData(0xf0f5, fontFamily: _fontFamily);
-  static const IconData remixTerminalFill = IconData(0xf0f6, fontFamily: _fontFamily);
-  static const IconData remixTerminalWindowFill = IconData(0xf0f7, fontFamily: _fontFamily);
-  static const IconData remixTerminalWindow = IconData(0xf0f8, fontFamily: _fontFamily);
-  static const IconData remixTerminal = IconData(0xf0f9, fontFamily: _fontFamily);
-  static const IconData remixTestTubeFill = IconData(0xf0fa, fontFamily: _fontFamily);
-  static const IconData remixTestTube = IconData(0xf0fb, fontFamily: _fontFamily);
-  static const IconData remixTextDirectionL = IconData(0xf0fc, fontFamily: _fontFamily);
-  static const IconData remixTextDirectionR = IconData(0xf0fd, fontFamily: _fontFamily);
-  static const IconData remixTextSpacing = IconData(0xf0fe, fontFamily: _fontFamily);
-  static const IconData remixTextWrap = IconData(0xf0ff, fontFamily: _fontFamily);
-  static const IconData remixText = IconData(0xf100, fontFamily: _fontFamily);
-  static const IconData remixThermometerFill = IconData(0xf101, fontFamily: _fontFamily);
-  static const IconData remixThermometer = IconData(0xf102, fontFamily: _fontFamily);
-  static const IconData remixThumbDownFill = IconData(0xf103, fontFamily: _fontFamily);
-  static const IconData remixThumbDown = IconData(0xf104, fontFamily: _fontFamily);
-  static const IconData remixThumbUpFill = IconData(0xf105, fontFamily: _fontFamily);
-  static const IconData remixThumbUp = IconData(0xf106, fontFamily: _fontFamily);
-  static const IconData remixThunderstormsFill = IconData(0xf107, fontFamily: _fontFamily);
-  static const IconData remixThunderstorms = IconData(0xf108, fontFamily: _fontFamily);
-  static const IconData remixTicket2Fill = IconData(0xf109, fontFamily: _fontFamily);
-  static const IconData remixTicket2 = IconData(0xf10a, fontFamily: _fontFamily);
-  static const IconData remixTicketFill = IconData(0xf10b, fontFamily: _fontFamily);
-  static const IconData remixTicket = IconData(0xf10c, fontFamily: _fontFamily);
-  static const IconData remixTimeFill = IconData(0xf10d, fontFamily: _fontFamily);
-  static const IconData remixTime = IconData(0xf10e, fontFamily: _fontFamily);
-  static const IconData remixTimer2Fill = IconData(0xf10f, fontFamily: _fontFamily);
-  static const IconData remixTimer2 = IconData(0xf110, fontFamily: _fontFamily);
-  static const IconData remixTimerFill = IconData(0xf111, fontFamily: _fontFamily);
-  static const IconData remixTimerFlashFill = IconData(0xf112, fontFamily: _fontFamily);
-  static const IconData remixTimerFlash = IconData(0xf113, fontFamily: _fontFamily);
-  static const IconData remixTimer = IconData(0xf114, fontFamily: _fontFamily);
-  static const IconData remixTodoFill = IconData(0xf115, fontFamily: _fontFamily);
-  static const IconData remixTodo = IconData(0xf116, fontFamily: _fontFamily);
-  static const IconData remixToggleFill = IconData(0xf117, fontFamily: _fontFamily);
-  static const IconData remixToggle = IconData(0xf118, fontFamily: _fontFamily);
-  static const IconData remixToolsFill = IconData(0xf119, fontFamily: _fontFamily);
-  static const IconData remixTools = IconData(0xf11a, fontFamily: _fontFamily);
-  static const IconData remixTornadoFill = IconData(0xf11b, fontFamily: _fontFamily);
-  static const IconData remixTornado = IconData(0xf11c, fontFamily: _fontFamily);
-  static const IconData remixTrademarkFill = IconData(0xf11d, fontFamily: _fontFamily);
-  static const IconData remixTrademark = IconData(0xf11e, fontFamily: _fontFamily);
-  static const IconData remixTrafficLightFill = IconData(0xf11f, fontFamily: _fontFamily);
-  static const IconData remixTrafficLight = IconData(0xf120, fontFamily: _fontFamily);
-  static const IconData remixTrainFill = IconData(0xf121, fontFamily: _fontFamily);
-  static const IconData remixTrainWifiFill = IconData(0xf122, fontFamily: _fontFamily);
-  static const IconData remixTrainWifi = IconData(0xf123, fontFamily: _fontFamily);
-  static const IconData remixTrain = IconData(0xf124, fontFamily: _fontFamily);
-  static const IconData remixTranslate2 = IconData(0xf125, fontFamily: _fontFamily);
-  static const IconData remixTranslate = IconData(0xf126, fontFamily: _fontFamily);
-  static const IconData remixTravestiFill = IconData(0xf127, fontFamily: _fontFamily);
-  static const IconData remixTravesti = IconData(0xf128, fontFamily: _fontFamily);
-  static const IconData remixTreasureMapFill = IconData(0xf129, fontFamily: _fontFamily);
-  static const IconData remixTreasureMap = IconData(0xf12a, fontFamily: _fontFamily);
-  static const IconData remixTrelloFill = IconData(0xf12b, fontFamily: _fontFamily);
-  static const IconData remixTrello = IconData(0xf12c, fontFamily: _fontFamily);
-  static const IconData remixTrophyFill = IconData(0xf12d, fontFamily: _fontFamily);
-  static const IconData remixTrophy = IconData(0xf12e, fontFamily: _fontFamily);
-  static const IconData remixTruckFill = IconData(0xf12f, fontFamily: _fontFamily);
-  static const IconData remixTruck = IconData(0xf130, fontFamily: _fontFamily);
-  static const IconData remixTumblrFill = IconData(0xf131, fontFamily: _fontFamily);
-  static const IconData remixTumblr = IconData(0xf132, fontFamily: _fontFamily);
-  static const IconData remixTv2Fill = IconData(0xf133, fontFamily: _fontFamily);
-  static const IconData remixTv2 = IconData(0xf134, fontFamily: _fontFamily);
-  static const IconData remixTvFill = IconData(0xf135, fontFamily: _fontFamily);
-  static const IconData remixTv = IconData(0xf136, fontFamily: _fontFamily);
-  static const IconData remixTwitchFill = IconData(0xf137, fontFamily: _fontFamily);
-  static const IconData remixTwitch = IconData(0xf138, fontFamily: _fontFamily);
-  static const IconData remixTwitterFill = IconData(0xf139, fontFamily: _fontFamily);
-  static const IconData remixTwitter = IconData(0xf13a, fontFamily: _fontFamily);
-  static const IconData remixTyphoonFill = IconData(0xf13b, fontFamily: _fontFamily);
-  static const IconData remixTyphoon = IconData(0xf13c, fontFamily: _fontFamily);
-  static const IconData remixUDiskFill = IconData(0xf13d, fontFamily: _fontFamily);
-  static const IconData remixUDisk = IconData(0xf13e, fontFamily: _fontFamily);
-  static const IconData remixUbuntuFill = IconData(0xf13f, fontFamily: _fontFamily);
-  static const IconData remixUbuntu = IconData(0xf140, fontFamily: _fontFamily);
-  static const IconData remixUmbrellaFill = IconData(0xf141, fontFamily: _fontFamily);
-  static const IconData remixUmbrella = IconData(0xf142, fontFamily: _fontFamily);
-  static const IconData remixUnderline = IconData(0xf143, fontFamily: _fontFamily);
-  static const IconData remixUninstallFill = IconData(0xf144, fontFamily: _fontFamily);
-  static const IconData remixUninstall = IconData(0xf145, fontFamily: _fontFamily);
-  static const IconData remixUnsplashFill = IconData(0xf146, fontFamily: _fontFamily);
-  static const IconData remixUnsplash = IconData(0xf147, fontFamily: _fontFamily);
-  static const IconData remixUpload2Fill = IconData(0xf148, fontFamily: _fontFamily);
-  static const IconData remixUpload2 = IconData(0xf149, fontFamily: _fontFamily);
-  static const IconData remixUploadCloud2Fill = IconData(0xf14a, fontFamily: _fontFamily);
-  static const IconData remixUploadCloud2 = IconData(0xf14b, fontFamily: _fontFamily);
-  static const IconData remixUploadCloudFill = IconData(0xf14c, fontFamily: _fontFamily);
-  static const IconData remixUploadCloud = IconData(0xf14d, fontFamily: _fontFamily);
-  static const IconData remixUploadFill = IconData(0xf14e, fontFamily: _fontFamily);
-  static const IconData remixUpload = IconData(0xf14f, fontFamily: _fontFamily);
-  static const IconData remixUsbFill = IconData(0xf150, fontFamily: _fontFamily);
-  static const IconData remixUsb = IconData(0xf151, fontFamily: _fontFamily);
-  static const IconData remixUser2Fill = IconData(0xf152, fontFamily: _fontFamily);
-  static const IconData remixUser2 = IconData(0xf153, fontFamily: _fontFamily);
-  static const IconData remixUser3Fill = IconData(0xf154, fontFamily: _fontFamily);
-  static const IconData remixUser3 = IconData(0xf155, fontFamily: _fontFamily);
-  static const IconData remixUser4Fill = IconData(0xf156, fontFamily: _fontFamily);
-  static const IconData remixUser4 = IconData(0xf157, fontFamily: _fontFamily);
-  static const IconData remixUser5Fill = IconData(0xf158, fontFamily: _fontFamily);
-  static const IconData remixUser5 = IconData(0xf159, fontFamily: _fontFamily);
-  static const IconData remixUser6Fill = IconData(0xf15a, fontFamily: _fontFamily);
-  static const IconData remixUser6 = IconData(0xf15b, fontFamily: _fontFamily);
-  static const IconData remixUserAddFill = IconData(0xf15c, fontFamily: _fontFamily);
-  static const IconData remixUserAdd = IconData(0xf15d, fontFamily: _fontFamily);
-  static const IconData remixUserFill = IconData(0xf15e, fontFamily: _fontFamily);
-  static const IconData remixUserFollowFill = IconData(0xf15f, fontFamily: _fontFamily);
-  static const IconData remixUserFollow = IconData(0xf160, fontFamily: _fontFamily);
-  static const IconData remixUserHeartFill = IconData(0xf161, fontFamily: _fontFamily);
-  static const IconData remixUserHeart = IconData(0xf162, fontFamily: _fontFamily);
-  static const IconData remixUserLocationFill = IconData(0xf163, fontFamily: _fontFamily);
-  static const IconData remixUserLocation = IconData(0xf164, fontFamily: _fontFamily);
-  static const IconData remixUserReceived2Fill = IconData(0xf165, fontFamily: _fontFamily);
-  static const IconData remixUserReceived2 = IconData(0xf166, fontFamily: _fontFamily);
-  static const IconData remixUserReceivedFill = IconData(0xf167, fontFamily: _fontFamily);
-  static const IconData remixUserReceived = IconData(0xf168, fontFamily: _fontFamily);
-  static const IconData remixUserSearchFill = IconData(0xf169, fontFamily: _fontFamily);
-  static const IconData remixUserSearch = IconData(0xf16a, fontFamily: _fontFamily);
-  static const IconData remixUserSettingsFill = IconData(0xf16b, fontFamily: _fontFamily);
-  static const IconData remixUserSettings = IconData(0xf16c, fontFamily: _fontFamily);
-  static const IconData remixUserShared2Fill = IconData(0xf16d, fontFamily: _fontFamily);
-  static const IconData remixUserShared2 = IconData(0xf16e, fontFamily: _fontFamily);
-  static const IconData remixUserSharedFill = IconData(0xf16f, fontFamily: _fontFamily);
-  static const IconData remixUserShared = IconData(0xf170, fontFamily: _fontFamily);
-  static const IconData remixUserSmileFill = IconData(0xf171, fontFamily: _fontFamily);
-  static const IconData remixUserSmile = IconData(0xf172, fontFamily: _fontFamily);
-  static const IconData remixUserStarFill = IconData(0xf173, fontFamily: _fontFamily);
-  static const IconData remixUserStar = IconData(0xf174, fontFamily: _fontFamily);
-  static const IconData remixUserUnfollowFill = IconData(0xf175, fontFamily: _fontFamily);
-  static const IconData remixUserUnfollow = IconData(0xf176, fontFamily: _fontFamily);
-  static const IconData remixUserVoiceFill = IconData(0xf177, fontFamily: _fontFamily);
-  static const IconData remixUserVoice = IconData(0xf178, fontFamily: _fontFamily);
-  static const IconData remixUser = IconData(0xf179, fontFamily: _fontFamily);
-  static const IconData remixVideoAddFill = IconData(0xf17a, fontFamily: _fontFamily);
-  static const IconData remixVideoAdd = IconData(0xf17b, fontFamily: _fontFamily);
-  static const IconData remixVideoChatFill = IconData(0xf17c, fontFamily: _fontFamily);
-  static const IconData remixVideoChat = IconData(0xf17d, fontFamily: _fontFamily);
-  static const IconData remixVideoDownloadFill = IconData(0xf17e, fontFamily: _fontFamily);
-  static const IconData remixVideoDownload = IconData(0xf17f, fontFamily: _fontFamily);
-  static const IconData remixVideoFill = IconData(0xf180, fontFamily: _fontFamily);
-  static const IconData remixVideoUploadFill = IconData(0xf181, fontFamily: _fontFamily);
-  static const IconData remixVideoUpload = IconData(0xf182, fontFamily: _fontFamily);
-  static const IconData remixVideo = IconData(0xf183, fontFamily: _fontFamily);
-  static const IconData remixVidicon2Fill = IconData(0xf184, fontFamily: _fontFamily);
-  static const IconData remixVidicon2 = IconData(0xf185, fontFamily: _fontFamily);
-  static const IconData remixVidiconFill = IconData(0xf186, fontFamily: _fontFamily);
-  static const IconData remixVidicon = IconData(0xf187, fontFamily: _fontFamily);
-  static const IconData remixVimeoFill = IconData(0xf188, fontFamily: _fontFamily);
-  static const IconData remixVimeo = IconData(0xf189, fontFamily: _fontFamily);
-  static const IconData remixVipCrown2Fill = IconData(0xf18a, fontFamily: _fontFamily);
-  static const IconData remixVipCrown2 = IconData(0xf18b, fontFamily: _fontFamily);
-  static const IconData remixVipCrownFill = IconData(0xf18c, fontFamily: _fontFamily);
-  static const IconData remixVipCrown = IconData(0xf18d, fontFamily: _fontFamily);
-  static const IconData remixVipDiamondFill = IconData(0xf18e, fontFamily: _fontFamily);
-  static const IconData remixVipDiamond = IconData(0xf18f, fontFamily: _fontFamily);
-  static const IconData remixVipFill = IconData(0xf190, fontFamily: _fontFamily);
-  static const IconData remixVip = IconData(0xf191, fontFamily: _fontFamily);
-  static const IconData remixVirusFill = IconData(0xf192, fontFamily: _fontFamily);
-  static const IconData remixVirus = IconData(0xf193, fontFamily: _fontFamily);
-  static const IconData remixVisaFill = IconData(0xf194, fontFamily: _fontFamily);
-  static const IconData remixVisa = IconData(0xf195, fontFamily: _fontFamily);
-  static const IconData remixVoiceRecognitionFill = IconData(0xf196, fontFamily: _fontFamily);
-  static const IconData remixVoiceRecognition = IconData(0xf197, fontFamily: _fontFamily);
-  static const IconData remixVoiceprintFill = IconData(0xf198, fontFamily: _fontFamily);
-  static const IconData remixVoiceprint = IconData(0xf199, fontFamily: _fontFamily);
-  static const IconData remixVolumeDownFill = IconData(0xf19a, fontFamily: _fontFamily);
-  static const IconData remixVolumeDown = IconData(0xf19b, fontFamily: _fontFamily);
-  static const IconData remixVolumeMuteFill = IconData(0xf19c, fontFamily: _fontFamily);
-  static const IconData remixVolumeMute = IconData(0xf19d, fontFamily: _fontFamily);
-  static const IconData remixVolumeOffVibrateFill = IconData(0xf19e, fontFamily: _fontFamily);
-  static const IconData remixVolumeOffVibrate = IconData(0xf19f, fontFamily: _fontFamily);
-  static const IconData remixVolumeUpFill = IconData(0xf1a0, fontFamily: _fontFamily);
-  static const IconData remixVolumeUp = IconData(0xf1a1, fontFamily: _fontFamily);
-  static const IconData remixVolumeVibrateFill = IconData(0xf1a2, fontFamily: _fontFamily);
-  static const IconData remixVolumeVibrate = IconData(0xf1a3, fontFamily: _fontFamily);
-  static const IconData remixVuejsFill = IconData(0xf1a4, fontFamily: _fontFamily);
-  static const IconData remixVuejs = IconData(0xf1a5, fontFamily: _fontFamily);
-  static const IconData remixWalkFill = IconData(0xf1a6, fontFamily: _fontFamily);
-  static const IconData remixWalk = IconData(0xf1a7, fontFamily: _fontFamily);
-  static const IconData remixWallet2Fill = IconData(0xf1a8, fontFamily: _fontFamily);
-  static const IconData remixWallet2 = IconData(0xf1a9, fontFamily: _fontFamily);
-  static const IconData remixWallet3Fill = IconData(0xf1aa, fontFamily: _fontFamily);
-  static const IconData remixWallet3 = IconData(0xf1ab, fontFamily: _fontFamily);
-  static const IconData remixWalletFill = IconData(0xf1ac, fontFamily: _fontFamily);
-  static const IconData remixWallet = IconData(0xf1ad, fontFamily: _fontFamily);
-  static const IconData remixWaterFlashFill = IconData(0xf1ae, fontFamily: _fontFamily);
-  static const IconData remixWaterFlash = IconData(0xf1af, fontFamily: _fontFamily);
-  static const IconData remixWebcamFill = IconData(0xf1b0, fontFamily: _fontFamily);
-  static const IconData remixWebcam = IconData(0xf1b1, fontFamily: _fontFamily);
-  static const IconData remixWechat2Fill = IconData(0xf1b2, fontFamily: _fontFamily);
-  static const IconData remixWechat2 = IconData(0xf1b3, fontFamily: _fontFamily);
-  static const IconData remixWechatFill = IconData(0xf1b4, fontFamily: _fontFamily);
-  static const IconData remixWechatPayFill = IconData(0xf1b5, fontFamily: _fontFamily);
-  static const IconData remixWechatPay = IconData(0xf1b6, fontFamily: _fontFamily);
-  static const IconData remixWechat = IconData(0xf1b7, fontFamily: _fontFamily);
-  static const IconData remixWeiboFill = IconData(0xf1b8, fontFamily: _fontFamily);
-  static const IconData remixWeibo = IconData(0xf1b9, fontFamily: _fontFamily);
-  static const IconData remixWhatsappFill = IconData(0xf1ba, fontFamily: _fontFamily);
-  static const IconData remixWhatsapp = IconData(0xf1bb, fontFamily: _fontFamily);
-  static const IconData remixWheelchairFill = IconData(0xf1bc, fontFamily: _fontFamily);
-  static const IconData remixWheelchair = IconData(0xf1bd, fontFamily: _fontFamily);
-  static const IconData remixWifiFill = IconData(0xf1be, fontFamily: _fontFamily);
-  static const IconData remixWifiOffFill = IconData(0xf1bf, fontFamily: _fontFamily);
-  static const IconData remixWifiOff = IconData(0xf1c0, fontFamily: _fontFamily);
-  static const IconData remixWifi = IconData(0xf1c1, fontFamily: _fontFamily);
-  static const IconData remixWindow2Fill = IconData(0xf1c2, fontFamily: _fontFamily);
-  static const IconData remixWindow2 = IconData(0xf1c3, fontFamily: _fontFamily);
-  static const IconData remixWindowFill = IconData(0xf1c4, fontFamily: _fontFamily);
-  static const IconData remixWindow = IconData(0xf1c5, fontFamily: _fontFamily);
-  static const IconData remixWindowsFill = IconData(0xf1c6, fontFamily: _fontFamily);
-  static const IconData remixWindows = IconData(0xf1c7, fontFamily: _fontFamily);
-  static const IconData remixWindyFill = IconData(0xf1c8, fontFamily: _fontFamily);
-  static const IconData remixWindy = IconData(0xf1c9, fontFamily: _fontFamily);
-  static const IconData remixWirelessChargingFill = IconData(0xf1ca, fontFamily: _fontFamily);
-  static const IconData remixWirelessCharging = IconData(0xf1cb, fontFamily: _fontFamily);
-  static const IconData remixWomenFill = IconData(0xf1cc, fontFamily: _fontFamily);
-  static const IconData remixWomen = IconData(0xf1cd, fontFamily: _fontFamily);
-  static const IconData remixWubiInput = IconData(0xf1ce, fontFamily: _fontFamily);
-  static const IconData remixXboxFill = IconData(0xf1cf, fontFamily: _fontFamily);
-  static const IconData remixXbox = IconData(0xf1d0, fontFamily: _fontFamily);
-  static const IconData remixXingFill = IconData(0xf1d1, fontFamily: _fontFamily);
-  static const IconData remixXing = IconData(0xf1d2, fontFamily: _fontFamily);
-  static const IconData remixYoutubeFill = IconData(0xf1d3, fontFamily: _fontFamily);
-  static const IconData remixYoutube = IconData(0xf1d4, fontFamily: _fontFamily);
-  static const IconData remixZcoolFill = IconData(0xf1d5, fontFamily: _fontFamily);
-  static const IconData remixZcool = IconData(0xf1d6, fontFamily: _fontFamily);
-  static const IconData remixZhihuFill = IconData(0xf1d7, fontFamily: _fontFamily);
-  static const IconData remixZhihu = IconData(0xf1d8, fontFamily: _fontFamily);
-  static const IconData remixZoomInFill = IconData(0xf1d9, fontFamily: _fontFamily);
-  static const IconData remixZoomIn = IconData(0xf1da, fontFamily: _fontFamily);
-  static const IconData remixZoomOutFill = IconData(0xf1db, fontFamily: _fontFamily);
-  static const IconData remixZoomOut = IconData(0xf1dc, fontFamily: _fontFamily);
-  static const IconData remixZzzFill = IconData(0xf1dd, fontFamily: _fontFamily);
-  static const IconData remixZzz = IconData(0xf1de, fontFamily: _fontFamily);
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/remix/remix_png/remix_moon_foggy.png)
+  static const IconData remix_moon_foggy =
+      IconData(0xee73, fontFamily: _fontFamily);
+  static const IconData remix_moon = IconData(0xee74, fontFamily: _fontFamily);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/remix/remix_png/remix_more2_fill.png)
+  static const IconData remix_more2_fill =
+      IconData(0xee75, fontFamily: _fontFamily);
+  static const IconData remix_more2 = IconData(0xee76, fontFamily: _fontFamily);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/remix/remix_png/remix_more_fill.png)
+  static const IconData remix_more_fill =
+      IconData(0xee77, fontFamily: _fontFamily);
+  static const IconData remix_more = IconData(0xee78, fontFamily: _fontFamily);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/remix/remix_png/remix_motorbike_fill.png)
+  static const IconData remix_motorbike_fill =
+      IconData(0xee79, fontFamily: _fontFamily);
+  static const IconData remix_motorbike =
+      IconData(0xee7a, fontFamily: _fontFamily);
+  static const IconData remix_mouse_fill =
+      IconData(0xee7b, fontFamily: _fontFamily);
+  static const IconData remix_mouse = IconData(0xee7c, fontFamily: _fontFamily);
+  static const IconData remix_movie2_fill =
+      IconData(0xee7d, fontFamily: _fontFamily);
+  static const IconData remix_movie2 =
+      IconData(0xee7e, fontFamily: _fontFamily);
+  static const IconData remix_movie_fill =
+      IconData(0xee7f, fontFamily: _fontFamily);
+  static const IconData remix_movie = IconData(0xee80, fontFamily: _fontFamily);
+  static const IconData remix_music2 =
+      IconData(0xee82, fontFamily: _fontFamily);
+  static const IconData remix_music_fill =
+      IconData(0xee83, fontFamily: _fontFamily);
+  static const IconData remix_music = IconData(0xee84, fontFamily: _fontFamily);
+  static const IconData remix_mv_fill =
+      IconData(0xee85, fontFamily: _fontFamily);
+  static const IconData remix_mv = IconData(0xee86, fontFamily: _fontFamily);
+  static const IconData remix_navigation_fill =
+      IconData(0xee87, fontFamily: _fontFamily);
+  static const IconData remix_navigation =
+      IconData(0xee88, fontFamily: _fontFamily);
+  static const IconData remix_netease_cloud_music_fill =
+      IconData(0xee89, fontFamily: _fontFamily);
+  static const IconData remix_netease_cloud_music =
+      IconData(0xee8a, fontFamily: _fontFamily);
+  static const IconData remix_netflix_fill =
+      IconData(0xee8b, fontFamily: _fontFamily);
+  static const IconData remix_netflix =
+      IconData(0xee8c, fontFamily: _fontFamily);
+  static const IconData remix_newspaper_fill =
+      IconData(0xee8d, fontFamily: _fontFamily);
+  static const IconData remix_newspaper =
+      IconData(0xee8e, fontFamily: _fontFamily);
+  static const IconData remix_node_tree =
+      IconData(0xee8f, fontFamily: _fontFamily);
+  static const IconData remix_notification2_fill =
+      IconData(0xee90, fontFamily: _fontFamily);
+  static const IconData remix_notification2 =
+      IconData(0xee91, fontFamily: _fontFamily);
+  static const IconData remix_notification3_fill =
+      IconData(0xee92, fontFamily: _fontFamily);
+  static const IconData remix_notification3 =
+      IconData(0xee93, fontFamily: _fontFamily);
+  static const IconData remix_notification4_fill =
+      IconData(0xee94, fontFamily: _fontFamily);
+  static const IconData remix_notification4 =
+      IconData(0xee95, fontFamily: _fontFamily);
+  static const IconData remix_notification_badge_fill =
+      IconData(0xee96, fontFamily: _fontFamily);
+  static const IconData remix_notification_badge =
+      IconData(0xee97, fontFamily: _fontFamily);
+  static const IconData remix_notification_fill =
+      IconData(0xee98, fontFamily: _fontFamily);
+  static const IconData remix_notification_off_fill =
+      IconData(0xee99, fontFamily: _fontFamily);
+  static const IconData remix_notification_off =
+      IconData(0xee9a, fontFamily: _fontFamily);
+  static const IconData remix_notification =
+      IconData(0xee9b, fontFamily: _fontFamily);
+  static const IconData remix_npmjs_fill =
+      IconData(0xee9c, fontFamily: _fontFamily);
+  static const IconData remix_npmjs = IconData(0xee9d, fontFamily: _fontFamily);
+  static const IconData remix_number0 =
+      IconData(0xee9e, fontFamily: _fontFamily);
+  static const IconData remix_number1 =
+      IconData(0xee9f, fontFamily: _fontFamily);
+  static const IconData remix_number2 =
+      IconData(0xeea0, fontFamily: _fontFamily);
+  static const IconData remix_number3 =
+      IconData(0xeea1, fontFamily: _fontFamily);
+  static const IconData remix_number4 =
+      IconData(0xeea2, fontFamily: _fontFamily);
+  static const IconData remix_number5 =
+      IconData(0xeea3, fontFamily: _fontFamily);
+  static const IconData remix_number6 =
+      IconData(0xeea4, fontFamily: _fontFamily);
+  static const IconData remix_number7 =
+      IconData(0xeea5, fontFamily: _fontFamily);
+  static const IconData remix_number8 =
+      IconData(0xeea6, fontFamily: _fontFamily);
+  static const IconData remix_number9 =
+      IconData(0xeea7, fontFamily: _fontFamily);
+  static const IconData remix_numbers_fill =
+      IconData(0xeea8, fontFamily: _fontFamily);
+  static const IconData remix_numbers =
+      IconData(0xeea9, fontFamily: _fontFamily);
+  static const IconData remix_nurse_fill =
+      IconData(0xeeaa, fontFamily: _fontFamily);
+  static const IconData remix_nurse = IconData(0xeeab, fontFamily: _fontFamily);
+  static const IconData remix_oil_fill =
+      IconData(0xeeac, fontFamily: _fontFamily);
+  static const IconData remix_oil = IconData(0xeead, fontFamily: _fontFamily);
+  static const IconData remix_omega = IconData(0xeeae, fontFamily: _fontFamily);
+  static const IconData remix_open_arm_fill =
+      IconData(0xeeaf, fontFamily: _fontFamily);
+  static const IconData remix_open_arm =
+      IconData(0xeeb0, fontFamily: _fontFamily);
+  static const IconData remix_open_source_fill =
+      IconData(0xeeb1, fontFamily: _fontFamily);
+  static const IconData remix_open_source =
+      IconData(0xeeb2, fontFamily: _fontFamily);
+  static const IconData remix_opera_fill =
+      IconData(0xeeb3, fontFamily: _fontFamily);
+  static const IconData remix_opera = IconData(0xeeb4, fontFamily: _fontFamily);
+  static const IconData remix_order_play_fill =
+      IconData(0xeeb5, fontFamily: _fontFamily);
+  static const IconData remix_order_play =
+      IconData(0xeeb6, fontFamily: _fontFamily);
+  static const IconData remix_organization_chart =
+      IconData(0xeeb7, fontFamily: _fontFamily);
+  static const IconData remix_outlet2_fill =
+      IconData(0xeeb8, fontFamily: _fontFamily);
+  static const IconData remix_outlet2 =
+      IconData(0xeeb9, fontFamily: _fontFamily);
+  static const IconData remix_outlet_fill =
+      IconData(0xeeba, fontFamily: _fontFamily);
+  static const IconData remix_outlet =
+      IconData(0xeebb, fontFamily: _fontFamily);
+  static const IconData remix_page_separator =
+      IconData(0xeebc, fontFamily: _fontFamily);
+  static const IconData remix_pages_fill =
+      IconData(0xeebd, fontFamily: _fontFamily);
+  static const IconData remix_pages = IconData(0xeebe, fontFamily: _fontFamily);
+  static const IconData remix_paint_brush_fill =
+      IconData(0xeebf, fontFamily: _fontFamily);
+  static const IconData remix_paint_brush =
+      IconData(0xeec0, fontFamily: _fontFamily);
+  static const IconData remix_paint_fill =
+      IconData(0xeec1, fontFamily: _fontFamily);
+  static const IconData remix_paint = IconData(0xeec2, fontFamily: _fontFamily);
+  static const IconData remix_palette_fill =
+      IconData(0xeec3, fontFamily: _fontFamily);
+  static const IconData remix_palette =
+      IconData(0xeec4, fontFamily: _fontFamily);
+  static const IconData remix_pantone_fill =
+      IconData(0xeec5, fontFamily: _fontFamily);
+  static const IconData remix_pantone =
+      IconData(0xeec6, fontFamily: _fontFamily);
+  static const IconData remix_paragraph =
+      IconData(0xeec7, fontFamily: _fontFamily);
+  static const IconData remix_parent_fill =
+      IconData(0xeec8, fontFamily: _fontFamily);
+  static const IconData remix_parent =
+      IconData(0xeec9, fontFamily: _fontFamily);
+  static const IconData remix_parentheses_fill =
+      IconData(0xeeca, fontFamily: _fontFamily);
+  static const IconData remix_parentheses =
+      IconData(0xeecb, fontFamily: _fontFamily);
+  static const IconData remix_parking_box_fill =
+      IconData(0xeecc, fontFamily: _fontFamily);
+  static const IconData remix_parking_box =
+      IconData(0xeecd, fontFamily: _fontFamily);
+  static const IconData remix_parking_fill =
+      IconData(0xeece, fontFamily: _fontFamily);
+  static const IconData remix_parking =
+      IconData(0xeecf, fontFamily: _fontFamily);
+  static const IconData remix_passport_fill =
+      IconData(0xeed0, fontFamily: _fontFamily);
+  static const IconData remix_passport =
+      IconData(0xeed1, fontFamily: _fontFamily);
+  static const IconData remix_patreon_fill =
+      IconData(0xeed2, fontFamily: _fontFamily);
+  static const IconData remix_patreon =
+      IconData(0xeed3, fontFamily: _fontFamily);
+  static const IconData remix_pause_circle_fill =
+      IconData(0xeed4, fontFamily: _fontFamily);
+  static const IconData remix_pause_circle =
+      IconData(0xeed5, fontFamily: _fontFamily);
+  static const IconData remix_pause_fill =
+      IconData(0xeed6, fontFamily: _fontFamily);
+  static const IconData remix_pause_mini_fill =
+      IconData(0xeed7, fontFamily: _fontFamily);
+  static const IconData remix_pause_mini =
+      IconData(0xeed8, fontFamily: _fontFamily);
+  static const IconData remix_pause = IconData(0xeed9, fontFamily: _fontFamily);
+  static const IconData remix_paypal_fill =
+      IconData(0xeeda, fontFamily: _fontFamily);
+  static const IconData remix_paypal =
+      IconData(0xeedb, fontFamily: _fontFamily);
+  static const IconData remix_pen_nib_fill =
+      IconData(0xeedc, fontFamily: _fontFamily);
+  static const IconData remix_pen_nib =
+      IconData(0xeedd, fontFamily: _fontFamily);
+  static const IconData remix_pencil_fill =
+      IconData(0xeede, fontFamily: _fontFamily);
+  static const IconData remix_pencil_ruler2_fill =
+      IconData(0xeedf, fontFamily: _fontFamily);
+  static const IconData remix_pencil_ruler2 =
+      IconData(0xeee0, fontFamily: _fontFamily);
+  static const IconData remix_pencil_ruler_fill =
+      IconData(0xeee1, fontFamily: _fontFamily);
+  static const IconData remix_pencil_ruler =
+      IconData(0xeee2, fontFamily: _fontFamily);
+  static const IconData remix_pencil =
+      IconData(0xeee3, fontFamily: _fontFamily);
+  static const IconData remix_percent_fill =
+      IconData(0xeee4, fontFamily: _fontFamily);
+  static const IconData remix_percent =
+      IconData(0xeee5, fontFamily: _fontFamily);
+  static const IconData remix_phone_camera_fill =
+      IconData(0xeee6, fontFamily: _fontFamily);
+  static const IconData remix_phone_camera =
+      IconData(0xeee7, fontFamily: _fontFamily);
+  static const IconData remix_phone_fill =
+      IconData(0xeee8, fontFamily: _fontFamily);
+  static const IconData remix_phone_find_fill =
+      IconData(0xeee9, fontFamily: _fontFamily);
+  static const IconData remix_phone_find =
+      IconData(0xeeea, fontFamily: _fontFamily);
+  static const IconData remix_phone_lock_fill =
+      IconData(0xeeeb, fontFamily: _fontFamily);
+  static const IconData remix_phone_lock =
+      IconData(0xeeec, fontFamily: _fontFamily);
+  static const IconData remix_phone = IconData(0xeeed, fontFamily: _fontFamily);
+  static const IconData remix_picture_in_picture2_fill =
+      IconData(0xeeee, fontFamily: _fontFamily);
+  static const IconData remix_picture_in_picture2 =
+      IconData(0xeeef, fontFamily: _fontFamily);
+  static const IconData remix_picture_in_picture_exit_fill =
+      IconData(0xeef0, fontFamily: _fontFamily);
+  static const IconData remix_picture_in_picture_exit =
+      IconData(0xeef1, fontFamily: _fontFamily);
+  static const IconData remix_picture_in_picture_fill =
+      IconData(0xeef2, fontFamily: _fontFamily);
+  static const IconData remix_picture_in_picture =
+      IconData(0xeef3, fontFamily: _fontFamily);
+  static const IconData remix_pie_chart2_fill =
+      IconData(0xeef4, fontFamily: _fontFamily);
+  static const IconData remix_pie_chart2 =
+      IconData(0xeef5, fontFamily: _fontFamily);
+  static const IconData remix_pie_chart_box_fill =
+      IconData(0xeef6, fontFamily: _fontFamily);
+  static const IconData remix_pie_chart_box =
+      IconData(0xeef7, fontFamily: _fontFamily);
+  static const IconData remix_pie_chart_fill =
+      IconData(0xeef8, fontFamily: _fontFamily);
+  static const IconData remix_pie_chart =
+      IconData(0xeef9, fontFamily: _fontFamily);
+  static const IconData remix_pin_distance_fill =
+      IconData(0xeefa, fontFamily: _fontFamily);
+  static const IconData remix_pin_distance =
+      IconData(0xeefb, fontFamily: _fontFamily);
+  static const IconData remix_ping_pong_fill =
+      IconData(0xeefc, fontFamily: _fontFamily);
+  static const IconData remix_ping_pong =
+      IconData(0xeefd, fontFamily: _fontFamily);
+  static const IconData remix_pinterest_fill =
+      IconData(0xeefe, fontFamily: _fontFamily);
+  static const IconData remix_pinterest =
+      IconData(0xeeff, fontFamily: _fontFamily);
+  static const IconData remix_pinyin_input =
+      IconData(0xef00, fontFamily: _fontFamily);
+  static const IconData remix_pixelfed_fill =
+      IconData(0xef01, fontFamily: _fontFamily);
+  static const IconData remix_pixelfed =
+      IconData(0xef02, fontFamily: _fontFamily);
+  static const IconData remix_plane_fill =
+      IconData(0xef03, fontFamily: _fontFamily);
+  static const IconData remix_plane = IconData(0xef04, fontFamily: _fontFamily);
+  static const IconData remix_plant_fill =
+      IconData(0xef05, fontFamily: _fontFamily);
+  static const IconData remix_plant = IconData(0xef06, fontFamily: _fontFamily);
+  static const IconData remix_play_circle_fill =
+      IconData(0xef07, fontFamily: _fontFamily);
+  static const IconData remix_play_circle =
+      IconData(0xef08, fontFamily: _fontFamily);
+  static const IconData remix_play_fill =
+      IconData(0xef09, fontFamily: _fontFamily);
+  static const IconData remix_play_list2_fill =
+      IconData(0xef0a, fontFamily: _fontFamily);
+  static const IconData remix_play_list2 =
+      IconData(0xef0b, fontFamily: _fontFamily);
+  static const IconData remix_play_list_add_fill =
+      IconData(0xef0c, fontFamily: _fontFamily);
+  static const IconData remix_play_list_add =
+      IconData(0xef0d, fontFamily: _fontFamily);
+  static const IconData remix_play_list_fill =
+      IconData(0xef0e, fontFamily: _fontFamily);
+  static const IconData remix_play_list =
+      IconData(0xef0f, fontFamily: _fontFamily);
+  static const IconData remix_play_mini_fill =
+      IconData(0xef10, fontFamily: _fontFamily);
+  static const IconData remix_play_mini =
+      IconData(0xef11, fontFamily: _fontFamily);
+  static const IconData remix_play = IconData(0xef12, fontFamily: _fontFamily);
+  static const IconData remix_playstation_fill =
+      IconData(0xef13, fontFamily: _fontFamily);
+  static const IconData remix_playstation =
+      IconData(0xef14, fontFamily: _fontFamily);
+  static const IconData remix_plug2_fill =
+      IconData(0xef15, fontFamily: _fontFamily);
+  static const IconData remix_plug2 = IconData(0xef16, fontFamily: _fontFamily);
+  static const IconData remix_plug_fill =
+      IconData(0xef17, fontFamily: _fontFamily);
+  static const IconData remix_plug = IconData(0xef18, fontFamily: _fontFamily);
+  static const IconData remix_polaroid2_fill =
+      IconData(0xef19, fontFamily: _fontFamily);
+  static const IconData remix_polaroid2 =
+      IconData(0xef1a, fontFamily: _fontFamily);
+  static const IconData remix_polaroid_fill =
+      IconData(0xef1b, fontFamily: _fontFamily);
+  static const IconData remix_polaroid =
+      IconData(0xef1c, fontFamily: _fontFamily);
+  static const IconData remix_police_car_fill =
+      IconData(0xef1d, fontFamily: _fontFamily);
+  static const IconData remix_police_car =
+      IconData(0xef1e, fontFamily: _fontFamily);
+  static const IconData remix_price_tag2_fill =
+      IconData(0xef1f, fontFamily: _fontFamily);
+  static const IconData remix_price_tag2 =
+      IconData(0xef20, fontFamily: _fontFamily);
+  static const IconData remix_price_tag3_fill =
+      IconData(0xef21, fontFamily: _fontFamily);
+  static const IconData remix_price_tag3 =
+      IconData(0xef22, fontFamily: _fontFamily);
+  static const IconData remix_price_tag_fill =
+      IconData(0xef23, fontFamily: _fontFamily);
+  static const IconData remix_price_tag =
+      IconData(0xef24, fontFamily: _fontFamily);
+  static const IconData remix_printer_cloud_fill =
+      IconData(0xef25, fontFamily: _fontFamily);
+  static const IconData remix_printer_cloud =
+      IconData(0xef26, fontFamily: _fontFamily);
+  static const IconData remix_printer_fill =
+      IconData(0xef27, fontFamily: _fontFamily);
+  static const IconData remix_printer =
+      IconData(0xef28, fontFamily: _fontFamily);
+  static const IconData remix_product_hunt_fill =
+      IconData(0xef29, fontFamily: _fontFamily);
+  static const IconData remix_product_hunt =
+      IconData(0xef2a, fontFamily: _fontFamily);
+  static const IconData remix_profile_fill =
+      IconData(0xef2b, fontFamily: _fontFamily);
+  static const IconData remix_profile =
+      IconData(0xef2c, fontFamily: _fontFamily);
+  static const IconData remix_projector2_fill =
+      IconData(0xef2d, fontFamily: _fontFamily);
+  static const IconData remix_projector2 =
+      IconData(0xef2e, fontFamily: _fontFamily);
+  static const IconData remix_projector_fill =
+      IconData(0xef2f, fontFamily: _fontFamily);
+  static const IconData remix_projector =
+      IconData(0xef30, fontFamily: _fontFamily);
+  static const IconData remix_psychotherapy_fill =
+      IconData(0xef31, fontFamily: _fontFamily);
+  static const IconData remix_psychotherapy =
+      IconData(0xef32, fontFamily: _fontFamily);
+  static const IconData remix_pulse_fill =
+      IconData(0xef33, fontFamily: _fontFamily);
+  static const IconData remix_pulse = IconData(0xef34, fontFamily: _fontFamily);
+  static const IconData remix_pushpin2_fill =
+      IconData(0xef35, fontFamily: _fontFamily);
+  static const IconData remix_pushpin2 =
+      IconData(0xef36, fontFamily: _fontFamily);
+  static const IconData remix_pushpin_fill =
+      IconData(0xef37, fontFamily: _fontFamily);
+  static const IconData remix_pushpin =
+      IconData(0xef38, fontFamily: _fontFamily);
+  static const IconData remix_qq_fill =
+      IconData(0xef39, fontFamily: _fontFamily);
+  static const IconData remix_qq = IconData(0xef3a, fontFamily: _fontFamily);
+  static const IconData remix_qr_code_fill =
+      IconData(0xef3b, fontFamily: _fontFamily);
+  static const IconData remix_qr_code =
+      IconData(0xef3c, fontFamily: _fontFamily);
+  static const IconData remix_qr_scan2_fill =
+      IconData(0xef3d, fontFamily: _fontFamily);
+  static const IconData remix_qr_scan2 =
+      IconData(0xef3e, fontFamily: _fontFamily);
+  static const IconData remix_qr_scan_fill =
+      IconData(0xef3f, fontFamily: _fontFamily);
+  static const IconData remix_qr_scan =
+      IconData(0xef40, fontFamily: _fontFamily);
+  static const IconData remix_question_answer_fill =
+      IconData(0xef41, fontFamily: _fontFamily);
+  static const IconData remix_question_answer =
+      IconData(0xef42, fontFamily: _fontFamily);
+  static const IconData remix_question_fill =
+      IconData(0xef43, fontFamily: _fontFamily);
+  static const IconData remix_question_mark =
+      IconData(0xef44, fontFamily: _fontFamily);
+  static const IconData remix_question =
+      IconData(0xef45, fontFamily: _fontFamily);
+  static const IconData remix_questionnaire_fill =
+      IconData(0xef46, fontFamily: _fontFamily);
+  static const IconData remix_questionnaire =
+      IconData(0xef47, fontFamily: _fontFamily);
+  static const IconData remix_quill_pen_fill =
+      IconData(0xef48, fontFamily: _fontFamily);
+  static const IconData remix_quill_pen =
+      IconData(0xef49, fontFamily: _fontFamily);
+  static const IconData remix_radar_fill =
+      IconData(0xef4a, fontFamily: _fontFamily);
+  static const IconData remix_radar = IconData(0xef4b, fontFamily: _fontFamily);
+  static const IconData remix_radio2_fill =
+      IconData(0xef4c, fontFamily: _fontFamily);
+  static const IconData remix_radio2 =
+      IconData(0xef4d, fontFamily: _fontFamily);
+  static const IconData remix_radio_button_fill =
+      IconData(0xef4e, fontFamily: _fontFamily);
+  static const IconData remix_radio_button =
+      IconData(0xef4f, fontFamily: _fontFamily);
+  static const IconData remix_radio_fill =
+      IconData(0xef50, fontFamily: _fontFamily);
+  static const IconData remix_radio = IconData(0xef51, fontFamily: _fontFamily);
+  static const IconData remix_rainbow_fill =
+      IconData(0xef52, fontFamily: _fontFamily);
+  static const IconData remix_rainbow =
+      IconData(0xef53, fontFamily: _fontFamily);
+  static const IconData remix_rainy_fill =
+      IconData(0xef54, fontFamily: _fontFamily);
+  static const IconData remix_rainy = IconData(0xef55, fontFamily: _fontFamily);
+  static const IconData remix_reactjs_fill =
+      IconData(0xef56, fontFamily: _fontFamily);
+  static const IconData remix_reactjs =
+      IconData(0xef57, fontFamily: _fontFamily);
+  static const IconData remix_record_circle_fill =
+      IconData(0xef58, fontFamily: _fontFamily);
+  static const IconData remix_record_circle =
+      IconData(0xef59, fontFamily: _fontFamily);
+  static const IconData remix_record_mail_fill =
+      IconData(0xef5a, fontFamily: _fontFamily);
+  static const IconData remix_record_mail =
+      IconData(0xef5b, fontFamily: _fontFamily);
+  static const IconData remix_recycle_fill =
+      IconData(0xef5c, fontFamily: _fontFamily);
+  static const IconData remix_recycle =
+      IconData(0xef5d, fontFamily: _fontFamily);
+  static const IconData remix_red_packet_fill =
+      IconData(0xef5e, fontFamily: _fontFamily);
+  static const IconData remix_red_packet =
+      IconData(0xef5f, fontFamily: _fontFamily);
+  static const IconData remix_reddit_fill =
+      IconData(0xef60, fontFamily: _fontFamily);
+  static const IconData remix_reddit =
+      IconData(0xef61, fontFamily: _fontFamily);
+  static const IconData remix_refresh_fill =
+      IconData(0xef62, fontFamily: _fontFamily);
+  static const IconData remix_refresh =
+      IconData(0xef63, fontFamily: _fontFamily);
+  static const IconData remix_refund2_fill =
+      IconData(0xef64, fontFamily: _fontFamily);
+  static const IconData remix_refund2 =
+      IconData(0xef65, fontFamily: _fontFamily);
+  static const IconData remix_refund_fill =
+      IconData(0xef66, fontFamily: _fontFamily);
+  static const IconData remix_refund =
+      IconData(0xef67, fontFamily: _fontFamily);
+  static const IconData remix_registered_fill =
+      IconData(0xef68, fontFamily: _fontFamily);
+  static const IconData remix_registered =
+      IconData(0xef69, fontFamily: _fontFamily);
+  static const IconData remix_remixicon_fill =
+      IconData(0xef6a, fontFamily: _fontFamily);
+  static const IconData remix_remixicon =
+      IconData(0xef6b, fontFamily: _fontFamily);
+  static const IconData remix_remote_control2_fill =
+      IconData(0xef6c, fontFamily: _fontFamily);
+  static const IconData remix_remote_control2 =
+      IconData(0xef6d, fontFamily: _fontFamily);
+  static const IconData remix_remote_control_fill =
+      IconData(0xef6e, fontFamily: _fontFamily);
+  static const IconData remix_remote_control =
+      IconData(0xef6f, fontFamily: _fontFamily);
+  static const IconData remix_repeat2_fill =
+      IconData(0xef70, fontFamily: _fontFamily);
+  static const IconData remix_repeat2 =
+      IconData(0xef71, fontFamily: _fontFamily);
+  static const IconData remix_repeat_fill =
+      IconData(0xef72, fontFamily: _fontFamily);
+  static const IconData remix_repeat_one_fill =
+      IconData(0xef73, fontFamily: _fontFamily);
+  static const IconData remix_repeat_one =
+      IconData(0xef74, fontFamily: _fontFamily);
+  static const IconData remix_repeat =
+      IconData(0xef75, fontFamily: _fontFamily);
+  static const IconData remix_reply_all_fill =
+      IconData(0xef76, fontFamily: _fontFamily);
+  static const IconData remix_reply_all =
+      IconData(0xef77, fontFamily: _fontFamily);
+  static const IconData remix_reply_fill =
+      IconData(0xef78, fontFamily: _fontFamily);
+  static const IconData remix_reply = IconData(0xef79, fontFamily: _fontFamily);
+  static const IconData remix_reserved_fill =
+      IconData(0xef7a, fontFamily: _fontFamily);
+  static const IconData remix_reserved =
+      IconData(0xef7b, fontFamily: _fontFamily);
+  static const IconData remix_rest_time_fill =
+      IconData(0xef7c, fontFamily: _fontFamily);
+  static const IconData remix_rest_time =
+      IconData(0xef7d, fontFamily: _fontFamily);
+  static const IconData remix_restart_fill =
+      IconData(0xef7e, fontFamily: _fontFamily);
+  static const IconData remix_restart =
+      IconData(0xef7f, fontFamily: _fontFamily);
+  static const IconData remix_restaurant2_fill =
+      IconData(0xef80, fontFamily: _fontFamily);
+  static const IconData remix_restaurant2 =
+      IconData(0xef81, fontFamily: _fontFamily);
+  static const IconData remix_restaurant_fill =
+      IconData(0xef82, fontFamily: _fontFamily);
+  static const IconData remix_restaurant =
+      IconData(0xef83, fontFamily: _fontFamily);
+  static const IconData remix_rewind_fill =
+      IconData(0xef84, fontFamily: _fontFamily);
+  static const IconData remix_rewind_mini_fill =
+      IconData(0xef85, fontFamily: _fontFamily);
+  static const IconData remix_rewind_mini =
+      IconData(0xef86, fontFamily: _fontFamily);
+  static const IconData remix_rewind =
+      IconData(0xef87, fontFamily: _fontFamily);
+  static const IconData remix_rhythm_fill =
+      IconData(0xef88, fontFamily: _fontFamily);
+  static const IconData remix_rhythm =
+      IconData(0xef89, fontFamily: _fontFamily);
+  static const IconData remix_riding_fill =
+      IconData(0xef8a, fontFamily: _fontFamily);
+  static const IconData remix_riding =
+      IconData(0xef8b, fontFamily: _fontFamily);
+  static const IconData remix_road_map_fill =
+      IconData(0xef8c, fontFamily: _fontFamily);
+  static const IconData remix_road_map =
+      IconData(0xef8d, fontFamily: _fontFamily);
+  static const IconData remix_roadster_fill =
+      IconData(0xef8e, fontFamily: _fontFamily);
+  static const IconData remix_roadster =
+      IconData(0xef8f, fontFamily: _fontFamily);
+  static const IconData remix_robot_fill =
+      IconData(0xef90, fontFamily: _fontFamily);
+  static const IconData remix_robot = IconData(0xef91, fontFamily: _fontFamily);
+  static const IconData remix_rocket2_fill =
+      IconData(0xef92, fontFamily: _fontFamily);
+  static const IconData remix_rocket2 =
+      IconData(0xef93, fontFamily: _fontFamily);
+  static const IconData remix_rocket_fill =
+      IconData(0xef94, fontFamily: _fontFamily);
+  static const IconData remix_rocket =
+      IconData(0xef95, fontFamily: _fontFamily);
+  static const IconData remix_rotate_lock_fill =
+      IconData(0xef96, fontFamily: _fontFamily);
+  static const IconData remix_rotate_lock =
+      IconData(0xef97, fontFamily: _fontFamily);
+  static const IconData remix_rounded_corner =
+      IconData(0xef98, fontFamily: _fontFamily);
+  static const IconData remix_route_fill =
+      IconData(0xef99, fontFamily: _fontFamily);
+  static const IconData remix_route = IconData(0xef9a, fontFamily: _fontFamily);
+  static const IconData remix_router_fill =
+      IconData(0xef9b, fontFamily: _fontFamily);
+  static const IconData remix_router =
+      IconData(0xef9c, fontFamily: _fontFamily);
+  static const IconData remix_rss_fill =
+      IconData(0xef9d, fontFamily: _fontFamily);
+  static const IconData remix_rss = IconData(0xef9e, fontFamily: _fontFamily);
+  static const IconData remix_ruler2_fill =
+      IconData(0xef9f, fontFamily: _fontFamily);
+  static const IconData remix_ruler2 =
+      IconData(0xefa0, fontFamily: _fontFamily);
+  static const IconData remix_ruler_fill =
+      IconData(0xefa1, fontFamily: _fontFamily);
+  static const IconData remix_ruler = IconData(0xefa2, fontFamily: _fontFamily);
+  static const IconData remix_run_fill =
+      IconData(0xefa3, fontFamily: _fontFamily);
+  static const IconData remix_run = IconData(0xefa4, fontFamily: _fontFamily);
+  static const IconData remix_safari_fill =
+      IconData(0xefa5, fontFamily: _fontFamily);
+  static const IconData remix_safari =
+      IconData(0xefa6, fontFamily: _fontFamily);
+  static const IconData remix_settings2_fill =
+      IconData(0xefe2, fontFamily: _fontFamily);
+  static const IconData remix_settings2 =
+      IconData(0xefe3, fontFamily: _fontFamily);
+  static const IconData remix_settings3_fill =
+      IconData(0xefe4, fontFamily: _fontFamily);
+  static const IconData remix_settings3 =
+      IconData(0xefe5, fontFamily: _fontFamily);
+  static const IconData remix_settings4_fill =
+      IconData(0xefe6, fontFamily: _fontFamily);
+  static const IconData remix_settings4 =
+      IconData(0xefe7, fontFamily: _fontFamily);
+  static const IconData remix_settings5_fill =
+      IconData(0xefe8, fontFamily: _fontFamily);
+  static const IconData remix_settings5 =
+      IconData(0xefe9, fontFamily: _fontFamily);
+  static const IconData remix_settings6_fill =
+      IconData(0xefea, fontFamily: _fontFamily);
+  static const IconData remix_settings6 =
+      IconData(0xefeb, fontFamily: _fontFamily);
+  static const IconData remix_settings_fill =
+      IconData(0xefec, fontFamily: _fontFamily);
+  static const IconData remix_settings =
+      IconData(0xefed, fontFamily: _fontFamily);
+  static const IconData remix_shape2_fill =
+      IconData(0xefee, fontFamily: _fontFamily);
+  static const IconData remix_shape2 =
+      IconData(0xefef, fontFamily: _fontFamily);
+  static const IconData remix_shape_fill =
+      IconData(0xeff0, fontFamily: _fontFamily);
+  static const IconData remix_shape = IconData(0xeff1, fontFamily: _fontFamily);
+  static const IconData remix_share_box_fill =
+      IconData(0xeff2, fontFamily: _fontFamily);
+  static const IconData remix_share_box =
+      IconData(0xeff3, fontFamily: _fontFamily);
+  static const IconData remix_share_circle_fill =
+      IconData(0xeff4, fontFamily: _fontFamily);
+  static const IconData remix_share_circle =
+      IconData(0xeff5, fontFamily: _fontFamily);
+  static const IconData remix_share_fill =
+      IconData(0xeff6, fontFamily: _fontFamily);
+  static const IconData remix_share_forward2_fill =
+      IconData(0xeff7, fontFamily: _fontFamily);
+  static const IconData remix_share_forward2 =
+      IconData(0xeff8, fontFamily: _fontFamily);
+  static const IconData remix_share_forward_box_fill =
+      IconData(0xeff9, fontFamily: _fontFamily);
+  static const IconData remix_share_forward_box =
+      IconData(0xeffa, fontFamily: _fontFamily);
+  static const IconData remix_share_forward_fill =
+      IconData(0xeffb, fontFamily: _fontFamily);
+  static const IconData remix_share_forward =
+      IconData(0xeffc, fontFamily: _fontFamily);
+  static const IconData remix_share = IconData(0xeffd, fontFamily: _fontFamily);
+  static const IconData remix_shield_check_fill =
+      IconData(0xeffe, fontFamily: _fontFamily);
+  static const IconData remix_shield_check =
+      IconData(0xefff, fontFamily: _fontFamily);
+  static const IconData remix_shield_cross_fill =
+      IconData(0xf000, fontFamily: _fontFamily);
+  static const IconData remix_shield_cross =
+      IconData(0xf001, fontFamily: _fontFamily);
+  static const IconData remix_shield_fill =
+      IconData(0xf002, fontFamily: _fontFamily);
+  static const IconData remix_shield_flash_fill =
+      IconData(0xf003, fontFamily: _fontFamily);
+  static const IconData remix_shield_flash =
+      IconData(0xf004, fontFamily: _fontFamily);
+  static const IconData remix_shield_keyhole_fill =
+      IconData(0xf005, fontFamily: _fontFamily);
+  static const IconData remix_shield_keyhole =
+      IconData(0xf006, fontFamily: _fontFamily);
+  static const IconData remix_shield_star_fill =
+      IconData(0xf007, fontFamily: _fontFamily);
+  static const IconData remix_shield_star =
+      IconData(0xf008, fontFamily: _fontFamily);
+  static const IconData remix_shield_user_fill =
+      IconData(0xf009, fontFamily: _fontFamily);
+  static const IconData remix_shield_user =
+      IconData(0xf00a, fontFamily: _fontFamily);
+  static const IconData remix_shield =
+      IconData(0xf00b, fontFamily: _fontFamily);
+  static const IconData remix_ship2_fill =
+      IconData(0xf00c, fontFamily: _fontFamily);
+  static const IconData remix_ship2 = IconData(0xf00d, fontFamily: _fontFamily);
+  static const IconData remix_ship_fill =
+      IconData(0xf00e, fontFamily: _fontFamily);
+  static const IconData remix_ship = IconData(0xf00f, fontFamily: _fontFamily);
+  static const IconData remix_shirt_fill =
+      IconData(0xf010, fontFamily: _fontFamily);
+  static const IconData remix_shirt = IconData(0xf011, fontFamily: _fontFamily);
+  static const IconData remix_shopping_bag2_fill =
+      IconData(0xf012, fontFamily: _fontFamily);
+  static const IconData remix_shopping_bag2 =
+      IconData(0xf013, fontFamily: _fontFamily);
+  static const IconData remix_shopping_bag3_fill =
+      IconData(0xf014, fontFamily: _fontFamily);
+  static const IconData remix_shopping_bag3 =
+      IconData(0xf015, fontFamily: _fontFamily);
+  static const IconData remix_shopping_bag_fill =
+      IconData(0xf016, fontFamily: _fontFamily);
+  static const IconData remix_shopping_bag =
+      IconData(0xf017, fontFamily: _fontFamily);
+  static const IconData remix_shopping_basket2_fill =
+      IconData(0xf018, fontFamily: _fontFamily);
+  static const IconData remix_shopping_basket2 =
+      IconData(0xf019, fontFamily: _fontFamily);
+  static const IconData remix_shopping_basket_fill =
+      IconData(0xf01a, fontFamily: _fontFamily);
+  static const IconData remix_shopping_basket =
+      IconData(0xf01b, fontFamily: _fontFamily);
+  static const IconData remix_shopping_cart2_fill =
+      IconData(0xf01c, fontFamily: _fontFamily);
+  static const IconData remix_shopping_cart2 =
+      IconData(0xf01d, fontFamily: _fontFamily);
+  static const IconData remix_shopping_cart_fill =
+      IconData(0xf01e, fontFamily: _fontFamily);
+  static const IconData remix_shopping_cart =
+      IconData(0xf01f, fontFamily: _fontFamily);
+  static const IconData remix_showers_fill =
+      IconData(0xf020, fontFamily: _fontFamily);
+  static const IconData remix_showers =
+      IconData(0xf021, fontFamily: _fontFamily);
+  static const IconData remix_shuffle_fill =
+      IconData(0xf022, fontFamily: _fontFamily);
+  static const IconData remix_shuffle =
+      IconData(0xf023, fontFamily: _fontFamily);
+  static const IconData remix_shut_down_fill =
+      IconData(0xf024, fontFamily: _fontFamily);
+  static const IconData remix_shut_down =
+      IconData(0xf025, fontFamily: _fontFamily);
+  static const IconData remix_side_bar_fill =
+      IconData(0xf026, fontFamily: _fontFamily);
+  static const IconData remix_side_bar =
+      IconData(0xf027, fontFamily: _fontFamily);
+  static const IconData remix_signal_tower_fill =
+      IconData(0xf028, fontFamily: _fontFamily);
+  static const IconData remix_signal_tower =
+      IconData(0xf029, fontFamily: _fontFamily);
+  static const IconData remix_signal_wifi1_fill =
+      IconData(0xf02a, fontFamily: _fontFamily);
+  static const IconData remix_signal_wifi1 =
+      IconData(0xf02b, fontFamily: _fontFamily);
+  static const IconData remix_signal_wifi2_fill =
+      IconData(0xf02c, fontFamily: _fontFamily);
+  static const IconData remix_signal_wifi2 =
+      IconData(0xf02d, fontFamily: _fontFamily);
+  static const IconData remix_signal_wifi3_fill =
+      IconData(0xf02e, fontFamily: _fontFamily);
+  static const IconData remix_signal_wifi3 =
+      IconData(0xf02f, fontFamily: _fontFamily);
+  static const IconData remix_signal_wifi_error_fill =
+      IconData(0xf030, fontFamily: _fontFamily);
+  static const IconData remix_signal_wifi_error =
+      IconData(0xf031, fontFamily: _fontFamily);
+  static const IconData remix_signal_wifi_fill =
+      IconData(0xf032, fontFamily: _fontFamily);
+  static const IconData remix_signal_wifi_off_fill =
+      IconData(0xf033, fontFamily: _fontFamily);
+  static const IconData remix_signal_wifi_off =
+      IconData(0xf034, fontFamily: _fontFamily);
+  static const IconData remix_signal_wifi =
+      IconData(0xf035, fontFamily: _fontFamily);
+  static const IconData remix_sim_card2_fill =
+      IconData(0xf036, fontFamily: _fontFamily);
+  static const IconData remix_sim_card2 =
+      IconData(0xf037, fontFamily: _fontFamily);
+  static const IconData remix_sim_card_fill =
+      IconData(0xf038, fontFamily: _fontFamily);
+  static const IconData remix_sim_card =
+      IconData(0xf039, fontFamily: _fontFamily);
+  static const IconData remix_single_quotes_l =
+      IconData(0xf03a, fontFamily: _fontFamily);
+  static const IconData remix_single_quotes_r =
+      IconData(0xf03b, fontFamily: _fontFamily);
+  static const IconData remix_sip_fill =
+      IconData(0xf03c, fontFamily: _fontFamily);
+  static const IconData remix_sip = IconData(0xf03d, fontFamily: _fontFamily);
+  static const IconData remix_skip_back_fill =
+      IconData(0xf03e, fontFamily: _fontFamily);
+  static const IconData remix_skip_back_mini_fill =
+      IconData(0xf03f, fontFamily: _fontFamily);
+  static const IconData remix_skip_back_mini =
+      IconData(0xf040, fontFamily: _fontFamily);
+  static const IconData remix_skip_back =
+      IconData(0xf041, fontFamily: _fontFamily);
+  static const IconData remix_skip_forward_fill =
+      IconData(0xf042, fontFamily: _fontFamily);
+  static const IconData remix_skip_forward_mini_fill =
+      IconData(0xf043, fontFamily: _fontFamily);
+  static const IconData remix_skip_forward_mini =
+      IconData(0xf044, fontFamily: _fontFamily);
+  static const IconData remix_skip_forward =
+      IconData(0xf045, fontFamily: _fontFamily);
+  static const IconData remix_skull2_fill =
+      IconData(0xf046, fontFamily: _fontFamily);
+  static const IconData remix_skull2 =
+      IconData(0xf047, fontFamily: _fontFamily);
+  static const IconData remix_skull_fill =
+      IconData(0xf048, fontFamily: _fontFamily);
+  static const IconData remix_skull = IconData(0xf049, fontFamily: _fontFamily);
+  static const IconData remix_skype_fill =
+      IconData(0xf04a, fontFamily: _fontFamily);
+  static const IconData remix_skype = IconData(0xf04b, fontFamily: _fontFamily);
+  static const IconData remix_slack_fill =
+      IconData(0xf04c, fontFamily: _fontFamily);
+  static const IconData remix_slack = IconData(0xf04d, fontFamily: _fontFamily);
+  static const IconData remix_slice_fill =
+      IconData(0xf04e, fontFamily: _fontFamily);
+  static const IconData remix_slice = IconData(0xf04f, fontFamily: _fontFamily);
+  static const IconData remix_slideshow2_fill =
+      IconData(0xf050, fontFamily: _fontFamily);
+  static const IconData remix_slideshow2 =
+      IconData(0xf051, fontFamily: _fontFamily);
+  static const IconData remix_slideshow3_fill =
+      IconData(0xf052, fontFamily: _fontFamily);
+  static const IconData remix_slideshow3 =
+      IconData(0xf053, fontFamily: _fontFamily);
+  static const IconData remix_slideshow4_fill =
+      IconData(0xf054, fontFamily: _fontFamily);
+  static const IconData remix_slideshow4 =
+      IconData(0xf055, fontFamily: _fontFamily);
+  static const IconData remix_slideshow_fill =
+      IconData(0xf056, fontFamily: _fontFamily);
+  static const IconData remix_slideshow =
+      IconData(0xf057, fontFamily: _fontFamily);
+  static const IconData remix_smartphone_fill =
+      IconData(0xf058, fontFamily: _fontFamily);
+  static const IconData remix_smartphone =
+      IconData(0xf059, fontFamily: _fontFamily);
+  static const IconData remix_snapchat_fill =
+      IconData(0xf05a, fontFamily: _fontFamily);
+  static const IconData remix_snapchat =
+      IconData(0xf05b, fontFamily: _fontFamily);
+  static const IconData remix_snowy_fill =
+      IconData(0xf05c, fontFamily: _fontFamily);
+  static const IconData remix_snowy = IconData(0xf05d, fontFamily: _fontFamily);
+  static const IconData remix_sort_asc =
+      IconData(0xf05e, fontFamily: _fontFamily);
+  static const IconData remix_sort_desc =
+      IconData(0xf05f, fontFamily: _fontFamily);
+  static const IconData remix_sound_module_fill =
+      IconData(0xf060, fontFamily: _fontFamily);
+  static const IconData remix_sound_module =
+      IconData(0xf061, fontFamily: _fontFamily);
+  static const IconData remix_soundcloud_fill =
+      IconData(0xf062, fontFamily: _fontFamily);
+  static const IconData remix_soundcloud =
+      IconData(0xf063, fontFamily: _fontFamily);
+  static const IconData remix_space_ship_fill =
+      IconData(0xf064, fontFamily: _fontFamily);
+  static const IconData remix_space_ship =
+      IconData(0xf065, fontFamily: _fontFamily);
+  static const IconData remix_space = IconData(0xf066, fontFamily: _fontFamily);
+  static const IconData remix_spam2_fill =
+      IconData(0xf067, fontFamily: _fontFamily);
+  static const IconData remix_spam2 = IconData(0xf068, fontFamily: _fontFamily);
+  static const IconData remix_spam3_fill =
+      IconData(0xf069, fontFamily: _fontFamily);
+  static const IconData remix_spam3 = IconData(0xf06a, fontFamily: _fontFamily);
+  static const IconData remix_spam_fill =
+      IconData(0xf06b, fontFamily: _fontFamily);
+  static const IconData remix_spam = IconData(0xf06c, fontFamily: _fontFamily);
+  static const IconData remix_speaker2_fill =
+      IconData(0xf06d, fontFamily: _fontFamily);
+  static const IconData remix_speaker2 =
+      IconData(0xf06e, fontFamily: _fontFamily);
+  static const IconData remix_speaker3_fill =
+      IconData(0xf06f, fontFamily: _fontFamily);
+  static const IconData remix_speaker3 =
+      IconData(0xf070, fontFamily: _fontFamily);
+  static const IconData remix_speaker_fill =
+      IconData(0xf071, fontFamily: _fontFamily);
+  static const IconData remix_speaker =
+      IconData(0xf072, fontFamily: _fontFamily);
+  static const IconData remix_spectrum_fill =
+      IconData(0xf073, fontFamily: _fontFamily);
+  static const IconData remix_spectrum =
+      IconData(0xf074, fontFamily: _fontFamily);
+  static const IconData remix_speed_fill =
+      IconData(0xf075, fontFamily: _fontFamily);
+  static const IconData remix_speed_mini_fill =
+      IconData(0xf076, fontFamily: _fontFamily);
+  static const IconData remix_speed_mini =
+      IconData(0xf077, fontFamily: _fontFamily);
+  static const IconData remix_speed = IconData(0xf078, fontFamily: _fontFamily);
+  static const IconData remix_split_cells_horizontal =
+      IconData(0xf079, fontFamily: _fontFamily);
+  static const IconData remix_split_cells_vertical =
+      IconData(0xf07a, fontFamily: _fontFamily);
+  static const IconData remix_spotify_fill =
+      IconData(0xf07b, fontFamily: _fontFamily);
+  static const IconData remix_spotify =
+      IconData(0xf07c, fontFamily: _fontFamily);
+  static const IconData remix_spy_fill =
+      IconData(0xf07d, fontFamily: _fontFamily);
+  static const IconData remix_spy = IconData(0xf07e, fontFamily: _fontFamily);
+  static const IconData remix_stack_fill =
+      IconData(0xf07f, fontFamily: _fontFamily);
+  static const IconData remix_stack_overflow_fill =
+      IconData(0xf080, fontFamily: _fontFamily);
+  static const IconData remix_stack_overflow =
+      IconData(0xf081, fontFamily: _fontFamily);
+  static const IconData remix_stack = IconData(0xf082, fontFamily: _fontFamily);
+  static const IconData remix_stackshare_fill =
+      IconData(0xf083, fontFamily: _fontFamily);
+  static const IconData remix_stackshare =
+      IconData(0xf084, fontFamily: _fontFamily);
+  static const IconData remix_star_fill =
+      IconData(0xf085, fontFamily: _fontFamily);
+  static const IconData remix_star_half_fill =
+      IconData(0xf086, fontFamily: _fontFamily);
+  static const IconData remix_star_half_s_fill =
+      IconData(0xf087, fontFamily: _fontFamily);
+  static const IconData remix_star_half_s =
+      IconData(0xf088, fontFamily: _fontFamily);
+  static const IconData remix_star_half =
+      IconData(0xf089, fontFamily: _fontFamily);
+  static const IconData remix_star_s_fill =
+      IconData(0xf08a, fontFamily: _fontFamily);
+  static const IconData remix_star_s =
+      IconData(0xf08b, fontFamily: _fontFamily);
+  static const IconData remix_star_smile_fill =
+      IconData(0xf08c, fontFamily: _fontFamily);
+  static const IconData remix_star_smile =
+      IconData(0xf08d, fontFamily: _fontFamily);
+  static const IconData remix_star = IconData(0xf08e, fontFamily: _fontFamily);
+  static const IconData remix_steam_fill =
+      IconData(0xf08f, fontFamily: _fontFamily);
+  static const IconData remix_steam = IconData(0xf090, fontFamily: _fontFamily);
+  static const IconData remix_steering2_fill =
+      IconData(0xf091, fontFamily: _fontFamily);
+  static const IconData remix_steering2 =
+      IconData(0xf092, fontFamily: _fontFamily);
+  static const IconData remix_steering_fill =
+      IconData(0xf093, fontFamily: _fontFamily);
+  static const IconData remix_steering =
+      IconData(0xf094, fontFamily: _fontFamily);
+  static const IconData remix_stethoscope_fill =
+      IconData(0xf095, fontFamily: _fontFamily);
+  static const IconData remix_stethoscope =
+      IconData(0xf096, fontFamily: _fontFamily);
+  static const IconData remix_sticky_note2_fill =
+      IconData(0xf097, fontFamily: _fontFamily);
+  static const IconData remix_sticky_note2 =
+      IconData(0xf098, fontFamily: _fontFamily);
+  static const IconData remix_sticky_note_fill =
+      IconData(0xf099, fontFamily: _fontFamily);
+  static const IconData remix_sticky_note =
+      IconData(0xf09a, fontFamily: _fontFamily);
+  static const IconData remix_stock_fill =
+      IconData(0xf09b, fontFamily: _fontFamily);
+  static const IconData remix_stock = IconData(0xf09c, fontFamily: _fontFamily);
+  static const IconData remix_stop_circle_fill =
+      IconData(0xf09d, fontFamily: _fontFamily);
+  static const IconData remix_stop_circle =
+      IconData(0xf09e, fontFamily: _fontFamily);
+  static const IconData remix_stop_fill =
+      IconData(0xf09f, fontFamily: _fontFamily);
+  static const IconData remix_stop_mini_fill =
+      IconData(0xf0a0, fontFamily: _fontFamily);
+  static const IconData remix_stop_mini =
+      IconData(0xf0a1, fontFamily: _fontFamily);
+  static const IconData remix_stop = IconData(0xf0a2, fontFamily: _fontFamily);
+  static const IconData remix_store2_fill =
+      IconData(0xf0a3, fontFamily: _fontFamily);
+  static const IconData remix_store2 =
+      IconData(0xf0a4, fontFamily: _fontFamily);
+  static const IconData remix_store3_fill =
+      IconData(0xf0a5, fontFamily: _fontFamily);
+  static const IconData remix_store3 =
+      IconData(0xf0a6, fontFamily: _fontFamily);
+  static const IconData remix_store_fill =
+      IconData(0xf0a7, fontFamily: _fontFamily);
+  static const IconData remix_store = IconData(0xf0a8, fontFamily: _fontFamily);
+  static const IconData remix_strikethrough2 =
+      IconData(0xf0a9, fontFamily: _fontFamily);
+  static const IconData remix_strikethrough =
+      IconData(0xf0aa, fontFamily: _fontFamily);
+  static const IconData remix_subscript2 =
+      IconData(0xf0ab, fontFamily: _fontFamily);
+  static const IconData remix_subscript =
+      IconData(0xf0ac, fontFamily: _fontFamily);
+  static const IconData remix_subtract_fill =
+      IconData(0xf0ad, fontFamily: _fontFamily);
+  static const IconData remix_subtract =
+      IconData(0xf0ae, fontFamily: _fontFamily);
+  static const IconData remix_subway_fill =
+      IconData(0xf0af, fontFamily: _fontFamily);
+  static const IconData remix_subway_wifi_fill =
+      IconData(0xf0b0, fontFamily: _fontFamily);
+  static const IconData remix_subway_wifi =
+      IconData(0xf0b1, fontFamily: _fontFamily);
+  static const IconData remix_subway =
+      IconData(0xf0b2, fontFamily: _fontFamily);
+  static const IconData remix_suitcase2_fill =
+      IconData(0xf0b3, fontFamily: _fontFamily);
+  static const IconData remix_suitcase2 =
+      IconData(0xf0b4, fontFamily: _fontFamily);
+  static const IconData remix_suitcase3_fill =
+      IconData(0xf0b5, fontFamily: _fontFamily);
+  static const IconData remix_suitcase3 =
+      IconData(0xf0b6, fontFamily: _fontFamily);
+  static const IconData remix_suitcase_fill =
+      IconData(0xf0b7, fontFamily: _fontFamily);
+  static const IconData remix_suitcase =
+      IconData(0xf0b8, fontFamily: _fontFamily);
+  static const IconData remix_sun_cloudy_fill =
+      IconData(0xf0b9, fontFamily: _fontFamily);
+  static const IconData remix_sun_cloudy =
+      IconData(0xf0ba, fontFamily: _fontFamily);
+  static const IconData remix_sun_fill =
+      IconData(0xf0bb, fontFamily: _fontFamily);
+  static const IconData remix_sun_foggy_fill =
+      IconData(0xf0bc, fontFamily: _fontFamily);
+  static const IconData remix_sun_foggy =
+      IconData(0xf0bd, fontFamily: _fontFamily);
+  static const IconData remix_sun = IconData(0xf0be, fontFamily: _fontFamily);
+  static const IconData remix_superscript2 =
+      IconData(0xf0bf, fontFamily: _fontFamily);
+  static const IconData remix_superscript =
+      IconData(0xf0c0, fontFamily: _fontFamily);
+  static const IconData remix_surgical_mask_fill =
+      IconData(0xf0c1, fontFamily: _fontFamily);
+  static const IconData remix_surgical_mask =
+      IconData(0xf0c2, fontFamily: _fontFamily);
+  static const IconData remix_surround_sound_fill =
+      IconData(0xf0c3, fontFamily: _fontFamily);
+  static const IconData remix_surround_sound =
+      IconData(0xf0c4, fontFamily: _fontFamily);
+  static const IconData remix_survey_fill =
+      IconData(0xf0c5, fontFamily: _fontFamily);
+  static const IconData remix_survey =
+      IconData(0xf0c6, fontFamily: _fontFamily);
+  static const IconData remix_swap_box_fill =
+      IconData(0xf0c7, fontFamily: _fontFamily);
+  static const IconData remix_swap_box =
+      IconData(0xf0c8, fontFamily: _fontFamily);
+  static const IconData remix_swap_fill =
+      IconData(0xf0c9, fontFamily: _fontFamily);
+  static const IconData remix_swap = IconData(0xf0ca, fontFamily: _fontFamily);
+  static const IconData remix_switch_fill =
+      IconData(0xf0cb, fontFamily: _fontFamily);
+  static const IconData remix_switch =
+      IconData(0xf0cc, fontFamily: _fontFamily);
+  static const IconData remix_sword_fill =
+      IconData(0xf0cd, fontFamily: _fontFamily);
+  static const IconData remix_sword = IconData(0xf0ce, fontFamily: _fontFamily);
+  static const IconData remix_syringe_fill =
+      IconData(0xf0cf, fontFamily: _fontFamily);
+  static const IconData remix_syringe =
+      IconData(0xf0d0, fontFamily: _fontFamily);
+  static const IconData remix_t_box_fill =
+      IconData(0xf0d1, fontFamily: _fontFamily);
+  static const IconData remix_t_box = IconData(0xf0d2, fontFamily: _fontFamily);
+  static const IconData remix_t_shirt2_fill =
+      IconData(0xf0d3, fontFamily: _fontFamily);
+  static const IconData remix_t_shirt2 =
+      IconData(0xf0d4, fontFamily: _fontFamily);
+  static const IconData remix_t_shirt_air_fill =
+      IconData(0xf0d5, fontFamily: _fontFamily);
+  static const IconData remix_t_shirt_air =
+      IconData(0xf0d6, fontFamily: _fontFamily);
+  static const IconData remix_t_shirt_fill =
+      IconData(0xf0d7, fontFamily: _fontFamily);
+  static const IconData remix_t_shirt =
+      IconData(0xf0d8, fontFamily: _fontFamily);
+  static const IconData remix_table2 =
+      IconData(0xf0d9, fontFamily: _fontFamily);
+  static const IconData remix_table_alt_fill =
+      IconData(0xf0da, fontFamily: _fontFamily);
+  static const IconData remix_table_alt =
+      IconData(0xf0db, fontFamily: _fontFamily);
+  static const IconData remix_table_fill =
+      IconData(0xf0dc, fontFamily: _fontFamily);
+  static const IconData remix_table = IconData(0xf0dd, fontFamily: _fontFamily);
+  static const IconData remix_tablet_fill =
+      IconData(0xf0de, fontFamily: _fontFamily);
+  static const IconData remix_tablet =
+      IconData(0xf0df, fontFamily: _fontFamily);
+  static const IconData remix_takeaway_fill =
+      IconData(0xf0e0, fontFamily: _fontFamily);
+  static const IconData remix_takeaway =
+      IconData(0xf0e1, fontFamily: _fontFamily);
+  static const IconData remix_taobao_fill =
+      IconData(0xf0e2, fontFamily: _fontFamily);
+  static const IconData remix_taobao =
+      IconData(0xf0e3, fontFamily: _fontFamily);
+  static const IconData remix_tape_fill =
+      IconData(0xf0e4, fontFamily: _fontFamily);
+  static const IconData remix_tape = IconData(0xf0e5, fontFamily: _fontFamily);
+  static const IconData remix_task_fill =
+      IconData(0xf0e6, fontFamily: _fontFamily);
+  static const IconData remix_task = IconData(0xf0e7, fontFamily: _fontFamily);
+  static const IconData remix_taxi_fill =
+      IconData(0xf0e8, fontFamily: _fontFamily);
+  static const IconData remix_taxi_wifi_fill =
+      IconData(0xf0e9, fontFamily: _fontFamily);
+  static const IconData remix_taxi_wifi =
+      IconData(0xf0ea, fontFamily: _fontFamily);
+  static const IconData remix_taxi = IconData(0xf0eb, fontFamily: _fontFamily);
+  static const IconData remix_team_fill =
+      IconData(0xf0ec, fontFamily: _fontFamily);
+  static const IconData remix_team = IconData(0xf0ed, fontFamily: _fontFamily);
+  static const IconData remix_telegram_fill =
+      IconData(0xf0ee, fontFamily: _fontFamily);
+  static const IconData remix_telegram =
+      IconData(0xf0ef, fontFamily: _fontFamily);
+  static const IconData remix_temp_cold_fill =
+      IconData(0xf0f0, fontFamily: _fontFamily);
+  static const IconData remix_temp_cold =
+      IconData(0xf0f1, fontFamily: _fontFamily);
+  static const IconData remix_temp_hot_fill =
+      IconData(0xf0f2, fontFamily: _fontFamily);
+  static const IconData remix_temp_hot =
+      IconData(0xf0f3, fontFamily: _fontFamily);
+  static const IconData remix_terminal_box_fill =
+      IconData(0xf0f4, fontFamily: _fontFamily);
+  static const IconData remix_terminal_box =
+      IconData(0xf0f5, fontFamily: _fontFamily);
+  static const IconData remix_terminal_fill =
+      IconData(0xf0f6, fontFamily: _fontFamily);
+  static const IconData remix_terminal_window_fill =
+      IconData(0xf0f7, fontFamily: _fontFamily);
+  static const IconData remix_terminal_window =
+      IconData(0xf0f8, fontFamily: _fontFamily);
+  static const IconData remix_terminal =
+      IconData(0xf0f9, fontFamily: _fontFamily);
+  static const IconData remix_test_tube_fill =
+      IconData(0xf0fa, fontFamily: _fontFamily);
+  static const IconData remix_test_tube =
+      IconData(0xf0fb, fontFamily: _fontFamily);
+  static const IconData remix_text_direction_l =
+      IconData(0xf0fc, fontFamily: _fontFamily);
+  static const IconData remix_text_direction_r =
+      IconData(0xf0fd, fontFamily: _fontFamily);
+  static const IconData remix_text_spacing =
+      IconData(0xf0fe, fontFamily: _fontFamily);
+  static const IconData remix_text_wrap =
+      IconData(0xf0ff, fontFamily: _fontFamily);
+  static const IconData remix_text = IconData(0xf100, fontFamily: _fontFamily);
+  static const IconData remix_thermometer_fill =
+      IconData(0xf101, fontFamily: _fontFamily);
+  static const IconData remix_thermometer =
+      IconData(0xf102, fontFamily: _fontFamily);
+  static const IconData remix_thumb_down_fill =
+      IconData(0xf103, fontFamily: _fontFamily);
+  static const IconData remix_thumb_down =
+      IconData(0xf104, fontFamily: _fontFamily);
+  static const IconData remix_thumb_up_fill =
+      IconData(0xf105, fontFamily: _fontFamily);
+  static const IconData remix_thumb_up =
+      IconData(0xf106, fontFamily: _fontFamily);
+  static const IconData remix_thunderstorms_fill =
+      IconData(0xf107, fontFamily: _fontFamily);
+  static const IconData remix_thunderstorms =
+      IconData(0xf108, fontFamily: _fontFamily);
+  static const IconData remix_ticket2_fill =
+      IconData(0xf109, fontFamily: _fontFamily);
+  static const IconData remix_ticket2 =
+      IconData(0xf10a, fontFamily: _fontFamily);
+  static const IconData remix_ticket_fill =
+      IconData(0xf10b, fontFamily: _fontFamily);
+  static const IconData remix_ticket =
+      IconData(0xf10c, fontFamily: _fontFamily);
+  static const IconData remix_time_fill =
+      IconData(0xf10d, fontFamily: _fontFamily);
+  static const IconData remix_time = IconData(0xf10e, fontFamily: _fontFamily);
+  static const IconData remix_timer2_fill =
+      IconData(0xf10f, fontFamily: _fontFamily);
+  static const IconData remix_timer2 =
+      IconData(0xf110, fontFamily: _fontFamily);
+  static const IconData remix_timer_fill =
+      IconData(0xf111, fontFamily: _fontFamily);
+  static const IconData remix_timer_flash_fill =
+      IconData(0xf112, fontFamily: _fontFamily);
+  static const IconData remix_timer_flash =
+      IconData(0xf113, fontFamily: _fontFamily);
+  static const IconData remix_timer = IconData(0xf114, fontFamily: _fontFamily);
+  static const IconData remix_todo_fill =
+      IconData(0xf115, fontFamily: _fontFamily);
+  static const IconData remix_todo = IconData(0xf116, fontFamily: _fontFamily);
+  static const IconData remix_toggle_fill =
+      IconData(0xf117, fontFamily: _fontFamily);
+  static const IconData remix_toggle =
+      IconData(0xf118, fontFamily: _fontFamily);
+  static const IconData remix_tools_fill =
+      IconData(0xf119, fontFamily: _fontFamily);
+  static const IconData remix_tools = IconData(0xf11a, fontFamily: _fontFamily);
+  static const IconData remix_tornado_fill =
+      IconData(0xf11b, fontFamily: _fontFamily);
+  static const IconData remix_tornado =
+      IconData(0xf11c, fontFamily: _fontFamily);
+  static const IconData remix_trademark_fill =
+      IconData(0xf11d, fontFamily: _fontFamily);
+  static const IconData remix_trademark =
+      IconData(0xf11e, fontFamily: _fontFamily);
+  static const IconData remix_traffic_light_fill =
+      IconData(0xf11f, fontFamily: _fontFamily);
+  static const IconData remix_traffic_light =
+      IconData(0xf120, fontFamily: _fontFamily);
+  static const IconData remix_train_fill =
+      IconData(0xf121, fontFamily: _fontFamily);
+  static const IconData remix_train_wifi_fill =
+      IconData(0xf122, fontFamily: _fontFamily);
+  static const IconData remix_train_wifi =
+      IconData(0xf123, fontFamily: _fontFamily);
+  static const IconData remix_train = IconData(0xf124, fontFamily: _fontFamily);
+  static const IconData remix_translate2 =
+      IconData(0xf125, fontFamily: _fontFamily);
+  static const IconData remix_translate =
+      IconData(0xf126, fontFamily: _fontFamily);
+  static const IconData remix_travesti_fill =
+      IconData(0xf127, fontFamily: _fontFamily);
+  static const IconData remix_travesti =
+      IconData(0xf128, fontFamily: _fontFamily);
+  static const IconData remix_treasure_map_fill =
+      IconData(0xf129, fontFamily: _fontFamily);
+  static const IconData remix_treasure_map =
+      IconData(0xf12a, fontFamily: _fontFamily);
+  static const IconData remix_trello_fill =
+      IconData(0xf12b, fontFamily: _fontFamily);
+  static const IconData remix_trello =
+      IconData(0xf12c, fontFamily: _fontFamily);
+  static const IconData remix_trophy_fill =
+      IconData(0xf12d, fontFamily: _fontFamily);
+  static const IconData remix_trophy =
+      IconData(0xf12e, fontFamily: _fontFamily);
+  static const IconData remix_truck_fill =
+      IconData(0xf12f, fontFamily: _fontFamily);
+  static const IconData remix_truck = IconData(0xf130, fontFamily: _fontFamily);
+  static const IconData remix_tumblr_fill =
+      IconData(0xf131, fontFamily: _fontFamily);
+  static const IconData remix_tumblr =
+      IconData(0xf132, fontFamily: _fontFamily);
+  static const IconData remix_tv2_fill =
+      IconData(0xf133, fontFamily: _fontFamily);
+  static const IconData remix_tv2 = IconData(0xf134, fontFamily: _fontFamily);
+  static const IconData remix_tv_fill =
+      IconData(0xf135, fontFamily: _fontFamily);
+  static const IconData remix_tv = IconData(0xf136, fontFamily: _fontFamily);
+  static const IconData remix_twitch_fill =
+      IconData(0xf137, fontFamily: _fontFamily);
+  static const IconData remix_twitch =
+      IconData(0xf138, fontFamily: _fontFamily);
+  static const IconData remix_twitter_fill =
+      IconData(0xf139, fontFamily: _fontFamily);
+  static const IconData remix_twitter =
+      IconData(0xf13a, fontFamily: _fontFamily);
+  static const IconData remix_typhoon_fill =
+      IconData(0xf13b, fontFamily: _fontFamily);
+  static const IconData remix_typhoon =
+      IconData(0xf13c, fontFamily: _fontFamily);
+  static const IconData remix_u_disk_fill =
+      IconData(0xf13d, fontFamily: _fontFamily);
+  static const IconData remix_u_disk =
+      IconData(0xf13e, fontFamily: _fontFamily);
+  static const IconData remix_ubuntu_fill =
+      IconData(0xf13f, fontFamily: _fontFamily);
+  static const IconData remix_ubuntu =
+      IconData(0xf140, fontFamily: _fontFamily);
+  static const IconData remix_umbrella_fill =
+      IconData(0xf141, fontFamily: _fontFamily);
+  static const IconData remix_umbrella =
+      IconData(0xf142, fontFamily: _fontFamily);
+  static const IconData remix_underline =
+      IconData(0xf143, fontFamily: _fontFamily);
+  static const IconData remix_uninstall_fill =
+      IconData(0xf144, fontFamily: _fontFamily);
+  static const IconData remix_uninstall =
+      IconData(0xf145, fontFamily: _fontFamily);
+  static const IconData remix_unsplash_fill =
+      IconData(0xf146, fontFamily: _fontFamily);
+  static const IconData remix_unsplash =
+      IconData(0xf147, fontFamily: _fontFamily);
+  static const IconData remix_upload2_fill =
+      IconData(0xf148, fontFamily: _fontFamily);
+  static const IconData remix_upload2 =
+      IconData(0xf149, fontFamily: _fontFamily);
+  static const IconData remix_upload_cloud2_fill =
+      IconData(0xf14a, fontFamily: _fontFamily);
+  static const IconData remix_upload_cloud2 =
+      IconData(0xf14b, fontFamily: _fontFamily);
+  static const IconData remix_upload_cloud_fill =
+      IconData(0xf14c, fontFamily: _fontFamily);
+  static const IconData remix_upload_cloud =
+      IconData(0xf14d, fontFamily: _fontFamily);
+  static const IconData remix_upload_fill =
+      IconData(0xf14e, fontFamily: _fontFamily);
+  static const IconData remix_upload =
+      IconData(0xf14f, fontFamily: _fontFamily);
+  static const IconData remix_usb_fill =
+      IconData(0xf150, fontFamily: _fontFamily);
+  static const IconData remix_usb = IconData(0xf151, fontFamily: _fontFamily);
+  static const IconData remix_user2_fill =
+      IconData(0xf152, fontFamily: _fontFamily);
+  static const IconData remix_user2 = IconData(0xf153, fontFamily: _fontFamily);
+  static const IconData remix_user3_fill =
+      IconData(0xf154, fontFamily: _fontFamily);
+  static const IconData remix_user3 = IconData(0xf155, fontFamily: _fontFamily);
+  static const IconData remix_user4_fill =
+      IconData(0xf156, fontFamily: _fontFamily);
+  static const IconData remix_user4 = IconData(0xf157, fontFamily: _fontFamily);
+  static const IconData remix_user5_fill =
+      IconData(0xf158, fontFamily: _fontFamily);
+  static const IconData remix_user5 = IconData(0xf159, fontFamily: _fontFamily);
+  static const IconData remix_user6_fill =
+      IconData(0xf15a, fontFamily: _fontFamily);
+  static const IconData remix_user6 = IconData(0xf15b, fontFamily: _fontFamily);
+  static const IconData remix_user_add_fill =
+      IconData(0xf15c, fontFamily: _fontFamily);
+  static const IconData remix_user_add =
+      IconData(0xf15d, fontFamily: _fontFamily);
+  static const IconData remix_user_fill =
+      IconData(0xf15e, fontFamily: _fontFamily);
+  static const IconData remix_user_follow_fill =
+      IconData(0xf15f, fontFamily: _fontFamily);
+  static const IconData remix_user_follow =
+      IconData(0xf160, fontFamily: _fontFamily);
+  static const IconData remix_user_heart_fill =
+      IconData(0xf161, fontFamily: _fontFamily);
+  static const IconData remix_user_heart =
+      IconData(0xf162, fontFamily: _fontFamily);
+  static const IconData remix_user_location_fill =
+      IconData(0xf163, fontFamily: _fontFamily);
+  static const IconData remix_user_location =
+      IconData(0xf164, fontFamily: _fontFamily);
+  static const IconData remix_user_received2_fill =
+      IconData(0xf165, fontFamily: _fontFamily);
+  static const IconData remix_user_received2 =
+      IconData(0xf166, fontFamily: _fontFamily);
+  static const IconData remix_user_received_fill =
+      IconData(0xf167, fontFamily: _fontFamily);
+  static const IconData remix_user_received =
+      IconData(0xf168, fontFamily: _fontFamily);
+  static const IconData remix_user_search_fill =
+      IconData(0xf169, fontFamily: _fontFamily);
+  static const IconData remix_user_search =
+      IconData(0xf16a, fontFamily: _fontFamily);
+  static const IconData remix_user_settings_fill =
+      IconData(0xf16b, fontFamily: _fontFamily);
+  static const IconData remix_user_settings =
+      IconData(0xf16c, fontFamily: _fontFamily);
+  static const IconData remix_user_shared2_fill =
+      IconData(0xf16d, fontFamily: _fontFamily);
+  static const IconData remix_user_shared2 =
+      IconData(0xf16e, fontFamily: _fontFamily);
+  static const IconData remix_user_shared_fill =
+      IconData(0xf16f, fontFamily: _fontFamily);
+  static const IconData remix_user_shared =
+      IconData(0xf170, fontFamily: _fontFamily);
+  static const IconData remix_user_smile_fill =
+      IconData(0xf171, fontFamily: _fontFamily);
+  static const IconData remix_user_smile =
+      IconData(0xf172, fontFamily: _fontFamily);
+  static const IconData remix_user_star_fill =
+      IconData(0xf173, fontFamily: _fontFamily);
+  static const IconData remix_user_star =
+      IconData(0xf174, fontFamily: _fontFamily);
+  static const IconData remix_user_unfollow_fill =
+      IconData(0xf175, fontFamily: _fontFamily);
+  static const IconData remix_user_unfollow =
+      IconData(0xf176, fontFamily: _fontFamily);
+  static const IconData remix_user_voice_fill =
+      IconData(0xf177, fontFamily: _fontFamily);
+  static const IconData remix_user_voice =
+      IconData(0xf178, fontFamily: _fontFamily);
+  static const IconData remix_user = IconData(0xf179, fontFamily: _fontFamily);
+  static const IconData remix_video_add_fill =
+      IconData(0xf17a, fontFamily: _fontFamily);
+  static const IconData remix_video_add =
+      IconData(0xf17b, fontFamily: _fontFamily);
+  static const IconData remix_video_chat_fill =
+      IconData(0xf17c, fontFamily: _fontFamily);
+  static const IconData remix_video_chat =
+      IconData(0xf17d, fontFamily: _fontFamily);
+  static const IconData remix_video_download_fill =
+      IconData(0xf17e, fontFamily: _fontFamily);
+  static const IconData remix_video_download =
+      IconData(0xf17f, fontFamily: _fontFamily);
+  static const IconData remix_video_fill =
+      IconData(0xf180, fontFamily: _fontFamily);
+  static const IconData remix_video_upload_fill =
+      IconData(0xf181, fontFamily: _fontFamily);
+  static const IconData remix_video_upload =
+      IconData(0xf182, fontFamily: _fontFamily);
+  static const IconData remix_video = IconData(0xf183, fontFamily: _fontFamily);
+  static const IconData remix_vidicon2_fill =
+      IconData(0xf184, fontFamily: _fontFamily);
+  static const IconData remix_vidicon2 =
+      IconData(0xf185, fontFamily: _fontFamily);
+  static const IconData remix_vidicon_fill =
+      IconData(0xf186, fontFamily: _fontFamily);
+  static const IconData remix_vidicon =
+      IconData(0xf187, fontFamily: _fontFamily);
+  static const IconData remix_vimeo_fill =
+      IconData(0xf188, fontFamily: _fontFamily);
+  static const IconData remix_vimeo = IconData(0xf189, fontFamily: _fontFamily);
+  static const IconData remix_vip_crown2_fill =
+      IconData(0xf18a, fontFamily: _fontFamily);
+  static const IconData remix_vip_crown2 =
+      IconData(0xf18b, fontFamily: _fontFamily);
+  static const IconData remix_vip_crown_fill =
+      IconData(0xf18c, fontFamily: _fontFamily);
+  static const IconData remix_vip_crown =
+      IconData(0xf18d, fontFamily: _fontFamily);
+  static const IconData remix_vip_diamond_fill =
+      IconData(0xf18e, fontFamily: _fontFamily);
+  static const IconData remix_vip_diamond =
+      IconData(0xf18f, fontFamily: _fontFamily);
+  static const IconData remix_vip_fill =
+      IconData(0xf190, fontFamily: _fontFamily);
+  static const IconData remix_vip = IconData(0xf191, fontFamily: _fontFamily);
+  static const IconData remix_virus_fill =
+      IconData(0xf192, fontFamily: _fontFamily);
+  static const IconData remix_virus = IconData(0xf193, fontFamily: _fontFamily);
+  static const IconData remix_visa_fill =
+      IconData(0xf194, fontFamily: _fontFamily);
+  static const IconData remix_visa = IconData(0xf195, fontFamily: _fontFamily);
+  static const IconData remix_voice_recognition_fill =
+      IconData(0xf196, fontFamily: _fontFamily);
+  static const IconData remix_voice_recognition =
+      IconData(0xf197, fontFamily: _fontFamily);
+  static const IconData remix_voiceprint_fill =
+      IconData(0xf198, fontFamily: _fontFamily);
+  static const IconData remix_voiceprint =
+      IconData(0xf199, fontFamily: _fontFamily);
+  static const IconData remix_volume_down_fill =
+      IconData(0xf19a, fontFamily: _fontFamily);
+  static const IconData remix_volume_down =
+      IconData(0xf19b, fontFamily: _fontFamily);
+  static const IconData remix_volume_mute_fill =
+      IconData(0xf19c, fontFamily: _fontFamily);
+  static const IconData remix_volume_mute =
+      IconData(0xf19d, fontFamily: _fontFamily);
+  static const IconData remix_volume_off_vibrate_fill =
+      IconData(0xf19e, fontFamily: _fontFamily);
+  static const IconData remix_volume_off_vibrate =
+      IconData(0xf19f, fontFamily: _fontFamily);
+  static const IconData remix_volume_up_fill =
+      IconData(0xf1a0, fontFamily: _fontFamily);
+  static const IconData remix_volume_up =
+      IconData(0xf1a1, fontFamily: _fontFamily);
+  static const IconData remix_volume_vibrate_fill =
+      IconData(0xf1a2, fontFamily: _fontFamily);
+  static const IconData remix_volume_vibrate =
+      IconData(0xf1a3, fontFamily: _fontFamily);
+  static const IconData remix_vuejs_fill =
+      IconData(0xf1a4, fontFamily: _fontFamily);
+  static const IconData remix_vuejs = IconData(0xf1a5, fontFamily: _fontFamily);
+  static const IconData remix_walk_fill =
+      IconData(0xf1a6, fontFamily: _fontFamily);
+  static const IconData remix_walk = IconData(0xf1a7, fontFamily: _fontFamily);
+  static const IconData remix_wallet2_fill =
+      IconData(0xf1a8, fontFamily: _fontFamily);
+  static const IconData remix_wallet2 =
+      IconData(0xf1a9, fontFamily: _fontFamily);
+  static const IconData remix_wallet3_fill =
+      IconData(0xf1aa, fontFamily: _fontFamily);
+  static const IconData remix_wallet3 =
+      IconData(0xf1ab, fontFamily: _fontFamily);
+  static const IconData remix_wallet_fill =
+      IconData(0xf1ac, fontFamily: _fontFamily);
+  static const IconData remix_wallet =
+      IconData(0xf1ad, fontFamily: _fontFamily);
+  static const IconData remix_water_flash_fill =
+      IconData(0xf1ae, fontFamily: _fontFamily);
+  static const IconData remix_water_flash =
+      IconData(0xf1af, fontFamily: _fontFamily);
+  static const IconData remix_webcam_fill =
+      IconData(0xf1b0, fontFamily: _fontFamily);
+  static const IconData remix_webcam =
+      IconData(0xf1b1, fontFamily: _fontFamily);
+  static const IconData remix_wechat2_fill =
+      IconData(0xf1b2, fontFamily: _fontFamily);
+  static const IconData remix_wechat2 =
+      IconData(0xf1b3, fontFamily: _fontFamily);
+  static const IconData remix_wechat_fill =
+      IconData(0xf1b4, fontFamily: _fontFamily);
+  static const IconData remix_wechat_pay_fill =
+      IconData(0xf1b5, fontFamily: _fontFamily);
+  static const IconData remix_wechat_pay =
+      IconData(0xf1b6, fontFamily: _fontFamily);
+  static const IconData remix_wechat =
+      IconData(0xf1b7, fontFamily: _fontFamily);
+  static const IconData remix_weibo_fill =
+      IconData(0xf1b8, fontFamily: _fontFamily);
+  static const IconData remix_weibo = IconData(0xf1b9, fontFamily: _fontFamily);
+  static const IconData remix_whatsapp_fill =
+      IconData(0xf1ba, fontFamily: _fontFamily);
+  static const IconData remix_whatsapp =
+      IconData(0xf1bb, fontFamily: _fontFamily);
+  static const IconData remix_wheelchair_fill =
+      IconData(0xf1bc, fontFamily: _fontFamily);
+  static const IconData remix_wheelchair =
+      IconData(0xf1bd, fontFamily: _fontFamily);
+  static const IconData remix_wifi_fill =
+      IconData(0xf1be, fontFamily: _fontFamily);
+  static const IconData remix_wifi_off_fill =
+      IconData(0xf1bf, fontFamily: _fontFamily);
+  static const IconData remix_wifi_off =
+      IconData(0xf1c0, fontFamily: _fontFamily);
+  static const IconData remix_wifi = IconData(0xf1c1, fontFamily: _fontFamily);
+  static const IconData remix_window2_fill =
+      IconData(0xf1c2, fontFamily: _fontFamily);
+  static const IconData remix_window2 =
+      IconData(0xf1c3, fontFamily: _fontFamily);
+  static const IconData remix_window_fill =
+      IconData(0xf1c4, fontFamily: _fontFamily);
+  static const IconData remix_window =
+      IconData(0xf1c5, fontFamily: _fontFamily);
+  static const IconData remix_windows_fill =
+      IconData(0xf1c6, fontFamily: _fontFamily);
+  static const IconData remix_windows =
+      IconData(0xf1c7, fontFamily: _fontFamily);
+  static const IconData remix_windy_fill =
+      IconData(0xf1c8, fontFamily: _fontFamily);
+  static const IconData remix_windy = IconData(0xf1c9, fontFamily: _fontFamily);
+  static const IconData remix_wireless_charging_fill =
+      IconData(0xf1ca, fontFamily: _fontFamily);
+  static const IconData remix_wireless_charging =
+      IconData(0xf1cb, fontFamily: _fontFamily);
+  static const IconData remix_women_fill =
+      IconData(0xf1cc, fontFamily: _fontFamily);
+  static const IconData remix_women = IconData(0xf1cd, fontFamily: _fontFamily);
+  static const IconData remix_wubi_input =
+      IconData(0xf1ce, fontFamily: _fontFamily);
+  static const IconData remix_xbox_fill =
+      IconData(0xf1cf, fontFamily: _fontFamily);
+  static const IconData remix_xbox = IconData(0xf1d0, fontFamily: _fontFamily);
+  static const IconData remix_xing_fill =
+      IconData(0xf1d1, fontFamily: _fontFamily);
+  static const IconData remix_xing = IconData(0xf1d2, fontFamily: _fontFamily);
+  static const IconData remix_youtube_fill =
+      IconData(0xf1d3, fontFamily: _fontFamily);
+  static const IconData remix_youtube =
+      IconData(0xf1d4, fontFamily: _fontFamily);
+  static const IconData remix_zcool_fill =
+      IconData(0xf1d5, fontFamily: _fontFamily);
+  static const IconData remix_zcool = IconData(0xf1d6, fontFamily: _fontFamily);
+  static const IconData remix_zhihu_fill =
+      IconData(0xf1d7, fontFamily: _fontFamily);
+  static const IconData remix_zhihu = IconData(0xf1d8, fontFamily: _fontFamily);
+  static const IconData remix_zoom_in_fill =
+      IconData(0xf1d9, fontFamily: _fontFamily);
+  static const IconData remix_zoom_in =
+      IconData(0xf1da, fontFamily: _fontFamily);
+  static const IconData remix_zoom_out_fill =
+      IconData(0xf1db, fontFamily: _fontFamily);
+  static const IconData remix_zoom_out =
+      IconData(0xf1dc, fontFamily: _fontFamily);
+  static const IconData remix_zzz_fill =
+      IconData(0xf1dd, fontFamily: _fontFamily);
+  static const IconData remix_zzz = IconData(0xf1de, fontFamily: _fontFamily);
 }
