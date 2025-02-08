@@ -19,6 +19,7 @@ class Amicons {
   static const String _fontPkg = 'amicons';
 
   // Lucide Icons (total icon -1526)
+  
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/lucide/lucide_png/lucide_map_pin_off.png)
   static const IconData lucide_map_pin_off =
       IconData(0xe900, fontFamily: _lucidefontfamily, fontPackage: _fontPkg);
