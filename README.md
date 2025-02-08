@@ -65,61 +65,13 @@ Icon(
 ),
 ```
 
-## 1. AntDesign
-AntDesign provides three types of icons: Fill, Outline, and TwoTone icons. To use Fill icons, simply append `_fill` as a suffix. For example, for a fill, you can use `Icon(AntDesign.gitlab_fill)`, while `Icon(AntDesign.sketch_outline)` and `Icon(environment_twotone)` are used for Outline and TwoTone, respectively.
-
-![AntDesign](https://github.com/chouhan-rahul/icons_plus/assets/82075108/b079fa57-6130-499f-b441-d9a612b0e4aa)
+![AntDesign](https://raw.githubusercontent.com/AyushMaji/amicons/refs/heads/main/assets/others/iconly_block.png)
 
 ```dart
-  Icon(AntDesign.gitlab_fill),
-  Icon(AntDesign.sketch_outline),
-  Icon(AntDesign.environment_twotone),
+  Icon(Amicons.wallet),
+  Icon(Amicons.iconly_wallet_curved),
+  Icon(Amicons.iconly_wallet_broken),
 ```
-
-## 2. Bootstrap
-Bootstrap offers two types of icons: Outline and Fill icons. If you prefer using fill icons, simply add `_fill` as a suffix. For instance, if you want a filled heart, use `Icon(Bootstrap.heart_fill)`, whereas for an outlined heart, use `Icon(Bootstrap.heart)`.
-
-![Bootstrap](https://github.com/chouhan-rahul/icons_plus/assets/82075108/70852984-2897-432a-a10d-ec50c7166c86)
-
-```dart
-  Icon(Bootstrap.google),
-  Icon(Bootstrap.bootstrap),
-  Icon(Bootstrap.github),
-```
-
-## 3. BoxIcons
-BoxIcons provides three types of icons: Regular, Solid, and Logo icons. To use Regular icons, simply add `bx_` as a prefix. For example, for a regular, you can use `Icon(BoxIcons.bx_git_branch)`, while `Icon(bxs_cookie)` and `Icon(BoxIcons.bxl_apple)` are used for Solid and Logo, respectively.
-
-![BoxIcons](https://github.com/chouhan-rahul/icons_plus/assets/82075108/db324cab-6663-4ab2-af48-9d3bc3e9a42a)
-
-```dart
-  Icon(BoxIcons.bxl_apple),
-  Icon(BoxIcons.bx_git_branch),
-  Icon(BoxIcons.bxs_cookie),
-```
-
-## 4. Brands
-Here's an example showing how to use Brands Logo.
-
-![Brands](https://github.com/chouhan-rahul/icons_plus/assets/82075108/c0bb0ed8-25c4-4035-82a9-db8ab71af12d)
-
-```dart
-  Brand(Brands.icons8),
-  Brand(Brands.the_big_bang_theory),
-  Brand(Brands.android_studio),
-```
-
-## 5. Clarity
-Clarity provides three types of icons: Outline, Solid, and Line icons. To use Outline icons, simply append `_outline` as a suffix. `_solid` and `_line` are used for Solid and Line, respectively.
-
-![Claity](https://github.com/chouhan-rahul/icons_plus/assets/82075108/3e3995de-0318-4a15-9390-6de4bad05601)
-
-```dart
-  Icon(Clarity.map_outline_badged),
-  Icon(Clarity.application_solid),
-  Icon(Clarity.camera_line),
-```
-
 
 <h2>Libery of Amicons</h2>
  
