@@ -27,7 +27,9 @@ class MyHomePage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(),
+      appBar: AppBar(
+        title: const Text('Amicons Demo'),
+      ),
       body: Center(
         child: Icon(
           Amicons.flaticon_wifi_alt_rounded,
