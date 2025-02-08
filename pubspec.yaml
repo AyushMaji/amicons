@@ -55,6 +55,16 @@ flutter:
         - asset: assets/fonts/remix/remix.ttf
   #       - asset: fonts/Schyler-Italic.ttf
   #         style: italic
+    - family: flaticon
+      fonts:
+        - asset: assets/fonts/flaticon/flaticon.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+    - family: vuesax
+      fonts:
+        - asset: assets/fonts/vuesax/vuesax.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
 
 
   #

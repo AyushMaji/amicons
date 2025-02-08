@@ -10,12 +10,14 @@ import 'package:flutter/widgets.dart';
 class Amicons {
   Amicons._();
 
-  static const String _lucidefontfamily = 'lucide';
+  static const String _lucidefontfamily = 'lucide'; 
   static const String _iconlyfontfamily = 'iconly';
   static const String _remixfontFamily = 'remix';
+  static const String _flaticonfontFamily = 'flaticon';
+
   static const String _fontPkg = 'amicons';
 
-  // Lucide Icons (total icon -1525)
+  // Lucide Icons (total icon -1526)
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/lucide/lucide_png/lucide_map_pin_off.png)
   static const IconData lucide_map_pin_off =
       IconData(0xe900, fontFamily: _lucidefontfamily, fontPackage: _fontPkg);
@@ -18205,4 +18207,7974 @@ class Amicons {
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/remix/remix_png/remix_service.png)
   static const IconData remix_service =
       IconData(0xefe1, fontFamily: _remixfontFamily, fontPackage: _fontPkg);
+
+// flaticon(total - 1992)
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_add_rounded_fill.png)
+  static const IconData flaticon_add_rounded_fill =
+      IconData(0xe900, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_add_rounded.png)
+  static const IconData flaticon_add_rounded =
+      IconData(0xe901, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_add_sharp_fill.png)
+  static const IconData flaticon_add_sharp_fill =
+      IconData(0xe902, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_add_sharp.png)
+  static const IconData flaticon_add_sharp =
+      IconData(0xe903, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_address_book_rounded_fill.png)
+  static const IconData flaticon_address_book_rounded_fill =
+      IconData(0xe904, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_address_book_rounded.png)
+  static const IconData flaticon_address_book_rounded =
+      IconData(0xe905, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_address_book_sharp_fill.png)
+  static const IconData flaticon_address_book_sharp_fill =
+      IconData(0xe906, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_address_book_sharp.png)
+  static const IconData flaticon_address_book_sharp =
+      IconData(0xe907, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_alarm_clock_rounded_fill.png)
+  static const IconData flaticon_alarm_clock_rounded_fill =
+      IconData(0xe908, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_alarm_clock_rounded.png)
+  static const IconData flaticon_alarm_clock_rounded =
+      IconData(0xe909, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_alarm_clock_sharp_fill.png)
+  static const IconData flaticon_alarm_clock_sharp_fill =
+      IconData(0xe90a, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_alarm_clock_sharp.png)
+  static const IconData flaticon_alarm_clock_sharp =
+      IconData(0xe90b, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_align_center_rounded_fill.png)
+  static const IconData flaticon_align_center_rounded_fill =
+      IconData(0xe90c, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_align_center_rounded.png)
+  static const IconData flaticon_align_center_rounded =
+      IconData(0xe90d, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_align_center_sharp_fill.png)
+  static const IconData flaticon_align_center_sharp_fill =
+      IconData(0xe90e, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_align_center_sharp.png)
+  static const IconData flaticon_align_center_sharp =
+      IconData(0xe90f, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_align_justify_rounded_fill.png)
+  static const IconData flaticon_align_justify_rounded_fill =
+      IconData(0xe910, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_align_justify_rounded.png)
+  static const IconData flaticon_align_justify_rounded =
+      IconData(0xe911, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_align_justify_sharp_fill.png)
+  static const IconData flaticon_align_justify_sharp_fill =
+      IconData(0xe912, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_align_justify_sharp.png)
+  static const IconData flaticon_align_justify_sharp =
+      IconData(0xe913, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_align_left_rounded_fill.png)
+  static const IconData flaticon_align_left_rounded_fill =
+      IconData(0xe914, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_align_left_rounded.png)
+  static const IconData flaticon_align_left_rounded =
+      IconData(0xe915, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_align_left_sharp_fill.png)
+  static const IconData flaticon_align_left_sharp_fill =
+      IconData(0xe916, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_align_left_sharp.png)
+  static const IconData flaticon_align_left_sharp =
+      IconData(0xe917, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_align_right_rounded_fill.png)
+  static const IconData flaticon_align_right_rounded_fill =
+      IconData(0xe918, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_align_right_rounded.png)
+  static const IconData flaticon_align_right_rounded =
+      IconData(0xe919, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_align_right_sharp_fill.png)
+  static const IconData flaticon_align_right_sharp_fill =
+      IconData(0xe91a, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_align_right_sharp.png)
+  static const IconData flaticon_align_right_sharp =
+      IconData(0xe91b, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_ambulance_rounded_fill.png)
+  static const IconData flaticon_ambulance_rounded_fill =
+      IconData(0xe91c, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_ambulance_rounded.png)
+  static const IconData flaticon_ambulance_rounded =
+      IconData(0xe91d, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_ambulance_sharp_fill.png)
+  static const IconData flaticon_ambulance_sharp_fill =
+      IconData(0xe91e, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_ambulance_sharp.png)
+  static const IconData flaticon_ambulance_sharp =
+      IconData(0xe91f, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_angle_double_left_rounded_fill.png)
+  static const IconData flaticon_angle_double_left_rounded_fill =
+      IconData(0xe920, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_angle_double_left_rounded.png)
+  static const IconData flaticon_angle_double_left_rounded =
+      IconData(0xe921, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_angle_double_left_sharp_fill.png)
+  static const IconData flaticon_angle_double_left_sharp_fill =
+      IconData(0xe922, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_angle_double_left_sharp.png)
+  static const IconData flaticon_angle_double_left_sharp =
+      IconData(0xe923, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_angle_double_right_rounded_fill.png)
+  static const IconData flaticon_angle_double_right_rounded_fill =
+      IconData(0xe924, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_angle_double_right_rounded.png)
+  static const IconData flaticon_angle_double_right_rounded =
+      IconData(0xe925, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_angle_double_right_sharp_fill.png)
+  static const IconData flaticon_angle_double_right_sharp_fill =
+      IconData(0xe926, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_angle_double_right_sharp.png)
+  static const IconData flaticon_angle_double_right_sharp =
+      IconData(0xe927, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_angle_double_small_left_rounded_fill.png)
+  static const IconData flaticon_angle_double_small_left_rounded_fill =
+      IconData(0xe928, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_angle_double_small_left_rounded.png)
+  static const IconData flaticon_angle_double_small_left_rounded =
+      IconData(0xe929, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_angle_double_small_left_sharp_fill.png)
+  static const IconData flaticon_angle_double_small_left_sharp_fill =
+      IconData(0xe92a, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_angle_double_small_left_sharp.png)
+  static const IconData flaticon_angle_double_small_left_sharp =
+      IconData(0xe92b, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_angle_double_small_right_rounded_fill.png)
+  static const IconData flaticon_angle_double_small_right_rounded_fill =
+      IconData(0xe92c, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_angle_double_small_right_rounded.png)
+  static const IconData flaticon_angle_double_small_right_rounded =
+      IconData(0xe92d, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_angle_double_small_right_sharp_fill.png)
+  static const IconData flaticon_angle_double_small_right_sharp_fill =
+      IconData(0xe92e, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_angle_double_small_right_sharp.png)
+  static const IconData flaticon_angle_double_small_right_sharp =
+      IconData(0xe92f, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_angle_down_rounded_fill.png)
+  static const IconData flaticon_angle_down_rounded_fill =
+      IconData(0xe930, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_angle_down_rounded.png)
+  static const IconData flaticon_angle_down_rounded =
+      IconData(0xe931, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_angle_down_sharp_fill.png)
+  static const IconData flaticon_angle_down_sharp_fill =
+      IconData(0xe932, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_angle_down_sharp.png)
+  static const IconData flaticon_angle_down_sharp =
+      IconData(0xe933, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_angle_left_rounded_fill.png)
+  static const IconData flaticon_angle_left_rounded_fill =
+      IconData(0xe934, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_angle_left_rounded.png)
+  static const IconData flaticon_angle_left_rounded =
+      IconData(0xe935, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_angle_left_sharp_fill.png)
+  static const IconData flaticon_angle_left_sharp_fill =
+      IconData(0xe936, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_angle_left_sharp.png)
+  static const IconData flaticon_angle_left_sharp =
+      IconData(0xe937, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_angle_right_rounded_fill.png)
+  static const IconData flaticon_angle_right_rounded_fill =
+      IconData(0xe938, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_angle_right_rounded.png)
+  static const IconData flaticon_angle_right_rounded =
+      IconData(0xe939, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_angle_right_sharp_fill.png)
+  static const IconData flaticon_angle_right_sharp_fill =
+      IconData(0xe93a, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_angle_right_sharp.png)
+  static const IconData flaticon_angle_right_sharp =
+      IconData(0xe93b, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_angle_small_down_rounded_fill.png)
+  static const IconData flaticon_angle_small_down_rounded_fill =
+      IconData(0xe93c, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_angle_small_down_rounded.png)
+  static const IconData flaticon_angle_small_down_rounded =
+      IconData(0xe93d, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_angle_small_down_sharp_fill.png)
+  static const IconData flaticon_angle_small_down_sharp_fill =
+      IconData(0xe93e, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_angle_small_down_sharp.png)
+  static const IconData flaticon_angle_small_down_sharp =
+      IconData(0xe93f, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_angle_small_left_rounded_fill.png)
+  static const IconData flaticon_angle_small_left_rounded_fill =
+      IconData(0xe940, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_angle_small_left_rounded.png)
+  static const IconData flaticon_angle_small_left_rounded =
+      IconData(0xe941, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_angle_small_left_sharp_fill.png)
+  static const IconData flaticon_angle_small_left_sharp_fill =
+      IconData(0xe942, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_angle_small_left_sharp.png)
+  static const IconData flaticon_angle_small_left_sharp =
+      IconData(0xe943, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_angle_small_right_rounded_fill.png)
+  static const IconData flaticon_angle_small_right_rounded_fill =
+      IconData(0xe944, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_angle_small_right_rounded.png)
+  static const IconData flaticon_angle_small_right_rounded =
+      IconData(0xe945, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_angle_small_right_sharp_fill.png)
+  static const IconData flaticon_angle_small_right_sharp_fill =
+      IconData(0xe946, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_angle_small_right_sharp.png)
+  static const IconData flaticon_angle_small_right_sharp =
+      IconData(0xe947, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_angle_small_up_rounded_fill.png)
+  static const IconData flaticon_angle_small_up_rounded_fill =
+      IconData(0xe948, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_angle_small_up_rounded.png)
+  static const IconData flaticon_angle_small_up_rounded =
+      IconData(0xe949, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_angle_small_up_sharp_fill.png)
+  static const IconData flaticon_angle_small_up_sharp_fill =
+      IconData(0xe94a, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_angle_small_up_sharp.png)
+  static const IconData flaticon_angle_small_up_sharp =
+      IconData(0xe94b, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_angle_up_rounded_fill.png)
+  static const IconData flaticon_angle_up_rounded_fill =
+      IconData(0xe94c, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_angle_up_rounded.png)
+  static const IconData flaticon_angle_up_rounded =
+      IconData(0xe94d, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_angle_up_sharp_fill.png)
+  static const IconData flaticon_angle_up_sharp_fill =
+      IconData(0xe94e, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_angle_up_sharp.png)
+  static const IconData flaticon_angle_up_sharp =
+      IconData(0xe94f, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_apple_rounded_fill.png)
+  static const IconData flaticon_apple_rounded_fill =
+      IconData(0xe950, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_apple_rounded.png)
+  static const IconData flaticon_apple_rounded =
+      IconData(0xe951, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_apple_sharp_fill.png)
+  static const IconData flaticon_apple_sharp_fill =
+      IconData(0xe952, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_apple_sharp.png)
+  static const IconData flaticon_apple_sharp =
+      IconData(0xe953, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_apps_add_rounded_fill.png)
+  static const IconData flaticon_apps_add_rounded_fill =
+      IconData(0xe954, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_apps_add_rounded.png)
+  static const IconData flaticon_apps_add_rounded =
+      IconData(0xe955, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_apps_add_sharp_fill.png)
+  static const IconData flaticon_apps_add_sharp_fill =
+      IconData(0xe956, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_apps_add_sharp.png)
+  static const IconData flaticon_apps_add_sharp =
+      IconData(0xe957, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_apps_delete_rounded_fill.png)
+  static const IconData flaticon_apps_delete_rounded_fill =
+      IconData(0xe958, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_apps_delete_rounded.png)
+  static const IconData flaticon_apps_delete_rounded =
+      IconData(0xe959, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_apps_delete_sharp_fill.png)
+  static const IconData flaticon_apps_delete_sharp_fill =
+      IconData(0xe95a, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_apps_delete_sharp.png)
+  static const IconData flaticon_apps_delete_sharp =
+      IconData(0xe95b, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_apps_rounded_fill.png)
+  static const IconData flaticon_apps_rounded_fill =
+      IconData(0xe95c, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_apps_rounded.png)
+  static const IconData flaticon_apps_rounded =
+      IconData(0xe95d, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_apps_sharp_fill.png)
+  static const IconData flaticon_apps_sharp_fill =
+      IconData(0xe95e, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_apps_sharp.png)
+  static const IconData flaticon_apps_sharp =
+      IconData(0xe95f, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_apps_sort_rounded_fill.png)
+  static const IconData flaticon_apps_sort_rounded_fill =
+      IconData(0xe960, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_apps_sort_rounded.png)
+  static const IconData flaticon_apps_sort_rounded =
+      IconData(0xe961, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_apps_sort_sharp_fill.png)
+  static const IconData flaticon_apps_sort_sharp_fill =
+      IconData(0xe962, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_apps_sort_sharp.png)
+  static const IconData flaticon_apps_sort_sharp =
+      IconData(0xe963, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_archive_rounded_fill.png)
+  static const IconData flaticon_archive_rounded_fill =
+      IconData(0xe964, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_archive_rounded.png)
+  static const IconData flaticon_archive_rounded =
+      IconData(0xe965, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_archive_sharp_fill.png)
+  static const IconData flaticon_archive_sharp_fill =
+      IconData(0xe966, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_archive_sharp.png)
+  static const IconData flaticon_archive_sharp =
+      IconData(0xe967, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_arrow_down_rounded_fill.png)
+  static const IconData flaticon_arrow_down_rounded_fill =
+      IconData(0xe968, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_arrow_down_rounded.png)
+  static const IconData flaticon_arrow_down_rounded =
+      IconData(0xe969, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_arrow_down_sharp_fill.png)
+  static const IconData flaticon_arrow_down_sharp_fill =
+      IconData(0xe96a, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_arrow_down_sharp.png)
+  static const IconData flaticon_arrow_down_sharp =
+      IconData(0xe96b, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_arrow_from_bottom_rounded_fill.png)
+  static const IconData flaticon_arrow_from_bottom_rounded_fill =
+      IconData(0xe96c, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_arrow_from_bottom_rounded.png)
+  static const IconData flaticon_arrow_from_bottom_rounded =
+      IconData(0xe96d, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_arrow_from_bottom_sharp_fill.png)
+  static const IconData flaticon_arrow_from_bottom_sharp_fill =
+      IconData(0xe96e, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_arrow_from_bottom_sharp.png)
+  static const IconData flaticon_arrow_from_bottom_sharp =
+      IconData(0xe96f, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_arrow_left_rounded_fill.png)
+  static const IconData flaticon_arrow_left_rounded_fill =
+      IconData(0xe970, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_arrow_left_rounded.png)
+  static const IconData flaticon_arrow_left_rounded =
+      IconData(0xe971, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_arrow_left_sharp_fill.png)
+  static const IconData flaticon_arrow_left_sharp_fill =
+      IconData(0xe972, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_arrow_left_sharp.png)
+  static const IconData flaticon_arrow_left_sharp =
+      IconData(0xe973, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_arrow_right_rounded_fill.png)
+  static const IconData flaticon_arrow_right_rounded_fill =
+      IconData(0xe974, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_arrow_right_rounded.png)
+  static const IconData flaticon_arrow_right_rounded =
+      IconData(0xe975, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_arrow_right_sharp_fill.png)
+  static const IconData flaticon_arrow_right_sharp_fill =
+      IconData(0xe976, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_arrow_right_sharp.png)
+  static const IconData flaticon_arrow_right_sharp =
+      IconData(0xe977, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_arrow_small_down_rounded_fill.png)
+  static const IconData flaticon_arrow_small_down_rounded_fill =
+      IconData(0xe978, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_arrow_small_down_rounded.png)
+  static const IconData flaticon_arrow_small_down_rounded =
+      IconData(0xe979, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_arrow_small_down_sharp_fill.png)
+  static const IconData flaticon_arrow_small_down_sharp_fill =
+      IconData(0xe97a, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_arrow_small_down_sharp.png)
+  static const IconData flaticon_arrow_small_down_sharp =
+      IconData(0xe97b, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_arrow_small_left_rounded_fill.png)
+  static const IconData flaticon_arrow_small_left_rounded_fill =
+      IconData(0xe97c, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_arrow_small_left_rounded.png)
+  static const IconData flaticon_arrow_small_left_rounded =
+      IconData(0xe97d, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_arrow_small_left_sharp_fill.png)
+  static const IconData flaticon_arrow_small_left_sharp_fill =
+      IconData(0xe97e, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_arrow_small_left_sharp.png)
+  static const IconData flaticon_arrow_small_left_sharp =
+      IconData(0xe97f, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_arrow_small_right_rounded_fill.png)
+  static const IconData flaticon_arrow_small_right_rounded_fill =
+      IconData(0xe980, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_arrow_small_right_rounded.png)
+  static const IconData flaticon_arrow_small_right_rounded =
+      IconData(0xe981, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_arrow_small_right_sharp_fill.png)
+  static const IconData flaticon_arrow_small_right_sharp_fill =
+      IconData(0xe982, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_arrow_small_right_sharp.png)
+  static const IconData flaticon_arrow_small_right_sharp =
+      IconData(0xe983, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_arrow_small_up_rounded_fill.png)
+  static const IconData flaticon_arrow_small_up_rounded_fill =
+      IconData(0xe984, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_arrow_small_up_rounded.png)
+  static const IconData flaticon_arrow_small_up_rounded =
+      IconData(0xe985, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_arrow_small_up_sharp_fill.png)
+  static const IconData flaticon_arrow_small_up_sharp_fill =
+      IconData(0xe986, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_arrow_small_up_sharp.png)
+  static const IconData flaticon_arrow_small_up_sharp =
+      IconData(0xe987, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_arrow_up_rounded_fill.png)
+  static const IconData flaticon_arrow_up_rounded_fill =
+      IconData(0xe988, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_arrow_up_rounded.png)
+  static const IconData flaticon_arrow_up_rounded =
+      IconData(0xe989, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_arrow_up_sharp_fill.png)
+  static const IconData flaticon_arrow_up_sharp_fill =
+      IconData(0xe98a, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_arrow_up_sharp.png)
+  static const IconData flaticon_arrow_up_sharp =
+      IconData(0xe98b, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_asterik_rounded_fill.png)
+  static const IconData flaticon_asterik_rounded_fill =
+      IconData(0xe98c, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_asterik_rounded.png)
+  static const IconData flaticon_asterik_rounded =
+      IconData(0xe98d, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_asterik_sharp_fill.png)
+  static const IconData flaticon_asterik_sharp_fill =
+      IconData(0xe98e, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_asterik_sharp.png)
+  static const IconData flaticon_asterik_sharp =
+      IconData(0xe98f, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_at_rounded_fill.png)
+  static const IconData flaticon_at_rounded_fill =
+      IconData(0xe990, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_at_rounded.png)
+  static const IconData flaticon_at_rounded =
+      IconData(0xe991, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_at_sharp_fill.png)
+  static const IconData flaticon_at_sharp_fill =
+      IconData(0xe992, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_at_sharp.png)
+  static const IconData flaticon_at_sharp =
+      IconData(0xe993, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_backpack_rounded_fill.png)
+  static const IconData flaticon_backpack_rounded_fill =
+      IconData(0xe994, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_backpack_rounded.png)
+  static const IconData flaticon_backpack_rounded =
+      IconData(0xe995, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_backpack_sharp_fill.png)
+  static const IconData flaticon_backpack_sharp_fill =
+      IconData(0xe996, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_backpack_sharp.png)
+  static const IconData flaticon_backpack_sharp =
+      IconData(0xe997, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_badge_rounded_fill.png)
+  static const IconData flaticon_badge_rounded_fill =
+      IconData(0xe998, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_badge_rounded.png)
+  static const IconData flaticon_badge_rounded =
+      IconData(0xe999, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_badge_sharp_fill.png)
+  static const IconData flaticon_badge_sharp_fill =
+      IconData(0xe99a, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_badge_sharp.png)
+  static const IconData flaticon_badge_sharp =
+      IconData(0xe99b, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_balloons_rounded_fill.png)
+  static const IconData flaticon_balloons_rounded_fill =
+      IconData(0xe99c, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_balloons_rounded.png)
+  static const IconData flaticon_balloons_rounded =
+      IconData(0xe99d, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_balloons_sharp_fill.png)
+  static const IconData flaticon_balloons_sharp_fill =
+      IconData(0xe99e, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_balloons_sharp.png)
+  static const IconData flaticon_balloons_sharp =
+      IconData(0xe99f, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_ban_rounded_fill.png)
+  static const IconData flaticon_ban_rounded_fill =
+      IconData(0xe9a0, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_ban_rounded.png)
+  static const IconData flaticon_ban_rounded =
+      IconData(0xe9a1, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_ban_sharp_fill.png)
+  static const IconData flaticon_ban_sharp_fill =
+      IconData(0xe9a2, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_ban_sharp.png)
+  static const IconData flaticon_ban_sharp =
+      IconData(0xe9a3, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_band_aid_rounded_fill.png)
+  static const IconData flaticon_band_aid_rounded_fill =
+      IconData(0xe9a4, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_band_aid_rounded.png)
+  static const IconData flaticon_band_aid_rounded =
+      IconData(0xe9a5, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_band_aid_sharp_fill.png)
+  static const IconData flaticon_band_aid_sharp_fill =
+      IconData(0xe9a6, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_band_aid_sharp.png)
+  static const IconData flaticon_band_aid_sharp =
+      IconData(0xe9a7, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_bank_rounded_fill.png)
+  static const IconData flaticon_bank_rounded_fill =
+      IconData(0xe9a8, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_bank_rounded.png)
+  static const IconData flaticon_bank_rounded =
+      IconData(0xe9a9, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_bank_sharp_fill.png)
+  static const IconData flaticon_bank_sharp_fill =
+      IconData(0xe9aa, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_bank_sharp.png)
+  static const IconData flaticon_bank_sharp =
+      IconData(0xe9ab, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_barber_shop_rounded_fill.png)
+  static const IconData flaticon_barber_shop_rounded_fill =
+      IconData(0xe9ac, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_barber_shop_rounded.png)
+  static const IconData flaticon_barber_shop_rounded =
+      IconData(0xe9ad, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_barber_shop_sharp_fill.png)
+  static const IconData flaticon_barber_shop_sharp_fill =
+      IconData(0xe9ae, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_barber_shop_sharp.png)
+  static const IconData flaticon_barber_shop_sharp =
+      IconData(0xe9af, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_baseball_rounded_fill.png)
+  static const IconData flaticon_baseball_rounded_fill =
+      IconData(0xe9b0, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_baseball_rounded.png)
+  static const IconData flaticon_baseball_rounded =
+      IconData(0xe9b1, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_baseball_sharp_fill.png)
+  static const IconData flaticon_baseball_sharp_fill =
+      IconData(0xe9b2, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_baseball_sharp.png)
+  static const IconData flaticon_baseball_sharp =
+      IconData(0xe9b3, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_basketball_rounded_fill.png)
+  static const IconData flaticon_basketball_rounded_fill =
+      IconData(0xe9b4, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_basketball_rounded.png)
+  static const IconData flaticon_basketball_rounded =
+      IconData(0xe9b5, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_basketball_sharp_fill.png)
+  static const IconData flaticon_basketball_sharp_fill =
+      IconData(0xe9b6, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_basketball_sharp.png)
+  static const IconData flaticon_basketball_sharp =
+      IconData(0xe9b7, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_bed_rounded_fill.png)
+  static const IconData flaticon_bed_rounded_fill =
+      IconData(0xe9b8, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_bed_rounded.png)
+  static const IconData flaticon_bed_rounded =
+      IconData(0xe9b9, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_bed_sharp_fill.png)
+  static const IconData flaticon_bed_sharp_fill =
+      IconData(0xe9ba, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_bed_sharp.png)
+  static const IconData flaticon_bed_sharp =
+      IconData(0xe9bb, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_beer_rounded_fill.png)
+  static const IconData flaticon_beer_rounded_fill =
+      IconData(0xe9bc, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_beer_rounded.png)
+  static const IconData flaticon_beer_rounded =
+      IconData(0xe9bd, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_beer_sharp_fill.png)
+  static const IconData flaticon_beer_sharp_fill =
+      IconData(0xe9be, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_beer_sharp.png)
+  static const IconData flaticon_beer_sharp =
+      IconData(0xe9bf, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_bell_ring_rounded_fill.png)
+  static const IconData flaticon_bell_ring_rounded_fill =
+      IconData(0xe9c0, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_bell_ring_rounded.png)
+  static const IconData flaticon_bell_ring_rounded =
+      IconData(0xe9c1, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_bell_ring_sharp_fill.png)
+  static const IconData flaticon_bell_ring_sharp_fill =
+      IconData(0xe9c2, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_bell_ring_sharp.png)
+  static const IconData flaticon_bell_ring_sharp =
+      IconData(0xe9c3, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_bell_rounded_fill.png)
+  static const IconData flaticon_bell_rounded_fill =
+      IconData(0xe9c4, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_bell_rounded.png)
+  static const IconData flaticon_bell_rounded =
+      IconData(0xe9c5, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_bell_school_rounded_fill.png)
+  static const IconData flaticon_bell_school_rounded_fill =
+      IconData(0xe9c6, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_bell_school_rounded.png)
+  static const IconData flaticon_bell_school_rounded =
+      IconData(0xe9c7, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_bell_school_sharp_fill.png)
+  static const IconData flaticon_bell_school_sharp_fill =
+      IconData(0xe9c8, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_bell_school_sharp.png)
+  static const IconData flaticon_bell_school_sharp =
+      IconData(0xe9c9, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_bell_sharp_fill.png)
+  static const IconData flaticon_bell_sharp_fill =
+      IconData(0xe9ca, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_bell_sharp.png)
+  static const IconData flaticon_bell_sharp =
+      IconData(0xe9cb, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_bike_rounded_fill.png)
+  static const IconData flaticon_bike_rounded_fill =
+      IconData(0xe9cc, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_bike_rounded.png)
+  static const IconData flaticon_bike_rounded =
+      IconData(0xe9cd, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_bike_sharp_fill.png)
+  static const IconData flaticon_bike_sharp_fill =
+      IconData(0xe9ce, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_bike_sharp.png)
+  static const IconData flaticon_bike_sharp =
+      IconData(0xe9cf, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_billiard_rounded_fill.png)
+  static const IconData flaticon_billiard_rounded_fill =
+      IconData(0xe9d0, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_billiard_rounded.png)
+  static const IconData flaticon_billiard_rounded =
+      IconData(0xe9d1, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_billiard_sharp_fill.png)
+  static const IconData flaticon_billiard_sharp_fill =
+      IconData(0xe9d2, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_billiard_sharp.png)
+  static const IconData flaticon_billiard_sharp =
+      IconData(0xe9d3, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_bold_rounded_fill.png)
+  static const IconData flaticon_bold_rounded_fill =
+      IconData(0xe9d4, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_bold_rounded.png)
+  static const IconData flaticon_bold_rounded =
+      IconData(0xe9d5, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_bold_sharp_fill.png)
+  static const IconData flaticon_bold_sharp_fill =
+      IconData(0xe9d6, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_bold_sharp.png)
+  static const IconData flaticon_bold_sharp =
+      IconData(0xe9d7, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_book_alt_rounded_fill.png)
+  static const IconData flaticon_book_alt_rounded_fill =
+      IconData(0xe9d8, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_book_alt_rounded.png)
+  static const IconData flaticon_book_alt_rounded =
+      IconData(0xe9d9, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_book_alt_sharp_fill.png)
+  static const IconData flaticon_book_alt_sharp_fill =
+      IconData(0xe9da, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_book_alt_sharp.png)
+  static const IconData flaticon_book_alt_sharp =
+      IconData(0xe9db, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_book_rounded_fill.png)
+  static const IconData flaticon_book_rounded_fill =
+      IconData(0xe9dc, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_book_rounded.png)
+  static const IconData flaticon_book_rounded =
+      IconData(0xe9dd, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_book_sharp_fill.png)
+  static const IconData flaticon_book_sharp_fill =
+      IconData(0xe9de, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_book_sharp.png)
+  static const IconData flaticon_book_sharp =
+      IconData(0xe9df, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_bookmark_rounded_fill.png)
+  static const IconData flaticon_bookmark_rounded_fill =
+      IconData(0xe9e0, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_bookmark_rounded.png)
+  static const IconData flaticon_bookmark_rounded =
+      IconData(0xe9e1, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_bookmark_sharp_fill.png)
+  static const IconData flaticon_bookmark_sharp_fill =
+      IconData(0xe9e2, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_bookmark_sharp.png)
+  static const IconData flaticon_bookmark_sharp =
+      IconData(0xe9e3, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_bowling_rounded_fill.png)
+  static const IconData flaticon_bowling_rounded_fill =
+      IconData(0xe9e4, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_bowling_rounded.png)
+  static const IconData flaticon_bowling_rounded =
+      IconData(0xe9e5, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_bowling_sharp_fill.png)
+  static const IconData flaticon_bowling_sharp_fill =
+      IconData(0xe9e6, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_bowling_sharp.png)
+  static const IconData flaticon_bowling_sharp =
+      IconData(0xe9e7, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_box_alt_rounded_fill.png)
+  static const IconData flaticon_box_alt_rounded_fill =
+      IconData(0xe9e8, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_box_alt_rounded.png)
+  static const IconData flaticon_box_alt_rounded =
+      IconData(0xe9e9, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_box_alt_sharp_fill.png)
+  static const IconData flaticon_box_alt_sharp_fill =
+      IconData(0xe9ea, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_box_alt_sharp.png)
+  static const IconData flaticon_box_alt_sharp =
+      IconData(0xe9eb, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_box_rounded_fill.png)
+  static const IconData flaticon_box_rounded_fill =
+      IconData(0xe9ec, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_box_rounded.png)
+  static const IconData flaticon_box_rounded =
+      IconData(0xe9ed, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_box_sharp_fill.png)
+  static const IconData flaticon_box_sharp_fill =
+      IconData(0xe9ee, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_box_sharp.png)
+  static const IconData flaticon_box_sharp =
+      IconData(0xe9ef, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_bread_slice_rounded_fill.png)
+  static const IconData flaticon_bread_slice_rounded_fill =
+      IconData(0xe9f0, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_bread_slice_rounded.png)
+  static const IconData flaticon_bread_slice_rounded =
+      IconData(0xe9f1, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_bread_slice_sharp_fill.png)
+  static const IconData flaticon_bread_slice_sharp_fill =
+      IconData(0xe9f2, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_bread_slice_sharp.png)
+  static const IconData flaticon_bread_slice_sharp =
+      IconData(0xe9f3, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_briefcase_rounded_fill.png)
+  static const IconData flaticon_briefcase_rounded_fill =
+      IconData(0xe9f4, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_briefcase_rounded.png)
+  static const IconData flaticon_briefcase_rounded =
+      IconData(0xe9f5, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_briefcase_sharp_fill.png)
+  static const IconData flaticon_briefcase_sharp_fill =
+      IconData(0xe9f6, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_briefcase_sharp.png)
+  static const IconData flaticon_briefcase_sharp =
+      IconData(0xe9f7, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_broom_rounded_fill.png)
+  static const IconData flaticon_broom_rounded_fill =
+      IconData(0xe9f8, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_broom_rounded.png)
+  static const IconData flaticon_broom_rounded =
+      IconData(0xe9f9, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_broom_sharp_fill.png)
+  static const IconData flaticon_broom_sharp_fill =
+      IconData(0xe9fa, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_broom_sharp.png)
+  static const IconData flaticon_broom_sharp =
+      IconData(0xe9fb, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_browser_rounded_fill.png)
+  static const IconData flaticon_browser_rounded_fill =
+      IconData(0xe9fc, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_browser_rounded.png)
+  static const IconData flaticon_browser_rounded =
+      IconData(0xe9fd, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_browser_sharp_fill.png)
+  static const IconData flaticon_browser_sharp_fill =
+      IconData(0xe9fe, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_browser_sharp.png)
+  static const IconData flaticon_browser_sharp =
+      IconData(0xe9ff, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_brush_rounded_fill.png)
+  static const IconData flaticon_brush_rounded_fill =
+      IconData(0xea00, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_brush_rounded.png)
+  static const IconData flaticon_brush_rounded =
+      IconData(0xea01, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_brush_sharp_fill.png)
+  static const IconData flaticon_brush_sharp_fill =
+      IconData(0xea02, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_brush_sharp.png)
+  static const IconData flaticon_brush_sharp =
+      IconData(0xea03, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_bug_rounded_fill.png)
+  static const IconData flaticon_bug_rounded_fill =
+      IconData(0xea04, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_bug_rounded.png)
+  static const IconData flaticon_bug_rounded =
+      IconData(0xea05, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_bug_sharp_fill.png)
+  static const IconData flaticon_bug_sharp_fill =
+      IconData(0xea06, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_bug_sharp.png)
+  static const IconData flaticon_bug_sharp =
+      IconData(0xea07, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_building_rounded_fill.png)
+  static const IconData flaticon_building_rounded_fill =
+      IconData(0xea08, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_building_rounded.png)
+  static const IconData flaticon_building_rounded =
+      IconData(0xea09, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_building_sharp_fill.png)
+  static const IconData flaticon_building_sharp_fill =
+      IconData(0xea0a, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_building_sharp.png)
+  static const IconData flaticon_building_sharp =
+      IconData(0xea0b, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_bulb_rounded_fill.png)
+  static const IconData flaticon_bulb_rounded_fill =
+      IconData(0xea0c, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_bulb_rounded.png)
+  static const IconData flaticon_bulb_rounded =
+      IconData(0xea0d, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_bulb_sharp_fill.png)
+  static const IconData flaticon_bulb_sharp_fill =
+      IconData(0xea0e, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_bulb_sharp.png)
+  static const IconData flaticon_bulb_sharp =
+      IconData(0xea0f, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_butterfly_rounded_fill.png)
+  static const IconData flaticon_butterfly_rounded_fill =
+      IconData(0xea10, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_butterfly_rounded.png)
+  static const IconData flaticon_butterfly_rounded =
+      IconData(0xea11, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_butterfly_sharp_fill.png)
+  static const IconData flaticon_butterfly_sharp_fill =
+      IconData(0xea12, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_butterfly_sharp.png)
+  static const IconData flaticon_butterfly_sharp =
+      IconData(0xea13, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cake_birthday_rounded_fill.png)
+  static const IconData flaticon_cake_birthday_rounded_fill =
+      IconData(0xea14, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cake_birthday_rounded.png)
+  static const IconData flaticon_cake_birthday_rounded =
+      IconData(0xea15, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cake_birthday_sharp_fill.png)
+  static const IconData flaticon_cake_birthday_sharp_fill =
+      IconData(0xea16, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cake_birthday_sharp.png)
+  static const IconData flaticon_cake_birthday_sharp =
+      IconData(0xea17, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cake_wedding_rounded_fill.png)
+  static const IconData flaticon_cake_wedding_rounded_fill =
+      IconData(0xea18, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cake_wedding_rounded.png)
+  static const IconData flaticon_cake_wedding_rounded =
+      IconData(0xea19, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cake_wedding_sharp_fill.png)
+  static const IconData flaticon_cake_wedding_sharp_fill =
+      IconData(0xea1a, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cake_wedding_sharp.png)
+  static const IconData flaticon_cake_wedding_sharp =
+      IconData(0xea1b, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_calculator_rounded_fill.png)
+  static const IconData flaticon_calculator_rounded_fill =
+      IconData(0xea1c, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_calculator_rounded.png)
+  static const IconData flaticon_calculator_rounded =
+      IconData(0xea1d, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_calculator_sharp_fill.png)
+  static const IconData flaticon_calculator_sharp_fill =
+      IconData(0xea1e, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_calculator_sharp.png)
+  static const IconData flaticon_calculator_sharp =
+      IconData(0xea1f, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_calendar_rounded_fill.png)
+  static const IconData flaticon_calendar_rounded_fill =
+      IconData(0xea20, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_calendar_rounded.png)
+  static const IconData flaticon_calendar_rounded =
+      IconData(0xea21, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_calendar_sharp_fill.png)
+  static const IconData flaticon_calendar_sharp_fill =
+      IconData(0xea22, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_calendar_sharp.png)
+  static const IconData flaticon_calendar_sharp =
+      IconData(0xea23, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_call_history_rounded_fill.png)
+  static const IconData flaticon_call_history_rounded_fill =
+      IconData(0xea24, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_call_history_rounded.png)
+  static const IconData flaticon_call_history_rounded =
+      IconData(0xea25, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_call_history_sharp_fill.png)
+  static const IconData flaticon_call_history_sharp_fill =
+      IconData(0xea26, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_call_history_sharp.png)
+  static const IconData flaticon_call_history_sharp =
+      IconData(0xea27, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_call_incoming_rounded_fill.png)
+  static const IconData flaticon_call_incoming_rounded_fill =
+      IconData(0xea28, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_call_incoming_rounded.png)
+  static const IconData flaticon_call_incoming_rounded =
+      IconData(0xea29, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_call_incoming_sharp_fill.png)
+  static const IconData flaticon_call_incoming_sharp_fill =
+      IconData(0xea2a, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_call_incoming_sharp.png)
+  static const IconData flaticon_call_incoming_sharp =
+      IconData(0xea2b, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_call_missed_rounded_fill.png)
+  static const IconData flaticon_call_missed_rounded_fill =
+      IconData(0xea2c, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_call_missed_rounded.png)
+  static const IconData flaticon_call_missed_rounded =
+      IconData(0xea2d, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_call_missed_sharp_fill.png)
+  static const IconData flaticon_call_missed_sharp_fill =
+      IconData(0xea2e, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_call_missed_sharp.png)
+  static const IconData flaticon_call_missed_sharp =
+      IconData(0xea2f, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_call_outgoing_rounded_fill.png)
+  static const IconData flaticon_call_outgoing_rounded_fill =
+      IconData(0xea30, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_call_outgoing_rounded.png)
+  static const IconData flaticon_call_outgoing_rounded =
+      IconData(0xea31, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_call_outgoing_sharp_fill.png)
+  static const IconData flaticon_call_outgoing_sharp_fill =
+      IconData(0xea32, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_call_outgoing_sharp.png)
+  static const IconData flaticon_call_outgoing_sharp =
+      IconData(0xea33, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_camera_rounded_fill.png)
+  static const IconData flaticon_camera_rounded_fill =
+      IconData(0xea34, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_camera_rounded.png)
+  static const IconData flaticon_camera_rounded =
+      IconData(0xea35, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_camera_sharp_fill.png)
+  static const IconData flaticon_camera_sharp_fill =
+      IconData(0xea36, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_camera_sharp.png)
+  static const IconData flaticon_camera_sharp =
+      IconData(0xea37, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_camping_rounded_fill.png)
+  static const IconData flaticon_camping_rounded_fill =
+      IconData(0xea38, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_camping_rounded.png)
+  static const IconData flaticon_camping_rounded =
+      IconData(0xea39, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_camping_sharp_fill.png)
+  static const IconData flaticon_camping_sharp_fill =
+      IconData(0xea3a, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_camping_sharp.png)
+  static const IconData flaticon_camping_sharp =
+      IconData(0xea3b, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_car_rounded_fill.png)
+  static const IconData flaticon_car_rounded_fill =
+      IconData(0xea3c, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_car_rounded.png)
+  static const IconData flaticon_car_rounded =
+      IconData(0xea3d, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_car_sharp_fill.png)
+  static const IconData flaticon_car_sharp_fill =
+      IconData(0xea3e, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_car_sharp.png)
+  static const IconData flaticon_car_sharp =
+      IconData(0xea3f, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_caret_down_rounded_fill.png)
+  static const IconData flaticon_caret_down_rounded_fill =
+      IconData(0xea40, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_caret_down_rounded.png)
+  static const IconData flaticon_caret_down_rounded =
+      IconData(0xea41, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_caret_down_sharp_fill.png)
+  static const IconData flaticon_caret_down_sharp_fill =
+      IconData(0xea42, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_caret_down_sharp.png)
+  static const IconData flaticon_caret_down_sharp =
+      IconData(0xea43, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_caret_left_rounded_fill.png)
+  static const IconData flaticon_caret_left_rounded_fill =
+      IconData(0xea44, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_caret_left_rounded.png)
+  static const IconData flaticon_caret_left_rounded =
+      IconData(0xea45, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_caret_left_sharp_fill.png)
+  static const IconData flaticon_caret_left_sharp_fill =
+      IconData(0xea46, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_caret_left_sharp.png)
+  static const IconData flaticon_caret_left_sharp =
+      IconData(0xea47, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_caret_right_rounded_fill.png)
+  static const IconData flaticon_caret_right_rounded_fill =
+      IconData(0xea48, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_caret_right_rounded.png)
+  static const IconData flaticon_caret_right_rounded =
+      IconData(0xea49, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_caret_right_sharp_fill.png)
+  static const IconData flaticon_caret_right_sharp_fill =
+      IconData(0xea4a, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_caret_right_sharp.png)
+  static const IconData flaticon_caret_right_sharp =
+      IconData(0xea4b, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_caret_up_rounded_fill.png)
+  static const IconData flaticon_caret_up_rounded_fill =
+      IconData(0xea4c, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_caret_up_rounded.png)
+  static const IconData flaticon_caret_up_rounded =
+      IconData(0xea4d, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_caret_up_sharp_fill.png)
+  static const IconData flaticon_caret_up_sharp_fill =
+      IconData(0xea4e, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_caret_up_sharp.png)
+  static const IconData flaticon_caret_up_sharp =
+      IconData(0xea4f, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_carrot_rounded_fill.png)
+  static const IconData flaticon_carrot_rounded_fill =
+      IconData(0xea50, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_carrot_rounded.png)
+  static const IconData flaticon_carrot_rounded =
+      IconData(0xea51, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_carrot_sharp_fill.png)
+  static const IconData flaticon_carrot_sharp_fill =
+      IconData(0xea52, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_carrot_sharp.png)
+  static const IconData flaticon_carrot_sharp =
+      IconData(0xea53, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_chart_connected_rounded_fill.png)
+  static const IconData flaticon_chart_connected_rounded_fill =
+      IconData(0xea54, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_chart_connected_rounded.png)
+  static const IconData flaticon_chart_connected_rounded =
+      IconData(0xea55, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_chart_connected_sharp_fill.png)
+  static const IconData flaticon_chart_connected_sharp_fill =
+      IconData(0xea56, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_chart_connected_sharp.png)
+  static const IconData flaticon_chart_connected_sharp =
+      IconData(0xea57, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_chart_histogram_rounded_fill.png)
+  static const IconData flaticon_chart_histogram_rounded_fill =
+      IconData(0xea58, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_chart_histogram_rounded.png)
+  static const IconData flaticon_chart_histogram_rounded =
+      IconData(0xea59, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_chart_histogram_sharp_fill.png)
+  static const IconData flaticon_chart_histogram_sharp_fill =
+      IconData(0xea5a, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_chart_histogram_sharp.png)
+  static const IconData flaticon_chart_histogram_sharp =
+      IconData(0xea5b, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_chart_network_rounded_fill.png)
+  static const IconData flaticon_chart_network_rounded_fill =
+      IconData(0xea5c, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_chart_network_rounded.png)
+  static const IconData flaticon_chart_network_rounded =
+      IconData(0xea5d, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_chart_network_sharp_fill.png)
+  static const IconData flaticon_chart_network_sharp_fill =
+      IconData(0xea5e, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_chart_network_sharp.png)
+  static const IconData flaticon_chart_network_sharp =
+      IconData(0xea5f, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_chart_pie_alt_rounded_fill.png)
+  static const IconData flaticon_chart_pie_alt_rounded_fill =
+      IconData(0xea60, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_chart_pie_alt_rounded.png)
+  static const IconData flaticon_chart_pie_alt_rounded =
+      IconData(0xea61, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_chart_pie_alt_sharp_fill.png)
+  static const IconData flaticon_chart_pie_alt_sharp_fill =
+      IconData(0xea62, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_chart_pie_alt_sharp.png)
+  static const IconData flaticon_chart_pie_alt_sharp =
+      IconData(0xea63, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_chart_pie_rounded_fill.png)
+  static const IconData flaticon_chart_pie_rounded_fill =
+      IconData(0xea64, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_chart_pie_rounded.png)
+  static const IconData flaticon_chart_pie_rounded =
+      IconData(0xea65, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_chart_pie_sharp_fill.png)
+  static const IconData flaticon_chart_pie_sharp_fill =
+      IconData(0xea66, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_chart_pie_sharp.png)
+  static const IconData flaticon_chart_pie_sharp =
+      IconData(0xea67, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_chart_pyramid_rounded_fill.png)
+  static const IconData flaticon_chart_pyramid_rounded_fill =
+      IconData(0xea68, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_chart_pyramid_rounded.png)
+  static const IconData flaticon_chart_pyramid_rounded =
+      IconData(0xea69, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_chart_pyramid_sharp_fill.png)
+  static const IconData flaticon_chart_pyramid_sharp_fill =
+      IconData(0xea6a, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_chart_pyramid_sharp.png)
+  static const IconData flaticon_chart_pyramid_sharp =
+      IconData(0xea6b, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_chart_set_theory_rounded_fill.png)
+  static const IconData flaticon_chart_set_theory_rounded_fill =
+      IconData(0xea6c, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_chart_set_theory_rounded.png)
+  static const IconData flaticon_chart_set_theory_rounded =
+      IconData(0xea6d, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_chart_set_theory_sharp_fill.png)
+  static const IconData flaticon_chart_set_theory_sharp_fill =
+      IconData(0xea6e, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_chart_set_theory_sharp.png)
+  static const IconData flaticon_chart_set_theory_sharp =
+      IconData(0xea6f, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_chart_tree_rounded_fill.png)
+  static const IconData flaticon_chart_tree_rounded_fill =
+      IconData(0xea70, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_chart_tree_rounded.png)
+  static const IconData flaticon_chart_tree_rounded =
+      IconData(0xea71, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_chart_tree_sharp_fill.png)
+  static const IconData flaticon_chart_tree_sharp_fill =
+      IconData(0xea72, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_chart_tree_sharp.png)
+  static const IconData flaticon_chart_tree_sharp =
+      IconData(0xea73, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_chat_arrow_down_rounded_fill.png)
+  static const IconData flaticon_chat_arrow_down_rounded_fill =
+      IconData(0xea74, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_chat_arrow_down_rounded.png)
+  static const IconData flaticon_chat_arrow_down_rounded =
+      IconData(0xea75, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_chat_arrow_down_sharp_fill.png)
+  static const IconData flaticon_chat_arrow_down_sharp_fill =
+      IconData(0xea76, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_chat_arrow_down_sharp.png)
+  static const IconData flaticon_chat_arrow_down_sharp =
+      IconData(0xea77, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_chat_arrow_grow_rounded_fill.png)
+  static const IconData flaticon_chat_arrow_grow_rounded_fill =
+      IconData(0xea78, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_chat_arrow_grow_rounded.png)
+  static const IconData flaticon_chat_arrow_grow_rounded =
+      IconData(0xea79, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_chat_arrow_grow_sharp_fill.png)
+  static const IconData flaticon_chat_arrow_grow_sharp_fill =
+      IconData(0xea7a, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_chat_arrow_grow_sharp.png)
+  static const IconData flaticon_chat_arrow_grow_sharp =
+      IconData(0xea7b, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_check_rounded_fill.png)
+  static const IconData flaticon_check_rounded_fill =
+      IconData(0xea7c, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_check_rounded.png)
+  static const IconData flaticon_check_rounded =
+      IconData(0xea7d, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_check_sharp_fill.png)
+  static const IconData flaticon_check_sharp_fill =
+      IconData(0xea7e, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_check_sharp.png)
+  static const IconData flaticon_check_sharp =
+      IconData(0xea7f, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_checkbox_rounded_fill.png)
+  static const IconData flaticon_checkbox_rounded_fill =
+      IconData(0xea80, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_checkbox_rounded.png)
+  static const IconData flaticon_checkbox_rounded =
+      IconData(0xea81, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_checkbox_sharp_fill.png)
+  static const IconData flaticon_checkbox_sharp_fill =
+      IconData(0xea82, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_checkbox_sharp.png)
+  static const IconData flaticon_checkbox_sharp =
+      IconData(0xea83, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cheese_rounded_fill.png)
+  static const IconData flaticon_cheese_rounded_fill =
+      IconData(0xea84, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cheese_rounded.png)
+  static const IconData flaticon_cheese_rounded =
+      IconData(0xea85, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cheese_sharp_fill.png)
+  static const IconData flaticon_cheese_sharp_fill =
+      IconData(0xea86, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cheese_sharp.png)
+  static const IconData flaticon_cheese_sharp =
+      IconData(0xea87, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_chess_piece_rounded_fill.png)
+  static const IconData flaticon_chess_piece_rounded_fill =
+      IconData(0xea88, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_chess_piece_rounded.png)
+  static const IconData flaticon_chess_piece_rounded =
+      IconData(0xea89, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_chess_piece_sharp_fill.png)
+  static const IconData flaticon_chess_piece_sharp_fill =
+      IconData(0xea8a, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_chess_piece_sharp.png)
+  static const IconData flaticon_chess_piece_sharp =
+      IconData(0xea8b, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_child_head_rounded_fill.png)
+  static const IconData flaticon_child_head_rounded_fill =
+      IconData(0xea8c, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_child_head_rounded.png)
+  static const IconData flaticon_child_head_rounded =
+      IconData(0xea8d, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_child_head_sharp_fill.png)
+  static const IconData flaticon_child_head_sharp_fill =
+      IconData(0xea8e, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_child_head_sharp.png)
+  static const IconData flaticon_child_head_sharp =
+      IconData(0xea8f, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_circle_rounded_fill.png)
+  static const IconData flaticon_circle_rounded_fill =
+      IconData(0xea90, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_circle_rounded.png)
+  static const IconData flaticon_circle_rounded =
+      IconData(0xea91, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_circle_sharp_fill.png)
+  static const IconData flaticon_circle_sharp_fill =
+      IconData(0xea92, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_circle_sharp.png)
+  static const IconData flaticon_circle_sharp =
+      IconData(0xea93, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_circle_small_rounded_fill.png)
+  static const IconData flaticon_circle_small_rounded_fill =
+      IconData(0xea94, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_circle_small_rounded.png)
+  static const IconData flaticon_circle_small_rounded =
+      IconData(0xea95, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_circle_small_sharp_fill.png)
+  static const IconData flaticon_circle_small_sharp_fill =
+      IconData(0xea96, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_circle_small_sharp.png)
+  static const IconData flaticon_circle_small_sharp =
+      IconData(0xea97, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_clip_rounded_fill.png)
+  static const IconData flaticon_clip_rounded_fill =
+      IconData(0xea98, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_clip_rounded.png)
+  static const IconData flaticon_clip_rounded =
+      IconData(0xea99, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_clip_sharp_fill.png)
+  static const IconData flaticon_clip_sharp_fill =
+      IconData(0xea9a, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_clip_sharp.png)
+  static const IconData flaticon_clip_sharp =
+      IconData(0xea9b, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_clock_rounded_fill.png)
+  static const IconData flaticon_clock_rounded_fill =
+      IconData(0xea9c, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_clock_rounded.png)
+  static const IconData flaticon_clock_rounded =
+      IconData(0xea9d, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_clock_sharp_fill.png)
+  static const IconData flaticon_clock_sharp_fill =
+      IconData(0xea9e, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_clock_sharp.png)
+  static const IconData flaticon_clock_sharp =
+      IconData(0xea9f, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cloud_check_rounded_fill.png)
+  static const IconData flaticon_cloud_check_rounded_fill =
+      IconData(0xeaa0, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cloud_check_rounded.png)
+  static const IconData flaticon_cloud_check_rounded =
+      IconData(0xeaa1, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cloud_check_sharp_fill.png)
+  static const IconData flaticon_cloud_check_sharp_fill =
+      IconData(0xeaa2, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cloud_check_sharp.png)
+  static const IconData flaticon_cloud_check_sharp =
+      IconData(0xeaa3, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cloud_disabled_rounded_fill.png)
+  static const IconData flaticon_cloud_disabled_rounded_fill =
+      IconData(0xeaa4, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cloud_disabled_rounded.png)
+  static const IconData flaticon_cloud_disabled_rounded =
+      IconData(0xeaa5, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cloud_disabled_sharp_fill.png)
+  static const IconData flaticon_cloud_disabled_sharp_fill =
+      IconData(0xeaa6, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cloud_disabled_sharp.png)
+  static const IconData flaticon_cloud_disabled_sharp =
+      IconData(0xeaa7, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cloud_download_rounded_fill.png)
+  static const IconData flaticon_cloud_download_rounded_fill =
+      IconData(0xeaa8, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cloud_download_rounded.png)
+  static const IconData flaticon_cloud_download_rounded =
+      IconData(0xeaa9, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cloud_download_sharp_fill.png)
+  static const IconData flaticon_cloud_download_sharp_fill =
+      IconData(0xeaaa, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cloud_download_sharp.png)
+  static const IconData flaticon_cloud_download_sharp =
+      IconData(0xeaab, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cloud_rounded_fill.png)
+  static const IconData flaticon_cloud_rounded_fill =
+      IconData(0xeaac, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cloud_rounded.png)
+  static const IconData flaticon_cloud_rounded =
+      IconData(0xeaad, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cloud_share_rounded_fill.png)
+  static const IconData flaticon_cloud_share_rounded_fill =
+      IconData(0xeaae, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cloud_share_rounded.png)
+  static const IconData flaticon_cloud_share_rounded =
+      IconData(0xeaaf, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cloud_share_sharp_fill.png)
+  static const IconData flaticon_cloud_share_sharp_fill =
+      IconData(0xeab0, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cloud_share_sharp.png)
+  static const IconData flaticon_cloud_share_sharp =
+      IconData(0xeab1, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cloud_sharp_fill.png)
+  static const IconData flaticon_cloud_sharp_fill =
+      IconData(0xeab2, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cloud_sharp.png)
+  static const IconData flaticon_cloud_sharp =
+      IconData(0xeab3, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cloud_upload_rounded_fill.png)
+  static const IconData flaticon_cloud_upload_rounded_fill =
+      IconData(0xeab4, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cloud_upload_rounded.png)
+  static const IconData flaticon_cloud_upload_rounded =
+      IconData(0xeab5, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cloud_upload_sharp_fill.png)
+  static const IconData flaticon_cloud_upload_sharp_fill =
+      IconData(0xeab6, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cloud_upload_sharp.png)
+  static const IconData flaticon_cloud_upload_sharp =
+      IconData(0xeab7, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_clouds_rounded_fill.png)
+  static const IconData flaticon_clouds_rounded_fill =
+      IconData(0xeab8, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_clouds_rounded.png)
+  static const IconData flaticon_clouds_rounded =
+      IconData(0xeab9, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_clouds_sharp_fill.png)
+  static const IconData flaticon_clouds_sharp_fill =
+      IconData(0xeaba, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_clouds_sharp.png)
+  static const IconData flaticon_clouds_sharp =
+      IconData(0xeabb, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cocktail_rounded_fill.png)
+  static const IconData flaticon_cocktail_rounded_fill =
+      IconData(0xeabc, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cocktail_rounded.png)
+  static const IconData flaticon_cocktail_rounded =
+      IconData(0xeabd, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cocktail_sharp_fill.png)
+  static const IconData flaticon_cocktail_sharp_fill =
+      IconData(0xeabe, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cocktail_sharp.png)
+  static const IconData flaticon_cocktail_sharp =
+      IconData(0xeabf, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_coffee_rounded_fill.png)
+  static const IconData flaticon_coffee_rounded_fill =
+      IconData(0xeac0, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_coffee_rounded.png)
+  static const IconData flaticon_coffee_rounded =
+      IconData(0xeac1, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_coffee_sharp_fill.png)
+  static const IconData flaticon_coffee_sharp_fill =
+      IconData(0xeac2, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_coffee_sharp.png)
+  static const IconData flaticon_coffee_sharp =
+      IconData(0xeac3, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_comment_alt_rounded_fill.png)
+  static const IconData flaticon_comment_alt_rounded_fill =
+      IconData(0xeac4, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_comment_alt_rounded.png)
+  static const IconData flaticon_comment_alt_rounded =
+      IconData(0xeac5, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_comment_alt_sharp_fill.png)
+  static const IconData flaticon_comment_alt_sharp_fill =
+      IconData(0xeac6, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_comment_alt_sharp.png)
+  static const IconData flaticon_comment_alt_sharp =
+      IconData(0xeac7, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_comment_check_rounded_fill.png)
+  static const IconData flaticon_comment_check_rounded_fill =
+      IconData(0xeac8, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_comment_check_rounded.png)
+  static const IconData flaticon_comment_check_rounded =
+      IconData(0xeac9, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_comment_check_sharp_fill.png)
+  static const IconData flaticon_comment_check_sharp_fill =
+      IconData(0xeaca, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_comment_check_sharp.png)
+  static const IconData flaticon_comment_check_sharp =
+      IconData(0xeacb, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_comment_heart_rounded_fill.png)
+  static const IconData flaticon_comment_heart_rounded_fill =
+      IconData(0xeacc, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_comment_heart_rounded.png)
+  static const IconData flaticon_comment_heart_rounded =
+      IconData(0xeacd, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_comment_heart_sharp_fill.png)
+  static const IconData flaticon_comment_heart_sharp_fill =
+      IconData(0xeace, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_comment_heart_sharp.png)
+  static const IconData flaticon_comment_heart_sharp =
+      IconData(0xeacf, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_comment_info_rounded_fill.png)
+  static const IconData flaticon_comment_info_rounded_fill =
+      IconData(0xead0, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_comment_info_rounded.png)
+  static const IconData flaticon_comment_info_rounded =
+      IconData(0xead1, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_comment_info_sharp_fill.png)
+  static const IconData flaticon_comment_info_sharp_fill =
+      IconData(0xead2, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_comment_info_sharp.png)
+  static const IconData flaticon_comment_info_sharp =
+      IconData(0xead3, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_comment_rounded_fill.png)
+  static const IconData flaticon_comment_rounded_fill =
+      IconData(0xead4, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_comment_rounded.png)
+  static const IconData flaticon_comment_rounded =
+      IconData(0xead5, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_comment_sharp_fill.png)
+  static const IconData flaticon_comment_sharp_fill =
+      IconData(0xead6, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_comment_sharp.png)
+  static const IconData flaticon_comment_sharp =
+      IconData(0xead7, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_comment_user_rounded_fill.png)
+  static const IconData flaticon_comment_user_rounded_fill =
+      IconData(0xead8, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_comment_user_rounded.png)
+  static const IconData flaticon_comment_user_rounded =
+      IconData(0xead9, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_comment_user_sharp_fill.png)
+  static const IconData flaticon_comment_user_sharp_fill =
+      IconData(0xeada, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_comment_user_sharp.png)
+  static const IconData flaticon_comment_user_sharp =
+      IconData(0xeadb, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_comments_rounded_fill.png)
+  static const IconData flaticon_comments_rounded_fill =
+      IconData(0xeadc, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_comments_rounded.png)
+  static const IconData flaticon_comments_rounded =
+      IconData(0xeadd, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_comments_sharp_fill.png)
+  static const IconData flaticon_comments_sharp_fill =
+      IconData(0xeade, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_comments_sharp.png)
+  static const IconData flaticon_comments_sharp =
+      IconData(0xeadf, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_compress_alt_rounded_fill.png)
+  static const IconData flaticon_compress_alt_rounded_fill =
+      IconData(0xeae0, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_compress_alt_rounded.png)
+  static const IconData flaticon_compress_alt_rounded =
+      IconData(0xeae1, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_compress_alt_sharp_fill.png)
+  static const IconData flaticon_compress_alt_sharp_fill =
+      IconData(0xeae2, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_compress_alt_sharp.png)
+  static const IconData flaticon_compress_alt_sharp =
+      IconData(0xeae3, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_compress_rounded_fill.png)
+  static const IconData flaticon_compress_rounded_fill =
+      IconData(0xeae4, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_compress_rounded.png)
+  static const IconData flaticon_compress_rounded =
+      IconData(0xeae5, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_compress_sharp_fill.png)
+  static const IconData flaticon_compress_sharp_fill =
+      IconData(0xeae6, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_compress_sharp.png)
+  static const IconData flaticon_compress_sharp =
+      IconData(0xeae7, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_computer_rounded_fill.png)
+  static const IconData flaticon_computer_rounded_fill =
+      IconData(0xeae8, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_computer_rounded.png)
+  static const IconData flaticon_computer_rounded =
+      IconData(0xeae9, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_computer_sharp_fill.png)
+  static const IconData flaticon_computer_sharp_fill =
+      IconData(0xeaea, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_computer_sharp.png)
+  static const IconData flaticon_computer_sharp =
+      IconData(0xeaeb, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_confetti_rounded_fill.png)
+  static const IconData flaticon_confetti_rounded_fill =
+      IconData(0xeaec, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_confetti_rounded.png)
+  static const IconData flaticon_confetti_rounded =
+      IconData(0xeaed, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_confetti_sharp_fill.png)
+  static const IconData flaticon_confetti_sharp_fill =
+      IconData(0xeaee, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_confetti_sharp.png)
+  static const IconData flaticon_confetti_sharp =
+      IconData(0xeaef, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cookie_rounded_fill.png)
+  static const IconData flaticon_cookie_rounded_fill =
+      IconData(0xeaf0, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cookie_rounded.png)
+  static const IconData flaticon_cookie_rounded =
+      IconData(0xeaf1, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cookie_sharp_fill.png)
+  static const IconData flaticon_cookie_sharp_fill =
+      IconData(0xeaf2, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cookie_sharp.png)
+  static const IconData flaticon_cookie_sharp =
+      IconData(0xeaf3, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_copy_alt_rounded_fill.png)
+  static const IconData flaticon_copy_alt_rounded_fill =
+      IconData(0xeaf4, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_copy_alt_rounded.png)
+  static const IconData flaticon_copy_alt_rounded =
+      IconData(0xeaf5, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_copy_alt_sharp_fill.png)
+  static const IconData flaticon_copy_alt_sharp_fill =
+      IconData(0xeaf6, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_copy_alt_sharp.png)
+  static const IconData flaticon_copy_alt_sharp =
+      IconData(0xeaf7, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_copy_rounded_fill.png)
+  static const IconData flaticon_copy_rounded_fill =
+      IconData(0xeaf8, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_copy_rounded.png)
+  static const IconData flaticon_copy_rounded =
+      IconData(0xeaf9, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_copy_sharp_fill.png)
+  static const IconData flaticon_copy_sharp_fill =
+      IconData(0xeafa, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_copy_sharp.png)
+  static const IconData flaticon_copy_sharp =
+      IconData(0xeafb, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_copyright_rounded_fill.png)
+  static const IconData flaticon_copyright_rounded_fill =
+      IconData(0xeafc, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_copyright_rounded.png)
+  static const IconData flaticon_copyright_rounded =
+      IconData(0xeafd, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_copyright_sharp_fill.png)
+  static const IconData flaticon_copyright_sharp_fill =
+      IconData(0xeafe, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_copyright_sharp.png)
+  static const IconData flaticon_copyright_sharp =
+      IconData(0xeaff, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cow_rounded_fill.png)
+  static const IconData flaticon_cow_rounded_fill =
+      IconData(0xeb00, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cow_rounded.png)
+  static const IconData flaticon_cow_rounded =
+      IconData(0xeb01, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cow_sharp_fill.png)
+  static const IconData flaticon_cow_sharp_fill =
+      IconData(0xeb02, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cow_sharp.png)
+  static const IconData flaticon_cow_sharp =
+      IconData(0xeb03, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cream_rounded_fill.png)
+  static const IconData flaticon_cream_rounded_fill =
+      IconData(0xeb04, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cream_rounded.png)
+  static const IconData flaticon_cream_rounded =
+      IconData(0xeb05, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cream_sharp_fill.png)
+  static const IconData flaticon_cream_sharp_fill =
+      IconData(0xeb06, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cream_sharp.png)
+  static const IconData flaticon_cream_sharp =
+      IconData(0xeb07, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_credit_card_rounded_fill.png)
+  static const IconData flaticon_credit_card_rounded_fill =
+      IconData(0xeb08, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_credit_card_rounded.png)
+  static const IconData flaticon_credit_card_rounded =
+      IconData(0xeb09, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_credit_card_sharp_fill.png)
+  static const IconData flaticon_credit_card_sharp_fill =
+      IconData(0xeb0a, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_credit_card_sharp.png)
+  static const IconData flaticon_credit_card_sharp =
+      IconData(0xeb0b, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_croissant_rounded_fill.png)
+  static const IconData flaticon_croissant_rounded_fill =
+      IconData(0xeb0c, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_croissant_rounded.png)
+  static const IconData flaticon_croissant_rounded =
+      IconData(0xeb0d, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_croissant_sharp_fill.png)
+  static const IconData flaticon_croissant_sharp_fill =
+      IconData(0xeb0e, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_croissant_sharp.png)
+  static const IconData flaticon_croissant_sharp =
+      IconData(0xeb0f, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cross_circle_rounded_fill.png)
+  static const IconData flaticon_cross_circle_rounded_fill =
+      IconData(0xeb10, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cross_circle_rounded.png)
+  static const IconData flaticon_cross_circle_rounded =
+      IconData(0xeb11, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cross_circle_sharp_fill.png)
+  static const IconData flaticon_cross_circle_sharp_fill =
+      IconData(0xeb12, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cross_circle_sharp.png)
+  static const IconData flaticon_cross_circle_sharp =
+      IconData(0xeb13, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cross_rounded_fill.png)
+  static const IconData flaticon_cross_rounded_fill =
+      IconData(0xeb14, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cross_rounded.png)
+  static const IconData flaticon_cross_rounded =
+      IconData(0xeb15, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cross_sharp_fill.png)
+  static const IconData flaticon_cross_sharp_fill =
+      IconData(0xeb16, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cross_sharp.png)
+  static const IconData flaticon_cross_sharp =
+      IconData(0xeb17, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cross_small_rounded_fill.png)
+  static const IconData flaticon_cross_small_rounded_fill =
+      IconData(0xeb18, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cross_small_rounded.png)
+  static const IconData flaticon_cross_small_rounded =
+      IconData(0xeb19, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cross_small_sharp_fill.png)
+  static const IconData flaticon_cross_small_sharp_fill =
+      IconData(0xeb1a, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cross_small_sharp.png)
+  static const IconData flaticon_cross_small_sharp =
+      IconData(0xeb1b, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_crown_rounded_fill.png)
+  static const IconData flaticon_crown_rounded_fill =
+      IconData(0xeb1c, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_crown_rounded.png)
+  static const IconData flaticon_crown_rounded =
+      IconData(0xeb1d, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_crown_sharp_fill.png)
+  static const IconData flaticon_crown_sharp_fill =
+      IconData(0xeb1e, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_crown_sharp.png)
+  static const IconData flaticon_crown_sharp =
+      IconData(0xeb1f, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cube_rounded_fill.png)
+  static const IconData flaticon_cube_rounded_fill =
+      IconData(0xeb20, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cube_rounded.png)
+  static const IconData flaticon_cube_rounded =
+      IconData(0xeb21, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cube_sharp_fill.png)
+  static const IconData flaticon_cube_sharp_fill =
+      IconData(0xeb22, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cube_sharp.png)
+  static const IconData flaticon_cube_sharp =
+      IconData(0xeb23, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cupcake_rounded_fill.png)
+  static const IconData flaticon_cupcake_rounded_fill =
+      IconData(0xeb24, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cupcake_rounded.png)
+  static const IconData flaticon_cupcake_rounded =
+      IconData(0xeb25, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cupcake_sharp_fill.png)
+  static const IconData flaticon_cupcake_sharp_fill =
+      IconData(0xeb26, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cupcake_sharp.png)
+  static const IconData flaticon_cupcake_sharp =
+      IconData(0xeb27, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cursor_finger_rounded_fill.png)
+  static const IconData flaticon_cursor_finger_rounded_fill =
+      IconData(0xeb28, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cursor_finger_rounded.png)
+  static const IconData flaticon_cursor_finger_rounded =
+      IconData(0xeb29, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cursor_finger_sharp_fill.png)
+  static const IconData flaticon_cursor_finger_sharp_fill =
+      IconData(0xeb2a, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cursor_finger_sharp.png)
+  static const IconData flaticon_cursor_finger_sharp =
+      IconData(0xeb2b, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cursor_plus_rounded_fill.png)
+  static const IconData flaticon_cursor_plus_rounded_fill =
+      IconData(0xeb2c, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cursor_plus_rounded.png)
+  static const IconData flaticon_cursor_plus_rounded =
+      IconData(0xeb2d, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cursor_plus_sharp_fill.png)
+  static const IconData flaticon_cursor_plus_sharp_fill =
+      IconData(0xeb2e, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cursor_plus_sharp.png)
+  static const IconData flaticon_cursor_plus_sharp =
+      IconData(0xeb2f, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cursor_rounded_fill.png)
+  static const IconData flaticon_cursor_rounded_fill =
+      IconData(0xeb30, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cursor_rounded.png)
+  static const IconData flaticon_cursor_rounded =
+      IconData(0xeb31, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cursor_sharp_fill.png)
+  static const IconData flaticon_cursor_sharp_fill =
+      IconData(0xeb32, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cursor_sharp.png)
+  static const IconData flaticon_cursor_sharp =
+      IconData(0xeb33, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cursor_text_alt_rounded_fill.png)
+  static const IconData flaticon_cursor_text_alt_rounded_fill =
+      IconData(0xeb34, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cursor_text_alt_rounded.png)
+  static const IconData flaticon_cursor_text_alt_rounded =
+      IconData(0xeb35, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cursor_text_alt_sharp_fill.png)
+  static const IconData flaticon_cursor_text_alt_sharp_fill =
+      IconData(0xeb36, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cursor_text_alt_sharp.png)
+  static const IconData flaticon_cursor_text_alt_sharp =
+      IconData(0xeb37, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cursor_text_rounded_fill.png)
+  static const IconData flaticon_cursor_text_rounded_fill =
+      IconData(0xeb38, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cursor_text_rounded.png)
+  static const IconData flaticon_cursor_text_rounded =
+      IconData(0xeb39, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cursor_text_sharp_fill.png)
+  static const IconData flaticon_cursor_text_sharp_fill =
+      IconData(0xeb3a, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_cursor_text_sharp.png)
+  static const IconData flaticon_cursor_text_sharp =
+      IconData(0xeb3b, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_dart_rounded_fill.png)
+  static const IconData flaticon_dart_rounded_fill =
+      IconData(0xeb3c, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_dart_rounded.png)
+  static const IconData flaticon_dart_rounded =
+      IconData(0xeb3d, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_dart_sharp_fill.png)
+  static const IconData flaticon_dart_sharp_fill =
+      IconData(0xeb3e, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_dart_sharp.png)
+  static const IconData flaticon_dart_sharp =
+      IconData(0xeb3f, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_dashboard_rounded_fill.png)
+  static const IconData flaticon_dashboard_rounded_fill =
+      IconData(0xeb40, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_dashboard_rounded.png)
+  static const IconData flaticon_dashboard_rounded =
+      IconData(0xeb41, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_dashboard_sharp_fill.png)
+  static const IconData flaticon_dashboard_sharp_fill =
+      IconData(0xeb42, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_dashboard_sharp.png)
+  static const IconData flaticon_dashboard_sharp =
+      IconData(0xeb43, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_data_transfer_rounded_fill.png)
+  static const IconData flaticon_data_transfer_rounded_fill =
+      IconData(0xeb44, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_data_transfer_rounded.png)
+  static const IconData flaticon_data_transfer_rounded =
+      IconData(0xeb45, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_data_transfer_sharp_fill.png)
+  static const IconData flaticon_data_transfer_sharp_fill =
+      IconData(0xeb46, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_data_transfer_sharp.png)
+  static const IconData flaticon_data_transfer_sharp =
+      IconData(0xeb47, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_database_rounded_fill.png)
+  static const IconData flaticon_database_rounded_fill =
+      IconData(0xeb48, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_database_rounded.png)
+  static const IconData flaticon_database_rounded =
+      IconData(0xeb49, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_database_sharp_fill.png)
+  static const IconData flaticon_database_sharp_fill =
+      IconData(0xeb4a, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_database_sharp.png)
+  static const IconData flaticon_database_sharp =
+      IconData(0xeb4b, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_delete_rounded_fill.png)
+  static const IconData flaticon_delete_rounded_fill =
+      IconData(0xeb4c, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_delete_rounded.png)
+  static const IconData flaticon_delete_rounded =
+      IconData(0xeb4d, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_delete_sharp_fill.png)
+  static const IconData flaticon_delete_sharp_fill =
+      IconData(0xeb4e, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_delete_sharp.png)
+  static const IconData flaticon_delete_sharp =
+      IconData(0xeb4f, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_diamond_rounded_fill.png)
+  static const IconData flaticon_diamond_rounded_fill =
+      IconData(0xeb50, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_diamond_rounded.png)
+  static const IconData flaticon_diamond_rounded =
+      IconData(0xeb51, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_diamond_sharp_fill.png)
+  static const IconData flaticon_diamond_sharp_fill =
+      IconData(0xeb52, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_diamond_sharp.png)
+  static const IconData flaticon_diamond_sharp =
+      IconData(0xeb53, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_dice_rounded_fill.png)
+  static const IconData flaticon_dice_rounded_fill =
+      IconData(0xeb54, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_dice_rounded.png)
+  static const IconData flaticon_dice_rounded =
+      IconData(0xeb55, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_dice_sharp_fill.png)
+  static const IconData flaticon_dice_sharp_fill =
+      IconData(0xeb56, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_dice_sharp.png)
+  static const IconData flaticon_dice_sharp =
+      IconData(0xeb57, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_diploma_rounded_fill.png)
+  static const IconData flaticon_diploma_rounded_fill =
+      IconData(0xeb58, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_diploma_rounded.png)
+  static const IconData flaticon_diploma_rounded =
+      IconData(0xeb59, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_diploma_sharp_fill.png)
+  static const IconData flaticon_diploma_sharp_fill =
+      IconData(0xeb5a, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_diploma_sharp.png)
+  static const IconData flaticon_diploma_sharp =
+      IconData(0xeb5b, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_disco_ball_rounded_fill.png)
+  static const IconData flaticon_disco_ball_rounded_fill =
+      IconData(0xeb5c, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_disco_ball_rounded.png)
+  static const IconData flaticon_disco_ball_rounded =
+      IconData(0xeb5d, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_disco_ball_sharp_fill.png)
+  static const IconData flaticon_disco_ball_sharp_fill =
+      IconData(0xeb5e, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_disco_ball_sharp.png)
+  static const IconData flaticon_disco_ball_sharp =
+      IconData(0xeb5f, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_disk_rounded_fill.png)
+  static const IconData flaticon_disk_rounded_fill =
+      IconData(0xeb60, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_disk_rounded.png)
+  static const IconData flaticon_disk_rounded =
+      IconData(0xeb61, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_disk_sharp_fill.png)
+  static const IconData flaticon_disk_sharp_fill =
+      IconData(0xeb62, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_disk_sharp.png)
+  static const IconData flaticon_disk_sharp =
+      IconData(0xeb63, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_doctor_rounded_fill.png)
+  static const IconData flaticon_doctor_rounded_fill =
+      IconData(0xeb64, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_doctor_rounded.png)
+  static const IconData flaticon_doctor_rounded =
+      IconData(0xeb65, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_doctor_sharp_fill.png)
+  static const IconData flaticon_doctor_sharp_fill =
+      IconData(0xeb66, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_doctor_sharp.png)
+  static const IconData flaticon_doctor_sharp =
+      IconData(0xeb67, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_document_rounded_fill.png)
+  static const IconData flaticon_document_rounded_fill =
+      IconData(0xeb68, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_document_rounded.png)
+  static const IconData flaticon_document_rounded =
+      IconData(0xeb69, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_document_sharp_fill.png)
+  static const IconData flaticon_document_sharp_fill =
+      IconData(0xeb6a, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_document_sharp.png)
+  static const IconData flaticon_document_sharp =
+      IconData(0xeb6b, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_document_signed_rounded_fill.png)
+  static const IconData flaticon_document_signed_rounded_fill =
+      IconData(0xeb6c, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_document_signed_rounded.png)
+  static const IconData flaticon_document_signed_rounded =
+      IconData(0xeb6d, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_document_signed_sharp_fill.png)
+  static const IconData flaticon_document_signed_sharp_fill =
+      IconData(0xeb6e, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_document_signed_sharp.png)
+  static const IconData flaticon_document_signed_sharp =
+      IconData(0xeb6f, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_dollar_rounded_fill.png)
+  static const IconData flaticon_dollar_rounded_fill =
+      IconData(0xeb70, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_dollar_rounded.png)
+  static const IconData flaticon_dollar_rounded =
+      IconData(0xeb71, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_dollar_sharp_fill.png)
+  static const IconData flaticon_dollar_sharp_fill =
+      IconData(0xeb72, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_dollar_sharp.png)
+  static const IconData flaticon_dollar_sharp =
+      IconData(0xeb73, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_download_rounded_fill.png)
+  static const IconData flaticon_download_rounded_fill =
+      IconData(0xeb74, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_download_rounded.png)
+  static const IconData flaticon_download_rounded =
+      IconData(0xeb75, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_download_sharp_fill.png)
+  static const IconData flaticon_download_sharp_fill =
+      IconData(0xeb76, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_download_sharp.png)
+  static const IconData flaticon_download_sharp =
+      IconData(0xeb77, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_drink_alt_rounded_fill.png)
+  static const IconData flaticon_drink_alt_rounded_fill =
+      IconData(0xeb78, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_drink_alt_rounded.png)
+  static const IconData flaticon_drink_alt_rounded =
+      IconData(0xeb79, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_drink_alt_sharp_fill.png)
+  static const IconData flaticon_drink_alt_sharp_fill =
+      IconData(0xeb7a, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_drink_alt_sharp.png)
+  static const IconData flaticon_drink_alt_sharp =
+      IconData(0xeb7b, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_drumstick_rounded_fill.png)
+  static const IconData flaticon_drumstick_rounded_fill =
+      IconData(0xeb7c, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_drumstick_rounded.png)
+  static const IconData flaticon_drumstick_rounded =
+      IconData(0xeb7d, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_drumstick_sharp_fill.png)
+  static const IconData flaticon_drumstick_sharp_fill =
+      IconData(0xeb7e, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_drumstick_sharp.png)
+  static const IconData flaticon_drumstick_sharp =
+      IconData(0xeb7f, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_duplicate_rounded_fill.png)
+  static const IconData flaticon_duplicate_rounded_fill =
+      IconData(0xeb80, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_duplicate_rounded.png)
+  static const IconData flaticon_duplicate_rounded =
+      IconData(0xeb81, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_duplicate_sharp_fill.png)
+  static const IconData flaticon_duplicate_sharp_fill =
+      IconData(0xeb82, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_duplicate_sharp.png)
+  static const IconData flaticon_duplicate_sharp =
+      IconData(0xeb83, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_e_learning_rounded_fill.png)
+  static const IconData flaticon_e_learning_rounded_fill =
+      IconData(0xeb84, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_e_learning_rounded.png)
+  static const IconData flaticon_e_learning_rounded =
+      IconData(0xeb85, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_e_learning_sharp_fill.png)
+  static const IconData flaticon_e_learning_sharp_fill =
+      IconData(0xeb86, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_e_learning_sharp.png)
+  static const IconData flaticon_e_learning_sharp =
+      IconData(0xeb87, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_earnings_rounded_fill.png)
+  static const IconData flaticon_earnings_rounded_fill =
+      IconData(0xeb88, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_earnings_rounded.png)
+  static const IconData flaticon_earnings_rounded =
+      IconData(0xeb89, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_earnings_sharp_fill.png)
+  static const IconData flaticon_earnings_sharp_fill =
+      IconData(0xeb8a, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_earnings_sharp.png)
+  static const IconData flaticon_earnings_sharp =
+      IconData(0xeb8b, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_edit_alt_rounded_fill.png)
+  static const IconData flaticon_edit_alt_rounded_fill =
+      IconData(0xeb8c, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_edit_alt_rounded.png)
+  static const IconData flaticon_edit_alt_rounded =
+      IconData(0xeb8d, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_edit_alt_sharp_fill.png)
+  static const IconData flaticon_edit_alt_sharp_fill =
+      IconData(0xeb8e, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_edit_alt_sharp.png)
+  static const IconData flaticon_edit_alt_sharp =
+      IconData(0xeb8f, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_edit_rounded_fill.png)
+  static const IconData flaticon_edit_rounded_fill =
+      IconData(0xeb90, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_edit_rounded.png)
+  static const IconData flaticon_edit_rounded =
+      IconData(0xeb91, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_edit_sharp_fill.png)
+  static const IconData flaticon_edit_sharp_fill =
+      IconData(0xeb92, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_edit_sharp.png)
+  static const IconData flaticon_edit_sharp =
+      IconData(0xeb93, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_envelope_ban_rounded_fill.png)
+  static const IconData flaticon_envelope_ban_rounded_fill =
+      IconData(0xeb94, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_envelope_ban_rounded.png)
+  static const IconData flaticon_envelope_ban_rounded =
+      IconData(0xeb95, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_envelope_ban_sharp_fill.png)
+  static const IconData flaticon_envelope_ban_sharp_fill =
+      IconData(0xeb96, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_envelope_ban_sharp.png)
+  static const IconData flaticon_envelope_ban_sharp =
+      IconData(0xeb97, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_envelope_download_rounded_fill.png)
+  static const IconData flaticon_envelope_download_rounded_fill =
+      IconData(0xeb98, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_envelope_download_rounded.png)
+  static const IconData flaticon_envelope_download_rounded =
+      IconData(0xeb99, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_envelope_download_sharp_fill.png)
+  static const IconData flaticon_envelope_download_sharp_fill =
+      IconData(0xeb9a, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_envelope_download_sharp.png)
+  static const IconData flaticon_envelope_download_sharp =
+      IconData(0xeb9b, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_envelope_marker_rounded_fill.png)
+  static const IconData flaticon_envelope_marker_rounded_fill =
+      IconData(0xeb9c, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_envelope_marker_rounded.png)
+  static const IconData flaticon_envelope_marker_rounded =
+      IconData(0xeb9d, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_envelope_marker_sharp_fill.png)
+  static const IconData flaticon_envelope_marker_sharp_fill =
+      IconData(0xeb9e, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_envelope_marker_sharp.png)
+  static const IconData flaticon_envelope_marker_sharp =
+      IconData(0xeb9f, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_envelope_open_rounded_fill.png)
+  static const IconData flaticon_envelope_open_rounded_fill =
+      IconData(0xeba0, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_envelope_open_rounded.png)
+  static const IconData flaticon_envelope_open_rounded =
+      IconData(0xeba1, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_envelope_open_sharp_fill.png)
+  static const IconData flaticon_envelope_open_sharp_fill =
+      IconData(0xeba2, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_envelope_open_sharp.png)
+  static const IconData flaticon_envelope_open_sharp =
+      IconData(0xeba3, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_envelope_plus_rounded_fill.png)
+  static const IconData flaticon_envelope_plus_rounded_fill =
+      IconData(0xeba4, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_envelope_plus_rounded.png)
+  static const IconData flaticon_envelope_plus_rounded =
+      IconData(0xeba5, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_envelope_plus_sharp_fill.png)
+  static const IconData flaticon_envelope_plus_sharp_fill =
+      IconData(0xeba6, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_envelope_plus_sharp.png)
+  static const IconData flaticon_envelope_plus_sharp =
+      IconData(0xeba7, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_envelope_rounded_fill.png)
+  static const IconData flaticon_envelope_rounded_fill =
+      IconData(0xeba8, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_envelope_rounded.png)
+  static const IconData flaticon_envelope_rounded =
+      IconData(0xeba9, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_envelope_sharp_fill.png)
+  static const IconData flaticon_envelope_sharp_fill =
+      IconData(0xebaa, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_envelope_sharp.png)
+  static const IconData flaticon_envelope_sharp =
+      IconData(0xebab, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_euro_rounded_fill.png)
+  static const IconData flaticon_euro_rounded_fill =
+      IconData(0xebac, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_euro_rounded.png)
+  static const IconData flaticon_euro_rounded =
+      IconData(0xebad, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_euro_sharp_fill.png)
+  static const IconData flaticon_euro_sharp_fill =
+      IconData(0xebae, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_euro_sharp.png)
+  static const IconData flaticon_euro_sharp =
+      IconData(0xebaf, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_exclamation_rounded_fill.png)
+  static const IconData flaticon_exclamation_rounded_fill =
+      IconData(0xebb0, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_exclamation_rounded.png)
+  static const IconData flaticon_exclamation_rounded =
+      IconData(0xebb1, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_exclamation_sharp_fill.png)
+  static const IconData flaticon_exclamation_sharp_fill =
+      IconData(0xebb2, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_exclamation_sharp.png)
+  static const IconData flaticon_exclamation_sharp =
+      IconData(0xebb3, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_expand_rounded_fill.png)
+  static const IconData flaticon_expand_rounded_fill =
+      IconData(0xebb4, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_expand_rounded.png)
+  static const IconData flaticon_expand_rounded =
+      IconData(0xebb5, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_expand_sharp_fill.png)
+  static const IconData flaticon_expand_sharp_fill =
+      IconData(0xebb6, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_expand_sharp.png)
+  static const IconData flaticon_expand_sharp =
+      IconData(0xebb7, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_eye_crossed_rounded_fill.png)
+  static const IconData flaticon_eye_crossed_rounded_fill =
+      IconData(0xebb8, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_eye_crossed_rounded.png)
+  static const IconData flaticon_eye_crossed_rounded =
+      IconData(0xebb9, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_eye_crossed_sharp_fill.png)
+  static const IconData flaticon_eye_crossed_sharp_fill =
+      IconData(0xebba, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_eye_crossed_sharp.png)
+  static const IconData flaticon_eye_crossed_sharp =
+      IconData(0xebbb, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_eye_dropper_rounded_fill.png)
+  static const IconData flaticon_eye_dropper_rounded_fill =
+      IconData(0xebbc, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_eye_dropper_rounded.png)
+  static const IconData flaticon_eye_dropper_rounded =
+      IconData(0xebbd, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_eye_dropper_sharp_fill.png)
+  static const IconData flaticon_eye_dropper_sharp_fill =
+      IconData(0xebbe, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_eye_dropper_sharp.png)
+  static const IconData flaticon_eye_dropper_sharp =
+      IconData(0xebbf, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_eye_rounded_fill.png)
+  static const IconData flaticon_eye_rounded_fill =
+      IconData(0xebc0, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_eye_rounded.png)
+  static const IconData flaticon_eye_rounded =
+      IconData(0xebc1, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_eye_sharp_fill.png)
+  static const IconData flaticon_eye_sharp_fill =
+      IconData(0xebc2, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_eye_sharp.png)
+  static const IconData flaticon_eye_sharp =
+      IconData(0xebc3, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_feather_rounded_fill.png)
+  static const IconData flaticon_feather_rounded_fill =
+      IconData(0xebc4, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_feather_rounded.png)
+  static const IconData flaticon_feather_rounded =
+      IconData(0xebc5, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_feather_sharp_fill.png)
+  static const IconData flaticon_feather_sharp_fill =
+      IconData(0xebc6, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_feather_sharp.png)
+  static const IconData flaticon_feather_sharp =
+      IconData(0xebc7, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_ferris_wheel_rounded_fill.png)
+  static const IconData flaticon_ferris_wheel_rounded_fill =
+      IconData(0xebc8, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_ferris_wheel_rounded.png)
+  static const IconData flaticon_ferris_wheel_rounded =
+      IconData(0xebc9, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_ferris_wheel_sharp_fill.png)
+  static const IconData flaticon_ferris_wheel_sharp_fill =
+      IconData(0xebca, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_ferris_wheel_sharp.png)
+  static const IconData flaticon_ferris_wheel_sharp =
+      IconData(0xebcb, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_file_add_rounded_fill.png)
+  static const IconData flaticon_file_add_rounded_fill =
+      IconData(0xebcc, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_file_add_rounded.png)
+  static const IconData flaticon_file_add_rounded =
+      IconData(0xebcd, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_file_add_sharp_fill.png)
+  static const IconData flaticon_file_add_sharp_fill =
+      IconData(0xebce, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_file_add_sharp.png)
+  static const IconData flaticon_file_add_sharp =
+      IconData(0xebcf, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_file_ai_rounded_fill.png)
+  static const IconData flaticon_file_ai_rounded_fill =
+      IconData(0xebd0, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_file_ai_rounded.png)
+  static const IconData flaticon_file_ai_rounded =
+      IconData(0xebd1, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_file_ai_sharp_fill.png)
+  static const IconData flaticon_file_ai_sharp_fill =
+      IconData(0xebd2, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_file_ai_sharp.png)
+  static const IconData flaticon_file_ai_sharp =
+      IconData(0xebd3, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_file_check_rounded_fill.png)
+  static const IconData flaticon_file_check_rounded_fill =
+      IconData(0xebd4, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_file_check_rounded.png)
+  static const IconData flaticon_file_check_rounded =
+      IconData(0xebd5, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_file_check_sharp_fill.png)
+  static const IconData flaticon_file_check_sharp_fill =
+      IconData(0xebd6, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_file_check_sharp.png)
+  static const IconData flaticon_file_check_sharp =
+      IconData(0xebd7, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_file_delete_rounded_fill.png)
+  static const IconData flaticon_file_delete_rounded_fill =
+      IconData(0xebd8, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_file_delete_rounded.png)
+  static const IconData flaticon_file_delete_rounded =
+      IconData(0xebd9, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_file_delete_sharp_fill.png)
+  static const IconData flaticon_file_delete_sharp_fill =
+      IconData(0xebda, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_file_delete_sharp.png)
+  static const IconData flaticon_file_delete_sharp =
+      IconData(0xebdb, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_file_eps_rounded_fill.png)
+  static const IconData flaticon_file_eps_rounded_fill =
+      IconData(0xebdc, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_file_eps_rounded.png)
+  static const IconData flaticon_file_eps_rounded =
+      IconData(0xebdd, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_file_eps_sharp_fill.png)
+  static const IconData flaticon_file_eps_sharp_fill =
+      IconData(0xebde, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_file_eps_sharp.png)
+  static const IconData flaticon_file_eps_sharp =
+      IconData(0xebdf, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_file_gif_rounded_fill.png)
+  static const IconData flaticon_file_gif_rounded_fill =
+      IconData(0xebe0, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_file_gif_rounded.png)
+  static const IconData flaticon_file_gif_rounded =
+      IconData(0xebe1, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_file_gif_sharp_fill.png)
+  static const IconData flaticon_file_gif_sharp_fill =
+      IconData(0xebe2, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_file_gif_sharp.png)
+  static const IconData flaticon_file_gif_sharp =
+      IconData(0xebe3, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_file_music_rounded_fill.png)
+  static const IconData flaticon_file_music_rounded_fill =
+      IconData(0xebe4, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_file_music_rounded.png)
+  static const IconData flaticon_file_music_rounded =
+      IconData(0xebe5, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_file_music_sharp_fill.png)
+  static const IconData flaticon_file_music_sharp_fill =
+      IconData(0xebe6, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_file_music_sharp.png)
+  static const IconData flaticon_file_music_sharp =
+      IconData(0xebe7, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_file_psd_rounded_fill.png)
+  static const IconData flaticon_file_psd_rounded_fill =
+      IconData(0xebe8, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_file_psd_rounded.png)
+  static const IconData flaticon_file_psd_rounded =
+      IconData(0xebe9, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_file_psd_sharp_fill.png)
+  static const IconData flaticon_file_psd_sharp_fill =
+      IconData(0xebea, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_file_psd_sharp.png)
+  static const IconData flaticon_file_psd_sharp =
+      IconData(0xebeb, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_file_rounded_fill.png)
+  static const IconData flaticon_file_rounded_fill =
+      IconData(0xebec, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_file_rounded.png)
+  static const IconData flaticon_file_rounded =
+      IconData(0xebed, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_file_sharp_fill.png)
+  static const IconData flaticon_file_sharp_fill =
+      IconData(0xebee, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_file_sharp.png)
+  static const IconData flaticon_file_sharp =
+      IconData(0xebef, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_fill_rounded_fill.png)
+  static const IconData flaticon_fill_rounded_fill =
+      IconData(0xebf0, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_fill_rounded.png)
+  static const IconData flaticon_fill_rounded =
+      IconData(0xebf1, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_fill_sharp_fill.png)
+  static const IconData flaticon_fill_sharp_fill =
+      IconData(0xebf2, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_fill_sharp.png)
+  static const IconData flaticon_fill_sharp =
+      IconData(0xebf3, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_film_rounded_fill.png)
+  static const IconData flaticon_film_rounded_fill =
+      IconData(0xebf4, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_film_rounded.png)
+  static const IconData flaticon_film_rounded =
+      IconData(0xebf5, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_film_sharp_fill.png)
+  static const IconData flaticon_film_sharp_fill =
+      IconData(0xebf6, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_film_sharp.png)
+  static const IconData flaticon_film_sharp =
+      IconData(0xebf7, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_filter_rounded_fill.png)
+  static const IconData flaticon_filter_rounded_fill =
+      IconData(0xebf8, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_filter_rounded.png)
+  static const IconData flaticon_filter_rounded =
+      IconData(0xebf9, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_filter_sharp_fill.png)
+  static const IconData flaticon_filter_sharp_fill =
+      IconData(0xebfa, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_filter_sharp.png)
+  static const IconData flaticon_filter_sharp =
+      IconData(0xebfb, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_fingerprint_rounded_fill.png)
+  static const IconData flaticon_fingerprint_rounded_fill =
+      IconData(0xebfc, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_fingerprint_rounded.png)
+  static const IconData flaticon_fingerprint_rounded =
+      IconData(0xebfd, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_fingerprint_sharp_fill.png)
+  static const IconData flaticon_fingerprint_sharp_fill =
+      IconData(0xebfe, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_fingerprint_sharp.png)
+  static const IconData flaticon_fingerprint_sharp =
+      IconData(0xebff, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_fish_rounded_fill.png)
+  static const IconData flaticon_fish_rounded_fill =
+      IconData(0xec00, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_fish_rounded.png)
+  static const IconData flaticon_fish_rounded =
+      IconData(0xec01, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_fish_sharp_fill.png)
+  static const IconData flaticon_fish_sharp_fill =
+      IconData(0xec02, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_fish_sharp.png)
+  static const IconData flaticon_fish_sharp =
+      IconData(0xec03, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_flag_rounded_fill.png)
+  static const IconData flaticon_flag_rounded_fill =
+      IconData(0xec04, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_flag_rounded.png)
+  static const IconData flaticon_flag_rounded =
+      IconData(0xec05, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_flag_sharp_fill.png)
+  static const IconData flaticon_flag_sharp_fill =
+      IconData(0xec06, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_flag_sharp.png)
+  static const IconData flaticon_flag_sharp =
+      IconData(0xec07, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_flame_rounded_fill.png)
+  static const IconData flaticon_flame_rounded_fill =
+      IconData(0xec08, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_flame_rounded.png)
+  static const IconData flaticon_flame_rounded =
+      IconData(0xec09, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_flame_sharp_fill.png)
+  static const IconData flaticon_flame_sharp_fill =
+      IconData(0xec0a, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_flame_sharp.png)
+  static const IconData flaticon_flame_sharp =
+      IconData(0xec0b, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_flip_horizontal_rounded_fill.png)
+  static const IconData flaticon_flip_horizontal_rounded_fill =
+      IconData(0xec0c, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_flip_horizontal_rounded.png)
+  static const IconData flaticon_flip_horizontal_rounded =
+      IconData(0xec0d, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_flip_horizontal_sharp_fill.png)
+  static const IconData flaticon_flip_horizontal_sharp_fill =
+      IconData(0xec0e, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_flip_horizontal_sharp.png)
+  static const IconData flaticon_flip_horizontal_sharp =
+      IconData(0xec0f, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_flower_bouquet_rounded_fill.png)
+  static const IconData flaticon_flower_bouquet_rounded_fill =
+      IconData(0xec10, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_flower_bouquet_rounded.png)
+  static const IconData flaticon_flower_bouquet_rounded =
+      IconData(0xec11, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_flower_bouquet_sharp_fill.png)
+  static const IconData flaticon_flower_bouquet_sharp_fill =
+      IconData(0xec12, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_flower_bouquet_sharp.png)
+  static const IconData flaticon_flower_bouquet_sharp =
+      IconData(0xec13, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_flower_rounded_fill.png)
+  static const IconData flaticon_flower_rounded_fill =
+      IconData(0xec14, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_flower_rounded.png)
+  static const IconData flaticon_flower_rounded =
+      IconData(0xec15, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_flower_sharp_fill.png)
+  static const IconData flaticon_flower_sharp_fill =
+      IconData(0xec16, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_flower_sharp.png)
+  static const IconData flaticon_flower_sharp =
+      IconData(0xec17, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_flower_tulip_rounded_fill.png)
+  static const IconData flaticon_flower_tulip_rounded_fill =
+      IconData(0xec18, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_flower_tulip_rounded.png)
+  static const IconData flaticon_flower_tulip_rounded =
+      IconData(0xec19, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_flower_tulip_sharp_fill.png)
+  static const IconData flaticon_flower_tulip_sharp_fill =
+      IconData(0xec1a, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_flower_tulip_sharp.png)
+  static const IconData flaticon_flower_tulip_sharp =
+      IconData(0xec1b, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_folder_add_rounded_fill.png)
+  static const IconData flaticon_folder_add_rounded_fill =
+      IconData(0xec1c, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_folder_add_rounded.png)
+  static const IconData flaticon_folder_add_rounded =
+      IconData(0xec1d, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_folder_add_sharp_fill.png)
+  static const IconData flaticon_folder_add_sharp_fill =
+      IconData(0xec1e, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_folder_add_sharp.png)
+  static const IconData flaticon_folder_add_sharp =
+      IconData(0xec1f, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_folder_rounded_fill.png)
+  static const IconData flaticon_folder_rounded_fill =
+      IconData(0xec20, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_folder_rounded.png)
+  static const IconData flaticon_folder_rounded =
+      IconData(0xec21, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_folder_sharp_fill.png)
+  static const IconData flaticon_folder_sharp_fill =
+      IconData(0xec22, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_folder_sharp.png)
+  static const IconData flaticon_folder_sharp =
+      IconData(0xec23, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_following_rounded_fill.png)
+  static const IconData flaticon_following_rounded_fill =
+      IconData(0xec24, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_following_rounded.png)
+  static const IconData flaticon_following_rounded =
+      IconData(0xec25, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_following_sharp_fill.png)
+  static const IconData flaticon_following_sharp_fill =
+      IconData(0xec26, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_following_sharp.png)
+  static const IconData flaticon_following_sharp =
+      IconData(0xec27, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_football_rounded_fill.png)
+  static const IconData flaticon_football_rounded_fill =
+      IconData(0xec28, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_football_rounded.png)
+  static const IconData flaticon_football_rounded =
+      IconData(0xec29, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_football_sharp_fill.png)
+  static const IconData flaticon_football_sharp_fill =
+      IconData(0xec2a, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_football_sharp.png)
+  static const IconData flaticon_football_sharp =
+      IconData(0xec2b, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_form_rounded_fill.png)
+  static const IconData flaticon_form_rounded_fill =
+      IconData(0xec2c, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_form_rounded.png)
+  static const IconData flaticon_form_rounded =
+      IconData(0xec2d, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_form_sharp_fill.png)
+  static const IconData flaticon_form_sharp_fill =
+      IconData(0xec2e, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_form_sharp.png)
+  static const IconData flaticon_form_sharp =
+      IconData(0xec2f, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_forward_rounded_fill.png)
+  static const IconData flaticon_forward_rounded_fill =
+      IconData(0xec30, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_forward_rounded.png)
+  static const IconData flaticon_forward_rounded =
+      IconData(0xec31, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_forward_sharp_fill.png)
+  static const IconData flaticon_forward_sharp_fill =
+      IconData(0xec32, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_forward_sharp.png)
+  static const IconData flaticon_forward_sharp =
+      IconData(0xec33, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_fox_rounded_fill.png)
+  static const IconData flaticon_fox_rounded_fill =
+      IconData(0xec34, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_fox_rounded.png)
+  static const IconData flaticon_fox_rounded =
+      IconData(0xec35, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_fox_sharp_fill.png)
+  static const IconData flaticon_fox_sharp_fill =
+      IconData(0xec36, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_fox_sharp.png)
+  static const IconData flaticon_fox_sharp =
+      IconData(0xec37, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_frown_rounded_fill.png)
+  static const IconData flaticon_frown_rounded_fill =
+      IconData(0xec38, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_frown_rounded.png)
+  static const IconData flaticon_frown_rounded =
+      IconData(0xec39, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_frown_sharp_fill.png)
+  static const IconData flaticon_frown_sharp_fill =
+      IconData(0xec3a, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_frown_sharp.png)
+  static const IconData flaticon_frown_sharp =
+      IconData(0xec3b, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_ftp_rounded_fill.png)
+  static const IconData flaticon_ftp_rounded_fill =
+      IconData(0xec3c, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_ftp_rounded.png)
+  static const IconData flaticon_ftp_rounded =
+      IconData(0xec3d, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_ftp_sharp_fill.png)
+  static const IconData flaticon_ftp_sharp_fill =
+      IconData(0xec3e, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_ftp_sharp.png)
+  static const IconData flaticon_ftp_sharp =
+      IconData(0xec3f, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_gallery_rounded_fill.png)
+  static const IconData flaticon_gallery_rounded_fill =
+      IconData(0xec40, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_gallery_rounded.png)
+  static const IconData flaticon_gallery_rounded =
+      IconData(0xec41, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_gallery_sharp_fill.png)
+  static const IconData flaticon_gallery_sharp_fill =
+      IconData(0xec42, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_gallery_sharp.png)
+  static const IconData flaticon_gallery_sharp =
+      IconData(0xec43, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_gamepad_rounded_fill.png)
+  static const IconData flaticon_gamepad_rounded_fill =
+      IconData(0xec44, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_gamepad_rounded.png)
+  static const IconData flaticon_gamepad_rounded =
+      IconData(0xec45, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_gamepad_sharp_fill.png)
+  static const IconData flaticon_gamepad_sharp_fill =
+      IconData(0xec46, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_gamepad_sharp.png)
+  static const IconData flaticon_gamepad_sharp =
+      IconData(0xec47, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_gas_pump_rounded_fill.png)
+  static const IconData flaticon_gas_pump_rounded_fill =
+      IconData(0xec48, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_gas_pump_rounded.png)
+  static const IconData flaticon_gas_pump_rounded =
+      IconData(0xec49, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_gas_pump_sharp_fill.png)
+  static const IconData flaticon_gas_pump_sharp_fill =
+      IconData(0xec4a, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_gas_pump_sharp.png)
+  static const IconData flaticon_gas_pump_sharp =
+      IconData(0xec4b, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_gem_rounded_fill.png)
+  static const IconData flaticon_gem_rounded_fill =
+      IconData(0xec4c, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_gem_rounded.png)
+  static const IconData flaticon_gem_rounded =
+      IconData(0xec4d, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_gem_sharp_fill.png)
+  static const IconData flaticon_gem_sharp_fill =
+      IconData(0xec4e, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_gem_sharp.png)
+  static const IconData flaticon_gem_sharp =
+      IconData(0xec4f, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_gift_rounded_fill.png)
+  static const IconData flaticon_gift_rounded_fill =
+      IconData(0xec50, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_gift_rounded.png)
+  static const IconData flaticon_gift_rounded =
+      IconData(0xec51, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_gift_sharp_fill.png)
+  static const IconData flaticon_gift_sharp_fill =
+      IconData(0xec52, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_gift_sharp.png)
+  static const IconData flaticon_gift_sharp =
+      IconData(0xec53, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_glass_cheers_rounded_fill.png)
+  static const IconData flaticon_glass_cheers_rounded_fill =
+      IconData(0xec54, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_glass_cheers_rounded.png)
+  static const IconData flaticon_glass_cheers_rounded =
+      IconData(0xec55, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_glass_cheers_sharp_fill.png)
+  static const IconData flaticon_glass_cheers_sharp_fill =
+      IconData(0xec56, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_glass_cheers_sharp.png)
+  static const IconData flaticon_glass_cheers_sharp =
+      IconData(0xec57, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_glasses_rounded_fill.png)
+  static const IconData flaticon_glasses_rounded_fill =
+      IconData(0xec58, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_glasses_rounded.png)
+  static const IconData flaticon_glasses_rounded =
+      IconData(0xec59, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_glasses_sharp_fill.png)
+  static const IconData flaticon_glasses_sharp_fill =
+      IconData(0xec5a, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_glasses_sharp.png)
+  static const IconData flaticon_glasses_sharp =
+      IconData(0xec5b, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_globe_alt_rounded_fill.png)
+  static const IconData flaticon_globe_alt_rounded_fill =
+      IconData(0xec5c, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_globe_alt_rounded.png)
+  static const IconData flaticon_globe_alt_rounded =
+      IconData(0xec5d, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_globe_alt_sharp_fill.png)
+  static const IconData flaticon_globe_alt_sharp_fill =
+      IconData(0xec5e, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_globe_alt_sharp.png)
+  static const IconData flaticon_globe_alt_sharp =
+      IconData(0xec5f, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_globe_rounded_fill.png)
+  static const IconData flaticon_globe_rounded_fill =
+      IconData(0xec60, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_globe_rounded.png)
+  static const IconData flaticon_globe_rounded =
+      IconData(0xec61, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_globe_sharp_fill.png)
+  static const IconData flaticon_globe_sharp_fill =
+      IconData(0xec62, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_globe_sharp.png)
+  static const IconData flaticon_globe_sharp =
+      IconData(0xec63, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_golf_rounded_fill.png)
+  static const IconData flaticon_golf_rounded_fill =
+      IconData(0xec64, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_golf_rounded.png)
+  static const IconData flaticon_golf_rounded =
+      IconData(0xec65, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_golf_sharp_fill.png)
+  static const IconData flaticon_golf_sharp_fill =
+      IconData(0xec66, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_golf_sharp.png)
+  static const IconData flaticon_golf_sharp =
+      IconData(0xec67, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_graduation_cap_rounded_fill.png)
+  static const IconData flaticon_graduation_cap_rounded_fill =
+      IconData(0xec68, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_graduation_cap_rounded.png)
+  static const IconData flaticon_graduation_cap_rounded =
+      IconData(0xec69, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_graduation_cap_sharp_fill.png)
+  static const IconData flaticon_graduation_cap_sharp_fill =
+      IconData(0xec6a, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_graduation_cap_sharp.png)
+  static const IconData flaticon_graduation_cap_sharp =
+      IconData(0xec6b, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_graphic_tablet_rounded_fill.png)
+  static const IconData flaticon_graphic_tablet_rounded_fill =
+      IconData(0xec6c, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_graphic_tablet_rounded.png)
+  static const IconData flaticon_graphic_tablet_rounded =
+      IconData(0xec6d, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_graphic_tablet_sharp_fill.png)
+  static const IconData flaticon_graphic_tablet_sharp_fill =
+      IconData(0xec6e, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_graphic_tablet_sharp.png)
+  static const IconData flaticon_graphic_tablet_sharp =
+      IconData(0xec6f, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_grid_alt_rounded_fill.png)
+  static const IconData flaticon_grid_alt_rounded_fill =
+      IconData(0xec70, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_grid_alt_rounded.png)
+  static const IconData flaticon_grid_alt_rounded =
+      IconData(0xec71, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_grid_alt_sharp_fill.png)
+  static const IconData flaticon_grid_alt_sharp_fill =
+      IconData(0xec72, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_grid_alt_sharp.png)
+  static const IconData flaticon_grid_alt_sharp =
+      IconData(0xec73, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_grid_rounded_fill.png)
+  static const IconData flaticon_grid_rounded_fill =
+      IconData(0xec74, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_grid_rounded.png)
+  static const IconData flaticon_grid_rounded =
+      IconData(0xec75, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_grid_sharp_fill.png)
+  static const IconData flaticon_grid_sharp_fill =
+      IconData(0xec76, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_grid_sharp.png)
+  static const IconData flaticon_grid_sharp =
+      IconData(0xec77, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_guitar_rounded_fill.png)
+  static const IconData flaticon_guitar_rounded_fill =
+      IconData(0xec78, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_guitar_rounded.png)
+  static const IconData flaticon_guitar_rounded =
+      IconData(0xec79, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_guitar_sharp_fill.png)
+  static const IconData flaticon_guitar_sharp_fill =
+      IconData(0xec7a, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_guitar_sharp.png)
+  static const IconData flaticon_guitar_sharp =
+      IconData(0xec7b, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_gym_rounded_fill.png)
+  static const IconData flaticon_gym_rounded_fill =
+      IconData(0xec7c, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_gym_rounded.png)
+  static const IconData flaticon_gym_rounded =
+      IconData(0xec7d, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_gym_sharp_fill.png)
+  static const IconData flaticon_gym_sharp_fill =
+      IconData(0xec7e, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_gym_sharp.png)
+  static const IconData flaticon_gym_sharp =
+      IconData(0xec7f, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_hamburger_rounded_fill.png)
+  static const IconData flaticon_hamburger_rounded_fill =
+      IconData(0xec80, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_hamburger_rounded.png)
+  static const IconData flaticon_hamburger_rounded =
+      IconData(0xec81, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_hamburger_sharp_fill.png)
+  static const IconData flaticon_hamburger_sharp_fill =
+      IconData(0xec82, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_hamburger_sharp.png)
+  static const IconData flaticon_hamburger_sharp =
+      IconData(0xec83, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_hand_holding_heart_rounded_fill.png)
+  static const IconData flaticon_hand_holding_heart_rounded_fill =
+      IconData(0xec84, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_hand_holding_heart_rounded.png)
+  static const IconData flaticon_hand_holding_heart_rounded =
+      IconData(0xec85, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_hand_holding_heart_sharp_fill.png)
+  static const IconData flaticon_hand_holding_heart_sharp_fill =
+      IconData(0xec86, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_hand_holding_heart_sharp.png)
+  static const IconData flaticon_hand_holding_heart_sharp =
+      IconData(0xec87, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_hastag_rounded_fill.png)
+  static const IconData flaticon_hastag_rounded_fill =
+      IconData(0xec88, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_hastag_rounded.png)
+  static const IconData flaticon_hastag_rounded =
+      IconData(0xec89, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_hastag_sharp_fill.png)
+  static const IconData flaticon_hastag_sharp_fill =
+      IconData(0xec8a, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_hastag_sharp.png)
+  static const IconData flaticon_hastag_sharp =
+      IconData(0xec8b, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_hat_birthday_rounded_fill.png)
+  static const IconData flaticon_hat_birthday_rounded_fill =
+      IconData(0xec8c, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_hat_birthday_rounded.png)
+  static const IconData flaticon_hat_birthday_rounded =
+      IconData(0xec8d, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_hat_birthday_sharp_fill.png)
+  static const IconData flaticon_hat_birthday_sharp_fill =
+      IconData(0xec8e, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_hat_birthday_sharp.png)
+  static const IconData flaticon_hat_birthday_sharp =
+      IconData(0xec8f, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_head_side_thinking_rounded_fill.png)
+  static const IconData flaticon_head_side_thinking_rounded_fill =
+      IconData(0xec90, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_head_side_thinking_rounded.png)
+  static const IconData flaticon_head_side_thinking_rounded =
+      IconData(0xec91, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_head_side_thinking_sharp_fill.png)
+  static const IconData flaticon_head_side_thinking_sharp_fill =
+      IconData(0xec92, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_head_side_thinking_sharp.png)
+  static const IconData flaticon_head_side_thinking_sharp =
+      IconData(0xec93, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_headphones_rounded_fill.png)
+  static const IconData flaticon_headphones_rounded_fill =
+      IconData(0xec94, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_headphones_rounded.png)
+  static const IconData flaticon_headphones_rounded =
+      IconData(0xec95, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_headphones_sharp_fill.png)
+  static const IconData flaticon_headphones_sharp_fill =
+      IconData(0xec96, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_headphones_sharp.png)
+  static const IconData flaticon_headphones_sharp =
+      IconData(0xec97, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_headset_rounded_fill.png)
+  static const IconData flaticon_headset_rounded_fill =
+      IconData(0xec98, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_headset_rounded.png)
+  static const IconData flaticon_headset_rounded =
+      IconData(0xec99, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_headset_sharp_fill.png)
+  static const IconData flaticon_headset_sharp_fill =
+      IconData(0xec9a, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_headset_sharp.png)
+  static const IconData flaticon_headset_sharp =
+      IconData(0xec9b, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_heart_arrow_rounded_fill.png)
+  static const IconData flaticon_heart_arrow_rounded_fill =
+      IconData(0xec9c, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_heart_arrow_rounded.png)
+  static const IconData flaticon_heart_arrow_rounded =
+      IconData(0xec9d, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_heart_arrow_sharp_fill.png)
+  static const IconData flaticon_heart_arrow_sharp_fill =
+      IconData(0xec9e, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_heart_arrow_sharp.png)
+  static const IconData flaticon_heart_arrow_sharp =
+      IconData(0xec9f, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_heart_rounded_fill.png)
+  static const IconData flaticon_heart_rounded_fill =
+      IconData(0xeca0, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_heart_rounded.png)
+  static const IconData flaticon_heart_rounded =
+      IconData(0xeca1, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_heart_sharp_fill.png)
+  static const IconData flaticon_heart_sharp_fill =
+      IconData(0xeca2, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_heart_sharp.png)
+  static const IconData flaticon_heart_sharp =
+      IconData(0xeca3, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_home_location_alt_rounded_fill.png)
+  static const IconData flaticon_home_location_alt_rounded_fill =
+      IconData(0xeca4, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_home_location_alt_rounded.png)
+  static const IconData flaticon_home_location_alt_rounded =
+      IconData(0xeca5, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_home_location_alt_sharp_fill.png)
+  static const IconData flaticon_home_location_alt_sharp_fill =
+      IconData(0xeca6, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_home_location_alt_sharp.png)
+  static const IconData flaticon_home_location_alt_sharp =
+      IconData(0xeca7, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_home_location_rounded_fill.png)
+  static const IconData flaticon_home_location_rounded_fill =
+      IconData(0xeca8, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_home_location_rounded.png)
+  static const IconData flaticon_home_location_rounded =
+      IconData(0xeca9, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_home_location_sharp_fill.png)
+  static const IconData flaticon_home_location_sharp_fill =
+      IconData(0xecaa, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_home_location_sharp.png)
+  static const IconData flaticon_home_location_sharp =
+      IconData(0xecab, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_home_rounded_fill.png)
+  static const IconData flaticon_home_rounded_fill =
+      IconData(0xecac, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_home_rounded.png)
+  static const IconData flaticon_home_rounded =
+      IconData(0xecad, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_home_sharp_fill.png)
+  static const IconData flaticon_home_sharp_fill =
+      IconData(0xecae, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_home_sharp.png)
+  static const IconData flaticon_home_sharp =
+      IconData(0xecaf, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_hourglass_end_rounded_fill.png)
+  static const IconData flaticon_hourglass_end_rounded_fill =
+      IconData(0xecb0, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_hourglass_end_rounded.png)
+  static const IconData flaticon_hourglass_end_rounded =
+      IconData(0xecb1, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_hourglass_end_sharp_fill.png)
+  static const IconData flaticon_hourglass_end_sharp_fill =
+      IconData(0xecb2, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_hourglass_end_sharp.png)
+  static const IconData flaticon_hourglass_end_sharp =
+      IconData(0xecb3, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_hourglass_rounded_fill.png)
+  static const IconData flaticon_hourglass_rounded_fill =
+      IconData(0xecb4, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_hourglass_rounded.png)
+  static const IconData flaticon_hourglass_rounded =
+      IconData(0xecb5, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_hourglass_sharp_fill.png)
+  static const IconData flaticon_hourglass_sharp_fill =
+      IconData(0xecb6, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_hourglass_sharp.png)
+  static const IconData flaticon_hourglass_sharp =
+      IconData(0xecb7, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_ice_cream_rounded_fill.png)
+  static const IconData flaticon_ice_cream_rounded_fill =
+      IconData(0xecb8, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_ice_cream_rounded.png)
+  static const IconData flaticon_ice_cream_rounded =
+      IconData(0xecb9, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_ice_cream_sharp_fill.png)
+  static const IconData flaticon_ice_cream_sharp_fill =
+      IconData(0xecba, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_ice_cream_sharp.png)
+  static const IconData flaticon_ice_cream_sharp =
+      IconData(0xecbb, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_ice_skate_rounded_fill.png)
+  static const IconData flaticon_ice_skate_rounded_fill =
+      IconData(0xecbc, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_ice_skate_rounded.png)
+  static const IconData flaticon_ice_skate_rounded =
+      IconData(0xecbd, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_ice_skate_sharp_fill.png)
+  static const IconData flaticon_ice_skate_sharp_fill =
+      IconData(0xecbe, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_ice_skate_sharp.png)
+  static const IconData flaticon_ice_skate_sharp =
+      IconData(0xecbf, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_id_badge_rounded_fill.png)
+  static const IconData flaticon_id_badge_rounded_fill =
+      IconData(0xecc0, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_id_badge_rounded.png)
+  static const IconData flaticon_id_badge_rounded =
+      IconData(0xecc1, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_id_badge_sharp_fill.png)
+  static const IconData flaticon_id_badge_sharp_fill =
+      IconData(0xecc2, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_id_badge_sharp.png)
+  static const IconData flaticon_id_badge_sharp =
+      IconData(0xecc3, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_inbox_rounded_fill.png)
+  static const IconData flaticon_inbox_rounded_fill =
+      IconData(0xecc4, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_inbox_rounded.png)
+  static const IconData flaticon_inbox_rounded =
+      IconData(0xecc5, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_inbox_sharp_fill.png)
+  static const IconData flaticon_inbox_sharp_fill =
+      IconData(0xecc6, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_inbox_sharp.png)
+  static const IconData flaticon_inbox_sharp =
+      IconData(0xecc7, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_incognito_rounded_fill.png)
+  static const IconData flaticon_incognito_rounded_fill =
+      IconData(0xecc8, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_incognito_rounded.png)
+  static const IconData flaticon_incognito_rounded =
+      IconData(0xecc9, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_incognito_sharp_fill.png)
+  static const IconData flaticon_incognito_sharp_fill =
+      IconData(0xecca, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_incognito_sharp.png)
+  static const IconData flaticon_incognito_sharp =
+      IconData(0xeccb, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_indent_rounded_fill.png)
+  static const IconData flaticon_indent_rounded_fill =
+      IconData(0xeccc, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_indent_rounded.png)
+  static const IconData flaticon_indent_rounded =
+      IconData(0xeccd, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_indent_sharp_fill.png)
+  static const IconData flaticon_indent_sharp_fill =
+      IconData(0xecce, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_indent_sharp.png)
+  static const IconData flaticon_indent_sharp =
+      IconData(0xeccf, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_infinity_rounded_fill.png)
+  static const IconData flaticon_infinity_rounded_fill =
+      IconData(0xecd0, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_infinity_rounded.png)
+  static const IconData flaticon_infinity_rounded =
+      IconData(0xecd1, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_infinity_sharp_fill.png)
+  static const IconData flaticon_infinity_sharp_fill =
+      IconData(0xecd2, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_infinity_sharp.png)
+  static const IconData flaticon_infinity_sharp =
+      IconData(0xecd3, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_info_rounded_fill.png)
+  static const IconData flaticon_info_rounded_fill =
+      IconData(0xecd4, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_info_rounded.png)
+  static const IconData flaticon_info_rounded =
+      IconData(0xecd5, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_info_sharp_fill.png)
+  static const IconData flaticon_info_sharp_fill =
+      IconData(0xecd6, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_info_sharp.png)
+  static const IconData flaticon_info_sharp =
+      IconData(0xecd7, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_interactive_rounded_fill.png)
+  static const IconData flaticon_interactive_rounded_fill =
+      IconData(0xecd8, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_interactive_rounded.png)
+  static const IconData flaticon_interactive_rounded =
+      IconData(0xecd9, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_interactive_sharp_fill.png)
+  static const IconData flaticon_interactive_sharp_fill =
+      IconData(0xecda, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_interactive_sharp.png)
+  static const IconData flaticon_interactive_sharp =
+      IconData(0xecdb, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_interlining_rounded_fill.png)
+  static const IconData flaticon_interlining_rounded_fill =
+      IconData(0xecdc, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_interlining_rounded.png)
+  static const IconData flaticon_interlining_rounded =
+      IconData(0xecdd, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_interlining_sharp_fill.png)
+  static const IconData flaticon_interlining_sharp_fill =
+      IconData(0xecde, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_interlining_sharp.png)
+  static const IconData flaticon_interlining_sharp =
+      IconData(0xecdf, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_interrogation_rounded_fill.png)
+  static const IconData flaticon_interrogation_rounded_fill =
+      IconData(0xece0, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_interrogation_rounded.png)
+  static const IconData flaticon_interrogation_rounded =
+      IconData(0xece1, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_interrogation_sharp_fill.png)
+  static const IconData flaticon_interrogation_sharp_fill =
+      IconData(0xece2, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_interrogation_sharp.png)
+  static const IconData flaticon_interrogation_sharp =
+      IconData(0xece3, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_italic_rounded_fill.png)
+  static const IconData flaticon_italic_rounded_fill =
+      IconData(0xece4, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_italic_rounded.png)
+  static const IconData flaticon_italic_rounded =
+      IconData(0xece5, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_italic_sharp_fill.png)
+  static const IconData flaticon_italic_sharp_fill =
+      IconData(0xece6, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_italic_sharp.png)
+  static const IconData flaticon_italic_sharp =
+      IconData(0xece7, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_jpg_rounded_fill.png)
+  static const IconData flaticon_jpg_rounded_fill =
+      IconData(0xece8, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_jpg_rounded.png)
+  static const IconData flaticon_jpg_rounded =
+      IconData(0xece9, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_jpg_sharp_fill.png)
+  static const IconData flaticon_jpg_sharp_fill =
+      IconData(0xecea, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_jpg_sharp.png)
+  static const IconData flaticon_jpg_sharp =
+      IconData(0xeceb, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_key_rounded_fill.png)
+  static const IconData flaticon_key_rounded_fill =
+      IconData(0xecec, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_key_rounded.png)
+  static const IconData flaticon_key_rounded =
+      IconData(0xeced, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_key_sharp_fill.png)
+  static const IconData flaticon_key_sharp_fill =
+      IconData(0xecee, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_key_sharp.png)
+  static const IconData flaticon_key_sharp =
+      IconData(0xecef, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_keyboard_rounded_fill.png)
+  static const IconData flaticon_keyboard_rounded_fill =
+      IconData(0xecf0, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_keyboard_rounded.png)
+  static const IconData flaticon_keyboard_rounded =
+      IconData(0xecf1, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_keyboard_sharp_fill.png)
+  static const IconData flaticon_keyboard_sharp_fill =
+      IconData(0xecf2, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_keyboard_sharp.png)
+  static const IconData flaticon_keyboard_sharp =
+      IconData(0xecf3, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_kite_rounded_fill.png)
+  static const IconData flaticon_kite_rounded_fill =
+      IconData(0xecf4, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_kite_rounded.png)
+  static const IconData flaticon_kite_rounded =
+      IconData(0xecf5, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_kite_sharp_fill.png)
+  static const IconData flaticon_kite_sharp_fill =
+      IconData(0xecf6, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_kite_sharp.png)
+  static const IconData flaticon_kite_sharp =
+      IconData(0xecf7, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_label_rounded_fill.png)
+  static const IconData flaticon_label_rounded_fill =
+      IconData(0xecf8, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_label_rounded.png)
+  static const IconData flaticon_label_rounded =
+      IconData(0xecf9, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_label_sharp_fill.png)
+  static const IconData flaticon_label_sharp_fill =
+      IconData(0xecfa, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_label_sharp.png)
+  static const IconData flaticon_label_sharp =
+      IconData(0xecfb, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_laptop_rounded_fill.png)
+  static const IconData flaticon_laptop_rounded_fill =
+      IconData(0xecfc, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_laptop_rounded.png)
+  static const IconData flaticon_laptop_rounded =
+      IconData(0xecfd, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_laptop_sharp_fill.png)
+  static const IconData flaticon_laptop_sharp_fill =
+      IconData(0xecfe, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_laptop_sharp.png)
+  static const IconData flaticon_laptop_sharp =
+      IconData(0xecff, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_lasso_rounded_fill.png)
+  static const IconData flaticon_lasso_rounded_fill =
+      IconData(0xed00, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_lasso_rounded.png)
+  static const IconData flaticon_lasso_rounded =
+      IconData(0xed01, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_lasso_sharp_fill.png)
+  static const IconData flaticon_lasso_sharp_fill =
+      IconData(0xed02, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_lasso_sharp.png)
+  static const IconData flaticon_lasso_sharp =
+      IconData(0xed03, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_laugh_rounded_fill.png)
+  static const IconData flaticon_laugh_rounded_fill =
+      IconData(0xed04, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_laugh_rounded.png)
+  static const IconData flaticon_laugh_rounded =
+      IconData(0xed05, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_laugh_sharp_fill.png)
+  static const IconData flaticon_laugh_sharp_fill =
+      IconData(0xed06, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_laugh_sharp.png)
+  static const IconData flaticon_laugh_sharp =
+      IconData(0xed07, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_layers_rounded_fill.png)
+  static const IconData flaticon_layers_rounded_fill =
+      IconData(0xed08, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_layers_rounded.png)
+  static const IconData flaticon_layers_rounded =
+      IconData(0xed09, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_layers_sharp_fill.png)
+  static const IconData flaticon_layers_sharp_fill =
+      IconData(0xed0a, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_layers_sharp.png)
+  static const IconData flaticon_layers_sharp =
+      IconData(0xed0b, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_layout_fluid_rounded_fill.png)
+  static const IconData flaticon_layout_fluid_rounded_fill =
+      IconData(0xed0c, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_layout_fluid_rounded.png)
+  static const IconData flaticon_layout_fluid_rounded =
+      IconData(0xed0d, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_layout_fluid_sharp_fill.png)
+  static const IconData flaticon_layout_fluid_sharp_fill =
+      IconData(0xed0e, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_layout_fluid_sharp.png)
+  static const IconData flaticon_layout_fluid_sharp =
+      IconData(0xed0f, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_leaf_rounded_fill.png)
+  static const IconData flaticon_leaf_rounded_fill =
+      IconData(0xed10, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_leaf_rounded.png)
+  static const IconData flaticon_leaf_rounded =
+      IconData(0xed11, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_leaf_sharp_fill.png)
+  static const IconData flaticon_leaf_sharp_fill =
+      IconData(0xed12, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_leaf_sharp.png)
+  static const IconData flaticon_leaf_sharp =
+      IconData(0xed13, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_letter_case_rounded_fill.png)
+  static const IconData flaticon_letter_case_rounded_fill =
+      IconData(0xed14, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_letter_case_rounded.png)
+  static const IconData flaticon_letter_case_rounded =
+      IconData(0xed15, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_letter_case_sharp_fill.png)
+  static const IconData flaticon_letter_case_sharp_fill =
+      IconData(0xed16, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_letter_case_sharp.png)
+  static const IconData flaticon_letter_case_sharp =
+      IconData(0xed17, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_life_ring_rounded_fill.png)
+  static const IconData flaticon_life_ring_rounded_fill =
+      IconData(0xed18, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_life_ring_rounded.png)
+  static const IconData flaticon_life_ring_rounded =
+      IconData(0xed19, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_life_ring_sharp_fill.png)
+  static const IconData flaticon_life_ring_sharp_fill =
+      IconData(0xed1a, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_life_ring_sharp.png)
+  static const IconData flaticon_life_ring_sharp =
+      IconData(0xed1b, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_line_width_rounded_fill.png)
+  static const IconData flaticon_line_width_rounded_fill =
+      IconData(0xed1c, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_line_width_rounded.png)
+  static const IconData flaticon_line_width_rounded =
+      IconData(0xed1d, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_line_width_sharp_fill.png)
+  static const IconData flaticon_line_width_sharp_fill =
+      IconData(0xed1e, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_line_width_sharp.png)
+  static const IconData flaticon_line_width_sharp =
+      IconData(0xed1f, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_link_rounded_fill.png)
+  static const IconData flaticon_link_rounded_fill =
+      IconData(0xed20, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_link_rounded.png)
+  static const IconData flaticon_link_rounded =
+      IconData(0xed21, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_link_sharp_fill.png)
+  static const IconData flaticon_link_sharp_fill =
+      IconData(0xed22, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_link_sharp.png)
+  static const IconData flaticon_link_sharp =
+      IconData(0xed23, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_lipstick_rounded_fill.png)
+  static const IconData flaticon_lipstick_rounded_fill =
+      IconData(0xed24, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_lipstick_rounded.png)
+  static const IconData flaticon_lipstick_rounded =
+      IconData(0xed25, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_lipstick_sharp_fill.png)
+  static const IconData flaticon_lipstick_sharp_fill =
+      IconData(0xed26, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_lipstick_sharp.png)
+  static const IconData flaticon_lipstick_sharp =
+      IconData(0xed27, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_list_check_rounded_fill.png)
+  static const IconData flaticon_list_check_rounded_fill =
+      IconData(0xed28, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_list_check_rounded.png)
+  static const IconData flaticon_list_check_rounded =
+      IconData(0xed29, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_list_check_sharp_fill.png)
+  static const IconData flaticon_list_check_sharp_fill =
+      IconData(0xed2a, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_list_check_sharp.png)
+  static const IconData flaticon_list_check_sharp =
+      IconData(0xed2b, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_list_rounded_fill.png)
+  static const IconData flaticon_list_rounded_fill =
+      IconData(0xed2c, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_list_rounded.png)
+  static const IconData flaticon_list_rounded =
+      IconData(0xed2d, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_list_sharp_fill.png)
+  static const IconData flaticon_list_sharp_fill =
+      IconData(0xed2e, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_list_sharp.png)
+  static const IconData flaticon_list_sharp =
+      IconData(0xed2f, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_location_alt_rounded_fill.png)
+  static const IconData flaticon_location_alt_rounded_fill =
+      IconData(0xed30, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_location_alt_rounded.png)
+  static const IconData flaticon_location_alt_rounded =
+      IconData(0xed31, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_location_alt_sharp_fill.png)
+  static const IconData flaticon_location_alt_sharp_fill =
+      IconData(0xed32, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_location_alt_sharp.png)
+  static const IconData flaticon_location_alt_sharp =
+      IconData(0xed33, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_lock_alt_rounded_fill.png)
+  static const IconData flaticon_lock_alt_rounded_fill =
+      IconData(0xed34, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_lock_alt_rounded.png)
+  static const IconData flaticon_lock_alt_rounded =
+      IconData(0xed35, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_lock_alt_sharp_fill.png)
+  static const IconData flaticon_lock_alt_sharp_fill =
+      IconData(0xed36, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_lock_alt_sharp.png)
+  static const IconData flaticon_lock_alt_sharp =
+      IconData(0xed37, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_lock_rounded_fill.png)
+  static const IconData flaticon_lock_rounded_fill =
+      IconData(0xed38, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_lock_rounded.png)
+  static const IconData flaticon_lock_rounded =
+      IconData(0xed39, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_lock_sharp_fill.png)
+  static const IconData flaticon_lock_sharp_fill =
+      IconData(0xed3a, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_lock_sharp.png)
+  static const IconData flaticon_lock_sharp =
+      IconData(0xed3b, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_luggage_rolling_rounded_fill.png)
+  static const IconData flaticon_luggage_rolling_rounded_fill =
+      IconData(0xed3c, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_luggage_rolling_rounded.png)
+  static const IconData flaticon_luggage_rolling_rounded =
+      IconData(0xed3d, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_luggage_rolling_sharp_fill.png)
+  static const IconData flaticon_luggage_rolling_sharp_fill =
+      IconData(0xed3e, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_luggage_rolling_sharp.png)
+  static const IconData flaticon_luggage_rolling_sharp =
+      IconData(0xed3f, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_magic_wand_rounded_fill.png)
+  static const IconData flaticon_magic_wand_rounded_fill =
+      IconData(0xed40, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_magic_wand_rounded.png)
+  static const IconData flaticon_magic_wand_rounded =
+      IconData(0xed41, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_magic_wand_sharp_fill.png)
+  static const IconData flaticon_magic_wand_sharp_fill =
+      IconData(0xed42, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_magic_wand_sharp.png)
+  static const IconData flaticon_magic_wand_sharp =
+      IconData(0xed43, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_makeup_brush_rounded_fill.png)
+  static const IconData flaticon_makeup_brush_rounded_fill =
+      IconData(0xed44, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_makeup_brush_rounded.png)
+  static const IconData flaticon_makeup_brush_rounded =
+      IconData(0xed45, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_makeup_brush_sharp_fill.png)
+  static const IconData flaticon_makeup_brush_sharp_fill =
+      IconData(0xed46, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_makeup_brush_sharp.png)
+  static const IconData flaticon_makeup_brush_sharp =
+      IconData(0xed47, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_man_head_rounded_fill.png)
+  static const IconData flaticon_man_head_rounded_fill =
+      IconData(0xed48, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_man_head_rounded.png)
+  static const IconData flaticon_man_head_rounded =
+      IconData(0xed49, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_man_head_sharp_fill.png)
+  static const IconData flaticon_man_head_sharp_fill =
+      IconData(0xed4a, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_man_head_sharp.png)
+  static const IconData flaticon_man_head_sharp =
+      IconData(0xed4b, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_map_marker_cross_rounded_fill.png)
+  static const IconData flaticon_map_marker_cross_rounded_fill =
+      IconData(0xed4c, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_map_marker_cross_rounded.png)
+  static const IconData flaticon_map_marker_cross_rounded =
+      IconData(0xed4d, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_map_marker_cross_sharp_fill.png)
+  static const IconData flaticon_map_marker_cross_sharp_fill =
+      IconData(0xed4e, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_map_marker_cross_sharp.png)
+  static const IconData flaticon_map_marker_cross_sharp =
+      IconData(0xed4f, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_map_marker_home_rounded_fill.png)
+  static const IconData flaticon_map_marker_home_rounded_fill =
+      IconData(0xed50, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_map_marker_home_rounded.png)
+  static const IconData flaticon_map_marker_home_rounded =
+      IconData(0xed51, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_map_marker_home_sharp_fill.png)
+  static const IconData flaticon_map_marker_home_sharp_fill =
+      IconData(0xed52, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_map_marker_home_sharp.png)
+  static const IconData flaticon_map_marker_home_sharp =
+      IconData(0xed53, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_map_marker_minus_rounded_fill.png)
+  static const IconData flaticon_map_marker_minus_rounded_fill =
+      IconData(0xed54, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_map_marker_minus_rounded.png)
+  static const IconData flaticon_map_marker_minus_rounded =
+      IconData(0xed55, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_map_marker_minus_sharp_fill.png)
+  static const IconData flaticon_map_marker_minus_sharp_fill =
+      IconData(0xed56, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_map_marker_minus_sharp.png)
+  static const IconData flaticon_map_marker_minus_sharp =
+      IconData(0xed57, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_map_marker_plus_rounded_fill.png)
+  static const IconData flaticon_map_marker_plus_rounded_fill =
+      IconData(0xed58, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_map_marker_plus_rounded.png)
+  static const IconData flaticon_map_marker_plus_rounded =
+      IconData(0xed59, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_map_marker_plus_sharp_fill.png)
+  static const IconData flaticon_map_marker_plus_sharp_fill =
+      IconData(0xed5a, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_map_marker_plus_sharp.png)
+  static const IconData flaticon_map_marker_plus_sharp =
+      IconData(0xed5b, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_map_marker_rounded_fill.png)
+  static const IconData flaticon_map_marker_rounded_fill =
+      IconData(0xed5c, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_map_marker_rounded.png)
+  static const IconData flaticon_map_marker_rounded =
+      IconData(0xed5d, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_map_marker_sharp_fill.png)
+  static const IconData flaticon_map_marker_sharp_fill =
+      IconData(0xed5e, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_map_marker_sharp.png)
+  static const IconData flaticon_map_marker_sharp =
+      IconData(0xed5f, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_map_rounded_fill.png)
+  static const IconData flaticon_map_rounded_fill =
+      IconData(0xed60, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_map_rounded.png)
+  static const IconData flaticon_map_rounded =
+      IconData(0xed61, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_map_sharp_fill.png)
+  static const IconData flaticon_map_sharp_fill =
+      IconData(0xed62, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_map_sharp.png)
+  static const IconData flaticon_map_sharp =
+      IconData(0xed63, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_marker_rounded_fill.png)
+  static const IconData flaticon_marker_rounded_fill =
+      IconData(0xed64, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_marker_rounded.png)
+  static const IconData flaticon_marker_rounded =
+      IconData(0xed65, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_marker_sharp_fill.png)
+  static const IconData flaticon_marker_sharp_fill =
+      IconData(0xed66, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_marker_sharp.png)
+  static const IconData flaticon_marker_sharp =
+      IconData(0xed67, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_marker_time_rounded_fill.png)
+  static const IconData flaticon_marker_time_rounded_fill =
+      IconData(0xed68, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_marker_time_rounded.png)
+  static const IconData flaticon_marker_time_rounded =
+      IconData(0xed69, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_marker_time_sharp_fill.png)
+  static const IconData flaticon_marker_time_sharp_fill =
+      IconData(0xed6a, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_marker_time_sharp.png)
+  static const IconData flaticon_marker_time_sharp =
+      IconData(0xed6b, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_mars_double_rounded_fill.png)
+  static const IconData flaticon_mars_double_rounded_fill =
+      IconData(0xed6c, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_mars_double_rounded.png)
+  static const IconData flaticon_mars_double_rounded =
+      IconData(0xed6d, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_mars_double_sharp_fill.png)
+  static const IconData flaticon_mars_double_sharp_fill =
+      IconData(0xed6e, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_mars_double_sharp.png)
+  static const IconData flaticon_mars_double_sharp =
+      IconData(0xed6f, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_mars_rounded_fill.png)
+  static const IconData flaticon_mars_rounded_fill =
+      IconData(0xed70, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_mars_rounded.png)
+  static const IconData flaticon_mars_rounded =
+      IconData(0xed71, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_mars_sharp_fill.png)
+  static const IconData flaticon_mars_sharp_fill =
+      IconData(0xed72, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_mars_sharp.png)
+  static const IconData flaticon_mars_sharp =
+      IconData(0xed73, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_mask_carnival_rounded_fill.png)
+  static const IconData flaticon_mask_carnival_rounded_fill =
+      IconData(0xed74, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_mask_carnival_rounded.png)
+  static const IconData flaticon_mask_carnival_rounded =
+      IconData(0xed75, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_mask_carnival_sharp_fill.png)
+  static const IconData flaticon_mask_carnival_sharp_fill =
+      IconData(0xed76, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_mask_carnival_sharp.png)
+  static const IconData flaticon_mask_carnival_sharp =
+      IconData(0xed77, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_medicine_rounded_fill.png)
+  static const IconData flaticon_medicine_rounded_fill =
+      IconData(0xed78, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_medicine_rounded.png)
+  static const IconData flaticon_medicine_rounded =
+      IconData(0xed79, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_medicine_sharp_fill.png)
+  static const IconData flaticon_medicine_sharp_fill =
+      IconData(0xed7a, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_medicine_sharp.png)
+  static const IconData flaticon_medicine_sharp =
+      IconData(0xed7b, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_megaphone_rounded_fill.png)
+  static const IconData flaticon_megaphone_rounded_fill =
+      IconData(0xed7c, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_megaphone_rounded.png)
+  static const IconData flaticon_megaphone_rounded =
+      IconData(0xed7d, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_megaphone_sharp_fill.png)
+  static const IconData flaticon_megaphone_sharp_fill =
+      IconData(0xed7e, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_megaphone_sharp.png)
+  static const IconData flaticon_megaphone_sharp =
+      IconData(0xed7f, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_meh_rounded_fill.png)
+  static const IconData flaticon_meh_rounded_fill =
+      IconData(0xed80, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_meh_rounded.png)
+  static const IconData flaticon_meh_rounded =
+      IconData(0xed81, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_meh_sharp_fill.png)
+  static const IconData flaticon_meh_sharp_fill =
+      IconData(0xed82, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_meh_sharp.png)
+  static const IconData flaticon_meh_sharp =
+      IconData(0xed83, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_menu_burger_rounded_fill.png)
+  static const IconData flaticon_menu_burger_rounded_fill =
+      IconData(0xed84, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_menu_burger_rounded.png)
+  static const IconData flaticon_menu_burger_rounded =
+      IconData(0xed85, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_menu_burger_sharp_fill.png)
+  static const IconData flaticon_menu_burger_sharp_fill =
+      IconData(0xed86, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_menu_burger_sharp.png)
+  static const IconData flaticon_menu_burger_sharp =
+      IconData(0xed87, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_menu_dots_rounded_fill.png)
+  static const IconData flaticon_menu_dots_rounded_fill =
+      IconData(0xed88, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_menu_dots_rounded.png)
+  static const IconData flaticon_menu_dots_rounded =
+      IconData(0xed89, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_menu_dots_sharp_fill.png)
+  static const IconData flaticon_menu_dots_sharp_fill =
+      IconData(0xed8a, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_menu_dots_sharp.png)
+  static const IconData flaticon_menu_dots_sharp =
+      IconData(0xed8b, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_menu_dots_vertical_rounded_fill.png)
+  static const IconData flaticon_menu_dots_vertical_rounded_fill =
+      IconData(0xed8c, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_menu_dots_vertical_rounded.png)
+  static const IconData flaticon_menu_dots_vertical_rounded =
+      IconData(0xed8d, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_menu_dots_vertical_sharp_fill.png)
+  static const IconData flaticon_menu_dots_vertical_sharp_fill =
+      IconData(0xed8e, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_menu_dots_vertical_sharp.png)
+  static const IconData flaticon_menu_dots_vertical_sharp =
+      IconData(0xed8f, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_microphone_alt_rounded_fill.png)
+  static const IconData flaticon_microphone_alt_rounded_fill =
+      IconData(0xed90, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_microphone_alt_rounded.png)
+  static const IconData flaticon_microphone_alt_rounded =
+      IconData(0xed91, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_microphone_alt_sharp_fill.png)
+  static const IconData flaticon_microphone_alt_sharp_fill =
+      IconData(0xed92, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_microphone_alt_sharp.png)
+  static const IconData flaticon_microphone_alt_sharp =
+      IconData(0xed93, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_microphone_rounded_fill.png)
+  static const IconData flaticon_microphone_rounded_fill =
+      IconData(0xed94, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_microphone_rounded.png)
+  static const IconData flaticon_microphone_rounded =
+      IconData(0xed95, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_microphone_sharp_fill.png)
+  static const IconData flaticon_microphone_sharp_fill =
+      IconData(0xed96, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_microphone_sharp.png)
+  static const IconData flaticon_microphone_sharp =
+      IconData(0xed97, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_minus_rounded_fill.png)
+  static const IconData flaticon_minus_rounded_fill =
+      IconData(0xed98, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_minus_rounded.png)
+  static const IconData flaticon_minus_rounded =
+      IconData(0xed99, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_minus_sharp_fill.png)
+  static const IconData flaticon_minus_sharp_fill =
+      IconData(0xed9a, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_minus_sharp.png)
+  static const IconData flaticon_minus_sharp =
+      IconData(0xed9b, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_minus_small_rounded_fill.png)
+  static const IconData flaticon_minus_small_rounded_fill =
+      IconData(0xed9c, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_minus_small_rounded.png)
+  static const IconData flaticon_minus_small_rounded =
+      IconData(0xed9d, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_minus_small_sharp_fill.png)
+  static const IconData flaticon_minus_small_sharp_fill =
+      IconData(0xed9e, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_minus_small_sharp.png)
+  static const IconData flaticon_minus_small_sharp =
+      IconData(0xed9f, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_mobile_rounded_fill.png)
+  static const IconData flaticon_mobile_rounded_fill =
+      IconData(0xeda0, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_mobile_rounded.png)
+  static const IconData flaticon_mobile_rounded =
+      IconData(0xeda1, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_mobile_sharp_fill.png)
+  static const IconData flaticon_mobile_sharp_fill =
+      IconData(0xeda2, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_mobile_sharp.png)
+  static const IconData flaticon_mobile_sharp =
+      IconData(0xeda3, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_mode_landscape_rounded_fill.png)
+  static const IconData flaticon_mode_landscape_rounded_fill =
+      IconData(0xeda4, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_mode_landscape_rounded.png)
+  static const IconData flaticon_mode_landscape_rounded =
+      IconData(0xeda5, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_mode_landscape_sharp_fill.png)
+  static const IconData flaticon_mode_landscape_sharp_fill =
+      IconData(0xeda6, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_mode_landscape_sharp.png)
+  static const IconData flaticon_mode_landscape_sharp =
+      IconData(0xeda7, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_mode_portrait_rounded_fill.png)
+  static const IconData flaticon_mode_portrait_rounded_fill =
+      IconData(0xeda8, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_mode_portrait_rounded.png)
+  static const IconData flaticon_mode_portrait_rounded =
+      IconData(0xeda9, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_mode_portrait_sharp_fill.png)
+  static const IconData flaticon_mode_portrait_sharp_fill =
+      IconData(0xedaa, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_mode_portrait_sharp.png)
+  static const IconData flaticon_mode_portrait_sharp =
+      IconData(0xedab, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_money_rounded_fill.png)
+  static const IconData flaticon_money_rounded_fill =
+      IconData(0xedac, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_money_rounded.png)
+  static const IconData flaticon_money_rounded =
+      IconData(0xedad, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_money_sharp_fill.png)
+  static const IconData flaticon_money_sharp_fill =
+      IconData(0xedae, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_money_sharp.png)
+  static const IconData flaticon_money_sharp =
+      IconData(0xedaf, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_moon_rounded_fill.png)
+  static const IconData flaticon_moon_rounded_fill =
+      IconData(0xedb0, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_moon_rounded.png)
+  static const IconData flaticon_moon_rounded =
+      IconData(0xedb1, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_moon_sharp_fill.png)
+  static const IconData flaticon_moon_sharp_fill =
+      IconData(0xedb2, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_moon_sharp.png)
+  static const IconData flaticon_moon_sharp =
+      IconData(0xedb3, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_mountains_rounded_fill.png)
+  static const IconData flaticon_mountains_rounded_fill =
+      IconData(0xedb4, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_mountains_rounded.png)
+  static const IconData flaticon_mountains_rounded =
+      IconData(0xedb5, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_mountains_sharp_fill.png)
+  static const IconData flaticon_mountains_sharp_fill =
+      IconData(0xedb6, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_mountains_sharp.png)
+  static const IconData flaticon_mountains_sharp =
+      IconData(0xedb7, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_mouse_rounded_fill.png)
+  static const IconData flaticon_mouse_rounded_fill =
+      IconData(0xedb8, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_mouse_rounded.png)
+  static const IconData flaticon_mouse_rounded =
+      IconData(0xedb9, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_mouse_sharp_fill.png)
+  static const IconData flaticon_mouse_sharp_fill =
+      IconData(0xedba, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_mouse_sharp.png)
+  static const IconData flaticon_mouse_sharp =
+      IconData(0xedbb, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_mug_alt_rounded_fill.png)
+  static const IconData flaticon_mug_alt_rounded_fill =
+      IconData(0xedbc, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_mug_alt_rounded.png)
+  static const IconData flaticon_mug_alt_rounded =
+      IconData(0xedbd, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_mug_alt_sharp_fill.png)
+  static const IconData flaticon_mug_alt_sharp_fill =
+      IconData(0xedbe, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_mug_alt_sharp.png)
+  static const IconData flaticon_mug_alt_sharp =
+      IconData(0xedbf, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_music_alt_rounded_fill.png)
+  static const IconData flaticon_music_alt_rounded_fill =
+      IconData(0xedc0, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_music_alt_rounded.png)
+  static const IconData flaticon_music_alt_rounded =
+      IconData(0xedc1, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_music_alt_sharp_fill.png)
+  static const IconData flaticon_music_alt_sharp_fill =
+      IconData(0xedc2, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_music_alt_sharp.png)
+  static const IconData flaticon_music_alt_sharp =
+      IconData(0xedc3, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_music_rounded_fill.png)
+  static const IconData flaticon_music_rounded_fill =
+      IconData(0xedc4, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_music_rounded.png)
+  static const IconData flaticon_music_rounded =
+      IconData(0xedc5, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_music_sharp_fill.png)
+  static const IconData flaticon_music_sharp_fill =
+      IconData(0xedc6, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_music_sharp.png)
+  static const IconData flaticon_music_sharp =
+      IconData(0xedc7, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_navigation_rounded_fill.png)
+  static const IconData flaticon_navigation_rounded_fill =
+      IconData(0xedc8, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_navigation_rounded.png)
+  static const IconData flaticon_navigation_rounded =
+      IconData(0xedc9, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_navigation_sharp_fill.png)
+  static const IconData flaticon_navigation_sharp_fill =
+      IconData(0xedca, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_navigation_sharp.png)
+  static const IconData flaticon_navigation_sharp =
+      IconData(0xedcb, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_network_cloud_rounded_fill.png)
+  static const IconData flaticon_network_cloud_rounded_fill =
+      IconData(0xedcc, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_network_cloud_rounded.png)
+  static const IconData flaticon_network_cloud_rounded =
+      IconData(0xedcd, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_network_cloud_sharp_fill.png)
+  static const IconData flaticon_network_cloud_sharp_fill =
+      IconData(0xedce, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_network_cloud_sharp.png)
+  static const IconData flaticon_network_cloud_sharp =
+      IconData(0xedcf, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_network_rounded_fill.png)
+  static const IconData flaticon_network_rounded_fill =
+      IconData(0xedd0, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_network_rounded.png)
+  static const IconData flaticon_network_rounded =
+      IconData(0xedd1, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_network_sharp_fill.png)
+  static const IconData flaticon_network_sharp_fill =
+      IconData(0xedd2, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_network_sharp.png)
+  static const IconData flaticon_network_sharp =
+      IconData(0xedd3, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_notebook_rounded_fill.png)
+  static const IconData flaticon_notebook_rounded_fill =
+      IconData(0xedd4, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_notebook_rounded.png)
+  static const IconData flaticon_notebook_rounded =
+      IconData(0xedd5, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_notebook_sharp_fill.png)
+  static const IconData flaticon_notebook_sharp_fill =
+      IconData(0xedd6, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_notebook_sharp.png)
+  static const IconData flaticon_notebook_sharp =
+      IconData(0xedd7, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_opacity_rounded_fill.png)
+  static const IconData flaticon_opacity_rounded_fill =
+      IconData(0xedd8, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_opacity_rounded.png)
+  static const IconData flaticon_opacity_rounded =
+      IconData(0xedd9, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_opacity_sharp_fill.png)
+  static const IconData flaticon_opacity_sharp_fill =
+      IconData(0xedda, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_opacity_sharp.png)
+  static const IconData flaticon_opacity_sharp =
+      IconData(0xeddb, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_package_rounded_fill.png)
+  static const IconData flaticon_package_rounded_fill =
+      IconData(0xeddc, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_package_rounded.png)
+  static const IconData flaticon_package_rounded =
+      IconData(0xeddd, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_package_sharp_fill.png)
+  static const IconData flaticon_package_sharp_fill =
+      IconData(0xedde, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_package_sharp.png)
+  static const IconData flaticon_package_sharp =
+      IconData(0xeddf, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_paint_brush_rounded_fill.png)
+  static const IconData flaticon_paint_brush_rounded_fill =
+      IconData(0xede0, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_paint_brush_rounded.png)
+  static const IconData flaticon_paint_brush_rounded =
+      IconData(0xede1, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_paint_brush_sharp_fill.png)
+  static const IconData flaticon_paint_brush_sharp_fill =
+      IconData(0xede2, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_paint_brush_sharp.png)
+  static const IconData flaticon_paint_brush_sharp =
+      IconData(0xede3, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_palette_rounded_fill.png)
+  static const IconData flaticon_palette_rounded_fill =
+      IconData(0xede4, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_palette_rounded.png)
+  static const IconData flaticon_palette_rounded =
+      IconData(0xede5, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_palette_sharp_fill.png)
+  static const IconData flaticon_palette_sharp_fill =
+      IconData(0xede6, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_palette_sharp.png)
+  static const IconData flaticon_palette_sharp =
+      IconData(0xede7, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_paper_plane_rounded_fill.png)
+  static const IconData flaticon_paper_plane_rounded_fill =
+      IconData(0xede8, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_paper_plane_rounded.png)
+  static const IconData flaticon_paper_plane_rounded =
+      IconData(0xede9, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_paper_plane_sharp_fill.png)
+  static const IconData flaticon_paper_plane_sharp_fill =
+      IconData(0xedea, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_paper_plane_sharp.png)
+  static const IconData flaticon_paper_plane_sharp =
+      IconData(0xedeb, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_password_rounded_fill.png)
+  static const IconData flaticon_password_rounded_fill =
+      IconData(0xedec, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_password_rounded.png)
+  static const IconData flaticon_password_rounded =
+      IconData(0xeded, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_password_sharp_fill.png)
+  static const IconData flaticon_password_sharp_fill =
+      IconData(0xedee, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_password_sharp.png)
+  static const IconData flaticon_password_sharp =
+      IconData(0xedef, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_pause_rounded_fill.png)
+  static const IconData flaticon_pause_rounded_fill =
+      IconData(0xedf0, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_pause_rounded.png)
+  static const IconData flaticon_pause_rounded =
+      IconData(0xedf1, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_pause_sharp_fill.png)
+  static const IconData flaticon_pause_sharp_fill =
+      IconData(0xedf2, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_pause_sharp.png)
+  static const IconData flaticon_pause_sharp =
+      IconData(0xedf3, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_paw_rounded_fill.png)
+  static const IconData flaticon_paw_rounded_fill =
+      IconData(0xedf4, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_paw_rounded.png)
+  static const IconData flaticon_paw_rounded =
+      IconData(0xedf5, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_paw_sharp_fill.png)
+  static const IconData flaticon_paw_sharp_fill =
+      IconData(0xedf6, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_paw_sharp.png)
+  static const IconData flaticon_paw_sharp =
+      IconData(0xedf7, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_pencil_rounded_fill.png)
+  static const IconData flaticon_pencil_rounded_fill =
+      IconData(0xedf8, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_pencil_rounded.png)
+  static const IconData flaticon_pencil_rounded =
+      IconData(0xedf9, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_pencil_sharp_fill.png)
+  static const IconData flaticon_pencil_sharp_fill =
+      IconData(0xedfa, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_pencil_sharp.png)
+  static const IconData flaticon_pencil_sharp =
+      IconData(0xedfb, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_pharmacy_rounded_fill.png)
+  static const IconData flaticon_pharmacy_rounded_fill =
+      IconData(0xedfc, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_pharmacy_rounded.png)
+  static const IconData flaticon_pharmacy_rounded =
+      IconData(0xedfd, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_pharmacy_sharp_fill.png)
+  static const IconData flaticon_pharmacy_sharp_fill =
+      IconData(0xedfe, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_pharmacy_sharp.png)
+  static const IconData flaticon_pharmacy_sharp =
+      IconData(0xedff, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_phone_call_rounded_fill.png)
+  static const IconData flaticon_phone_call_rounded_fill =
+      IconData(0xee00, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_phone_call_rounded.png)
+  static const IconData flaticon_phone_call_rounded =
+      IconData(0xee01, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_phone_call_sharp_fill.png)
+  static const IconData flaticon_phone_call_sharp_fill =
+      IconData(0xee02, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_phone_call_sharp.png)
+  static const IconData flaticon_phone_call_sharp =
+      IconData(0xee03, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_phone_cross_rounded_fill.png)
+  static const IconData flaticon_phone_cross_rounded_fill =
+      IconData(0xee04, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_phone_cross_rounded.png)
+  static const IconData flaticon_phone_cross_rounded =
+      IconData(0xee05, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_phone_cross_sharp_fill.png)
+  static const IconData flaticon_phone_cross_sharp_fill =
+      IconData(0xee06, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_phone_cross_sharp.png)
+  static const IconData flaticon_phone_cross_sharp =
+      IconData(0xee07, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_phone_pause_rounded_fill.png)
+  static const IconData flaticon_phone_pause_rounded_fill =
+      IconData(0xee08, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_phone_pause_rounded.png)
+  static const IconData flaticon_phone_pause_rounded =
+      IconData(0xee09, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_phone_pause_sharp_fill.png)
+  static const IconData flaticon_phone_pause_sharp_fill =
+      IconData(0xee0a, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_phone_pause_sharp.png)
+  static const IconData flaticon_phone_pause_sharp =
+      IconData(0xee0b, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_phone_slash_rounded_fill.png)
+  static const IconData flaticon_phone_slash_rounded_fill =
+      IconData(0xee0c, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_phone_slash_rounded.png)
+  static const IconData flaticon_phone_slash_rounded =
+      IconData(0xee0d, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_phone_slash_sharp_fill.png)
+  static const IconData flaticon_phone_slash_sharp_fill =
+      IconData(0xee0e, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_phone_slash_sharp.png)
+  static const IconData flaticon_phone_slash_sharp =
+      IconData(0xee0f, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_physics_rounded_fill.png)
+  static const IconData flaticon_physics_rounded_fill =
+      IconData(0xee10, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_physics_rounded.png)
+  static const IconData flaticon_physics_rounded =
+      IconData(0xee11, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_physics_sharp_fill.png)
+  static const IconData flaticon_physics_sharp_fill =
+      IconData(0xee12, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_physics_sharp.png)
+  static const IconData flaticon_physics_sharp =
+      IconData(0xee13, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_picture_rounded_fill.png)
+  static const IconData flaticon_picture_rounded_fill =
+      IconData(0xee14, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_picture_rounded.png)
+  static const IconData flaticon_picture_rounded =
+      IconData(0xee15, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_picture_sharp_fill.png)
+  static const IconData flaticon_picture_sharp_fill =
+      IconData(0xee16, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_picture_sharp.png)
+  static const IconData flaticon_picture_sharp =
+      IconData(0xee17, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_ping_pong_rounded_fill.png)
+  static const IconData flaticon_ping_pong_rounded_fill =
+      IconData(0xee18, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_ping_pong_rounded.png)
+  static const IconData flaticon_ping_pong_rounded =
+      IconData(0xee19, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_ping_pong_sharp_fill.png)
+  static const IconData flaticon_ping_pong_sharp_fill =
+      IconData(0xee1a, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_ping_pong_sharp.png)
+  static const IconData flaticon_ping_pong_sharp =
+      IconData(0xee1b, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_pizza_slice_rounded_fill.png)
+  static const IconData flaticon_pizza_slice_rounded_fill =
+      IconData(0xee1c, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_pizza_slice_rounded.png)
+  static const IconData flaticon_pizza_slice_rounded =
+      IconData(0xee1d, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_pizza_slice_sharp_fill.png)
+  static const IconData flaticon_pizza_slice_sharp_fill =
+      IconData(0xee1e, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_pizza_slice_sharp.png)
+  static const IconData flaticon_pizza_slice_sharp =
+      IconData(0xee1f, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_plane_rounded_fill.png)
+  static const IconData flaticon_plane_rounded_fill =
+      IconData(0xee20, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_plane_rounded.png)
+  static const IconData flaticon_plane_rounded =
+      IconData(0xee21, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_plane_sharp_fill.png)
+  static const IconData flaticon_plane_sharp_fill =
+      IconData(0xee22, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_plane_sharp.png)
+  static const IconData flaticon_plane_sharp =
+      IconData(0xee23, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_play_alt_rounded_fill.png)
+  static const IconData flaticon_play_alt_rounded_fill =
+      IconData(0xee24, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_play_alt_rounded.png)
+  static const IconData flaticon_play_alt_rounded =
+      IconData(0xee25, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_play_alt_sharp_fill.png)
+  static const IconData flaticon_play_alt_sharp_fill =
+      IconData(0xee26, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_play_alt_sharp.png)
+  static const IconData flaticon_play_alt_sharp =
+      IconData(0xee27, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_play_rounded_fill.png)
+  static const IconData flaticon_play_rounded_fill =
+      IconData(0xee28, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_play_rounded.png)
+  static const IconData flaticon_play_rounded =
+      IconData(0xee29, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_play_sharp_fill.png)
+  static const IconData flaticon_play_sharp_fill =
+      IconData(0xee2a, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_play_sharp.png)
+  static const IconData flaticon_play_sharp =
+      IconData(0xee2b, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_playing_cards_rounded_fill.png)
+  static const IconData flaticon_playing_cards_rounded_fill =
+      IconData(0xee2c, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_playing_cards_rounded.png)
+  static const IconData flaticon_playing_cards_rounded =
+      IconData(0xee2d, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_playing_cards_sharp_fill.png)
+  static const IconData flaticon_playing_cards_sharp_fill =
+      IconData(0xee2e, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_playing_cards_sharp.png)
+  static const IconData flaticon_playing_cards_sharp =
+      IconData(0xee2f, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_plus_rounded_fill.png)
+  static const IconData flaticon_plus_rounded_fill =
+      IconData(0xee30, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_plus_rounded.png)
+  static const IconData flaticon_plus_rounded =
+      IconData(0xee31, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_plus_sharp_fill.png)
+  static const IconData flaticon_plus_sharp_fill =
+      IconData(0xee32, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_plus_sharp.png)
+  static const IconData flaticon_plus_sharp =
+      IconData(0xee33, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_plus_small_rounded_fill.png)
+  static const IconData flaticon_plus_small_rounded_fill =
+      IconData(0xee34, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_plus_small_rounded.png)
+  static const IconData flaticon_plus_small_rounded =
+      IconData(0xee35, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_plus_small_sharp_fill.png)
+  static const IconData flaticon_plus_small_sharp_fill =
+      IconData(0xee36, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_plus_small_sharp.png)
+  static const IconData flaticon_plus_small_sharp =
+      IconData(0xee37, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_poker_chip_rounded_fill.png)
+  static const IconData flaticon_poker_chip_rounded_fill =
+      IconData(0xee38, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_poker_chip_rounded.png)
+  static const IconData flaticon_poker_chip_rounded =
+      IconData(0xee39, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_poker_chip_sharp_fill.png)
+  static const IconData flaticon_poker_chip_sharp_fill =
+      IconData(0xee3a, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_poker_chip_sharp.png)
+  static const IconData flaticon_poker_chip_sharp =
+      IconData(0xee3b, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_portrait_rounded_fill.png)
+  static const IconData flaticon_portrait_rounded_fill =
+      IconData(0xee3c, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_portrait_rounded.png)
+  static const IconData flaticon_portrait_rounded =
+      IconData(0xee3d, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_portrait_sharp_fill.png)
+  static const IconData flaticon_portrait_sharp_fill =
+      IconData(0xee3e, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_portrait_sharp.png)
+  static const IconData flaticon_portrait_sharp =
+      IconData(0xee3f, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_pound_rounded_fill.png)
+  static const IconData flaticon_pound_rounded_fill =
+      IconData(0xee40, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_pound_rounded.png)
+  static const IconData flaticon_pound_rounded =
+      IconData(0xee41, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_pound_sharp_fill.png)
+  static const IconData flaticon_pound_sharp_fill =
+      IconData(0xee42, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_pound_sharp.png)
+  static const IconData flaticon_pound_sharp =
+      IconData(0xee43, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_power_rounded_fill.png)
+  static const IconData flaticon_power_rounded_fill =
+      IconData(0xee44, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_power_rounded.png)
+  static const IconData flaticon_power_rounded =
+      IconData(0xee45, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_power_sharp_fill.png)
+  static const IconData flaticon_power_sharp_fill =
+      IconData(0xee46, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_power_sharp.png)
+  static const IconData flaticon_power_sharp =
+      IconData(0xee47, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_presentation_rounded_fill.png)
+  static const IconData flaticon_presentation_rounded_fill =
+      IconData(0xee48, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_presentation_rounded.png)
+  static const IconData flaticon_presentation_rounded =
+      IconData(0xee49, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_presentation_sharp_fill.png)
+  static const IconData flaticon_presentation_sharp_fill =
+      IconData(0xee4a, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_presentation_sharp.png)
+  static const IconData flaticon_presentation_sharp =
+      IconData(0xee4b, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_print_rounded_fill.png)
+  static const IconData flaticon_print_rounded_fill =
+      IconData(0xee4c, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_print_rounded.png)
+  static const IconData flaticon_print_rounded =
+      IconData(0xee4d, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_print_sharp_fill.png)
+  static const IconData flaticon_print_sharp_fill =
+      IconData(0xee4e, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_print_sharp.png)
+  static const IconData flaticon_print_sharp =
+      IconData(0xee4f, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_protractor_rounded_fill.png)
+  static const IconData flaticon_protractor_rounded_fill =
+      IconData(0xee50, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_protractor_rounded.png)
+  static const IconData flaticon_protractor_rounded =
+      IconData(0xee51, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_protractor_sharp_fill.png)
+  static const IconData flaticon_protractor_sharp_fill =
+      IconData(0xee52, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_protractor_sharp.png)
+  static const IconData flaticon_protractor_sharp =
+      IconData(0xee53, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_pulse_rounded_fill.png)
+  static const IconData flaticon_pulse_rounded_fill =
+      IconData(0xee54, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_pulse_rounded.png)
+  static const IconData flaticon_pulse_rounded =
+      IconData(0xee55, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_pulse_sharp_fill.png)
+  static const IconData flaticon_pulse_sharp_fill =
+      IconData(0xee56, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_pulse_sharp.png)
+  static const IconData flaticon_pulse_sharp =
+      IconData(0xee57, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_pyramid_rounded_fill.png)
+  static const IconData flaticon_pyramid_rounded_fill =
+      IconData(0xee58, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_pyramid_rounded.png)
+  static const IconData flaticon_pyramid_rounded =
+      IconData(0xee59, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_pyramid_sharp_fill.png)
+  static const IconData flaticon_pyramid_sharp_fill =
+      IconData(0xee5a, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_pyramid_sharp.png)
+  static const IconData flaticon_pyramid_sharp =
+      IconData(0xee5b, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_quote_right_rounded_fill.png)
+  static const IconData flaticon_quote_right_rounded_fill =
+      IconData(0xee5c, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_quote_right_rounded.png)
+  static const IconData flaticon_quote_right_rounded =
+      IconData(0xee5d, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_quote_right_sharp_fill.png)
+  static const IconData flaticon_quote_right_sharp_fill =
+      IconData(0xee5e, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_quote_right_sharp.png)
+  static const IconData flaticon_quote_right_sharp =
+      IconData(0xee5f, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_rainbow_rounded_fill.png)
+  static const IconData flaticon_rainbow_rounded_fill =
+      IconData(0xee60, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_rainbow_rounded.png)
+  static const IconData flaticon_rainbow_rounded =
+      IconData(0xee61, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_rainbow_sharp_fill.png)
+  static const IconData flaticon_rainbow_sharp_fill =
+      IconData(0xee62, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_rainbow_sharp.png)
+  static const IconData flaticon_rainbow_sharp =
+      IconData(0xee63, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_raindrops_rounded_fill.png)
+  static const IconData flaticon_raindrops_rounded_fill =
+      IconData(0xee64, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_raindrops_rounded.png)
+  static const IconData flaticon_raindrops_rounded =
+      IconData(0xee65, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_raindrops_sharp_fill.png)
+  static const IconData flaticon_raindrops_sharp_fill =
+      IconData(0xee66, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_raindrops_sharp.png)
+  static const IconData flaticon_raindrops_sharp =
+      IconData(0xee67, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_rec_rounded_fill.png)
+  static const IconData flaticon_rec_rounded_fill =
+      IconData(0xee68, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_rec_rounded.png)
+  static const IconData flaticon_rec_rounded =
+      IconData(0xee69, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_rec_sharp_fill.png)
+  static const IconData flaticon_rec_sharp_fill =
+      IconData(0xee6a, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_rec_sharp.png)
+  static const IconData flaticon_rec_sharp =
+      IconData(0xee6b, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_receipt_rounded_fill.png)
+  static const IconData flaticon_receipt_rounded_fill =
+      IconData(0xee6c, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_receipt_rounded.png)
+  static const IconData flaticon_receipt_rounded =
+      IconData(0xee6d, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_receipt_sharp_fill.png)
+  static const IconData flaticon_receipt_sharp_fill =
+      IconData(0xee6e, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_receipt_sharp.png)
+  static const IconData flaticon_receipt_sharp =
+      IconData(0xee6f, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_record_vinyl_rounded_fill.png)
+  static const IconData flaticon_record_vinyl_rounded_fill =
+      IconData(0xee70, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_record_vinyl_rounded.png)
+  static const IconData flaticon_record_vinyl_rounded =
+      IconData(0xee71, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_record_vinyl_sharp_fill.png)
+  static const IconData flaticon_record_vinyl_sharp_fill =
+      IconData(0xee72, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_record_vinyl_sharp.png)
+  static const IconData flaticon_record_vinyl_sharp =
+      IconData(0xee73, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_rectabgle_vertical_rounded_fill.png)
+  static const IconData flaticon_rectabgle_vertical_rounded_fill =
+      IconData(0xee74, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_rectabgle_vertical_rounded.png)
+  static const IconData flaticon_rectabgle_vertical_rounded =
+      IconData(0xee75, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_rectabgle_vertical_sharp_fill.png)
+  static const IconData flaticon_rectabgle_vertical_sharp_fill =
+      IconData(0xee76, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_rectabgle_vertical_sharp.png)
+  static const IconData flaticon_rectabgle_vertical_sharp =
+      IconData(0xee77, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_rectangle_horizontal_rounded_fill.png)
+  static const IconData flaticon_rectangle_horizontal_rounded_fill =
+      IconData(0xee78, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_rectangle_horizontal_rounded.png)
+  static const IconData flaticon_rectangle_horizontal_rounded =
+      IconData(0xee79, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_rectangle_horizontal_sharp_fill.png)
+  static const IconData flaticon_rectangle_horizontal_sharp_fill =
+      IconData(0xee7a, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_rectangle_horizontal_sharp.png)
+  static const IconData flaticon_rectangle_horizontal_sharp =
+      IconData(0xee7b, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_rectangle_panoramic_rounded_fill.png)
+  static const IconData flaticon_rectangle_panoramic_rounded_fill =
+      IconData(0xee7c, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_rectangle_panoramic_rounded.png)
+  static const IconData flaticon_rectangle_panoramic_rounded =
+      IconData(0xee7d, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_rectangle_panoramic_sharp_fill.png)
+  static const IconData flaticon_rectangle_panoramic_sharp_fill =
+      IconData(0xee7e, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_rectangle_panoramic_sharp.png)
+  static const IconData flaticon_rectangle_panoramic_sharp =
+      IconData(0xee7f, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_recycle_rounded_fill.png)
+  static const IconData flaticon_recycle_rounded_fill =
+      IconData(0xee80, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_recycle_rounded.png)
+  static const IconData flaticon_recycle_rounded =
+      IconData(0xee81, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_recycle_sharp_fill.png)
+  static const IconData flaticon_recycle_sharp_fill =
+      IconData(0xee82, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_recycle_sharp.png)
+  static const IconData flaticon_recycle_sharp =
+      IconData(0xee83, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_redo_alt_rounded_fill.png)
+  static const IconData flaticon_redo_alt_rounded_fill =
+      IconData(0xee84, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_redo_alt_rounded.png)
+  static const IconData flaticon_redo_alt_rounded =
+      IconData(0xee85, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_redo_alt_sharp_fill.png)
+  static const IconData flaticon_redo_alt_sharp_fill =
+      IconData(0xee86, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_redo_alt_sharp.png)
+  static const IconData flaticon_redo_alt_sharp =
+      IconData(0xee87, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_redo_rounded_fill.png)
+  static const IconData flaticon_redo_rounded_fill =
+      IconData(0xee88, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_redo_rounded.png)
+  static const IconData flaticon_redo_rounded =
+      IconData(0xee89, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_redo_sharp_fill.png)
+  static const IconData flaticon_redo_sharp_fill =
+      IconData(0xee8a, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_redo_sharp.png)
+  static const IconData flaticon_redo_sharp =
+      IconData(0xee8b, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_reflect_rounded_fill.png)
+  static const IconData flaticon_reflect_rounded_fill =
+      IconData(0xee8c, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_reflect_rounded.png)
+  static const IconData flaticon_reflect_rounded =
+      IconData(0xee8d, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_reflect_sharp_fill.png)
+  static const IconData flaticon_reflect_sharp_fill =
+      IconData(0xee8e, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_reflect_sharp.png)
+  static const IconData flaticon_reflect_sharp =
+      IconData(0xee8f, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_refresh_rounded_fill.png)
+  static const IconData flaticon_refresh_rounded_fill =
+      IconData(0xee90, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_refresh_rounded.png)
+  static const IconData flaticon_refresh_rounded =
+      IconData(0xee91, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_refresh_sharp_fill.png)
+  static const IconData flaticon_refresh_sharp_fill =
+      IconData(0xee92, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_refresh_sharp.png)
+  static const IconData flaticon_refresh_sharp =
+      IconData(0xee93, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_resize_rounded_fill.png)
+  static const IconData flaticon_resize_rounded_fill =
+      IconData(0xee94, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_resize_rounded.png)
+  static const IconData flaticon_resize_rounded =
+      IconData(0xee95, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_resize_sharp_fill.png)
+  static const IconData flaticon_resize_sharp_fill =
+      IconData(0xee96, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_resize_sharp.png)
+  static const IconData flaticon_resize_sharp =
+      IconData(0xee97, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_resources_rounded_fill.png)
+  static const IconData flaticon_resources_rounded_fill =
+      IconData(0xee98, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_resources_rounded.png)
+  static const IconData flaticon_resources_rounded =
+      IconData(0xee99, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_resources_sharp_fill.png)
+  static const IconData flaticon_resources_sharp_fill =
+      IconData(0xee9a, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_resources_sharp.png)
+  static const IconData flaticon_resources_sharp =
+      IconData(0xee9b, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_rewind_rounded_fill.png)
+  static const IconData flaticon_rewind_rounded_fill =
+      IconData(0xee9c, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_rewind_rounded.png)
+  static const IconData flaticon_rewind_rounded =
+      IconData(0xee9d, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_rewind_sharp_fill.png)
+  static const IconData flaticon_rewind_sharp_fill =
+      IconData(0xee9e, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_rewind_sharp.png)
+  static const IconData flaticon_rewind_sharp =
+      IconData(0xee9f, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_rhombus_rounded_fill.png)
+  static const IconData flaticon_rhombus_rounded_fill =
+      IconData(0xeea0, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_rhombus_rounded.png)
+  static const IconData flaticon_rhombus_rounded =
+      IconData(0xeea1, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_rhombus_sharp_fill.png)
+  static const IconData flaticon_rhombus_sharp_fill =
+      IconData(0xeea2, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_rhombus_sharp.png)
+  static const IconData flaticon_rhombus_sharp =
+      IconData(0xeea3, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_rings_wedding_rounded_fill.png)
+  static const IconData flaticon_rings_wedding_rounded_fill =
+      IconData(0xeea4, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_rings_wedding_rounded.png)
+  static const IconData flaticon_rings_wedding_rounded =
+      IconData(0xeea5, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_rings_wedding_sharp_fill.png)
+  static const IconData flaticon_rings_wedding_sharp_fill =
+      IconData(0xeea6, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_rings_wedding_sharp.png)
+  static const IconData flaticon_rings_wedding_sharp =
+      IconData(0xeea7, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_road_rounded_fill.png)
+  static const IconData flaticon_road_rounded_fill =
+      IconData(0xeea8, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_road_rounded.png)
+  static const IconData flaticon_road_rounded =
+      IconData(0xeea9, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_road_sharp_fill.png)
+  static const IconData flaticon_road_sharp_fill =
+      IconData(0xeeaa, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_road_sharp.png)
+  static const IconData flaticon_road_sharp =
+      IconData(0xeeab, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_rocket_rounded_fill.png)
+  static const IconData flaticon_rocket_rounded_fill =
+      IconData(0xeeac, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_rocket_rounded.png)
+  static const IconData flaticon_rocket_rounded =
+      IconData(0xeead, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_rocket_sharp_fill.png)
+  static const IconData flaticon_rocket_sharp_fill =
+      IconData(0xeeae, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_rocket_sharp.png)
+  static const IconData flaticon_rocket_sharp =
+      IconData(0xeeaf, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_room_service_rounded_fill.png)
+  static const IconData flaticon_room_service_rounded_fill =
+      IconData(0xeeb0, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_room_service_rounded.png)
+  static const IconData flaticon_room_service_rounded =
+      IconData(0xeeb1, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_room_service_sharp_fill.png)
+  static const IconData flaticon_room_service_sharp_fill =
+      IconData(0xeeb2, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_room_service_sharp.png)
+  static const IconData flaticon_room_service_sharp =
+      IconData(0xeeb3, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_rotate_right_rounded_fill.png)
+  static const IconData flaticon_rotate_right_rounded_fill =
+      IconData(0xeeb4, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_rotate_right_rounded.png)
+  static const IconData flaticon_rotate_right_rounded =
+      IconData(0xeeb5, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_rotate_right_sharp_fill.png)
+  static const IconData flaticon_rotate_right_sharp_fill =
+      IconData(0xeeb6, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_rotate_right_sharp.png)
+  static const IconData flaticon_rotate_right_sharp =
+      IconData(0xeeb7, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_rugby_rounded_fill.png)
+  static const IconData flaticon_rugby_rounded_fill =
+      IconData(0xeeb8, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_rugby_rounded.png)
+  static const IconData flaticon_rugby_rounded =
+      IconData(0xeeb9, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_rugby_sharp_fill.png)
+  static const IconData flaticon_rugby_sharp_fill =
+      IconData(0xeeba, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_rugby_sharp.png)
+  static const IconData flaticon_rugby_sharp =
+      IconData(0xeebb, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_sad_rounded_fill.png)
+  static const IconData flaticon_sad_rounded_fill =
+      IconData(0xeebc, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_sad_rounded.png)
+  static const IconData flaticon_sad_rounded =
+      IconData(0xeebd, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_sad_sharp_fill.png)
+  static const IconData flaticon_sad_sharp_fill =
+      IconData(0xeebe, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_sad_sharp.png)
+  static const IconData flaticon_sad_sharp =
+      IconData(0xeebf, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_salad_rounded_fill.png)
+  static const IconData flaticon_salad_rounded_fill =
+      IconData(0xeec0, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_salad_rounded.png)
+  static const IconData flaticon_salad_rounded =
+      IconData(0xeec1, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_salad_sharp_fill.png)
+  static const IconData flaticon_salad_sharp_fill =
+      IconData(0xeec2, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_salad_sharp.png)
+  static const IconData flaticon_salad_sharp =
+      IconData(0xeec3, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_scale_rounded_fill.png)
+  static const IconData flaticon_scale_rounded_fill =
+      IconData(0xeec4, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_scale_rounded.png)
+  static const IconData flaticon_scale_rounded =
+      IconData(0xeec5, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_scale_sharp_fill.png)
+  static const IconData flaticon_scale_sharp_fill =
+      IconData(0xeec6, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_scale_sharp.png)
+  static const IconData flaticon_scale_sharp =
+      IconData(0xeec7, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_school_bus_rounded_fill.png)
+  static const IconData flaticon_school_bus_rounded_fill =
+      IconData(0xeec8, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_school_bus_rounded.png)
+  static const IconData flaticon_school_bus_rounded =
+      IconData(0xeec9, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_school_bus_sharp_fill.png)
+  static const IconData flaticon_school_bus_sharp_fill =
+      IconData(0xeeca, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_school_bus_sharp.png)
+  static const IconData flaticon_school_bus_sharp =
+      IconData(0xeecb, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_school_rounded_fill.png)
+  static const IconData flaticon_school_rounded_fill =
+      IconData(0xeecc, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_school_rounded.png)
+  static const IconData flaticon_school_rounded =
+      IconData(0xeecd, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_school_sharp_fill.png)
+  static const IconData flaticon_school_sharp_fill =
+      IconData(0xeece, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_school_sharp.png)
+  static const IconData flaticon_school_sharp =
+      IconData(0xeecf, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_scissors_rounded_fill.png)
+  static const IconData flaticon_scissors_rounded_fill =
+      IconData(0xeed0, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_scissors_rounded.png)
+  static const IconData flaticon_scissors_rounded =
+      IconData(0xeed1, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_scissors_sharp_fill.png)
+  static const IconData flaticon_scissors_sharp_fill =
+      IconData(0xeed2, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_scissors_sharp.png)
+  static const IconData flaticon_scissors_sharp =
+      IconData(0xeed3, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_screen_rounded_fill.png)
+  static const IconData flaticon_screen_rounded_fill =
+      IconData(0xeed4, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_screen_rounded.png)
+  static const IconData flaticon_screen_rounded =
+      IconData(0xeed5, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_screen_sharp_fill.png)
+  static const IconData flaticon_screen_sharp_fill =
+      IconData(0xeed6, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_screen_sharp.png)
+  static const IconData flaticon_screen_sharp =
+      IconData(0xeed7, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_search_alt_rounded_fill.png)
+  static const IconData flaticon_search_alt_rounded_fill =
+      IconData(0xeed8, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_search_alt_rounded.png)
+  static const IconData flaticon_search_alt_rounded =
+      IconData(0xeed9, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_search_alt_sharp_fill.png)
+  static const IconData flaticon_search_alt_sharp_fill =
+      IconData(0xeeda, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_search_alt_sharp.png)
+  static const IconData flaticon_search_alt_sharp =
+      IconData(0xeedb, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_search_heart_rounded_fill.png)
+  static const IconData flaticon_search_heart_rounded_fill =
+      IconData(0xeedc, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_search_heart_rounded.png)
+  static const IconData flaticon_search_heart_rounded =
+      IconData(0xeedd, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_search_heart_sharp_fill.png)
+  static const IconData flaticon_search_heart_sharp_fill =
+      IconData(0xeede, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_search_heart_sharp.png)
+  static const IconData flaticon_search_heart_sharp =
+      IconData(0xeedf, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_search_rounded_fill.png)
+  static const IconData flaticon_search_rounded_fill =
+      IconData(0xeee0, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_search_rounded.png)
+  static const IconData flaticon_search_rounded =
+      IconData(0xeee1, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_search_sharp_fill.png)
+  static const IconData flaticon_search_sharp_fill =
+      IconData(0xeee2, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_search_sharp.png)
+  static const IconData flaticon_search_sharp =
+      IconData(0xeee3, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_settings_rounded_fill.png)
+  static const IconData flaticon_settings_rounded_fill =
+      IconData(0xeee4, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_settings_rounded.png)
+  static const IconData flaticon_settings_rounded =
+      IconData(0xeee5, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_settings_sharp_fill.png)
+  static const IconData flaticon_settings_sharp_fill =
+      IconData(0xeee6, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_settings_sharp.png)
+  static const IconData flaticon_settings_sharp =
+      IconData(0xeee7, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_settings_sliders_rounded_fill.png)
+  static const IconData flaticon_settings_sliders_rounded_fill =
+      IconData(0xeee8, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_settings_sliders_rounded.png)
+  static const IconData flaticon_settings_sliders_rounded =
+      IconData(0xeee9, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_settings_sliders_sharp_fill.png)
+  static const IconData flaticon_settings_sliders_sharp_fill =
+      IconData(0xeeea, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_settings_sliders_sharp.png)
+  static const IconData flaticon_settings_sliders_sharp =
+      IconData(0xeeeb, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_share_rounded_fill.png)
+  static const IconData flaticon_share_rounded_fill =
+      IconData(0xeeec, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_share_rounded.png)
+  static const IconData flaticon_share_rounded =
+      IconData(0xeeed, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_share_sharp_fill.png)
+  static const IconData flaticon_share_sharp_fill =
+      IconData(0xeeee, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_share_sharp.png)
+  static const IconData flaticon_share_sharp =
+      IconData(0xeeef, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_shield_check_rounded_fill.png)
+  static const IconData flaticon_shield_check_rounded_fill =
+      IconData(0xeef0, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_shield_check_rounded.png)
+  static const IconData flaticon_shield_check_rounded =
+      IconData(0xeef1, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_shield_check_sharp_fill.png)
+  static const IconData flaticon_shield_check_sharp_fill =
+      IconData(0xeef2, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_shield_check_sharp.png)
+  static const IconData flaticon_shield_check_sharp =
+      IconData(0xeef3, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_shield_exclamation_rounded_fill.png)
+  static const IconData flaticon_shield_exclamation_rounded_fill =
+      IconData(0xeef4, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_shield_exclamation_rounded.png)
+  static const IconData flaticon_shield_exclamation_rounded =
+      IconData(0xeef5, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_shield_exclamation_sharp_fill.png)
+  static const IconData flaticon_shield_exclamation_sharp_fill =
+      IconData(0xeef6, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_shield_exclamation_sharp.png)
+  static const IconData flaticon_shield_exclamation_sharp =
+      IconData(0xeef7, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_shield_interrogation_rounded_fill.png)
+  static const IconData flaticon_shield_interrogation_rounded_fill =
+      IconData(0xeef8, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_shield_interrogation_rounded.png)
+  static const IconData flaticon_shield_interrogation_rounded =
+      IconData(0xeef9, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_shield_interrogation_sharp_fill.png)
+  static const IconData flaticon_shield_interrogation_sharp_fill =
+      IconData(0xeefa, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_shield_interrogation_sharp.png)
+  static const IconData flaticon_shield_interrogation_sharp =
+      IconData(0xeefb, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_shield_plus_rounded_fill.png)
+  static const IconData flaticon_shield_plus_rounded_fill =
+      IconData(0xeefc, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_shield_plus_rounded.png)
+  static const IconData flaticon_shield_plus_rounded =
+      IconData(0xeefd, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_shield_plus_sharp_fill.png)
+  static const IconData flaticon_shield_plus_sharp_fill =
+      IconData(0xeefe, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_shield_plus_sharp.png)
+  static const IconData flaticon_shield_plus_sharp =
+      IconData(0xeeff, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_shield_rounded_fill.png)
+  static const IconData flaticon_shield_rounded_fill =
+      IconData(0xef00, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_shield_rounded.png)
+  static const IconData flaticon_shield_rounded =
+      IconData(0xef01, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_shield_sharp_fill.png)
+  static const IconData flaticon_shield_sharp_fill =
+      IconData(0xef02, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_shield_sharp.png)
+  static const IconData flaticon_shield_sharp =
+      IconData(0xef03, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_ship_rounded_fill.png)
+  static const IconData flaticon_ship_rounded_fill =
+      IconData(0xef04, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_ship_rounded.png)
+  static const IconData flaticon_ship_rounded =
+      IconData(0xef05, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_ship_sharp_fill.png)
+  static const IconData flaticon_ship_sharp_fill =
+      IconData(0xef06, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_ship_sharp.png)
+  static const IconData flaticon_ship_sharp =
+      IconData(0xef07, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_ship_side_rounded_fill.png)
+  static const IconData flaticon_ship_side_rounded_fill =
+      IconData(0xef08, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_ship_side_rounded.png)
+  static const IconData flaticon_ship_side_rounded =
+      IconData(0xef09, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_ship_side_sharp_fill.png)
+  static const IconData flaticon_ship_side_sharp_fill =
+      IconData(0xef0a, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_ship_side_sharp.png)
+  static const IconData flaticon_ship_side_sharp =
+      IconData(0xef0b, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_shop_rounded_fill.png)
+  static const IconData flaticon_shop_rounded_fill =
+      IconData(0xef0c, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_shop_rounded.png)
+  static const IconData flaticon_shop_rounded =
+      IconData(0xef0d, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_shop_sharp_fill.png)
+  static const IconData flaticon_shop_sharp_fill =
+      IconData(0xef0e, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_shop_sharp.png)
+  static const IconData flaticon_shop_sharp =
+      IconData(0xef0f, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_shopping_bag_add_rounded_fill.png)
+  static const IconData flaticon_shopping_bag_add_rounded_fill =
+      IconData(0xef10, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_shopping_bag_add_rounded.png)
+  static const IconData flaticon_shopping_bag_add_rounded =
+      IconData(0xef11, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_shopping_bag_add_sharp_fill.png)
+  static const IconData flaticon_shopping_bag_add_sharp_fill =
+      IconData(0xef12, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_shopping_bag_add_sharp.png)
+  static const IconData flaticon_shopping_bag_add_sharp =
+      IconData(0xef13, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_shopping_bag_rounded_fill.png)
+  static const IconData flaticon_shopping_bag_rounded_fill =
+      IconData(0xef14, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_shopping_bag_rounded.png)
+  static const IconData flaticon_shopping_bag_rounded =
+      IconData(0xef15, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_shopping_bag_sharp_fill.png)
+  static const IconData flaticon_shopping_bag_sharp_fill =
+      IconData(0xef16, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_shopping_bag_sharp.png)
+  static const IconData flaticon_shopping_bag_sharp =
+      IconData(0xef17, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_shopping_cart_add_rounded_fill.png)
+  static const IconData flaticon_shopping_cart_add_rounded_fill =
+      IconData(0xef18, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_shopping_cart_add_rounded.png)
+  static const IconData flaticon_shopping_cart_add_rounded =
+      IconData(0xef19, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_shopping_cart_add_sharp_fill.png)
+  static const IconData flaticon_shopping_cart_add_sharp_fill =
+      IconData(0xef1a, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_shopping_cart_add_sharp.png)
+  static const IconData flaticon_shopping_cart_add_sharp =
+      IconData(0xef1b, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_shopping_cart_check_rounded_fill.png)
+  static const IconData flaticon_shopping_cart_check_rounded_fill =
+      IconData(0xef1c, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_shopping_cart_check_rounded.png)
+  static const IconData flaticon_shopping_cart_check_rounded =
+      IconData(0xef1d, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_shopping_cart_check_sharp_fill.png)
+  static const IconData flaticon_shopping_cart_check_sharp_fill =
+      IconData(0xef1e, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_shopping_cart_check_sharp.png)
+  static const IconData flaticon_shopping_cart_check_sharp =
+      IconData(0xef1f, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_shopping_cart_rounded_fill.png)
+  static const IconData flaticon_shopping_cart_rounded_fill =
+      IconData(0xef20, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_shopping_cart_rounded.png)
+  static const IconData flaticon_shopping_cart_rounded =
+      IconData(0xef21, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_shopping_cart_sharp_fill.png)
+  static const IconData flaticon_shopping_cart_sharp_fill =
+      IconData(0xef22, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_shopping_cart_sharp.png)
+  static const IconData flaticon_shopping_cart_sharp =
+      IconData(0xef23, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_shuffle_rounded_fill.png)
+  static const IconData flaticon_shuffle_rounded_fill =
+      IconData(0xef24, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_shuffle_rounded.png)
+  static const IconData flaticon_shuffle_rounded =
+      IconData(0xef25, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_shuffle_sharp_fill.png)
+  static const IconData flaticon_shuffle_sharp_fill =
+      IconData(0xef26, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_shuffle_sharp.png)
+  static const IconData flaticon_shuffle_sharp =
+      IconData(0xef27, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_sign_in_alt_rounded_fill.png)
+  static const IconData flaticon_sign_in_alt_rounded_fill =
+      IconData(0xef28, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_sign_in_alt_rounded.png)
+  static const IconData flaticon_sign_in_alt_rounded =
+      IconData(0xef29, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_sign_in_alt_sharp_fill.png)
+  static const IconData flaticon_sign_in_alt_sharp_fill =
+      IconData(0xef2a, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_sign_in_alt_sharp.png)
+  static const IconData flaticon_sign_in_alt_sharp =
+      IconData(0xef2b, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_sign_in_rounded_fill.png)
+  static const IconData flaticon_sign_in_rounded_fill =
+      IconData(0xef2c, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_sign_in_rounded.png)
+  static const IconData flaticon_sign_in_rounded =
+      IconData(0xef2d, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_sign_in_sharp_fill.png)
+  static const IconData flaticon_sign_in_sharp_fill =
+      IconData(0xef2e, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_sign_in_sharp.png)
+  static const IconData flaticon_sign_in_sharp =
+      IconData(0xef2f, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_sign_out_alt_rounded_fill.png)
+  static const IconData flaticon_sign_out_alt_rounded_fill =
+      IconData(0xef30, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_sign_out_alt_rounded.png)
+  static const IconData flaticon_sign_out_alt_rounded =
+      IconData(0xef31, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_sign_out_alt_sharp_fill.png)
+  static const IconData flaticon_sign_out_alt_sharp_fill =
+      IconData(0xef32, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_sign_out_alt_sharp.png)
+  static const IconData flaticon_sign_out_alt_sharp =
+      IconData(0xef33, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_sign_out_rounded_fill.png)
+  static const IconData flaticon_sign_out_rounded_fill =
+      IconData(0xef34, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_sign_out_rounded.png)
+  static const IconData flaticon_sign_out_rounded =
+      IconData(0xef35, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_sign_out_sharp_fill.png)
+  static const IconData flaticon_sign_out_sharp_fill =
+      IconData(0xef36, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_sign_out_sharp.png)
+  static const IconData flaticon_sign_out_sharp =
+      IconData(0xef37, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_signal_alt_1_rounded_fill.png)
+  static const IconData flaticon_signal_alt_1_rounded_fill =
+      IconData(0xef38, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_signal_alt_1_rounded.png)
+  static const IconData flaticon_signal_alt_1_rounded =
+      IconData(0xef39, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_signal_alt_1_sharp_fill.png)
+  static const IconData flaticon_signal_alt_1_sharp_fill =
+      IconData(0xef3a, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_signal_alt_1_sharp.png)
+  static const IconData flaticon_signal_alt_1_sharp =
+      IconData(0xef3b, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_signal_alt_2_rounded_fill.png)
+  static const IconData flaticon_signal_alt_2_rounded_fill =
+      IconData(0xef3c, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_signal_alt_2_rounded.png)
+  static const IconData flaticon_signal_alt_2_rounded =
+      IconData(0xef3d, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_signal_alt_2_sharp_fill.png)
+  static const IconData flaticon_signal_alt_2_sharp_fill =
+      IconData(0xef3e, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_signal_alt_2_sharp.png)
+  static const IconData flaticon_signal_alt_2_sharp =
+      IconData(0xef3f, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_signal_alt_rounded_fill.png)
+  static const IconData flaticon_signal_alt_rounded_fill =
+      IconData(0xef40, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_signal_alt_rounded.png)
+  static const IconData flaticon_signal_alt_rounded =
+      IconData(0xef41, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_signal_alt_sharp_fill.png)
+  static const IconData flaticon_signal_alt_sharp_fill =
+      IconData(0xef42, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_signal_alt_sharp.png)
+  static const IconData flaticon_signal_alt_sharp =
+      IconData(0xef43, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_skateboard_rounded_fill.png)
+  static const IconData flaticon_skateboard_rounded_fill =
+      IconData(0xef44, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_skateboard_rounded.png)
+  static const IconData flaticon_skateboard_rounded =
+      IconData(0xef45, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_skateboard_sharp_fill.png)
+  static const IconData flaticon_skateboard_sharp_fill =
+      IconData(0xef46, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_skateboard_sharp.png)
+  static const IconData flaticon_skateboard_sharp =
+      IconData(0xef47, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_smartphone_rounded_fill.png)
+  static const IconData flaticon_smartphone_rounded_fill =
+      IconData(0xef48, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_smartphone_rounded.png)
+  static const IconData flaticon_smartphone_rounded =
+      IconData(0xef49, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_smartphone_sharp_fill.png)
+  static const IconData flaticon_smartphone_sharp_fill =
+      IconData(0xef4a, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_smartphone_sharp.png)
+  static const IconData flaticon_smartphone_sharp =
+      IconData(0xef4b, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_smile_rounded_fill.png)
+  static const IconData flaticon_smile_rounded_fill =
+      IconData(0xef4c, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_smile_rounded.png)
+  static const IconData flaticon_smile_rounded =
+      IconData(0xef4d, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_smile_sharp_fill.png)
+  static const IconData flaticon_smile_sharp_fill =
+      IconData(0xef4e, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_smile_sharp.png)
+  static const IconData flaticon_smile_sharp =
+      IconData(0xef4f, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_smile_wink_rounded_fill.png)
+  static const IconData flaticon_smile_wink_rounded_fill =
+      IconData(0xef50, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_smile_wink_rounded.png)
+  static const IconData flaticon_smile_wink_rounded =
+      IconData(0xef51, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_smile_wink_sharp_fill.png)
+  static const IconData flaticon_smile_wink_sharp_fill =
+      IconData(0xef52, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_smile_wink_sharp.png)
+  static const IconData flaticon_smile_wink_sharp =
+      IconData(0xef53, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_snowflake_rounded_fill.png)
+  static const IconData flaticon_snowflake_rounded_fill =
+      IconData(0xef54, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_snowflake_rounded.png)
+  static const IconData flaticon_snowflake_rounded =
+      IconData(0xef55, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_snowflake_sharp_fill.png)
+  static const IconData flaticon_snowflake_sharp_fill =
+      IconData(0xef56, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_snowflake_sharp.png)
+  static const IconData flaticon_snowflake_sharp =
+      IconData(0xef57, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_soap_rounded_fill.png)
+  static const IconData flaticon_soap_rounded_fill =
+      IconData(0xef58, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_soap_rounded.png)
+  static const IconData flaticon_soap_rounded =
+      IconData(0xef59, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_soap_sharp_fill.png)
+  static const IconData flaticon_soap_sharp_fill =
+      IconData(0xef5a, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_soap_sharp.png)
+  static const IconData flaticon_soap_sharp =
+      IconData(0xef5b, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_soup_rounded_fill.png)
+  static const IconData flaticon_soup_rounded_fill =
+      IconData(0xef5c, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_soup_rounded.png)
+  static const IconData flaticon_soup_rounded =
+      IconData(0xef5d, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_soup_sharp_fill.png)
+  static const IconData flaticon_soup_sharp_fill =
+      IconData(0xef5e, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_soup_sharp.png)
+  static const IconData flaticon_soup_sharp =
+      IconData(0xef5f, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_spa_rounded_fill.png)
+  static const IconData flaticon_spa_rounded_fill =
+      IconData(0xef60, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_spa_rounded.png)
+  static const IconData flaticon_spa_rounded =
+      IconData(0xef61, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_spa_sharp_fill.png)
+  static const IconData flaticon_spa_sharp_fill =
+      IconData(0xef62, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_spa_sharp.png)
+  static const IconData flaticon_spa_sharp =
+      IconData(0xef63, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_speaker_rounded_fill.png)
+  static const IconData flaticon_speaker_rounded_fill =
+      IconData(0xef64, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_speaker_rounded.png)
+  static const IconData flaticon_speaker_rounded =
+      IconData(0xef65, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_speaker_sharp_fill.png)
+  static const IconData flaticon_speaker_sharp_fill =
+      IconData(0xef66, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_speaker_sharp.png)
+  static const IconData flaticon_speaker_sharp =
+      IconData(0xef67, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_sphere_rounded_fill.png)
+  static const IconData flaticon_sphere_rounded_fill =
+      IconData(0xef68, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_sphere_rounded.png)
+  static const IconData flaticon_sphere_rounded =
+      IconData(0xef69, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_sphere_sharp_fill.png)
+  static const IconData flaticon_sphere_sharp_fill =
+      IconData(0xef6a, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_sphere_sharp.png)
+  static const IconData flaticon_sphere_sharp =
+      IconData(0xef6b, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_spinner_alt_rounded_fill.png)
+  static const IconData flaticon_spinner_alt_rounded_fill =
+      IconData(0xef6c, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_spinner_alt_rounded.png)
+  static const IconData flaticon_spinner_alt_rounded =
+      IconData(0xef6d, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_spinner_alt_sharp_fill.png)
+  static const IconData flaticon_spinner_alt_sharp_fill =
+      IconData(0xef6e, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_spinner_alt_sharp.png)
+  static const IconData flaticon_spinner_alt_sharp =
+      IconData(0xef6f, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_spinner_rounded_fill.png)
+  static const IconData flaticon_spinner_rounded_fill =
+      IconData(0xef70, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_spinner_rounded.png)
+  static const IconData flaticon_spinner_rounded =
+      IconData(0xef71, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_spinner_sharp_fill.png)
+  static const IconData flaticon_spinner_sharp_fill =
+      IconData(0xef72, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_spinner_sharp.png)
+  static const IconData flaticon_spinner_sharp =
+      IconData(0xef73, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_square_root_rounded_fill.png)
+  static const IconData flaticon_square_root_rounded_fill =
+      IconData(0xef74, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_square_root_rounded.png)
+  static const IconData flaticon_square_root_rounded =
+      IconData(0xef75, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_square_root_sharp_fill.png)
+  static const IconData flaticon_square_root_sharp_fill =
+      IconData(0xef76, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_square_root_sharp.png)
+  static const IconData flaticon_square_root_sharp =
+      IconData(0xef77, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_square_rounded_fill.png)
+  static const IconData flaticon_square_rounded_fill =
+      IconData(0xef78, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_square_rounded.png)
+  static const IconData flaticon_square_rounded =
+      IconData(0xef79, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_square_sharp_fill.png)
+  static const IconData flaticon_square_sharp_fill =
+      IconData(0xef7a, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_square_sharp.png)
+  static const IconData flaticon_square_sharp =
+      IconData(0xef7b, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_star_octogram_rounded_fill.png)
+  static const IconData flaticon_star_octogram_rounded_fill =
+      IconData(0xef7c, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_star_octogram_rounded.png)
+  static const IconData flaticon_star_octogram_rounded =
+      IconData(0xef7d, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_star_octogram_sharp_fill.png)
+  static const IconData flaticon_star_octogram_sharp_fill =
+      IconData(0xef7e, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_star_octogram_sharp.png)
+  static const IconData flaticon_star_octogram_sharp =
+      IconData(0xef7f, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_star_rounded_fill.png)
+  static const IconData flaticon_star_rounded_fill =
+      IconData(0xef80, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_star_rounded.png)
+  static const IconData flaticon_star_rounded =
+      IconData(0xef81, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_star_sharp_fill.png)
+  static const IconData flaticon_star_sharp_fill =
+      IconData(0xef82, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_star_sharp.png)
+  static const IconData flaticon_star_sharp =
+      IconData(0xef83, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_stats_rounded_fill.png)
+  static const IconData flaticon_stats_rounded_fill =
+      IconData(0xef84, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_stats_rounded.png)
+  static const IconData flaticon_stats_rounded =
+      IconData(0xef85, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_stats_sharp_fill.png)
+  static const IconData flaticon_stats_sharp_fill =
+      IconData(0xef86, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_stats_sharp.png)
+  static const IconData flaticon_stats_sharp =
+      IconData(0xef87, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_stethoscope_rounded_fill.png)
+  static const IconData flaticon_stethoscope_rounded_fill =
+      IconData(0xef88, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_stethoscope_rounded.png)
+  static const IconData flaticon_stethoscope_rounded =
+      IconData(0xef89, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_stethoscope_sharp_fill.png)
+  static const IconData flaticon_stethoscope_sharp_fill =
+      IconData(0xef8a, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_stethoscope_sharp.png)
+  static const IconData flaticon_stethoscope_sharp =
+      IconData(0xef8b, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_sticker_rounded_fill.png)
+  static const IconData flaticon_sticker_rounded_fill =
+      IconData(0xef8c, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_sticker_rounded.png)
+  static const IconData flaticon_sticker_rounded =
+      IconData(0xef8d, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_sticker_sharp_fill.png)
+  static const IconData flaticon_sticker_sharp_fill =
+      IconData(0xef8e, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_sticker_sharp.png)
+  static const IconData flaticon_sticker_sharp =
+      IconData(0xef8f, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_stop_rounded_fill.png)
+  static const IconData flaticon_stop_rounded_fill =
+      IconData(0xef90, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_stop_rounded.png)
+  static const IconData flaticon_stop_rounded =
+      IconData(0xef91, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_stop_sharp_fill.png)
+  static const IconData flaticon_stop_sharp_fill =
+      IconData(0xef92, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_stop_sharp.png)
+  static const IconData flaticon_stop_sharp =
+      IconData(0xef93, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_stopwatch_rounded_fill.png)
+  static const IconData flaticon_stopwatch_rounded_fill =
+      IconData(0xef94, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_stopwatch_rounded.png)
+  static const IconData flaticon_stopwatch_rounded =
+      IconData(0xef95, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_stopwatch_sharp_fill.png)
+  static const IconData flaticon_stopwatch_sharp_fill =
+      IconData(0xef96, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_stopwatch_sharp.png)
+  static const IconData flaticon_stopwatch_sharp =
+      IconData(0xef97, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_subtitles_rounded_fill.png)
+  static const IconData flaticon_subtitles_rounded_fill =
+      IconData(0xef98, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_subtitles_rounded.png)
+  static const IconData flaticon_subtitles_rounded =
+      IconData(0xef99, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_subtitles_sharp_fill.png)
+  static const IconData flaticon_subtitles_sharp_fill =
+      IconData(0xef9a, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_subtitles_sharp.png)
+  static const IconData flaticon_subtitles_sharp =
+      IconData(0xef9b, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_sun_rounded_fill.png)
+  static const IconData flaticon_sun_rounded_fill =
+      IconData(0xef9c, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_sun_rounded.png)
+  static const IconData flaticon_sun_rounded =
+      IconData(0xef9d, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_sun_sharp_fill.png)
+  static const IconData flaticon_sun_sharp_fill =
+      IconData(0xef9e, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_sun_sharp.png)
+  static const IconData flaticon_sun_sharp =
+      IconData(0xef9f, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_sunrise_rounded_fill.png)
+  static const IconData flaticon_sunrise_rounded_fill =
+      IconData(0xefa0, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_sunrise_rounded.png)
+  static const IconData flaticon_sunrise_rounded =
+      IconData(0xefa1, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_sunrise_sharp_fill.png)
+  static const IconData flaticon_sunrise_sharp_fill =
+      IconData(0xefa2, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_sunrise_sharp.png)
+  static const IconData flaticon_sunrise_sharp =
+      IconData(0xefa3, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_surfing_rounded_fill.png)
+  static const IconData flaticon_surfing_rounded_fill =
+      IconData(0xefa4, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_surfing_rounded.png)
+  static const IconData flaticon_surfing_rounded =
+      IconData(0xefa5, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_surfing_sharp_fill.png)
+  static const IconData flaticon_surfing_sharp_fill =
+      IconData(0xefa6, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_surfing_sharp.png)
+  static const IconData flaticon_surfing_sharp =
+      IconData(0xefa7, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_sword_rounded_fill.png)
+  static const IconData flaticon_sword_rounded_fill =
+      IconData(0xefa8, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_sword_rounded.png)
+  static const IconData flaticon_sword_rounded =
+      IconData(0xefa9, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_sword_sharp_fill.png)
+  static const IconData flaticon_sword_sharp_fill =
+      IconData(0xefaa, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_sword_sharp.png)
+  static const IconData flaticon_sword_sharp =
+      IconData(0xefab, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_syringe_rounded_fill.png)
+  static const IconData flaticon_syringe_rounded_fill =
+      IconData(0xefac, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_syringe_rounded.png)
+  static const IconData flaticon_syringe_rounded =
+      IconData(0xefad, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_syringe_sharp_fill.png)
+  static const IconData flaticon_syringe_sharp_fill =
+      IconData(0xefae, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_syringe_sharp.png)
+  static const IconData flaticon_syringe_sharp =
+      IconData(0xefaf, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_tablet_rounded_fill.png)
+  static const IconData flaticon_tablet_rounded_fill =
+      IconData(0xefb0, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_tablet_rounded.png)
+  static const IconData flaticon_tablet_rounded =
+      IconData(0xefb1, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_tablet_sharp_fill.png)
+  static const IconData flaticon_tablet_sharp_fill =
+      IconData(0xefb2, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_tablet_sharp.png)
+  static const IconData flaticon_tablet_sharp =
+      IconData(0xefb3, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_target_rounded_fill.png)
+  static const IconData flaticon_target_rounded_fill =
+      IconData(0xefb4, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_target_rounded.png)
+  static const IconData flaticon_target_rounded =
+      IconData(0xefb5, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_target_sharp_fill.png)
+  static const IconData flaticon_target_sharp_fill =
+      IconData(0xefb6, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_target_sharp.png)
+  static const IconData flaticon_target_sharp =
+      IconData(0xefb7, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_taxi_rounded_fill.png)
+  static const IconData flaticon_taxi_rounded_fill =
+      IconData(0xefb8, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_taxi_rounded.png)
+  static const IconData flaticon_taxi_rounded =
+      IconData(0xefb9, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_taxi_sharp_fill.png)
+  static const IconData flaticon_taxi_sharp_fill =
+      IconData(0xefba, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_taxi_sharp.png)
+  static const IconData flaticon_taxi_sharp =
+      IconData(0xefbb, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_tennis_rounded_fill.png)
+  static const IconData flaticon_tennis_rounded_fill =
+      IconData(0xefbc, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_tennis_rounded.png)
+  static const IconData flaticon_tennis_rounded =
+      IconData(0xefbd, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_tennis_sharp_fill.png)
+  static const IconData flaticon_tennis_sharp_fill =
+      IconData(0xefbe, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_tennis_sharp.png)
+  static const IconData flaticon_tennis_sharp =
+      IconData(0xefbf, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_terrace_rounded_fill.png)
+  static const IconData flaticon_terrace_rounded_fill =
+      IconData(0xefc0, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_terrace_rounded.png)
+  static const IconData flaticon_terrace_rounded =
+      IconData(0xefc1, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_terrace_sharp_fill.png)
+  static const IconData flaticon_terrace_sharp_fill =
+      IconData(0xefc2, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_terrace_sharp.png)
+  static const IconData flaticon_terrace_sharp =
+      IconData(0xefc3, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_test_rounded_fill.png)
+  static const IconData flaticon_test_rounded_fill =
+      IconData(0xefc4, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_test_rounded.png)
+  static const IconData flaticon_test_rounded =
+      IconData(0xefc5, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_test_sharp_fill.png)
+  static const IconData flaticon_test_sharp_fill =
+      IconData(0xefc6, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_test_sharp.png)
+  static const IconData flaticon_test_sharp =
+      IconData(0xefc7, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_test_tube_rounded_fill.png)
+  static const IconData flaticon_test_tube_rounded_fill =
+      IconData(0xefc8, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_test_tube_rounded.png)
+  static const IconData flaticon_test_tube_rounded =
+      IconData(0xefc9, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_test_tube_sharp_fill.png)
+  static const IconData flaticon_test_tube_sharp_fill =
+      IconData(0xefca, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_test_tube_sharp.png)
+  static const IconData flaticon_test_tube_sharp =
+      IconData(0xefcb, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_text_check_rounded_fill.png)
+  static const IconData flaticon_text_check_rounded_fill =
+      IconData(0xefcc, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_text_check_rounded.png)
+  static const IconData flaticon_text_check_rounded =
+      IconData(0xefcd, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_text_check_sharp_fill.png)
+  static const IconData flaticon_text_check_sharp_fill =
+      IconData(0xefce, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_text_check_sharp.png)
+  static const IconData flaticon_text_check_sharp =
+      IconData(0xefcf, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_text_rounded_fill.png)
+  static const IconData flaticon_text_rounded_fill =
+      IconData(0xefd0, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_text_rounded.png)
+  static const IconData flaticon_text_rounded =
+      IconData(0xefd1, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_text_sharp_fill.png)
+  static const IconData flaticon_text_sharp_fill =
+      IconData(0xefd2, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_text_sharp.png)
+  static const IconData flaticon_text_sharp =
+      IconData(0xefd3, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_thermometer_half_rounded_fill.png)
+  static const IconData flaticon_thermometer_half_rounded_fill =
+      IconData(0xefd4, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_thermometer_half_rounded.png)
+  static const IconData flaticon_thermometer_half_rounded =
+      IconData(0xefd5, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_thermometer_half_sharp_fill.png)
+  static const IconData flaticon_thermometer_half_sharp_fill =
+      IconData(0xefd6, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_thermometer_half_sharp.png)
+  static const IconData flaticon_thermometer_half_sharp =
+      IconData(0xefd7, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_thumbs_down_rounded_fill.png)
+  static const IconData flaticon_thumbs_down_rounded_fill =
+      IconData(0xefd8, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_thumbs_down_rounded.png)
+  static const IconData flaticon_thumbs_down_rounded =
+      IconData(0xefd9, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_thumbs_down_sharp_fill.png)
+  static const IconData flaticon_thumbs_down_sharp_fill =
+      IconData(0xefda, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_thumbs_down_sharp.png)
+  static const IconData flaticon_thumbs_down_sharp =
+      IconData(0xefdb, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_thumbs_up_rounded_fill.png)
+  static const IconData flaticon_thumbs_up_rounded_fill =
+      IconData(0xefdc, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_thumbs_up_rounded.png)
+  static const IconData flaticon_thumbs_up_rounded =
+      IconData(0xefdd, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_thumbs_up_sharp_fill.png)
+  static const IconData flaticon_thumbs_up_sharp_fill =
+      IconData(0xefde, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_thumbs_up_sharp.png)
+  static const IconData flaticon_thumbs_up_sharp =
+      IconData(0xefdf, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_thumbtack_rounded_fill.png)
+  static const IconData flaticon_thumbtack_rounded_fill =
+      IconData(0xefe0, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_thumbtack_rounded.png)
+  static const IconData flaticon_thumbtack_rounded =
+      IconData(0xefe1, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_thumbtack_sharp_fill.png)
+  static const IconData flaticon_thumbtack_sharp_fill =
+      IconData(0xefe2, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_thumbtack_sharp.png)
+  static const IconData flaticon_thumbtack_sharp =
+      IconData(0xefe3, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_ticket_rounded_fill.png)
+  static const IconData flaticon_ticket_rounded_fill =
+      IconData(0xefe4, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_ticket_rounded.png)
+  static const IconData flaticon_ticket_rounded =
+      IconData(0xefe5, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_ticket_sharp_fill.png)
+  static const IconData flaticon_ticket_sharp_fill =
+      IconData(0xefe6, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_ticket_sharp.png)
+  static const IconData flaticon_ticket_sharp =
+      IconData(0xefe7, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_time_add_rounded_fill.png)
+  static const IconData flaticon_time_add_rounded_fill =
+      IconData(0xefe8, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_time_add_rounded.png)
+  static const IconData flaticon_time_add_rounded =
+      IconData(0xefe9, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_time_add_sharp_fill.png)
+  static const IconData flaticon_time_add_sharp_fill =
+      IconData(0xefea, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_time_add_sharp.png)
+  static const IconData flaticon_time_add_sharp =
+      IconData(0xefeb, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_time_check_rounded_fill.png)
+  static const IconData flaticon_time_check_rounded_fill =
+      IconData(0xefec, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_time_check_rounded.png)
+  static const IconData flaticon_time_check_rounded =
+      IconData(0xefed, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_time_check_sharp_fill.png)
+  static const IconData flaticon_time_check_sharp_fill =
+      IconData(0xefee, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_time_check_sharp.png)
+  static const IconData flaticon_time_check_sharp =
+      IconData(0xefef, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_time_delete_rounded_fill.png)
+  static const IconData flaticon_time_delete_rounded_fill =
+      IconData(0xeff0, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_time_delete_rounded.png)
+  static const IconData flaticon_time_delete_rounded =
+      IconData(0xeff1, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_time_delete_sharp_fill.png)
+  static const IconData flaticon_time_delete_sharp_fill =
+      IconData(0xeff2, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_time_delete_sharp.png)
+  static const IconData flaticon_time_delete_sharp =
+      IconData(0xeff3, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_time_fast_rounded_fill.png)
+  static const IconData flaticon_time_fast_rounded_fill =
+      IconData(0xeff4, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_time_fast_rounded.png)
+  static const IconData flaticon_time_fast_rounded =
+      IconData(0xeff5, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_time_fast_sharp_fill.png)
+  static const IconData flaticon_time_fast_sharp_fill =
+      IconData(0xeff6, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_time_fast_sharp.png)
+  static const IconData flaticon_time_fast_sharp =
+      IconData(0xeff7, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_time_forward_rounded_fill.png)
+  static const IconData flaticon_time_forward_rounded_fill =
+      IconData(0xeff8, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_time_forward_rounded.png)
+  static const IconData flaticon_time_forward_rounded =
+      IconData(0xeff9, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_time_forward_sharp_fill.png)
+  static const IconData flaticon_time_forward_sharp_fill =
+      IconData(0xeffa, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_time_forward_sharp.png)
+  static const IconData flaticon_time_forward_sharp =
+      IconData(0xeffb, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_time_forward_sixty_rounded_fill.png)
+  static const IconData flaticon_time_forward_sixty_rounded_fill =
+      IconData(0xeffc, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_time_forward_sixty_rounded.png)
+  static const IconData flaticon_time_forward_sixty_rounded =
+      IconData(0xeffd, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_time_forward_sixty_sharp_fill.png)
+  static const IconData flaticon_time_forward_sixty_sharp_fill =
+      IconData(0xeffe, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_time_forward_sixty_sharp.png)
+  static const IconData flaticon_time_forward_sixty_sharp =
+      IconData(0xefff, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_time_forward_ten_rounded_fill.png)
+  static const IconData flaticon_time_forward_ten_rounded_fill =
+      IconData(0xf000, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_time_forward_ten_rounded.png)
+  static const IconData flaticon_time_forward_ten_rounded =
+      IconData(0xf001, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_time_forward_ten_sharp_fill.png)
+  static const IconData flaticon_time_forward_ten_sharp_fill =
+      IconData(0xf002, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_time_forward_ten_sharp.png)
+  static const IconData flaticon_time_forward_ten_sharp =
+      IconData(0xf003, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_time_half_past_rounded_fill.png)
+  static const IconData flaticon_time_half_past_rounded_fill =
+      IconData(0xf004, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_time_half_past_rounded.png)
+  static const IconData flaticon_time_half_past_rounded =
+      IconData(0xf005, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_time_half_past_sharp_fill.png)
+  static const IconData flaticon_time_half_past_sharp_fill =
+      IconData(0xf006, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_time_half_past_sharp.png)
+  static const IconData flaticon_time_half_past_sharp =
+      IconData(0xf007, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_time_oclock_rounded_fill.png)
+  static const IconData flaticon_time_oclock_rounded_fill =
+      IconData(0xf008, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_time_oclock_rounded.png)
+  static const IconData flaticon_time_oclock_rounded =
+      IconData(0xf009, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_time_oclock_sharp_fill.png)
+  static const IconData flaticon_time_oclock_sharp_fill =
+      IconData(0xf00a, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_time_oclock_sharp.png)
+  static const IconData flaticon_time_oclock_sharp =
+      IconData(0xf00b, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_time_past_rounded_fill.png)
+  static const IconData flaticon_time_past_rounded_fill =
+      IconData(0xf00c, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_time_past_rounded.png)
+  static const IconData flaticon_time_past_rounded =
+      IconData(0xf00d, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_time_past_sharp_fill.png)
+  static const IconData flaticon_time_past_sharp_fill =
+      IconData(0xf00e, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_time_past_sharp.png)
+  static const IconData flaticon_time_past_sharp =
+      IconData(0xf00f, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_time_quarter_past_rounded_fill.png)
+  static const IconData flaticon_time_quarter_past_rounded_fill =
+      IconData(0xf010, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_time_quarter_past_rounded.png)
+  static const IconData flaticon_time_quarter_past_rounded =
+      IconData(0xf011, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_time_quarter_past_sharp_fill.png)
+  static const IconData flaticon_time_quarter_past_sharp_fill =
+      IconData(0xf012, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_time_quarter_past_sharp.png)
+  static const IconData flaticon_time_quarter_past_sharp =
+      IconData(0xf013, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_time_quarter_to_rounded_fill.png)
+  static const IconData flaticon_time_quarter_to_rounded_fill =
+      IconData(0xf014, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_time_quarter_to_rounded.png)
+  static const IconData flaticon_time_quarter_to_rounded =
+      IconData(0xf015, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_time_quarter_to_sharp_fill.png)
+  static const IconData flaticon_time_quarter_to_sharp_fill =
+      IconData(0xf016, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_time_quarter_to_sharp.png)
+  static const IconData flaticon_time_quarter_to_sharp =
+      IconData(0xf017, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_time_twenty_four_rounded_fill.png)
+  static const IconData flaticon_time_twenty_four_rounded_fill =
+      IconData(0xf018, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_time_twenty_four_rounded.png)
+  static const IconData flaticon_time_twenty_four_rounded =
+      IconData(0xf019, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_time_twenty_four_sharp_fill.png)
+  static const IconData flaticon_time_twenty_four_sharp_fill =
+      IconData(0xf01a, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_time_twenty_four_sharp.png)
+  static const IconData flaticon_time_twenty_four_sharp =
+      IconData(0xf01b, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_tool_crop_rounded_fill.png)
+  static const IconData flaticon_tool_crop_rounded_fill =
+      IconData(0xf01c, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_tool_crop_rounded.png)
+  static const IconData flaticon_tool_crop_rounded =
+      IconData(0xf01d, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_tool_crop_sharp_fill.png)
+  static const IconData flaticon_tool_crop_sharp_fill =
+      IconData(0xf01e, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_tool_crop_sharp.png)
+  static const IconData flaticon_tool_crop_sharp =
+      IconData(0xf01f, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_tool_marquee_rounded_fill.png)
+  static const IconData flaticon_tool_marquee_rounded_fill =
+      IconData(0xf020, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_tool_marquee_rounded.png)
+  static const IconData flaticon_tool_marquee_rounded =
+      IconData(0xf021, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_tool_marquee_sharp_fill.png)
+  static const IconData flaticon_tool_marquee_sharp_fill =
+      IconData(0xf022, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_tool_marquee_sharp.png)
+  static const IconData flaticon_tool_marquee_sharp =
+      IconData(0xf023, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_tooth_rounded_fill.png)
+  static const IconData flaticon_tooth_rounded_fill =
+      IconData(0xf024, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_tooth_rounded.png)
+  static const IconData flaticon_tooth_rounded =
+      IconData(0xf025, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_tooth_sharp_fill.png)
+  static const IconData flaticon_tooth_sharp_fill =
+      IconData(0xf026, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_tooth_sharp.png)
+  static const IconData flaticon_tooth_sharp =
+      IconData(0xf027, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_tornado_rounded_fill.png)
+  static const IconData flaticon_tornado_rounded_fill =
+      IconData(0xf028, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_tornado_rounded.png)
+  static const IconData flaticon_tornado_rounded =
+      IconData(0xf029, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_tornado_sharp_fill.png)
+  static const IconData flaticon_tornado_sharp_fill =
+      IconData(0xf02a, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_tornado_sharp.png)
+  static const IconData flaticon_tornado_sharp =
+      IconData(0xf02b, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_train_rounded_fill.png)
+  static const IconData flaticon_train_rounded_fill =
+      IconData(0xf02c, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_train_rounded.png)
+  static const IconData flaticon_train_rounded =
+      IconData(0xf02d, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_train_sharp_fill.png)
+  static const IconData flaticon_train_sharp_fill =
+      IconData(0xf02e, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_train_sharp.png)
+  static const IconData flaticon_train_sharp =
+      IconData(0xf02f, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_train_side_rounded_fill.png)
+  static const IconData flaticon_train_side_rounded_fill =
+      IconData(0xf030, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_train_side_rounded.png)
+  static const IconData flaticon_train_side_rounded =
+      IconData(0xf031, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_train_side_sharp_fill.png)
+  static const IconData flaticon_train_side_sharp_fill =
+      IconData(0xf032, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_train_side_sharp.png)
+  static const IconData flaticon_train_side_sharp =
+      IconData(0xf033, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_transform_rounded_fill.png)
+  static const IconData flaticon_transform_rounded_fill =
+      IconData(0xf034, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_transform_rounded.png)
+  static const IconData flaticon_transform_rounded =
+      IconData(0xf035, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_transform_sharp_fill.png)
+  static const IconData flaticon_transform_sharp_fill =
+      IconData(0xf036, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_transform_sharp.png)
+  static const IconData flaticon_transform_sharp =
+      IconData(0xf037, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_trash_rounded_fill.png)
+  static const IconData flaticon_trash_rounded_fill =
+      IconData(0xf038, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_trash_rounded.png)
+  static const IconData flaticon_trash_rounded =
+      IconData(0xf039, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_trash_sharp_fill.png)
+  static const IconData flaticon_trash_sharp_fill =
+      IconData(0xf03a, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_trash_sharp.png)
+  static const IconData flaticon_trash_sharp =
+      IconData(0xf03b, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_treatment_rounded_fill.png)
+  static const IconData flaticon_treatment_rounded_fill =
+      IconData(0xf03c, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_treatment_rounded.png)
+  static const IconData flaticon_treatment_rounded =
+      IconData(0xf03d, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_treatment_sharp_fill.png)
+  static const IconData flaticon_treatment_sharp_fill =
+      IconData(0xf03e, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_treatment_sharp.png)
+  static const IconData flaticon_treatment_sharp =
+      IconData(0xf03f, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_tree_christmas_rounded_fill.png)
+  static const IconData flaticon_tree_christmas_rounded_fill =
+      IconData(0xf040, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_tree_christmas_rounded.png)
+  static const IconData flaticon_tree_christmas_rounded =
+      IconData(0xf041, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_tree_christmas_sharp_fill.png)
+  static const IconData flaticon_tree_christmas_sharp_fill =
+      IconData(0xf042, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_tree_christmas_sharp.png)
+  static const IconData flaticon_tree_christmas_sharp =
+      IconData(0xf043, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_tree_rounded_fill.png)
+  static const IconData flaticon_tree_rounded_fill =
+      IconData(0xf044, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_tree_rounded.png)
+  static const IconData flaticon_tree_rounded =
+      IconData(0xf045, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_tree_sharp_fill.png)
+  static const IconData flaticon_tree_sharp_fill =
+      IconData(0xf046, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_tree_sharp.png)
+  static const IconData flaticon_tree_sharp =
+      IconData(0xf047, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_triangle_rounded_fill.png)
+  static const IconData flaticon_triangle_rounded_fill =
+      IconData(0xf048, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_triangle_rounded.png)
+  static const IconData flaticon_triangle_rounded =
+      IconData(0xf049, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_triangle_sharp_fill.png)
+  static const IconData flaticon_triangle_sharp_fill =
+      IconData(0xf04a, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_triangle_sharp.png)
+  static const IconData flaticon_triangle_sharp =
+      IconData(0xf04b, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_trophy_rounded_fill.png)
+  static const IconData flaticon_trophy_rounded_fill =
+      IconData(0xf04c, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_trophy_rounded.png)
+  static const IconData flaticon_trophy_rounded =
+      IconData(0xf04d, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_trophy_sharp_fill.png)
+  static const IconData flaticon_trophy_sharp_fill =
+      IconData(0xf04e, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_trophy_sharp.png)
+  static const IconData flaticon_trophy_sharp =
+      IconData(0xf04f, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_truck_side_rounded_fill.png)
+  static const IconData flaticon_truck_side_rounded_fill =
+      IconData(0xf050, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_truck_side_rounded.png)
+  static const IconData flaticon_truck_side_rounded =
+      IconData(0xf051, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_truck_side_sharp_fill.png)
+  static const IconData flaticon_truck_side_sharp_fill =
+      IconData(0xf052, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_truck_side_sharp.png)
+  static const IconData flaticon_truck_side_sharp =
+      IconData(0xf053, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_umbrella_rounded_fill.png)
+  static const IconData flaticon_umbrella_rounded_fill =
+      IconData(0xf054, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_umbrella_rounded.png)
+  static const IconData flaticon_umbrella_rounded =
+      IconData(0xf055, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_umbrella_sharp_fill.png)
+  static const IconData flaticon_umbrella_sharp_fill =
+      IconData(0xf056, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_umbrella_sharp.png)
+  static const IconData flaticon_umbrella_sharp =
+      IconData(0xf057, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_underline_rounded_fill.png)
+  static const IconData flaticon_underline_rounded_fill =
+      IconData(0xf058, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_underline_rounded.png)
+  static const IconData flaticon_underline_rounded =
+      IconData(0xf059, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_underline_sharp_fill.png)
+  static const IconData flaticon_underline_sharp_fill =
+      IconData(0xf05a, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_underline_sharp.png)
+  static const IconData flaticon_underline_sharp =
+      IconData(0xf05b, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_undo_alt_rounded_fill.png)
+  static const IconData flaticon_undo_alt_rounded_fill =
+      IconData(0xf05c, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_undo_alt_rounded.png)
+  static const IconData flaticon_undo_alt_rounded =
+      IconData(0xf05d, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_undo_alt_sharp_fill.png)
+  static const IconData flaticon_undo_alt_sharp_fill =
+      IconData(0xf05e, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_undo_alt_sharp.png)
+  static const IconData flaticon_undo_alt_sharp =
+      IconData(0xf05f, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_undo_rounded_fill.png)
+  static const IconData flaticon_undo_rounded_fill =
+      IconData(0xf060, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_undo_rounded.png)
+  static const IconData flaticon_undo_rounded =
+      IconData(0xf061, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_undo_sharp_fill.png)
+  static const IconData flaticon_undo_sharp_fill =
+      IconData(0xf062, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_undo_sharp.png)
+  static const IconData flaticon_undo_sharp =
+      IconData(0xf063, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_unlock_rounded_fill.png)
+  static const IconData flaticon_unlock_rounded_fill =
+      IconData(0xf064, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_unlock_rounded.png)
+  static const IconData flaticon_unlock_rounded =
+      IconData(0xf065, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_unlock_sharp_fill.png)
+  static const IconData flaticon_unlock_sharp_fill =
+      IconData(0xf066, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_unlock_sharp.png)
+  static const IconData flaticon_unlock_sharp =
+      IconData(0xf067, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_upload_rounded_fill.png)
+  static const IconData flaticon_upload_rounded_fill =
+      IconData(0xf068, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_upload_rounded.png)
+  static const IconData flaticon_upload_rounded =
+      IconData(0xf069, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_upload_sharp_fill.png)
+  static const IconData flaticon_upload_sharp_fill =
+      IconData(0xf06a, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_upload_sharp.png)
+  static const IconData flaticon_upload_sharp =
+      IconData(0xf06b, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_usb_pendrive_rounded_fill.png)
+  static const IconData flaticon_usb_pendrive_rounded_fill =
+      IconData(0xf06c, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_usb_pendrive_rounded.png)
+  static const IconData flaticon_usb_pendrive_rounded =
+      IconData(0xf06d, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_usb_pendrive_sharp_fill.png)
+  static const IconData flaticon_usb_pendrive_sharp_fill =
+      IconData(0xf06e, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_usb_pendrive_sharp.png)
+  static const IconData flaticon_usb_pendrive_sharp =
+      IconData(0xf06f, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_user_add_rounded_fill.png)
+  static const IconData flaticon_user_add_rounded_fill =
+      IconData(0xf070, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_user_add_rounded.png)
+  static const IconData flaticon_user_add_rounded =
+      IconData(0xf071, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_user_add_sharp_fill.png)
+  static const IconData flaticon_user_add_sharp_fill =
+      IconData(0xf072, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_user_add_sharp.png)
+  static const IconData flaticon_user_add_sharp =
+      IconData(0xf073, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_user_delete_rounded_fill.png)
+  static const IconData flaticon_user_delete_rounded_fill =
+      IconData(0xf074, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_user_delete_rounded.png)
+  static const IconData flaticon_user_delete_rounded =
+      IconData(0xf075, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_user_delete_sharp_fill.png)
+  static const IconData flaticon_user_delete_sharp_fill =
+      IconData(0xf076, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_user_delete_sharp.png)
+  static const IconData flaticon_user_delete_sharp =
+      IconData(0xf077, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_user_remove_rounded_fill.png)
+  static const IconData flaticon_user_remove_rounded_fill =
+      IconData(0xf078, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_user_remove_rounded.png)
+  static const IconData flaticon_user_remove_rounded =
+      IconData(0xf079, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_user_remove_sharp_fill.png)
+  static const IconData flaticon_user_remove_sharp_fill =
+      IconData(0xf07a, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_user_remove_sharp.png)
+  static const IconData flaticon_user_remove_sharp =
+      IconData(0xf07b, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_user_rounded_fill.png)
+  static const IconData flaticon_user_rounded_fill =
+      IconData(0xf07c, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_user_rounded.png)
+  static const IconData flaticon_user_rounded =
+      IconData(0xf07d, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_user_sharp_fill.png)
+  static const IconData flaticon_user_sharp_fill =
+      IconData(0xf07e, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_user_sharp.png)
+  static const IconData flaticon_user_sharp =
+      IconData(0xf07f, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_user_time_rounded_fill.png)
+  static const IconData flaticon_user_time_rounded_fill =
+      IconData(0xf080, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_user_time_rounded.png)
+  static const IconData flaticon_user_time_rounded =
+      IconData(0xf081, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_user_time_sharp_fill.png)
+  static const IconData flaticon_user_time_sharp_fill =
+      IconData(0xf082, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_user_time_sharp.png)
+  static const IconData flaticon_user_time_sharp =
+      IconData(0xf083, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_utensils_rounded_fill.png)
+  static const IconData flaticon_utensils_rounded_fill =
+      IconData(0xf084, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_utensils_rounded.png)
+  static const IconData flaticon_utensils_rounded =
+      IconData(0xf085, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_utensils_sharp_fill.png)
+  static const IconData flaticon_utensils_sharp_fill =
+      IconData(0xf086, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_utensils_sharp.png)
+  static const IconData flaticon_utensils_sharp =
+      IconData(0xf087, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_vector_alt_rounded_fill.png)
+  static const IconData flaticon_vector_alt_rounded_fill =
+      IconData(0xf088, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_vector_alt_rounded.png)
+  static const IconData flaticon_vector_alt_rounded =
+      IconData(0xf089, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_vector_alt_sharp_fill.png)
+  static const IconData flaticon_vector_alt_sharp_fill =
+      IconData(0xf08a, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_vector_alt_sharp.png)
+  static const IconData flaticon_vector_alt_sharp =
+      IconData(0xf08b, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_vector_rounded_fill.png)
+  static const IconData flaticon_vector_rounded_fill =
+      IconData(0xf08c, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_vector_rounded.png)
+  static const IconData flaticon_vector_rounded =
+      IconData(0xf08d, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_vector_sharp_fill.png)
+  static const IconData flaticon_vector_sharp_fill =
+      IconData(0xf08e, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_vector_sharp.png)
+  static const IconData flaticon_vector_sharp =
+      IconData(0xf08f, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_venus_double_rounded_fill.png)
+  static const IconData flaticon_venus_double_rounded_fill =
+      IconData(0xf090, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_venus_double_rounded.png)
+  static const IconData flaticon_venus_double_rounded =
+      IconData(0xf091, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_venus_double_sharp_fill.png)
+  static const IconData flaticon_venus_double_sharp_fill =
+      IconData(0xf092, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_venus_double_sharp.png)
+  static const IconData flaticon_venus_double_sharp =
+      IconData(0xf093, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_venus_mars_rounded_fill.png)
+  static const IconData flaticon_venus_mars_rounded_fill =
+      IconData(0xf094, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_venus_mars_rounded.png)
+  static const IconData flaticon_venus_mars_rounded =
+      IconData(0xf095, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_venus_mars_sharp_fill.png)
+  static const IconData flaticon_venus_mars_sharp_fill =
+      IconData(0xf096, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_venus_mars_sharp.png)
+  static const IconData flaticon_venus_mars_sharp =
+      IconData(0xf097, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_venus_rounded_fill.png)
+  static const IconData flaticon_venus_rounded_fill =
+      IconData(0xf098, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_venus_rounded.png)
+  static const IconData flaticon_venus_rounded =
+      IconData(0xf099, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_venus_sharp_fill.png)
+  static const IconData flaticon_venus_sharp_fill =
+      IconData(0xf09a, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_venus_sharp.png)
+  static const IconData flaticon_venus_sharp =
+      IconData(0xf09b, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_video_camera_rounded_fill.png)
+  static const IconData flaticon_video_camera_rounded_fill =
+      IconData(0xf09c, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_video_camera_rounded.png)
+  static const IconData flaticon_video_camera_rounded =
+      IconData(0xf09d, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_video_camera_sharp_fill.png)
+  static const IconData flaticon_video_camera_sharp_fill =
+      IconData(0xf09e, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_video_camera_sharp.png)
+  static const IconData flaticon_video_camera_sharp =
+      IconData(0xf09f, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_volleyball_rounded_fill.png)
+  static const IconData flaticon_volleyball_rounded_fill =
+      IconData(0xf0a0, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_volleyball_rounded.png)
+  static const IconData flaticon_volleyball_rounded =
+      IconData(0xf0a1, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_volleyball_sharp_fill.png)
+  static const IconData flaticon_volleyball_sharp_fill =
+      IconData(0xf0a2, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_volleyball_sharp.png)
+  static const IconData flaticon_volleyball_sharp =
+      IconData(0xf0a3, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_volume_rounded_fill.png)
+  static const IconData flaticon_volume_rounded_fill =
+      IconData(0xf0a4, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_volume_rounded.png)
+  static const IconData flaticon_volume_rounded =
+      IconData(0xf0a5, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_volume_sharp_fill.png)
+  static const IconData flaticon_volume_sharp_fill =
+      IconData(0xf0a6, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_volume_sharp.png)
+  static const IconData flaticon_volume_sharp =
+      IconData(0xf0a7, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_wheelchair_rounded_fill.png)
+  static const IconData flaticon_wheelchair_rounded_fill =
+      IconData(0xf0a8, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_wheelchair_rounded.png)
+  static const IconData flaticon_wheelchair_rounded =
+      IconData(0xf0a9, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_wheelchair_sharp_fill.png)
+  static const IconData flaticon_wheelchair_sharp_fill =
+      IconData(0xf0aa, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_wheelchair_sharp.png)
+  static const IconData flaticon_wheelchair_sharp =
+      IconData(0xf0ab, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_wifi_alt_rounded_fill.png)
+  static const IconData flaticon_wifi_alt_rounded_fill =
+      IconData(0xf0ac, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_wifi_alt_rounded.png)
+  static const IconData flaticon_wifi_alt_rounded =
+      IconData(0xf0ad, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_wifi_alt_sharp_fill.png)
+  static const IconData flaticon_wifi_alt_sharp_fill =
+      IconData(0xf0ae, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_wifi_alt_sharp.png)
+  static const IconData flaticon_wifi_alt_sharp =
+      IconData(0xf0af, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_wind_rounded_fill.png)
+  static const IconData flaticon_wind_rounded_fill =
+      IconData(0xf0b0, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_wind_rounded.png)
+  static const IconData flaticon_wind_rounded =
+      IconData(0xf0b1, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_wind_sharp_fill.png)
+  static const IconData flaticon_wind_sharp_fill =
+      IconData(0xf0b2, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_wind_sharp.png)
+  static const IconData flaticon_wind_sharp =
+      IconData(0xf0b3, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_woman_head_rounded_fill.png)
+  static const IconData flaticon_woman_head_rounded_fill =
+      IconData(0xf0b4, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_woman_head_rounded.png)
+  static const IconData flaticon_woman_head_rounded =
+      IconData(0xf0b5, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_woman_head_sharp_fill.png)
+  static const IconData flaticon_woman_head_sharp_fill =
+      IconData(0xf0b6, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_woman_head_sharp.png)
+  static const IconData flaticon_woman_head_sharp =
+      IconData(0xf0b7, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_world_rounded_fill.png)
+  static const IconData flaticon_world_rounded_fill =
+      IconData(0xf0b8, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_world_rounded.png)
+  static const IconData flaticon_world_rounded =
+      IconData(0xf0b9, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_world_sharp_fill.png)
+  static const IconData flaticon_world_sharp_fill =
+      IconData(0xf0ba, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_world_sharp.png)
+  static const IconData flaticon_world_sharp =
+      IconData(0xf0bb, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_yen_rounded_fill.png)
+  static const IconData flaticon_yen_rounded_fill =
+      IconData(0xf0bc, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_yen_rounded.png)
+  static const IconData flaticon_yen_rounded =
+      IconData(0xf0bd, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_yen_sharp_fill.png)
+  static const IconData flaticon_yen_sharp_fill =
+      IconData(0xf0be, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_yen_sharp.png)
+  static const IconData flaticon_yen_sharp =
+      IconData(0xf0bf, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_zoom_in_rounded_fill.png)
+  static const IconData flaticon_zoom_in_rounded_fill =
+      IconData(0xf0c0, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_zoom_in_rounded.png)
+  static const IconData flaticon_zoom_in_rounded =
+      IconData(0xf0c1, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_zoom_in_sharp_fill.png)
+  static const IconData flaticon_zoom_in_sharp_fill =
+      IconData(0xf0c2, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_zoom_in_sharp.png)
+  static const IconData flaticon_zoom_in_sharp =
+      IconData(0xf0c3, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_zoom_out_rounded_fill.png)
+  static const IconData flaticon_zoom_out_rounded_fill =
+      IconData(0xf0c4, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_zoom_out_rounded.png)
+  static const IconData flaticon_zoom_out_rounded =
+      IconData(0xf0c5, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_zoom_out_sharp_fill.png)
+  static const IconData flaticon_zoom_out_sharp_fill =
+      IconData(0xf0c6, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
+
+  /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/flaticon/flaticon_png/flaticon_zoom_out_sharp.png)
+  static const IconData flaticon_zoom_out_sharp =
+      IconData(0xf0c7, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
 }

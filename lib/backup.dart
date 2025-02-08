@@ -1,11 +1,3 @@
-
-// Place fonts/lucide.ttf in your fonts/ directory and
-// add the following to your pubspec.yaml
-// flutter:
-//   fonts:
-//    - family: lucide
-//      fonts:
-//       - asset: fonts/lucide.ttf
 import 'package:flutter/widgets.dart';
 
 class Amicons {
