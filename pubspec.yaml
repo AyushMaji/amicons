@@ -1,7 +1,8 @@
 name: amicons
-description: "A new Flutter package project."
+description: "Amicons is a Flutter icons hub that brings together popular icon sets in one place, including Iconly, Remix, Vuesax, Lucide, and Flaticon.With this package, there's no need to download multiple icon packages for a single project—simply install Amicons and gain access to all these icon sets effortlessly."
 version: 0.0.1
-homepage: https://iconsax.io/
+author: "Ayush Maji"
+homepage: https://github.com/AyushMaji/amicons
 
 environment:
   sdk: ^3.6.1

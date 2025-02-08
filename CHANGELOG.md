@@ -1,3 +1,3 @@
 ## 0.0.1
 
-* TODO: Describe initial release.
+* Access Iconly, Remix, Vuesax, Lucide, and Flaticon in one package.

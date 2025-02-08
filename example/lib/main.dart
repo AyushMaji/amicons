@@ -32,7 +32,7 @@ class MyHomePage extends StatelessWidget {
       ),
       body: Center(
         child: Icon(
-          Amicons.iconly_activity_fill,
+          Amicons.iconly_wallet,
           color: Colors.red,
           size: 90,
         ),
