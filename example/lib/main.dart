@@ -32,8 +32,8 @@ class MyHomePage extends StatelessWidget {
       ),
       body: Center(
         child: Icon(
-          Amicons.flaticon_wifi_alt_rounded,
-          color: Colors.deepPurple,
+          Amicons.iconly_activity_fill,
+          color: Colors.red,
           size: 90,
         ),
       ),
