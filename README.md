@@ -12,17 +12,25 @@ Amicons is a Flutter icons hub that brings together popular icon sets in one pla
 We also provide a [Figma Link](https://linktodocumentation) where you can preview and use the icons instantly.
 <br/><br/>
 
-## 10K+ Curved, Sharp & Linear Icons.
- 
+## Features
+
+- **Extensive Collection**: Access over 10000+ stroke icons for free, ready to use in your projects.
+- **Scalable Icons**: Easily adjust the size of icons to fit your design perfectly.
+- **Color Customization**: Apply any color to icons to match your brand or design theme.
+- **Rotation and Animation**: Add a dynamic touch with rotation and animation options.
 - No need to install multiple icon libraries. <br/>
-- Easy integration with Flutter. <br/>
-- Figma link available for instant preview. <br/>
-- Access Iconly, Remix, Vuesax, Lucide, and Flaticon in one package. <br/>
-- A vast collection of high-quality icons in Curved, Sharp, and Linear styles.
+<br/>
+
+### Platform Support
+
+| Android | iOS | macOS | Web | Linux | Windows |
+| :-----: | :-: | :---: | :-: | :---: | :-----: |
+|   ✅    | ✅  |   ✅   | ✅  |  ✅    |   ✅    |
+
+<br />
 
 
-
-<h1>Technical Skills 🛠</h1>
+<h1>Libery of Amicons</h1>
  
 <br />
 <code><img height="50" src="https://raw.githubusercontent.com/AyushMaji/amicons/refs/heads/main/assets/others/flaticon.png"></code>
@@ -33,6 +41,10 @@ We also provide a [Figma Link](https://linktodocumentation) where you can previe
 <code><img height="50" src="https://raw.githubusercontent.com/AyushMaji/amicons/refs/heads/main/assets/others/figma.png"></code>
 <br />
 <br />
+
+
+
+
 
 
 
