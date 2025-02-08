@@ -30,7 +30,7 @@ class MyHomePage extends StatelessWidget {
       appBar: AppBar(),
       body: Center(
         child: Icon(
-          Amicons.iconly_activity,
+          Amicons.flaticon_wifi_alt_rounded,
           color: Colors.deepPurple,
           size: 90,
         ),
