@@ -3,6 +3,10 @@ description: "Amicons is a Flutter icon hub uniting Iconly, Remix, Vuesax, Lucid
 version: 0.0.3
 homepage: http://www.ayushmaji.com/
 repository: https://github.com/AyushMaji/amicons
+contributors:
+  - name: Ayush Maji
+    email: ayushmaji2001@gmail.com
+    url: http://www.ayushmaji.com/
 
 environment:
   sdk: ^3.6.1

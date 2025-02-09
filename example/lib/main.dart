@@ -32,7 +32,7 @@ class MyHomePage extends StatelessWidget {
       ),
       body: Center(
         child: Icon(
-          Amicons.iconly_wallet,
+          Amicons.lucide_map_pin_check_inside,
           color: Colors.red,
           size: 90,
         ),
