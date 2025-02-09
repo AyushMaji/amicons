@@ -4,7 +4,7 @@
 
 
 
-<h1 align="left">Amicons - Free Flutter icons <a target="_blank" href="https://www.linkedin.com/in/ayushmaji/"></a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1></h1>
+<h1 align="left">Amicons - Free Flutter icons <a target="_blank" href="https://www.linkedin.com/in/ayushmaji/"></a><img src="https://raw.githubusercontent.com/AyushMaji/amicons/refs/heads/main/assets/amination/Hi.gif" width="30px"></h1></h1>
 
 Amicons is a Flutter icons hub that brings together popular icon sets in one place, including `Iconly`, `Remix`, `Vuesax`, `Lucide`, `Flaticon`. With this package, there's no need to download multiple icon packages for a single project—simply install Amicons and gain access to all these icon sets effortlessly.
 
