@@ -34,8 +34,6 @@ We also provide a [Figma Link](https://www.figma.com/design/Fuq1umo7X3kyFzSjJPEW
 
 <br />
 
-
-
 ## Installation
 
 To install and start using Hugeicons Flutter Icons in your project, follow the steps below:
@@ -72,6 +70,8 @@ Icon(
   Icon(Amicons.iconly_wallet_curved),
   Icon(Amicons.iconly_wallet_broken),
 ```
+
+<img src="https://github.com/AyushMaji/amicons/blob/main/assets/others/theme_banner.png?raw=true" />
 
 <h2>Libery of Amicons</h2>
  
