@@ -1,3 +1,8 @@
+## 1.0.0
+* Improved performance and optimized package size.
+* Updated documentation.
+
+
 ## 0.0.3
 
 * Updated documentation.
