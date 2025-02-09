@@ -1,5 +1,9 @@
 import 'package:flutter/widgets.dart';
 
+/// A collection of icons from multiple popular icon sets.
+///
+/// This class provides direct access to icons from **Flaticon**, **Iconly**,
+/// **Remix**, **Vuesax**, and **Lucide**, all in a single package.
 class Amicons {
   Amicons._();
 
