@@ -9,7 +9,7 @@
 Amicons is a Flutter icons hub that brings together popular icon sets in one place, including `Iconly`, `Remix`, `Vuesax`, `Lucide`, `Flaticon`. With this package, there's no need to download multiple icon packages for a single project—simply install Amicons and gain access to all these icon sets effortlessly.
 
 
-We also provide a [Figma Link](https://linktodocumentation) where you can preview and use the icons instantly.
+We also provide a [Figma Link](https://www.figma.com/design/Fuq1umo7X3kyFzSjJPEW3H/amicons?node-id=0-1&t=l8UzOsSvRiIKO40G-1) where you can preview and use the icons instantly.
 <br/><br/>
 
 ## Features
