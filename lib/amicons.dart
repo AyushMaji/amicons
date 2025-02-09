@@ -3,7 +3,7 @@ import 'package:flutter/widgets.dart';
 class Amicons {
   Amicons._();
 
-  static const String _lucidefontfamily = 'lucide'; 
+  static const String _lucidefontfamily = 'lucide';
   static const String _iconlyfontfamily = 'iconly';
   static const String _remixfontFamily = 'remix';
   static const String _flaticonfontFamily = 'flaticon';
@@ -26173,12 +26173,7 @@ class Amicons {
   static const IconData flaticon_zoom_out_sharp =
       IconData(0xf0c7, fontFamily: _flaticonfontFamily, fontPackage: _fontPkg);
 
-
-
-
-
 // vuesax icons (total -1985)
-
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_3d_cube_scan_fill.png)
   static const IconData vuesax_3d_cube_scan_fill =
@@ -26273,7 +26268,8 @@ class Amicons {
       IconData(0xe916, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_add.png)
-  static const IconData vuesax_add = IconData(0xe917, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
+  static const IconData vuesax_add =
+      IconData(0xe917, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_additem_fill.png)
   static const IconData vuesax_additem_fill =
@@ -26696,7 +26692,8 @@ class Amicons {
       IconData(0xea45, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_blur.png)
-  static const IconData vuesax_blur = IconData(0xea46, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
+  static const IconData vuesax_blur =
+      IconData(0xea46, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_book_1.png)
   static const IconData vuesax_book_1 =
@@ -26727,7 +26724,8 @@ class Amicons {
       IconData(0xea4d, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_book.png)
-  static const IconData vuesax_book = IconData(0xea4e, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
+  static const IconData vuesax_book =
+      IconData(0xea4e, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_bookmark_2_fill.png)
   static const IconData vuesax_bookmark_2_fill =
@@ -26814,7 +26812,8 @@ class Amicons {
       IconData(0xea63, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_box.png)
-  static const IconData vuesax_box = IconData(0xea64, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
+  static const IconData vuesax_box =
+      IconData(0xea64, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_briefcase_fill.png)
   static const IconData vuesax_briefcase_fill =
@@ -26981,7 +26980,8 @@ class Amicons {
       IconData(0xea8d, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_bus.png)
-  static const IconData vuesax_bus = IconData(0xea8e, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
+  static const IconData vuesax_bus =
+      IconData(0xea8e, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_buy_crypto_fill.png)
   static const IconData vuesax_buy_crypto_fill =
@@ -26996,7 +26996,8 @@ class Amicons {
       IconData(0xea91, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_cake.png)
-  static const IconData vuesax_cake = IconData(0xea92, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
+  static const IconData vuesax_cake =
+      IconData(0xea92, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_calculator_fill.png)
   static const IconData vuesax_calculator_fill =
@@ -27147,7 +27148,8 @@ class Amicons {
       IconData(0xea58, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_call.png)
-  static const IconData vuesax_call = IconData(0xea59, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
+  static const IconData vuesax_call =
+      IconData(0xea59, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_camera_fill.png)
   static const IconData vuesax_camera_fill =
@@ -27186,7 +27188,8 @@ class Amicons {
       IconData(0xea62, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_car.png)
-  static const IconData vuesax_car = IconData(0xea63, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
+  static const IconData vuesax_car =
+      IconData(0xea63, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_card_add_fill.png)
   static const IconData vuesax_card_add_fill =
@@ -27277,7 +27280,8 @@ class Amicons {
       IconData(0xea7a, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_card.png)
-  static const IconData vuesax_card = IconData(0xea7b, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
+  static const IconData vuesax_card =
+      IconData(0xea7b, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_cardano_ada_fill.png)
   static const IconData vuesax_cardano_ada_fill =
@@ -27316,7 +27320,8 @@ class Amicons {
       IconData(0xea84, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_cd.png)
-  static const IconData vuesax_cd = IconData(0xea85, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
+  static const IconData vuesax_cd =
+      IconData(0xea85, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_celo_celo_fill.png)
   static const IconData vuesax_celo_celo_fill =
@@ -27643,7 +27648,8 @@ class Amicons {
       IconData(0xead6, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_code.png)
-  static const IconData vuesax_code = IconData(0xead7, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
+  static const IconData vuesax_code =
+      IconData(0xead7, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_coffee_fill.png)
   static const IconData vuesax_coffee_fill =
@@ -27666,7 +27672,8 @@ class Amicons {
       IconData(0xeadc, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_coin.png)
-  static const IconData vuesax_coin = IconData(0xeadd, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
+  static const IconData vuesax_coin =
+      IconData(0xeadd, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_color_swatch_fill.png)
   static const IconData vuesax_color_swatch_fill =
@@ -27773,7 +27780,8 @@ class Amicons {
       IconData(0xeaf8, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_copy.png)
-  static const IconData vuesax_copy = IconData(0xeaf9, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
+  static const IconData vuesax_copy =
+      IconData(0xeaf9, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_copyright_fill.png)
   static const IconData vuesax_copyright_fill =
@@ -27812,7 +27820,8 @@ class Amicons {
       IconData(0xeb02, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_cpu.png)
-  static const IconData vuesax_cpu = IconData(0xeb03, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
+  static const IconData vuesax_cpu =
+      IconData(0xeb03, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_creative_commons_fill.png)
   static const IconData vuesax_creative_commons_fill =
@@ -27827,7 +27836,8 @@ class Amicons {
       IconData(0xeb06, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_crop.png)
-  static const IconData vuesax_crop = IconData(0xeb07, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
+  static const IconData vuesax_crop =
+      IconData(0xeb07, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_crown_1.png)
   static const IconData vuesax_crown_1 =
@@ -27850,7 +27860,8 @@ class Amicons {
       IconData(0xeb0c, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_cup.png)
-  static const IconData vuesax_cup = IconData(0xeb0d, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
+  static const IconData vuesax_cup =
+      IconData(0xeb0d, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_dai_dai_fill.png)
   static const IconData vuesax_dai_dai_fill =
@@ -27889,7 +27900,8 @@ class Amicons {
       IconData(0xeb21, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_data.png)
-  static const IconData vuesax_data = IconData(0xeb22, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
+  static const IconData vuesax_data =
+      IconData(0xeb22, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_decred_dcr_fill.png)
   static const IconData vuesax_decred_dcr_fill =
@@ -28308,7 +28320,8 @@ class Amicons {
       IconData(0xeb8c, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_edit.png)
-  static const IconData vuesax_edit = IconData(0xeb8d, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
+  static const IconData vuesax_edit =
+      IconData(0xeb8d, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_educare_ekt_fill.png)
   static const IconData vuesax_educare_ekt_fill =
@@ -28547,7 +28560,8 @@ class Amicons {
       IconData(0xebc8, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_eye.png)
-  static const IconData vuesax_eye = IconData(0xebc9, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
+  static const IconData vuesax_eye =
+      IconData(0xebc9, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_facebook_fill.png)
   static const IconData vuesax_facebook_fill =
@@ -28682,7 +28696,8 @@ class Amicons {
       IconData(0xebea, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_flag.png)
-  static const IconData vuesax_flag = IconData(0xebeb, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
+  static const IconData vuesax_flag =
+      IconData(0xebeb, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_flash_2.png)
   static const IconData vuesax_flash_2 =
@@ -29009,7 +29024,8 @@ class Amicons {
       IconData(0xec3c, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_game.png)
-  static const IconData vuesax_game = IconData(0xec3d, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
+  static const IconData vuesax_game =
+      IconData(0xec3d, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_gameboy_fill.png)
   static const IconData vuesax_gameboy_fill =
@@ -29056,7 +29072,8 @@ class Amicons {
       IconData(0xec48, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_gift.png)
-  static const IconData vuesax_gift = IconData(0xec49, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
+  static const IconData vuesax_gift =
+      IconData(0xec49, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_glass_2.png)
   static const IconData vuesax_glass_2 =
@@ -29143,7 +29160,8 @@ class Amicons {
       IconData(0xec5e, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_gps.png)
-  static const IconData vuesax_gps = IconData(0xec5f, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
+  static const IconData vuesax_gps =
+      IconData(0xec5f, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_grammerly_fill.png)
   static const IconData vuesax_grammerly_fill =
@@ -29510,7 +29528,8 @@ class Amicons {
       IconData(0xecbd, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_home.png)
-  static const IconData vuesax_home = IconData(0xecbe, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
+  static const IconData vuesax_home =
+      IconData(0xecbe, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_hospital_fill.png)
   static const IconData vuesax_hospital_fill =
@@ -29585,7 +29604,8 @@ class Amicons {
       IconData(0xecd0, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_icon.png)
-  static const IconData vuesax_icon = IconData(0xecd1, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
+  static const IconData vuesax_icon =
+      IconData(0xecd1, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_illustrator_fill.png)
   static const IconData vuesax_illustrator_fill =
@@ -29676,7 +29696,8 @@ class Amicons {
       IconData(0xece7, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_js.png)
-  static const IconData vuesax_js = IconData(0xece8, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
+  static const IconData vuesax_js =
+      IconData(0xece8, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_judge_fill.png)
   static const IconData vuesax_judge_fill =
@@ -29707,7 +29728,8 @@ class Amicons {
       IconData(0xecef, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_key.png)
-  static const IconData vuesax_key = IconData(0xecf0, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
+  static const IconData vuesax_key =
+      IconData(0xecf0, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_keyboard_fill.png)
   static const IconData vuesax_keyboard_fill =
@@ -29770,7 +29792,8 @@ class Amicons {
       IconData(0xecff, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_lamp.png)
-  static const IconData vuesax_lamp = IconData(0xed00, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
+  static const IconData vuesax_lamp =
+      IconData(0xed00, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_language_circle_fill.png)
   static const IconData vuesax_language_circle_fill =
@@ -29849,7 +29872,8 @@ class Amicons {
       IconData(0xed13, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_like.png)
-  static const IconData vuesax_like = IconData(0xed14, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
+  static const IconData vuesax_like =
+      IconData(0xed14, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_link_1.png)
   static const IconData vuesax_link_1 =
@@ -29896,7 +29920,8 @@ class Amicons {
       IconData(0xed1f, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_link.png)
-  static const IconData vuesax_link = IconData(0xed20, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
+  static const IconData vuesax_link =
+      IconData(0xed20, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_litecoinltc_fill.png)
   static const IconData vuesax_litecoinltc_fill =
@@ -29983,7 +30008,8 @@ class Amicons {
       IconData(0xed35, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_lock.png)
-  static const IconData vuesax_lock = IconData(0xed36, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
+  static const IconData vuesax_lock =
+      IconData(0xed36, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_login_1.png)
   static const IconData vuesax_login_1 =
@@ -30062,7 +30088,8 @@ class Amicons {
       IconData(0xed49, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_man.png)
-  static const IconData vuesax_man = IconData(0xed4a, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
+  static const IconData vuesax_man =
+      IconData(0xed4a, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_map_1.png)
   static const IconData vuesax_map_1 =
@@ -30077,7 +30104,8 @@ class Amicons {
       IconData(0xed4d, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_map.png)
-  static const IconData vuesax_map = IconData(0xed4e, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
+  static const IconData vuesax_map =
+      IconData(0xed4e, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_mask_1.png)
   static const IconData vuesax_mask_1 =
@@ -30100,14 +30128,16 @@ class Amicons {
       IconData(0xed53, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_mask.png)
-  static const IconData vuesax_mask = IconData(0xed54, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
+  static const IconData vuesax_mask =
+      IconData(0xed54, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_math_fill.png)
   static const IconData vuesax_math_fill =
       IconData(0xed55, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_math.png)
-  static const IconData vuesax_math = IconData(0xed56, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
+  static const IconData vuesax_math =
+      IconData(0xed56, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_maximize_1.png)
   static const IconData vuesax_maximize_1 =
@@ -30202,7 +30232,8 @@ class Amicons {
       IconData(0xed6d, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_menu.png)
-  static const IconData vuesax_menu = IconData(0xed6e, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
+  static const IconData vuesax_menu =
+      IconData(0xed6e, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_message_2_fill.png)
   static const IconData vuesax_message_2_fill =
@@ -30433,7 +30464,8 @@ class Amicons {
       IconData(0xeda7, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_milk.png)
-  static const IconData vuesax_milk = IconData(0xeda8, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
+  static const IconData vuesax_milk =
+      IconData(0xeda8, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_mini_music_sqaure_fill.png)
   static const IconData vuesax_mini_music_sqaure_fill =
@@ -30640,7 +30672,8 @@ class Amicons {
       IconData(0xeddd, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_moon.png)
-  static const IconData vuesax_moon = IconData(0xedde, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
+  static const IconData vuesax_moon =
+      IconData(0xedde, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_more_2_fill.png)
   static const IconData vuesax_more_2_fill =
@@ -30671,7 +30704,8 @@ class Amicons {
       IconData(0xede5, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_more.png)
-  static const IconData vuesax_more = IconData(0xede6, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
+  static const IconData vuesax_more =
+      IconData(0xede6, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_mouse_1.png)
   static const IconData vuesax_mouse_1 =
@@ -30830,7 +30864,8 @@ class Amicons {
       IconData(0xee0d, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_next.png)
-  static const IconData vuesax_next = IconData(0xee0e, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
+  static const IconData vuesax_next =
+      IconData(0xee0e, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_note_1.png)
   static const IconData vuesax_note_1 =
@@ -30901,7 +30936,8 @@ class Amicons {
       IconData(0xee1f, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_note.png)
-  static const IconData vuesax_note = IconData(0xee20, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
+  static const IconData vuesax_note =
+      IconData(0xee20, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_notification_1.png)
   static const IconData vuesax_notification_1 =
@@ -31040,7 +31076,8 @@ class Amicons {
       IconData(0xee42, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_path.png)
-  static const IconData vuesax_path = IconData(0xee43, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
+  static const IconData vuesax_path =
+      IconData(0xee43, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_pause_circle_fill.png)
   static const IconData vuesax_pause_circle_fill =
@@ -31143,7 +31180,8 @@ class Amicons {
       IconData(0xee5c, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_pet.png)
-  static const IconData vuesax_pet = IconData(0xee5d, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
+  static const IconData vuesax_pet =
+      IconData(0xee5d, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_pharagraphspacing_fill.png)
   static const IconData vuesax_pharagraphspacing_fill =
@@ -31206,7 +31244,8 @@ class Amicons {
       IconData(0xee6c, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_play.png)
-  static const IconData vuesax_play = IconData(0xee6d, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
+  static const IconData vuesax_play =
+      IconData(0xee6d, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_polkadot_dot_fill.png)
   static const IconData vuesax_polkadot_dot_fill =
@@ -31437,7 +31476,8 @@ class Amicons {
       IconData(0xeea6, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_ram.png)
-  static const IconData vuesax_ram = IconData(0xeea7, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
+  static const IconData vuesax_ram =
+      IconData(0xeea7, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_ranking_1.png)
   static const IconData vuesax_ranking_1 =
@@ -31612,7 +31652,8 @@ class Amicons {
       IconData(0xeed2, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_redo.png)
-  static const IconData vuesax_redo = IconData(0xeed3, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
+  static const IconData vuesax_redo =
+      IconData(0xeed3, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_refresh_2_fill.png)
   static const IconData vuesax_refresh_2_fill =
@@ -31903,10 +31944,12 @@ class Amicons {
       IconData(0xea16, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_bag.png)
-  static const IconData vuesax_bag = IconData(0xea17, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
+  static const IconData vuesax_bag =
+      IconData(0xea17, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_bank.png)
-  static const IconData vuesax_bank = IconData(0xea18, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
+  static const IconData vuesax_bank =
+      IconData(0xea18, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_barcode_fill.png)
   static const IconData vuesax_barcode_fill =
@@ -31961,7 +32004,8 @@ class Amicons {
       IconData(0xea25, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_be.png)
-  static const IconData vuesax_be = IconData(0xea26, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
+  static const IconData vuesax_be =
+      IconData(0xea26, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_bezier_fill.png)
   static const IconData vuesax_bezier_fill =
@@ -31976,7 +32020,8 @@ class Amicons {
       IconData(0xea29, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_bill.png)
-  static const IconData vuesax_bill = IconData(0xea2a, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
+  static const IconData vuesax_bill =
+      IconData(0xea2a, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_binance_coin_bnb_fill.png)
   static const IconData vuesax_binance_coin_bnb_fill =
@@ -32239,7 +32284,8 @@ class Amicons {
       IconData(0xef0e, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_scan.png)
-  static const IconData vuesax_scan = IconData(0xef0f, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
+  static const IconData vuesax_scan =
+      IconData(0xef0f, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_scanner_fill.png)
   static const IconData vuesax_scanner_fill =
@@ -32446,7 +32492,8 @@ class Amicons {
       IconData(0xef42, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_send.png)
-  static const IconData vuesax_send = IconData(0xef43, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
+  static const IconData vuesax_send =
+      IconData(0xef43, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_setting_2_fill.png)
   static const IconData vuesax_setting_2_fill =
@@ -32565,7 +32612,8 @@ class Amicons {
       IconData(0xef60, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_ship.png)
-  static const IconData vuesax_ship = IconData(0xef61, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
+  static const IconData vuesax_ship =
+      IconData(0xef61, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_shop_add_fill.png)
   static const IconData vuesax_shop_add_fill =
@@ -32588,7 +32636,8 @@ class Amicons {
       IconData(0xef66, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_shop.png)
-  static const IconData vuesax_shop = IconData(0xef67, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
+  static const IconData vuesax_shop =
+      IconData(0xef67, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_shopping_bag_fill.png)
   static const IconData vuesax_shopping_bag_fill =
@@ -32691,7 +32740,8 @@ class Amicons {
       IconData(0xef80, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_size.png)
-  static const IconData vuesax_size = IconData(0xef81, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
+  static const IconData vuesax_size =
+      IconData(0xef81, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_slack_fill.png)
   static const IconData vuesax_slack_fill =
@@ -32826,7 +32876,8 @@ class Amicons {
       IconData(0xefa2, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_sms.png)
-  static const IconData vuesax_sms = IconData(0xefa3, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
+  static const IconData vuesax_sms =
+      IconData(0xefa3, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_snapchat_fill.png)
   static const IconData vuesax_snapchat_fill =
@@ -32849,7 +32900,8 @@ class Amicons {
       IconData(0xefa8, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_sort.png)
-  static const IconData vuesax_sort = IconData(0xefa9, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
+  static const IconData vuesax_sort =
+      IconData(0xefa9, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_sound_fill.png)
   static const IconData vuesax_sound_fill =
@@ -32912,7 +32964,8 @@ class Amicons {
       IconData(0xefb8, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_star.png)
-  static const IconData vuesax_star = IconData(0xefb9, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
+  static const IconData vuesax_star =
+      IconData(0xefb9, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_status_fill.png)
   static const IconData vuesax_status_fill =
@@ -32967,7 +33020,8 @@ class Amicons {
       IconData(0xefc6, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_stop.png)
-  static const IconData vuesax_stop = IconData(0xefc7, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
+  static const IconData vuesax_stop =
+      IconData(0xefc7, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_story_fill.png)
   static const IconData vuesax_story_fill =
@@ -33022,7 +33076,8 @@ class Amicons {
       IconData(0xefd4, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_sun.png)
-  static const IconData vuesax_sun = IconData(0xefd5, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
+  static const IconData vuesax_sun =
+      IconData(0xefd5, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_tag_2_fill.png)
   static const IconData vuesax_tag_2_fill =
@@ -33061,7 +33116,8 @@ class Amicons {
       IconData(0xefde, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_tag.png)
-  static const IconData vuesax_tag = IconData(0xefdf, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
+  static const IconData vuesax_tag =
+      IconData(0xefdf, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_task_fill.png)
   static const IconData vuesax_task_fill =
@@ -33076,7 +33132,8 @@ class Amicons {
       IconData(0xefe2, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_task.png)
-  static const IconData vuesax_task = IconData(0xefe3, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
+  static const IconData vuesax_task =
+      IconData(0xefe3, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_teacher_fill.png)
   static const IconData vuesax_teacher_fill =
@@ -33139,7 +33196,8 @@ class Amicons {
       IconData(0xeff2, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_text.png)
-  static const IconData vuesax_text = IconData(0xeff3, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
+  static const IconData vuesax_text =
+      IconData(0xeff3, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_textalign_center_fill.png)
   static const IconData vuesax_textalign_center_fill =
@@ -33370,7 +33428,8 @@ class Amicons {
       IconData(0xf02c, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_tree.png)
-  static const IconData vuesax_tree = IconData(0xf02d, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
+  static const IconData vuesax_tree =
+      IconData(0xf02d, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_trello_fill.png)
   static const IconData vuesax_trello_fill =
@@ -33481,14 +33540,16 @@ class Amicons {
       IconData(0xf048, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_ui_8.png)
-  static const IconData vuesax_ui_8 = IconData(0xf049, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
+  static const IconData vuesax_ui_8 =
+      IconData(0xf049, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_undo_fill.png)
   static const IconData vuesax_undo_fill =
       IconData(0xf04a, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_undo.png)
-  static const IconData vuesax_undo = IconData(0xf04b, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
+  static const IconData vuesax_undo =
+      IconData(0xf04b, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_unlimited_fill.png)
   static const IconData vuesax_unlimited_fill =
@@ -33595,7 +33656,8 @@ class Amicons {
       IconData(0xf066, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_user.png)
-  static const IconData vuesax_user = IconData(0xf067, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
+  static const IconData vuesax_user =
+      IconData(0xf067, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_velas_vlx_fill.png)
   static const IconData vuesax_velas_vlx_fill =
@@ -33962,7 +34024,8 @@ class Amicons {
       IconData(0xf0c5, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_wifi.png)
-  static const IconData vuesax_wifi = IconData(0xf0c6, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
+  static const IconData vuesax_wifi =
+      IconData(0xf0c6, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_wind_2_fill.png)
   static const IconData vuesax_wind_2_fill =
@@ -33977,7 +34040,8 @@ class Amicons {
       IconData(0xf0c9, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_wind.png)
-  static const IconData vuesax_wind = IconData(0xf0ca, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
+  static const IconData vuesax_wind =
+      IconData(0xf0ca, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_windows_fill.png)
   static const IconData vuesax_windows_fill =
@@ -34008,7 +34072,8 @@ class Amicons {
       IconData(0xf0d1, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_xd.png)
-  static const IconData vuesax_xd = IconData(0xf0d2, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
+  static const IconData vuesax_xd =
+      IconData(0xf0d2, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_xiaomi_fill.png)
   static const IconData vuesax_xiaomi_fill =
@@ -34023,7 +34088,8 @@ class Amicons {
       IconData(0xf0d5, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_xrp.png)
-  static const IconData vuesax_xrp = IconData(0xf0d6, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
+  static const IconData vuesax_xrp =
+      IconData(0xf0d6, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_youtube_fill.png)
   static const IconData vuesax_youtube_fill =
@@ -34038,13 +34104,14 @@ class Amicons {
       IconData(0xf0d9, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_zel.png)
-  static const IconData vuesax_zel = IconData(0xf0da, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
+  static const IconData vuesax_zel =
+      IconData(0xf0da, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_zoom_fill.png)
   static const IconData vuesax_zoom_fill =
       IconData(0xf0db, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 
   /// ![](https://raw.githubusercontent.com/AyushMaji/amicons-resource/refs/heads/main/vuesax/vuesax_png/vuesax_zoom.png)
-  static const IconData vuesax_zoom = IconData(0xf0dc, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
-
+  static const IconData vuesax_zoom =
+      IconData(0xf0dc, fontFamily: _vuesaxfontFamily, fontPackage: _fontPkg);
 }
