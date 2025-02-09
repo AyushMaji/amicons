@@ -1,3 +1,6 @@
+## 1.0.1
+* Updated documentation.
+
 ## 1.0.0
 * Improved performance and optimized package size.
 * Updated documentation.
